@@ -1,0 +1,22 @@
+{
+"compliant": [
+{
+"section": "本網站使用 Cookie 來提供、保護和改進我們的產品與服務，例如透過個人化內容、瞭解使用者行為以及提供更安全的體驗。",
+"article numbers": "6(1)(f), 12(1), 13(1)(c)",
+"legal provisions": "合法性、資訊透明度、目的限制原則"
+},
+{
+"section": "這樣可以幫助我們將您的網站瀏覽體驗個人化，進而改善本網站的用戶體驗。",
+"article numbers": "5(1)(a), 12(1), 13(1)(c)",
+"legal provisions": "合法性、資訊透明度、目的限制原則"
+}
+],
+"non_compliant": [
+{
+"section": "本網站使用 Cookie",
+"article numbers": "4(11), 7(4), 32(1)",
+"legal provisions": "Cookie 的定義、同意、安全性",
+"amend": "明確說明使用的 Cookie 類型、目的和儲存期限。明確說明使用者如何撤銷同意。說明為確保 Cookie 安全性而採取的技術和組織措施。"
+}
+]
+}

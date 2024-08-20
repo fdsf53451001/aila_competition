@@ -1,0 +1,22 @@
+{
+"compliant": [
+{
+"section": "回應您的詢問或請求，例如提供產品型錄、回覆您提交的問題等，此類資料處理之法律依據為您的同意",
+"article numbers": "6(1)(a)",
+"legal provisions": "Consent of the data subject"
+},
+{
+"section": "處理您的求職資料，此類資料處理之法律依據為您的同意",
+"article numbers": "6(1)(a)",
+"legal provisions": "Consent of the data subject"
+}
+],
+"non_compliant": [
+{
+"section": "幫助本公司維護和提昇本公司網站及其服務的品質，此類資料處理之法律依據為本公司為了改善網站及服務之正當利益",
+"article numbers": "6(1)(f)",
+"legal provisions": "Legitimate interests",
+"amend": "While legitimate interest can be a legal basis for processing data, it needs to be balanced against the rights and freedoms of individuals. The policy should clearly explain what the legitimate interests are and why they are compelling enough to justify processing personal data. It should also explain how the company's interests are balanced against the rights of individuals."
+}
+]
+}

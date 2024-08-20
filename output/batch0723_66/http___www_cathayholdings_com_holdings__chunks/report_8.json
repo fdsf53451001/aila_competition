@@ -1,0 +1,38 @@
+{
+"compliant": [
+{
+"section": "本公司非常重視您個人資料的安全性並善盡保護責任，故採取下述保護措施：",
+"article numbers": "5, 24",
+"legal provisions": "Principles of data processing, specifically integrity and confidentiality; Responsibility of the controller for demonstrating compliance."
+},
+{
+"section": "本公司採行資料使用權限控管，只有經過授權之人員，才能在必要之範圍內，使用您的資料，以避免洩露您的資料。相關人員皆負有保密義務，如有違反者，將受到相關處分。",
+"article numbers": "5, 29, 32",
+"legal provisions": "Principles of data processing, specifically data minimisation and purpose limitation; Security of processing."
+},
+{
+"section": "本網站以SSL（Secure Socket Layer）加密技術來保護您所提供資訊的安全，避免在傳輸時被第三人截取。",
+"article numbers": "32",
+"legal provisions": "Security of processing."
+},
+{
+"section": "本公司致力於提供安全的資訊環境【包括但不限於建立防火牆、入侵偵測防護系統、防毒機制、加密技術、使用者辨識系統（例如密碼及個人帳號）及存取控制機制等】，以控制個人資料之存取。另本公司亦建置實體上之安全措施，如門禁管制、保全系統等，並建有備援機制，以因應緊急事件或災害發生時仍能保存您的資料。",
+"article numbers": "5, 32",
+"legal provisions": "Principles of data processing, specifically integrity and confidentiality; Security of processing."
+}
+],
+"non_compliant": [
+{
+"section": "本公司落實資料蒐集、處理及利用管理程序，確保相關業務符合法令之要求及例外適用情形，如：本公司依據「個人資料檔案安全維護計畫暨業務終止後個人資料處理方法」，與個人資料保護之法定告知事項所列蒐集、處理、利用個人資料之目的，及個人資料利用之對象，於適當、相關及不過度之前提，以最小化原則辦理，並維持資料之正確性與即時更新。",
+"article numbers": "6, 12-14, 15-22, 30",
+"legal provisions": "Lawfulness of processing; Transparency and information; Access by the data subject; Right to rectification; Right to erasure ('right to be forgotten'); Right to restriction of processing; Right to data portability; Right to object; Automated individual decision-making, including profiling; Information to be provided where personal data are collected from the data subject.",
+"amend": "This section needs to be more specific about the legal basis for data processing (Article 6), the data subject's rights (Articles 12-22), and the information provided to data subjects (Article 13). It should clearly state: \n- The specific legal basis for each processing activity.\n- How individuals can exercise their rights (e.g., access, rectification, erasure).\n- What information is provided to individuals at the time of data collection."
+},
+{
+"section": "本公司透過內控內稽機制，及外部個資相關認證機制，確保妥善保護您的個人資料。",
+"article numbers": "42, 43",
+"legal provisions": "Certification; Adherence to approved codes of conduct and approved certification mechanisms.",
+"amend": "While internal controls and external certifications are good practices, the policy should also mention compliance with data protection impact assessments (Article 35) where applicable, especially if processing involves new technologies or poses high risks to individuals' rights and freedoms."
+}
+]
+}

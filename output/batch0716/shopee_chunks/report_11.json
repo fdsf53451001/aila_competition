@@ -1,0 +1,17 @@
+{
+"compliant": [
+{
+"section": "6.2  您知悉並同意若依法律要求、或根據法院命令、或對Shopee有管轄權之任何政府或主管機關之要求、或基於善意及誠信原則認有合理之必要性時，Shopee得存取、保存及揭露您的帳戶資訊和內容，以：(a) 遵守法律程序；(b) 執行對Shopee有管轄權之任何主管機關之要求；(c) 履行Shopee服務條款或本隱私權政策；(d) 回應任何實際或可能對Shopee不利之主張或其他本平台內容侵害第三方權利之主張；(d) 回應您的客戶服務請求；或者 (e) 保護Shopee、其使用者及/或公眾之權利、財產或人身安全。",
+"article numbers": "6(1)(c), 6(1)(f)",
+"legal provisions": "Compliance with legal obligations, Legitimate interests"
+}
+],
+"non_compliant": [
+{
+"section": "以上目的，屬於法務部頒佈之「個人資料保護法之特定目的及個人資料之類別」之下列目的：\n040 行銷\n063 非公務機關依法定義務所進行個人資料之蒐集處理及利用\n067 信用卡、現金卡、轉帳卡或電子票證業務\n069 契約、類似契約或其他法律關係事務\n077 訂位、住宿登記與購票業務\n090 消費者、客戶管理與服務\n091 消費者保護\n095 財稅行政、調查、統計與研究分析\n098 商業與技術資訊\n107 採購與供應管理\n111 票券業務\n118 智慧財產權、光碟管理及其他相關行政\n125 傳播行政與管理\n127 募款 (包含公益勸募)\n129 會計與相關服務\n132 經營傳播業務\n135 資(通)訊服務\n136 資(通)訊與資料庫管理\n148 網路購物及其他電子商務服務\n152 廣告或商業行為管理\n157 調查、統計與研究分析\n173 其他公務機關對目的事業之監督管理\n179 其他財政服務及配合財政部電子發票整合服務\n181 其他經營合於營業登記項目或組織章程所定之業務",
+"article numbers": "5(1)",
+"legal provisions": "Purpose Limitation",
+"amend": "This section lists a broad range of purposes for data processing. Under GDPR, data processing must be limited to specified, explicit, and legitimate purposes. The listed purposes are too broad and some may not be considered legitimate under GDPR.  Shopee should revise this section to include only specific, necessary, and legitimate purposes for data processing and provide clear explanations for each."
+}
+]
+}

@@ -1,0 +1,34 @@
+{
+"compliant": [
+{
+"section": "Airoha may at any time revise the terms and conditions of this Legal Notice by updating this posting . You agree that Airoha, in its sole discretion, may terminate or restrict your use or access to this Website (or any part thereof) for any reason, including, without limitation, that Airoha believes you have violated or acted inconsistently with the letter or spirit of the terms and conditions of this Legal Notice .",
+"article numbers": "Articles 13-14",
+"legal provisions": "Transparency and information to be provided"
+},
+{
+"section": "Copyrights of all the content and materials published on this Website, protected in Taiwan and internationally by a variety of laws (including but not limited to, copyright laws and treaty provisions, trademark laws, patent laws, and other proprietary rights laws), belong to Airoha . Nothing herein shall be construed as granting any license or right to use any content or materials except as expressly provided herein .",
+"article numbers": "Article 13",
+"legal provisions": "Information to be provided where personal data are collected from the data subject"
+}
+],
+"non_compliant": [
+{
+"section": "This Website and all the information and material contained on this Website, including, without limitation, any and all information, communications, scripting, photos, text, data, video, graphics, images, demo programs, design description, software, other materials and services, are provided solely for your informational, personal, non-commercial and lawful use and subject to the terms and conditions contained in this Legal Notice .",
+"article numbers": "Article 5",
+"legal provisions": "Principles relating to processing of personal data",
+"amend": "This section should specify that any data collected will be adequate, relevant and limited to what is necessary in relation to the purposes for which they are processed ('data minimisation')."
+},
+{
+"section": "THE INFORMATION PROVIDED ON THIS WEBSITE IS PROVIDED \"AS IS\" WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR ANY PARTICULAR PURPOSE, NON INFRINGEMENT, FREE FROM COMPUTER VIRUS OR HACKING BY THIRD PARTIES, AND WARRANTIES ARISING FROM COURSE OF DEALING OR COURSE OF PERFORMANCE .",
+"article numbers": "Article 5",
+"legal provisions": "Principles relating to processing of personal data",
+"amend": "While disclaimers of warranty are common, this section does not explicitly address the security of processing and the safeguarding of personal data, as required by GDPR."
+},
+{
+"section": "ANY MATERIAL DOWNLOADED OR OTHERWISE OBTAINED THROUGH THE USE OF THE WEBSITE IS DONE AT YOUR OWN DISCRETION AND RISK AND YOU ARE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR COMPUTER SYSTEM OR LOSS OF DATA THAT RESULTS FROM THE DOWNLOAD OF ANY SUCH MATERIAL, OR USE OF THIS WEBSITE .",
+"article numbers": "Article 5",
+"legal provisions": "Principles relating to processing of personal data",
+"amend": "This section should include information about the data subject's rights, particularly the right to access, rectification, erasure, restriction of processing, and data portability."
+}
+]
+}

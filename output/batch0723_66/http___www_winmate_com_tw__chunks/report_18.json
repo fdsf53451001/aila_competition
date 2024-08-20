@@ -1,0 +1,28 @@
+{
+"compliant": [
+{
+"section": "我們使用cookie來增強我們網站上提供的服務和功能、改善您的使用者體驗並衡量我們行銷工作的有效性。點擊「同意」即表示您同意我們使用Cookie和我們的隱私權政策。您也可以點擊「僅接受必要」以僅允許必要的Cookie，例如用於安全登入、調整您的同意偏好以及YouTube Cookie整合的Cookie。",
+"article numbers": "7(1), 12(1)",
+"legal provisions": "要求明確、自由、具體且知情的同意。使用者必須能夠輕易撤回同意。"
+},
+{
+"section": "如果您不接受任何cookie，請點擊「不同意」，但請注意，這可能會影響您的瀏覽體驗。",
+"article numbers": "7(4)",
+"legal provisions": "拒絕同意不得妨礙使用者使用服務。"
+}
+],
+"non_compliant": [
+{
+"section": "隱私權政策",
+"article numbers": "12(1), 13, 14",
+"legal provisions": "隱私權政策應以簡潔、透明、易於理解和易於取得的方式提供。它應該包含有關資料控制器的資訊、處理目的、資料主體的權利以及其他必要資訊。",
+"amend": "提供更詳細的隱私權政策，說明資料收集和處理的特定目的、資料保留期限、資料傳輸、資料主體的權利以及如何行使這些權利。"
+},
+{
+"section": "Copyright © 1996-2024 Winmate Inc. All Rights Reserved.",
+"article numbers": "N/A",
+"legal provisions": "雖然版權聲明本身與 GDPR 無關，但重要的是要確保網站上的所有內容（包括翻譯）都符合 GDPR 並且是最新的。",
+"amend": "審查網站內容，確保其符合 GDPR 的最新要求。"
+}
+]
+}

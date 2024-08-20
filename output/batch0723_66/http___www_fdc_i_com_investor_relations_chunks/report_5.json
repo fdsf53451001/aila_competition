@@ -1,0 +1,42 @@
+{
+"compliant": [
+{
+"section": "用戶之個人資料，將在必要情形下，依法傳達給第三方單位使用及蒐集（例如：衛生單位、財務行政單位）",
+"article numbers": "6(1)(c), 6(3)",
+"legal provisions": "Processing is lawful if it is necessary for compliance with a legal obligation to which the controller is subject; Processing is lawful if it is based on a legal obligation."
+},
+{
+"section": "接近使用權（第15條）：用戶有權取得其被蒐集、處理之個人資料，並有權向監督機關投訴。",
+"article numbers": "15, 77",
+"legal provisions": "Right of access by the data subject; Right to lodge a complaint with a supervisory authority"
+},
+{
+"section": "更正權（第16條）：用戶有修改或刪除其個人資料之權利。",
+"article numbers": "16",
+"legal provisions": "Right to rectification"
+},
+{
+"section": "刪除權（「被遺忘權」）（第17條）：當資料之保存違反本規則、歐盟法或會員國法時，應有刪除權，即於該個人資料就資料蒐集或處理之目的已無必要時；已拒絕其個人資料之處理時；或已撤回其同意時；或於其個人資料處理違反本規則時，用戶應有請求不再處理其個人資料之權利。",
+"article numbers": "17",
+"legal provisions": "Right to erasure ('right to be forgotten')"
+},
+{
+"section": "限制處理權（第18條）：用戶應有權限制資料控管者對其個人資料之處理。",
+"article numbers": "18",
+"legal provisions": "Right to restriction of processing"
+},
+{
+"section": "關於更正或刪除個人資料或限制處理之通知義務（第19條）：除經證明不可能為通知，或通知須花費過鉅之勞費者外，資料控管者應就第16 條、第17 條第1 項及第18 條所定之任何更正或刪除個人資料或限制處理向個人資料受揭露之各接收者為通知。",
+"article numbers": "19",
+"legal provisions": "Notification obligation regarding rectification or erasure of personal data or restriction of processing"
+}
+],
+"non_compliant": [
+{
+"section": "用戶資料可以傳達給總部或伺服器設於歐盟境內之供應商及合作夥伴。惟因LDC Italian Hotels係台灣雲朗觀集團之轉投資公司，用戶資料將有可能被傳達至歐盟境外。 基於上述原因，雲品國際所蒐集之用戶資料適用於雲品國際及其關係企業，包括所管理及授權的所有酒店品牌，以達改善用戶服務之目的。",
+"article numbers": "44, 45, 46, 49",
+"legal provisions": "Data transfers outside the EU require appropriate safeguards such as standard contractual clauses, binding corporate rules, or an adequacy decision. The policy does not specify what safeguards are in place for data transfers to Taiwan.",
+"amend": "Specify the safeguards used for data transfers to Taiwan, such as standard contractual clauses, binding corporate rules, or an adequacy decision.  Clearly state the purpose of data sharing with related entities and ensure it is limited to what is necessary for the specified purpose."
+}
+]
+}

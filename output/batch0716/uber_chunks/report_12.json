@@ -1,0 +1,40 @@
+{
+"compliant": [
+{
+"section": "我們也會運用物件驗證技術，透過自拍來驗證使用者是否配戴安全帽或其他安全裝備。我們可使用合作外送夥伴裝置上的資料，驗證合作外送夥伴提供外送服務所使用的車輛類型。",
+"article numbers": "6(1)(f), 12(1), 13(1)(d), 14(2)(g)",
+"legal provisions": "Data processing based on legitimate interests - Ensuring safety and security of services. Transparency and information requirements for data subjects."
+},
+{
+"section": "使用位置、電話號碼、使用者名稱、車輛詳細資訊和其他相關資訊，在行程或外送期間提供安全專家的即時支援。",
+"article numbers": "6(1)(f), 12(1), 13(1)(d), 14(2)(g)",
+"legal provisions": "Data processing based on legitimate interests - Ensuring safety and security of users during rides or deliveries. Transparency and information requirements for data subjects."
+}
+],
+"non_compliant": [
+{
+"section": "使用客服資訊 (包括安全事故報告)、裝置資料 (例如偵測超速或緊急剎車/加速)、交易和使用資料，識別潛在不安全的職業駕駛和駕駛行為。這可能會導致職業駕駛與合作外送夥伴收到鼓勵安全駕駛的訊息，和/或在人工審核後停用帳戶。",
+"article numbers": "6(1), 9(1), 10, 22",
+"legal provisions": "Lawfulness of processing, especially regarding sensitive data like driving behavior and potential penalties. Automated individual decision-making, including profiling.",
+"amend": "This section requires a more specific legal basis for processing sensitive data related to driving behavior. It should clearly state the purpose and safeguards for automated decision-making, ensuring fairness and the right to human review."
+},
+{
+"section": "使用帳戶、裝置、位置、使用情況、交易、無線配送員/車行和其他資料 (包括使用者與中繼資料之間的通訊) 來預防、偵測並打擊詐騙 (包括訪客使用者之詐騙)。",
+"article numbers": "6(1)(f), 13(1)(d), 14(2)(g)",
+"legal provisions": "Data processing based on legitimate interests - Preventing fraud. However, processing communication content (metadata) requires additional justification and safeguards.",
+"amend": "While preventing fraud is a legitimate interest, processing communication content requires a stronger legal basis, such as consent or legal obligation. The policy should specify the types of metadata collected and the safeguards in place."
+},
+{
+"section": "使用回報的事件、使用者評分* 和其他意見回饋，鼓勵使用者安全使用 Uber 平台且遵守我們的條款，並以此為由停用評分較低的使用者。",
+"article numbers": "6(1), 12(1), 22",
+"legal provisions": "Lawfulness of processing for account suspension based on user ratings. Transparency and information requirements for data subjects. Automated individual decision-making.",
+"amend": "The policy should clarify the specific criteria and thresholds for account suspension based on user ratings. It should also provide users with clear information about the process and their rights, including the right to contest decisions."
+},
+{
+"section": "使用職業駕駛資料 (例如，過去的行程資訊和回報事故率) 和乘客資料 (例如，帳戶資訊、取消和回報事故率、目前的上下車地點、過去的行程資訊和評分資訊)，預測並協助避免因配對使用者而可能導致衝突風險增加。* 我們也避免例如某位使用者先前曾給予另一位使用者 1 星評分的配對。",
+"article numbers": "6(1), 22",
+"legal provisions": "Lawfulness of processing for profiling and predicting potential conflicts. Automated individual decision-making.",
+"amend": "This section raises concerns about profiling and potential discrimination. The policy should explain the specific methodology and factors used for predicting conflicts, ensuring fairness and non-discrimination. Users should be informed about the profiling and have the right to object."
+}
+]
+}

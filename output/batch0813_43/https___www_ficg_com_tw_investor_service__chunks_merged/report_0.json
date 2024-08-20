@@ -1,0 +1,43 @@
+{
+"compliant": [
+{
+"section": "本公司搜集、處理及利用您的個人資料是依據臺灣的個人資料保護法（簡稱“臺灣的PIPA”）相關規定。若您是從EEA（歐洲經濟區）來訪問本網站的使用者，根據歐盟自2018年5月25日起生效實行之第2016/679號通用資料保護規則（簡稱“GDPR”），本公司是資料控制者。您可以隨時透過電子郵件 globalmkt@fic.com.tw（簡稱“聯繫郵箱”）與本公司聯繫。",
+"article numbers": "13, 14",
+"legal provisions": "Information to be provided where personal data are collected from the data subject"
+},
+{
+"section": "本公司將採取適當的技術及程式措施來保護您的個人資料與個人資料檔案，以避免被濫用、遺失、竊盜、變造、損壞、破壞或未經授權被揭露，包括以下內容a. 登入您的帳戶須由您獨有的用戶名或電子郵件以及密碼進行控制，並且b.您的個人資料儲存在安全伺服器上。 如果您懷疑有任何被濫用、遺失、竊盜、變造、損壞、破壞、未經授權之訪問或揭露您的個人資料之情事時，請立即透過本公司聯繫郵箱通知本公司。",
+"article numbers": "5, 32",
+"legal provisions": "Security of processing, Security of personal data"
+},
+{
+"section": "除非本公司為履行更長期間之法定義務或被法律要求或允許外，若當初搜集您個人資料之主要及次要目的均已不存在時，本公司將停止使用或處理，並採取合理措施刪除或銷毀您的個人資料。於任何時候，若您希望本公司刪除本公司所持有的您的個人資料，請透過本公司之聯繫郵箱通知本公司。請注意，在本公司刪除您的個人資料後，基於法律，稅務或監管目的，您的個人資料可能會於被保存於備份或存檔伺服器或媒體上。",
+"article numbers": "5, 17, 23",
+"legal provisions": "Principles relating to processing of personal data, Right to erasure ('right to be forgotten'), Restrictions"
+},
+{
+"section": "就您的個人資料，您有權行使以下權利：\n任何查詢及請求閱覽您的個人資料以及對您的個人資料進行任何制給複製本之請求，包括有權隨時請求本公司制給所持有關於您的個人資料之複製本（統稱為“接觸權”）；\n任何補充或更正您的個人資料之請求，包括若您的個人資料不準確或不完整時有權改正您的個人資料之權利（統稱為“改正權”）；\n任何中止搜集、處理或利用您的個人資料之請求，包括限制本公司利用您的個人資料之權利或方式（統稱為“本公司利用之限制權”）；\n任何刪除個人資料之請求，包括要求本公司刪除、抹去或移除您的個人資料之權利（統稱“刪除權”或稱為“被遺忘權”）；\n任何要求本公司移動、複製或傳輸您的個人資料之請求（“資訊可攜權”）；\n反對本公司利用您的個人資料之權利（“反對權”），包括本公司將其用於本公司合法利益之情況。",
+"article numbers": "12-23",
+"legal provisions": "Chapter III: Rights of the data subject"
+},
+{
+"section": "本公司搜集您的個人資料的主要目的為a. 提供本公司之服務；b.提供給您或您的組織要求本公司提供之產品或其他資訊；c. 向本公司客戶提供服務或資訊；d通知您有關本公司服務之變更及更新；和e.行銷等用途。本公司亦可能將您的個人資料用於與主要用途密切相關的次要目的，例如，本公司將利用您的個人資料，尤其是本公司從“cookies”所搜集之資料，改進或完善本公司之網站及內部營運。",
+"article numbers": "5, 6",
+"legal provisions": "Principles relating to processing of personal data, Lawfulness of processing"
+}
+],
+"non_compliant": [
+{
+"section": "本網站可能包含其他網站的連結。然而，本公司無法控制其他網站。本隱私政策並不適用於或延伸到您使用此類之其他網站。",
+"article numbers": "N/A",
+"legal provisions": "N/A",
+"amend": "While not a GDPR violation, it's good practice to inform users about the implications of clicking external links and that this privacy policy no longer applies."
+},
+{
+"section": "本公司可能與本公司之關聯公司分享您的個人資料，以便為您提供本公司之服務。 本公司可能會與本公司之服務供應商(即本公司之授權承包商)共用您的個人資料，以提供本公司服務給您(例如，本公司授權服務供應商協助處理退還商品授權（RMA）或其他技術上的支援請求)抑或本公司之分析服務供應商，協助本公司改進或改善本網站及內部營運。於本公司依法有義務揭露您的個人資料以遵守任何法律或監管義務時，抑或於本公司或本公司部分營業全部或部分由協力廠商並購取得時，本公司亦可能會將您的個人資料揭露予協力廠商。",
+"article numbers": "13, 14",
+"legal provisions": "Information to be provided where personal data are collected from the data subject",
+"amend": "This section needs to be more specific about the categories of recipients of the personal data. It should clearly state who the affiliated companies, service providers, and analytics providers are, or at least provide categories for them. For example, instead of '本公司之關聯公司', it should be 'our affiliated companies in the [industry] sector'."
+}
+]
+}

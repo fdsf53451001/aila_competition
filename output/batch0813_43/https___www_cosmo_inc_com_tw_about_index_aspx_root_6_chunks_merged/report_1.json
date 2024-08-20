@@ -1,0 +1,39 @@
+{
+"compliant": [
+{
+"section": "我們可能會隨時要求您提供您的個人資料。我們也可能會在符合本隱私權政策下與其他第三人分享及使用您的個人資料。",
+"article numbers": "13, 14",
+"legal provisions": "Information to be provided where personal data are collected from the data subject"
+},
+{
+"section": "我們可能需要自您取得之個人資料是指任何可以用來識別您的身分或是聯絡您的資料，包含但不限於您的姓名、電話、傳真號碼、電子郵件及其他個人識別資料及聯絡偏好。",
+"article numbers": "4(1)",
+"legal provisions": "Definition of \"personal data\""
+},
+{
+"section": "任何您自願提供給我們的所有資料均僅能按本隱私權政策之規定使用之。",
+"article numbers": "5(1)(b)",
+"legal provisions": "Principles relating to processing of personal data - purpose limitation"
+}
+],
+"non_compliant": [
+{
+"section": "我們也可能會將您的個人資料與其他資訊結合來改善我們的產品、服務、內容及廣告。",
+"article numbers": "5(1)(b), 6(4)",
+"legal provisions": "Purpose limitation, compatibility",
+"amend": "Specify the specific purposes for combining data and ensure they are compatible with the initial purpose of collection. Obtain explicit consent if combining data for purposes incompatible with the original purpose."
+},
+{
+"section": "當您使用我們的服務或是拜訪本網站時，我們的伺服器將會自動蒐集您關於我們的服務或網站的使用或活動資料，包含但不限於您的作業系統、網際網路通訊協定 (IP) 位址、存取時間、瀏覽器類型與語言及您在瀏覽本網站之前所瀏覽的網站。",
+"article numbers": "5(1)(a), 12(1), 13(1)(c,d)",
+"legal provisions": "Lawfulness of processing, transparent information, communication and modalities for the exercise of the rights of the data subject",
+"amend": "Provide a legal basis for collecting browsing data (e.g., legitimate interest or consent). Be more specific about the types of data collected for analytical purposes. Explain how users can exercise their rights regarding this data."
+},
+{
+"section": "我們可能會在符合本隱私權政策下與其他第三人分享及使用您的個人資料。",
+"article numbers": "13, 14",
+"legal provisions": "Information to be provided where personal data are transferred to a third country or to an international organisation",
+"amend": "Specify the types of third parties data is shared with, the purpose of sharing, and safeguards for international transfers."
+}
+]
+}

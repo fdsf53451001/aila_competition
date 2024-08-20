@@ -1,0 +1,7 @@
+These measures take into account:
+the state of the art of the technology;
+the costs of its implementation;
+the nature of the Information; and
+the risk of the processing.
+The purpose thereof is to protect against accidental or unlawful destruction or alteration, accidental loss, unauthorized disclosure or access and against other unlawful forms of processing.
+We conduct internal reviews of our information collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store your Information (whether you are on-line or off-line).

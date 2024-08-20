@@ -1,0 +1,27 @@
+{
+"compliant": [
+{
+"section": "If you have further inquiries about Information NUVOTON collect about you, such as access, correction, block or deletion your Information, kindly contact us.",
+"article numbers": "12, 15, 16, 17, 18, 19, 20, 21",
+"legal provisions": "Right of access, Right to rectification, Right to erasure ('right to be forgotten'), Right to restriction of processing, Right to data portability, Right to object, Automated individual decision-making, including profiling"
+},
+{
+"section": "Exercising your rights\nIf you wish to exercise any of the above rights, please contact us.",
+"article numbers": "12, 15, 16, 17, 18, 19, 20, 21",
+"legal provisions": "Right of access, Right to rectification, Right to erasure ('right to be forgotten'), Right to restriction of processing, Right to data portability, Right to object, Automated individual decision-making, including profiling"
+},
+{
+"section": "Complaints\nIf you are not satisfied with how we process your Personal Information, you may contact us or alternatively you may file a complaint with the competent supervisory authority, in addition to your rights outlined above.",
+"article numbers": "77",
+"legal provisions": "Right to lodge a complaint with a supervisory authority"
+}
+],
+"non_compliant": [
+{
+"section": "EXCEPTIONS\nWe will accommodate your requests regarding your Information; however, we may not be able to fulfill all your requests under the following circumstances:\nAs required or permitted under application laws;\nFor legitimate business purposes;\nUnreasonably repetitive requests that require; disproportionate technical efforts and resources, for example, developing a new system or fundamentally changing the current practices;\nPotentially risks on the privacy of others.",
+"article numbers": "12, 21",
+"legal provisions": "Transparent information, communication and modalities for the exercise of the data subject's rights, Right to object",
+"amend": "This section needs to be more specific and aligned with the conditions for restrictions as outlined in the GDPR. For example:\n\n*   **As required or permitted under application laws;**\n    This should clearly specify which laws could lead to a restriction and provide concrete examples.\n*   **For legitimate business purposes;**\n    This is too vague. The specific legitimate interests pursued need to be identified and explained, and there must be a balance test against the individual's rights and freedoms.\n*   **Unreasonably repetitive requests that require; disproportionate technical efforts and resources, for example, developing a new system or fundamentally changing the current practices;**\n    While the GDPR allows for refusing manifestly unfounded or excessive requests, this needs to be assessed on a case-by-case basis. The policy should mention the possibility of charging a reasonable fee or refusing the request only in specific, justified situations.\n*   **Potentially risks on the privacy of others.**\n    This needs to be more specific. The policy should explain what kind of risks to whose privacy would justify a restriction and how those risks outweigh the individual's rights."
+}
+]
+}

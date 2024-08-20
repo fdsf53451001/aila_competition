@@ -1,0 +1,63 @@
+{
+"compliant": [
+{
+"section": "我們處理您的個人資料的合法基礎為何?",
+"article numbers": "6(1)",
+"legal provisions": "lawfulness of processing"
+},
+{
+"section": "提供資料給我們的必要性",
+"article numbers": "13(2)(e)",
+"legal provisions": "information to be provided where personal data are collected from the data subject"
+},
+{
+"section": "您的個人資料被我們保存多久?",
+"article numbers": "5(1)(e), 13(2)(a)",
+"legal provisions": "principles relating to processing of personal data, information to be provided where personal data are collected from the data subject"
+},
+{
+"section": "16 歲以下的個資當事人的隱私權",
+"article numbers": "8",
+"legal provisions": "conditions applicable to child's consent in relation to information society services"
+},
+{
+"section": "您的權利和您的個人資料",
+"article numbers": "13(2), 15-22",
+"legal provisions": "information to be provided where personal data are collected from the data subject, right of access by the data subject, right to rectification, right to erasure ('right to be forgotten'), right to restriction of processing, right to data portability, right to object, automated individual decision-making, including profiling"
+},
+{
+"section": "我們如何處理您的個人資料?",
+"article numbers": "32",
+"legal provisions": "security of processing"
+},
+{
+"section": "我們目前並未使用您的資料去執行任何完全自動化的決策，包含僅用科技的方式做決定而沒有人為介入。倘我們決定執行任何剖析或以自動化決定的方式來使用您的資料，我們將會提供您事前說明關於我們將如何進行，以及取得您明確的書面同意，我們將在進行該處理前實施適當的措施來保護您的權利、自由和合法利益。",
+"article numbers": "22",
+"legal provisions": "automated individual decision-making, including profiling"
+},
+{
+"section": "進階處理",
+"article numbers": "13(2)(b)",
+"legal provisions": "information to be provided where personal data are collected from the data subject"
+},
+{
+"section": "跨境傳輸",
+"article numbers": "44-50",
+"legal provisions": "general principles for transfers"
+}
+],
+"non_compliant": [
+{
+"section": "共享您的個人資料",
+"article numbers": "13(1)(e), 13(1)(f)",
+"legal provisions": "information to be provided where personal data are collected from the data subject",
+"amend": "This section should specify the recipients or categories of recipients of the personal data, as well as whether the data will be transferred to third countries and the safeguards in place. It should also specify the legal basis for sharing data with each recipient."
+},
+{
+"section": "剖析",
+"article numbers": "22(2)(c)",
+"legal provisions": "automated individual decision-making, including profiling",
+"amend": "The policy should clearly state that individuals have the right not to be subject to a decision based solely on automated processing, including profiling, which produces legal effects concerning him or her or similarly significantly affects him or her. It should also specify the exceptions to this right."
+}
+]
+}

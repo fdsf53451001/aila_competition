@@ -1,0 +1,33 @@
+{
+"compliant": [
+{
+"section": "依本公司所在地區法律，您有權向本公司請求了解關於您個人資料處理的訊息、取回您的個人資料、反對或限制對於您個人資料的處理，以及更正或刪除您的個人資料，並有權隨時撤回您對個人資料處理的同意。",
+"article numbers": "15, 16, 17, 18, 20",
+"legal provisions": "Right of access, Right to rectification, Right to erasure ('right to be forgotten'), Right to restriction of processing, Right to data portability, Right to withdraw consent"
+},
+{
+"section": "若您欲行使上述權利或了解更多關於您個人資料處理的資訊，請透過 sales@panjit.com.tw與本公司聯繫",
+"article numbers": "12",
+"legal provisions": "Transparent information, communication and modalities for the exercise of the data subject's rights"
+},
+{
+"section": "若您認為您的個人資料未按照相關適用法律處理，您亦有權向監管機關提出申訴或根據適用法律尋求其他措施。",
+"article numbers": "77",
+"legal provisions": "Right to lodge a complaint with a supervisory authority"
+}
+],
+"non_compliant": [
+{
+"section": "本政策之變更\n強茂保留隨時修改本政策之權利，您可透過查看頁首的“最近更新日期”以確認本政策是否為最新版本。",
+"article numbers": "13.1, 13.2",
+"legal provisions": "Information to be provided where personal data are collected from the data subject, Transparency of information, communication and modalities for the exercise of the data subject's rights",
+"amend": "While it's positive that the policy mentions updates, it doesn't explicitly state that users will be informed of significant changes, especially those impacting their rights. GDPR requires clear and unambiguous consent for any data processing. Simply stating the right to change the policy without a mechanism to inform users of substantial changes may not be sufficient."
+},
+{
+"section": "使用本公司網站即代表您同意本政策各規定（包含本公司對本政策之後續修改）",
+"article numbers": "7",
+"legal provisions": "Conditions for consent",
+"amend": "Implied consent by merely using the website is not considered valid consent under GDPR. Consent must be freely given, specific, informed, and unambiguous, often requiring a clear affirmative action like ticking a box. This section should be rephrased to reflect that continued use after policy updates signifies consent to the updated terms, and a clear mechanism for withdrawing consent should be provided."
+}
+]
+}

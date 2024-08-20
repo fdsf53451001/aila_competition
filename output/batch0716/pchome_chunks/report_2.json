@@ -1,0 +1,34 @@
+{
+"compliant": [
+{
+"section": "PChome 網路家庭會依照提供予您的各該服務、活動的性質，於下列之特定目的範圍內，蒐集、處理、利用及傳輸您的個人資料",
+"article numbers": "5, 6",
+"legal provisions": "Data must be collected for specified, explicit, and legitimate purposes and not further processed in a manner that is incompatible with those purposes."
+},
+{
+"section": "蒐集方式將透過加入會員、線上訂購、線上留言、線上同意活動說明、來信客服信箱方式進行個人資料之蒐集",
+"article numbers": "7",
+"legal provisions": "The data subject must have consented to the processing of his or her personal data for one or more specific purposes"
+}
+],
+"non_compliant": [
+{
+"section": "PChome 網路家庭得將向您蒐集到之個人資料提供予合作夥伴或是自各活動的合作夥伴處取得您的個人資料；\n會員服務及顧客意見處理；\n委託第三人蒐集您的個人資料；\n其他。",
+"article numbers": "6",
+"legal provisions": "Data must be collected for specified, explicit, and legitimate purposes and not further processed in a manner that is incompatible with those purposes.",
+"amend": "This section is too broad and lacks specificity regarding the purposes of data sharing with partners and third parties. It should clearly define the \"other\" purposes and ensure they are compatible with the initial purposes for which the data was collected.  It should also specify the legal basis for such data sharing, such as consent or legitimate interest, and provide information about the categories of recipients."
+},
+{
+"section": "個人資料蒐集之目的\nPChome 網路家庭會依照提供予您的各該服務、活動的性質，於下列之特定目的範圍內，蒐集、處理、利用及傳輸您的個人資料：\n人身保險\n行銷包括為辦理贈獎活動而須確認得獎者身份、提供贈品及依法開立扣繳憑單等\n非公務機關依法定義務所進行個人資料之蒐集處理及利用\n信用卡、現金卡、轉帳卡、金融卡或電子票證業務\n契約、類似契約或其他法律關係事務包括履行法定或合約義務\n訂位、住宿登記與購票業務\n消費者、客戶管理與服務包括售後服務\n消費者保護\n財產保險及責任保險\n商業與技術資訊\n採購與供應管理\n票券業務\n智慧財產權、光碟管理及其他相關行政\n傳播行政與管理\n會計與相關服務\n經營傳播業務\n資通訊服務\n資通訊與資料庫管理\n網路購物及其他電子商務服務\n廣告或商業行為管理\n調查、統計與研究分析\n其他公務機關對目的事業之監督管理\n其他自然人基於正當性目的所進行個人資料之蒐集處理及利用",
+"article numbers": "6",
+"legal provisions": "Data must be collected for specified, explicit, and legitimate purposes and not further processed in a manner that is incompatible with those purposes.",
+"amend": "While this section lists several purposes, it remains excessively broad and vague. It should clearly specify the data processing activities for each purpose and ensure they are necessary and proportionate. For instance, \"行銷\" should be broken down into specific marketing activities, and the legal basis for each (e.g., consent, legitimate interest) should be clarified.  The phrase \"其他\" should be avoided entirely and replaced with specific descriptions."
+},
+{
+"section": "個人資料蒐集之類別\nPChome 網路家庭將依照PChome 網路家庭相關網站與行動應用程式所提供之服務的性質，向您蒐集以下資料：\n辨識個人者：包括但不限於姓名、職稱、住址、工作地址、以前地址、住家電話號碼、行動電話、即時通訊軟體帳號、社群媒體帳號、網路平臺申請之帳號、通訊及戶籍地址、電子郵件地址、網際網路協定IP位址、裝置位置資訊、GPS定位位置、Cookie及其他任何可辨識資料本人者等。",
+"article numbers": "5",
+"legal provisions": "Data minimization: Personal data shall be adequate, relevant and limited to what is necessary in relation to the purposes for which they are processed.",
+"amend": "Collecting \"any other identifiable information\" is too broad and violates the data minimization principle. The policy should specify the types of data collected for each processing purpose and justify why collecting such data is necessary. For example, collecting GPS location data might be necessary for a delivery service but not for browsing an online catalog.  The policy should also differentiate between collecting data directly from users and obtaining it from other sources."
+}
+]
+}

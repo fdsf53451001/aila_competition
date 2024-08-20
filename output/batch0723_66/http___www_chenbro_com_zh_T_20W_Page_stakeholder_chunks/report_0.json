@@ -1,0 +1,40 @@
+{
+"compliant": [
+{
+"section": "二、個人資料的蒐集、處理及利用方式\n當您造訪本網站或使用本網站所提供之功能服務時，我們將視該服務功能性質，請您提供必要的個人資料，並在該特定目的範圍內處理及利用您的個人資料；非經您書面同意，本網站不會將個人資料用於其他用途。",
+"article numbers": "6(1)(b), 5(1)(a)",
+"legal provisions": "Lawfulness of processing - consent, Principles relating to processing of personal data - purpose limitation"
+},
+{
+"section": "二、個人資料的蒐集、處理及利用方式\n當您造訪本網站或使用本網站所提供之功能服務時，我們將視該服務功能性質，請您提供必要的個人資料，並在該特定目的範圍內處理及利用您的個人資料；非經您書面同意，本網站不會將個人資料用於其他用途。",
+"article numbers": "5(1)(b)",
+"legal provisions": "Principles relating to processing of personal data - data minimisation"
+}
+],
+"non_compliant": [
+{
+"section": "一、隱私權保護政策的適用範圍\n隱私權保護政策內容，包括本網站如何處理在您使用網站服務時收集到的個人識別資料。隱私權保護政策不適用於本網站以外的相關連結網站，也不適用於非本網站所委託或參與管理的人員。",
+"article numbers": "44, 45, 46, 49",
+"legal provisions": "General principles for transfers, Transfers on the basis of an adequacy decision, Transfers subject to appropriate safeguards, Derogations for specific situations",
+"amend": "The policy should clearly state whether any data is transferred outside of Taiwan and, if so, provide details of the safeguards in place to ensure an adequate level of data protection."
+},
+{
+"section": "二、個人資料的蒐集、處理及利用方式\n本網站在您使用服務信箱、問卷調查等互動性功能時，會保留您所提供的姓名、電子郵件地址、聯絡方式及使用時間等。",
+"article numbers": "13(1)(a, c, d, e, f), 14(1, 2)",
+"legal provisions": "Information to be provided where personal data are collected from the data subject - identity and contact details of the controller, purposes of the processing, legal basis for processing, recipients or categories of recipients, period for which the personal data will be stored, Information to be provided where personal data have not been obtained from the data subject - the source of the personal data",
+"amend": "The policy should provide more specific information about the data collected, the purpose of processing, the legal basis, the recipients of the data, the data retention period, and the source of the data if not collected directly from the user."
+},
+{
+"section": "二、個人資料的蒐集、處理及利用方式\n於一般瀏覽時，伺服器會自行記錄相關行徑，包括您使用連線設備的 IP 位址、使用時間、使用的瀏覽器、瀏覽及點選資料記錄等，做為我們增進網站服務的參考依據，此記錄為內部應用，決不對外公佈。",
+"article numbers": "5(1)(a), 29",
+"legal provisions": "Principles relating to processing of personal data - purpose limitation, Security of processing",
+"amend": "While collecting browsing data for service improvement is acceptable, the policy should specify the purpose more clearly and explain how data security is ensured for this internally used data."
+},
+{
+"section": "Missing sections",
+"article numbers": "12, 15-22, 30",
+"legal provisions": "Transparent information, communication and modalities for the exercise of the rights of the data subject, Notification of a personal data breach to the supervisory authority,  Notifications of a personal data breach to the data subject, Security of processing",
+"amend": "The policy lacks information on data subject rights (access, rectification, erasure, etc.), data breach notification procedures, and details about the technical and organizational security measures implemented to protect personal data."
+}
+]
+}

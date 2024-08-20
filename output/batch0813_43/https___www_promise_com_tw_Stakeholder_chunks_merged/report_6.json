@@ -1,0 +1,53 @@
+{
+"compliant": [
+{
+"section": "任何自願提供其個人資料給本公司之人，均有權根據「個人資料保護規則」享有下列權利：\n查詢或請求閱覽資料。",
+"article numbers": "15",
+"legal provisions": "Right of access"
+},
+{
+"section": "請求資料之複製本。",
+"article numbers": "15",
+"legal provisions": "Right to obtain a copy"
+},
+{
+"section": "請求補充或更正。",
+"article numbers": "16",
+"legal provisions": "Right to rectification"
+},
+{
+"section": "請求停止資料之蒐集、處理或利用。",
+"article numbers": "17, 18",
+"legal provisions": "Right to erasure ('right to be forgotten'), Right to restriction of processing"
+},
+{
+"section": "請求限制處理。",
+"article numbers": "18",
+"legal provisions": "Right to restriction of processing"
+},
+{
+"section": "請求限制自動決定，包括分析。",
+"article numbers": "22",
+"legal provisions": "Right not to be subject to automated decision-making, including profiling"
+},
+{
+"section": "請求資料可攜。",
+"article numbers": "20",
+"legal provisions": "Right to data portability"
+}
+],
+"non_compliant": [
+{
+"section": "請求刪除（此可能會造成本公司無法處理或回答您的案件或其他服務請求）。",
+"article numbers": "17",
+"legal provisions": "Right to erasure ('right to be forgotten')",
+"amend": "While the policy acknowledges the right to erasure, it suggests limitations that are not in line with GDPR. The right to erasure should be clearly stated without caveats that might deter individuals from exercising this right.  It should clearly state the legitimate reasons for refusal if the request is denied."
+},
+{
+"section": "如果您提供不正確或不完整的個人資料（例如暱稱），此將會妨礙本公司核對您的真實身分，則本公司可能無法維護您的隱私權。",
+"article numbers": "5",
+"legal provisions": "Principles relating to processing of personal data - specifically data minimisation",
+"amend": "The policy should not discourage the use of pseudonyms or imply that providing incomplete data will lead to a loss of privacy rights. Instead, it should emphasize the company's commitment to data minimization and only collecting necessary data for the specified purpose."
+}
+]
+}

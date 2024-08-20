@@ -1,0 +1,22 @@
+{
+"compliant": [
+{
+"section": "12.2 閣下應該定期查看本私隱條例。通過繼續使用我們的網站、我們的應用程式或服務，閣下將被視為已接受本私隱條例的更改或更新。如果閣下不同意對私隱條例進行的此類更改或更新，我們將無法為閣下提供對我們應用程式的訪問許可權或向閣下提供我們的服務。",
+"article numbers": "Articles 13(1)(c), 13(2)(a), 14(1), 14(2)(a)",
+"legal provisions": "Right to be informed, Transparency, Lawfulness of processing"
+},
+{
+"section": "13. 聯繫我們\n  13.1 歡迎所有與我們使用閣下的個人資料有關的評論、查詢、投訴、數據訪問請求或數據更正請求，請閣下發送至：https://www.lalamove.com/zh-tw/data-protection-officer?hsLang=zh-tw 。",
+"article numbers": "Articles 12, 15, 16, 17, 18, 19, 20, 21",
+"legal provisions": "Right of access, Right to rectification, Right to erasure ('right to be forgotten'), Right to restriction of processing, Right to data portability, Right to object, Rights in relation to automated decision making and profiling"
+}
+],
+"non_compliant": [
+{
+"section": "14. 直接促銷\n  14.1 如果在與公司或其他商業主體的商務合作中，我們向閣下提供服務或與閣下產生互動，為了該公司或商業主體的需要以及基於閣下作為該公司或商業主體的人員身份，我們將直接向閣下推銷我們的網站、服務或應用程式。\n  14.2 如果我們向閣下個人提供服務或與閣下個人進行互動，我們將使用閣下的個人資料以推銷我們的網站、服務或應用程式。\n(A) 我們用於直接促銷目的的個人資料種類包括：\n(1) 閣下的姓名\n(2) 閣下的電郵地址\n(3) 閣下的電話號碼\n(4) 閣下的地址\n  (B) 我們使用閣下的個人資料進行的直接促銷活動包括：\n(1) 我們的博客更新和最新消息、動態\n(2) 推銷我們的網站、服務或應用程式\n(3) 我們舉辦的推廣活動\n(4) 我們的網站、服務或應用程式的更新\n(5) 就我們的網站、服務或應用程式進行的統計問卷和調查研究\n(6) 活動邀請\n(7) 節日問候\n(8) 我們網站、服務或應用程式的廣告\n(9) 帶獎勵的優惠計畫",
+"article numbers": "Article 6(1)(a), 7",
+"legal provisions": "Lawfulness of processing, Conditions for consent",
+"amend": "This section needs to clearly state the legal basis for processing personal data for direct marketing purposes. If consent is relied upon, it needs to meet the GDPR's requirements for valid consent (freely given, specific, informed, and unambiguous indication of the data subject's wishes). The policy should also clearly explain individuals' right to withdraw consent at any time."
+}
+]
+}

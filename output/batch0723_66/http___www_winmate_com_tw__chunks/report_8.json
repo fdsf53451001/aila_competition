@@ -1,0 +1,28 @@
+{
+"compliant": [
+{
+"section": "4. 跨境處理您的個人資料\n本段介紹融程可能會將您的個人資料轉移到不同國家，但前提是融程應遵守這些國家的隱私權相關法規。\n您瞭解並同意，當您同意向融程 提供您的個人資料時，您的個人資料可能會傳輸、儲存、使用或處理給融程 及其任何附屬實體、可能位於不同國家/地區的服務提供商，以便你。所有上述對您個人資料的傳輸、儲存或處理均應遵守隱私權政策以及有關隱私權保護和個人資料安全的適用法律。",
+"article numbers": "44, 45, 46",
+"legal provisions": "Chapter V Transfers of personal data to third countries or international organisations"
+},
+{
+"section": "5. Cookie和類似技術\n本段介紹融程和第三方如何在融程產品和服務上使用cookie和類似技術，以及您如何管理cookie設定。\n融程和我們的第三方合作夥伴使用cookie（cookie 是放置在您的產品上的小文字文件，用於個人化您在融程產品和服務上的使用者體驗）和類似技術（例如網路信標）向您提供我們的產品和服務。當您造訪融程網站網域下的我們網站之一（包括微型網站和特定國家的版本）時，此類融程網站可能會使用以下部分或全部cookie和類似技術。\n幾乎所有透過cookie收集的資料只會儲存在您的產品中，而不會傳輸到融程。只有在極少數且有限的情況下，您透過cookie收集的資料可能會共用給融程。",
+"article numbers": "5, 6",
+"legal provisions": "Principles relating to processing of personal data: Lawfulness, fairness and transparency; Purpose limitation"
+}
+],
+"non_compliant": [
+{
+"section": "4. 跨境處理您的個人資料\n本段介紹融程可能會將您的個人資料轉移到不同國家，但前提是融程應遵守這些國家的隱私權相關法規。\n您瞭解並同意，當您同意向融程 提供您的個人資料時，您的個人資料可能會傳輸、儲存、使用或處理給融程 及其任何附屬實體、可能位於不同國家/地區的服務提供商，以便你。所有上述對您個人資料的傳輸、儲存或處理均應遵守隱私權政策以及有關隱私權保護和個人資料安全的適用法律。",
+"article numbers": "44, 45, 46",
+"legal provisions": "Chapter V Transfers of personal data to third countries or international organisations",
+"amend": "This section states that data transfers will comply with local privacy laws of those countries. However, GDPR requires that data transfers outside of the EEA must meet specific conditions as outlined in Chapter V, such as adequacy decisions, appropriate safeguards, or derogations. The policy should be amended to explicitly state these conditions and how the company ensures compliance."
+},
+{
+"section": "5. Cookie和類似技術\n本段介紹融程和第三方如何在融程產品和服務上使用cookie和類似技術，以及您如何管理cookie設定。\n融程和我們的第三方合作夥伴使用cookie（cookie 是放置在您的產品上的小文字文件，用於個人化您在融程產品和服務上的使用者體驗）和類似技術（例如網路信標）向您提供我們的產品和服務。當您造訪融程網站網域下的我們網站之一（包括微型網站和特定國家的版本）時，此類融程網站可能會使用以下部分或全部cookie和類似技術。\n幾乎所有透過cookie收集的資料只會儲存在您的產品中，而不會傳輸到融程。只有在極少數且有限的情況下，您透過cookie收集的資料可能會共用給融程。",
+"article numbers": "7",
+"legal provisions": "Conditions for consent",
+"amend": "While the policy mentions the use of cookies and similar technologies, it lacks details on how user consent is obtained. GDPR requires specific and unambiguous consent for non-essential cookies. The policy should clearly explain how consent is obtained, what types of cookies are used, their purpose, and how users can manage their cookie preferences."
+}
+]
+}

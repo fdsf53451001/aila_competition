@@ -1,0 +1,28 @@
+{
+"compliant": [
+{
+"section": "我們採用嚴格的隱私安全措施，以避免您的個人資料遭到有心人士的偷取、洩漏、毀損或是竄改。",
+"article numbers": "5, 32",
+"legal provisions": "This section aligns with the GDPR's principles of integrity and confidentiality (Article 5) and the requirement for appropriate technical and organizational security measures (Article 32)."
+},
+{
+"section": "在收集、儲存、傳遞、使用您的個人資料時，我們都實施嚴格的審查措施，只有相關的工作人員擁有觀看、查詢您個人資料的權限",
+"article numbers": "5, 25",
+"legal provisions": "This section aligns with the GDPR's principles of data minimization and purpose limitation (Article 5) and the requirement for data protection by design and by default (Article 25)."
+}
+],
+"non_compliant": [
+{
+"section": "然而，我們無法保證所有儲存的網路資料都安全無虞",
+"article numbers": "5, 32",
+"legal provisions": "The GDPR requires controllers to implement appropriate security measures to ensure a level of security appropriate to the risk (Article 32). While absolute security is not achievable, this statement might be interpreted as lacking a commitment to implementing strong security measures.",
+"amend": "建議修改為： \"我們致力於採取一切合理且適當的技術和組織措施來保護您的個人資料，並持續評估和改進我們的安全措施，以降低資料外洩的風險。\""
+},
+{
+"section": "我們也建議您定期更換您的密碼，並避免過於簡單的密碼設定，同時採用英文字母大小寫及數字的混合密碼。",
+"article numbers": "N/A",
+"legal provisions": "While encouraging good password practices is generally positive, the GDPR focuses on the controller's responsibilities, not the data subject's actions. Placing the onus on users for password security might not be sufficient to demonstrate compliance with Article 32.",
+"amend": "建議修改為： \"我們採用強健的密碼策略和多因素驗證等措施，以強化您帳戶的安全性。\""
+}
+]
+}

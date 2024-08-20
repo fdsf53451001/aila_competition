@@ -1,0 +1,27 @@
+{
+"compliant": [
+{
+"section": "致力於保護及尊重您的隱私",
+"article numbers": "5",
+"legal provisions": "Principles relating to processing of personal data - (a) Lawfulness, fairness and transparency"
+},
+{
+"section": "我們謹遵所有關於隱私保護及個人資料保護之相關法律規定",
+"article numbers": "5, 24",
+"legal provisions": "Principles relating to processing of personal data, Responsibility of the controller"
+},
+{
+"section": "本隱私權政策旨在說明我們如何收集、使用及分享我們自您作為我們的網站或服務(以下稱「服務」)之使用者所取得的所有資料",
+"article numbers": "12, 13",
+"legal provisions": "Transparent information, communication and modalities for the exercise of the data subject's rights"
+}
+],
+"non_compliant": [
+{
+"section": "當您提交您的資料給我們時，即視為您已同意本隱私權政策之規定",
+"article numbers": "4, 7",
+"legal provisions": "Definitions - Consent of the data subject, Conditions for consent",
+"amend": "GDPR requires a clear and affirmative action from the user to signify consent, simply submitting data is not enough. The policy should be amended to include a clear and specific consent mechanism, such as checkboxes or opt-in buttons, for different processing activities."
+}
+]
+}

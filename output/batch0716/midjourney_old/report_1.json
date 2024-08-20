@@ -1,0 +1,49 @@
+{
+"compliant": [
+{
+"section": "2.1.1 Personal Data",
+"article numbers": "4(1), 12(1)",
+"legal provisions": "Data minimization: The policy lists the types of personal data collected, which is a good start towards ensuring that only necessary data is processed. Transparency: Listing the data categories collected is a crucial aspect of transparency, allowing individuals to understand what information is being gathered."
+},
+{
+"section": "2.2 Use of Your Personal Data",
+"article numbers": "5(1)(a-b), 6(1)(b-c)",
+"legal provisions": "Lawfulness of processing: The policy outlines several legal bases for processing personal data, including consent, contract performance, and legitimate interests. Purpose limitation: Each processing purpose is specified, aligning with the requirement that data be collected for explicit, legitimate purposes."
+},
+{
+"section": "2.3 Sharing of Your Personal Data",
+"article numbers": "13(1)(e), 14(1-2)",
+"legal provisions": "Information to be provided where personal data are collected from the data subject: The policy provides information about recipients of personal data, including service providers and public authorities. This transparency is essential for individuals to understand how their data is shared."
+},
+{
+"section": "2.4 Retention of Your Personal Data",
+"article numbers": "5(1)(e), 13(2)(a)",
+"legal provisions": "Storage limitation: The policy addresses data retention by stating that data will be kept only as long as necessary for the outlined purposes. This aligns with the principle of data minimization."
+},
+{
+"section": "2.5 Transfer of Your Personal Data",
+"article numbers": "44-49",
+"legal provisions": "Transfers of personal data to third countries or international organisations: The policy acknowledges data transfers outside the individual's jurisdiction and mentions taking steps to ensure adequate data protection. This is crucial for GDPR compliance when transferring data internationally."
+}
+],
+"non_compliant": [
+{
+"section": "2.2 Use of Your Personal Data",
+"article numbers": "6(1)(f)",
+"legal provisions": "Legitimate interests: While the policy mentions legitimate interests, it doesn't explicitly state what those interests are for each processing purpose. This lacks specificity and may not meet the GDPR's requirement for a clear legal basis.",
+"amend": "Clearly identify and document the specific legitimate interests for each processing activity where legitimate interest is relied upon as the legal basis. For example, specify the legitimate interest in using personal data for data analysis or improving services."
+},
+{
+"section": "2.3 Sharing of Your Personal Data",
+"article numbers": "13(1)(f), 14(3)",
+"legal provisions": "Information about the right to withdraw consent: The policy doesn't explicitly mention the individual's right to withdraw consent for processing based on consent. This right is fundamental under the GDPR.",
+"amend": "Include a clear statement informing individuals of their right to withdraw consent at any time for processing activities based on consent. Explain how to withdraw consent, such as through account settings or by contacting the company."
+},
+{
+"section": "2.6 Security of Your Personal Data",
+"article numbers": "32(1), 25",
+"legal provisions": "Security of processing: While the policy acknowledges the importance of data security, it doesn't detail the specific technical and organizational measures implemented to protect personal data. The GDPR requires controllers to implement appropriate security measures.",
+"amend": "Provide more specific information about the security measures in place. This could include mentioning encryption methods, access controls, employee training, and regular security assessments."
+}
+]
+}

@@ -1,0 +1,32 @@
+{
+"compliant": [
+{
+"section": "NUVOTON uses cookies and similar technologies to provide our SERVICE. Cookie is a small text file to your computer in order to facilitate your use of our website.",
+"article numbers": "5(1)(a)",
+"legal provisions": "Data Minimisation: Collecting only necessary data for the stated purpose (facilitating website use)."
+},
+{
+"section": "If you do not wish to receive cookies, you may reset your Internet browser to either block all cookies or receive a warning before a cookie is stored.",
+"article numbers": "7(3), 21(1)",
+"legal provisions": "Conditions for Consent, Right to Withdraw Consent: Providing users with the option to refuse or withdraw consent for cookies."
+},
+{
+"section": "Cookies used in our SERVICE have been categorized below; you may also refer to the charts to know which cookies we use in our SERVICE and who hosts it:",
+"article numbers": "12(1), 13(1)(f)",
+"legal provisions": "Transparent Information, Information to be Provided: Providing clear and accessible information about cookie usage, categories, and third-party involvement."
+},
+{
+"section": "Analytics Cookies\nThese Cookies collect Information about how you use the NUVOTON Website(s) for the purposes of improving and optimizing the way NUVOTON Website(s) work and to ensure that visitors can easily find the Information they are looking for on NUVOTON Website(s).",
+"article numbers": "5(1)(a)",
+"legal provisions": "Purpose Limitation: Using analytics cookies for the specific purpose of website improvement and user experience enhancement."
+}
+],
+"non_compliant": [
+{
+"section": "This Privacy Policy applies to NUVOTON SERVICE only.",
+"article numbers": "3, 29",
+"legal provisions": "Territorial Scope, Derogations and Restrictions: GDPR's scope extends beyond a single service and may apply based on data subject location or processing activities within the EU. The policy should clarify its territorial scope and any limitations.",
+"amend": "Clarify the territorial scope of the policy and specify if it applies to data subjects in the EU, regardless of their location."
+}
+]
+}

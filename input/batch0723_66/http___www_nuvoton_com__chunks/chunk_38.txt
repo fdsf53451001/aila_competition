@@ -1,0 +1,5 @@
+For example, Analytics Cookies measure performance indicators such as which pages visitors go to most often and collect the error messages from web pages.
+Functionality Cookies
+These Cookies are used to recognize you when you return to NUVOTON Website(s). This enables NUVOTON to personalize content for you, and remember your preferences (for example, your choice of language or region).
+Advertising and Targeting Cookies
+These Cookies record your online activities and retain user preferences, in order to make the content displayed on NUVOTON Website(s) more relevant to you and your interests.

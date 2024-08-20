@@ -1,0 +1,43 @@
+{
+"compliant": [
+{
+"section": "We are not allowed to process Personal Information if we cannot rely on a valid legal ground.",
+"article numbers": "6(1)",
+"legal provisions": "Lawfulness of processing"
+},
+{
+"section": "we have obtained your prior unambiguous consent",
+"article numbers": "6(1)(a), 7",
+"legal provisions": "Consent"
+},
+{
+"section": "the processing is necessary to perform our contractual obligations towards you or to take pre-contractual steps at your request",
+"article numbers": "6(1)(b)",
+"legal provisions": "Performance of a contract"
+},
+{
+"section": "the processing is necessary to comply with our legal or regulatory obligations",
+"article numbers": "6(1)(c)",
+"legal provisions": "Compliance with a legal obligation"
+},
+{
+"section": "the processing is necessary to protect your vital interests or those of another natural person",
+"article numbers": "6(1)(d)",
+"legal provisions": "Protecting vital interests"
+}
+],
+"non_compliant": [
+{
+"section": "the processing is necessary for our legitimate interests except where they are overridden by your interests or fundamental rights and freedoms.",
+"article numbers": "6(1)(f)",
+"legal provisions": "Legitimate interests",
+"amend": "While this section reflects the principle of legitimate interests, it lacks specificity regarding the legitimate interests pursued.  To be GDPR compliant, the specific legitimate interests should be explicitly stated."
+},
+{
+"section": "Subject to all the applicable laws, inclusive but not limited to Personal Data Protection Act of Taiwan (R.O.C.), we will only process your Personal Information when:",
+"article numbers": "N/A",
+"legal provisions": "General Data Protection Regulation (GDPR) Applicability",
+"amend": "The GDPR has extraterritorial applicability. Even though the company operates under Taiwan's Personal Data Protection Act, if it processes personal data of individuals in the EU, the GDPR will apply regardless of the company's location or the data processing location. This section should acknowledge the GDPR's applicability when handling EU residents' data."
+}
+]
+}

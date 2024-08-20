@@ -1,0 +1,22 @@
+{
+"compliant": [
+{
+"section": "一旦上述 (1)、(2) 與 (3) (在適用範圍內) 的期間結束，我們將：\n永久刪除或銷毀相關資訊；或\n匿名化相關資訊。",
+"article numbers": "Article 17 (Right to erasure 'right to be forgotten'), Article 5(e) (Storage limitation)",
+"legal provisions": "This section aligns with the GDPR's principles of data minimization and storage limitation. It outlines the data controller's commitment to either delete or anonymize personal data once the specified purposes for processing are fulfilled, unless further retention is legally required."
+},
+{
+"section": "第三方服務\n使用我們的服務時，您可能會存取由第三方服務提供者提供的服務。例如，您可能透過我們的行動應用程式或電腦軟體上傳影片至 YouTube；或於使用我們的電腦軟體時啟用 YouTube 直播服務。此類第三方服務提供者具有不同且獨立的隱私權政策和 / 或服務條款，如下所示：\nYouTube API 服務條款 (https://developers.google.com/youtube/terms/api-services-terms-of-service)\nGoogle 隱私權政策 (https://policies.google.com/privacy)\nTikTok 隱私權政策 (https://www.tiktok.com/legal/page/row/privacy-policy/en) 與服務條款 (https://www.",
+"article numbers": "Article 13 (Information to be provided where personal data are collected from the data subject), Article 14 (Information to be provided where personal data have not been obtained from the data subject)",
+"legal provisions": "This section partially complies with the GDPR's transparency requirements. It acknowledges that third-party services are involved and provides links to their respective privacy policies and terms of service. However, it could be improved by providing a more comprehensive list of all third-party data processors and their specific roles in processing personal data."
+}
+],
+"non_compliant": [
+{
+"section": "在上述第 (2)a 與 (2)b 所述期間，我們將對您的資料處理加以限制，以儲存並維護此類資料安全性，除非就任何法律聲明或適用法律規定之任何義務須對此類資料進行審核。",
+"article numbers": "Article 5(1)(c) (Data minimization), Article 18 (Right to restriction of processing)",
+"legal provisions": "While this section mentions data processing restrictions, it lacks specificity regarding the types of processing that would be restricted and the criteria for determining the necessity of review for legal claims. To be GDPR compliant, it should clearly define the scope of restriction and the legal basis for any exceptions.",
+"amend": "During the periods outlined in sections (2)a and (2)b, we will restrict the processing of your data to storage only, ensuring its security. We will only process your data beyond storage for the following specific purposes: [List specific purposes, e.g., compliance with legal obligations, defense against legal claims]. You have the right to request restriction of processing in certain circumstances as outlined in Article 18 of the GDPR."
+}
+]
+}

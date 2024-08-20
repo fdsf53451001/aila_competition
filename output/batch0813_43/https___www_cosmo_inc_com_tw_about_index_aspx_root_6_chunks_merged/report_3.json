@@ -1,0 +1,50 @@
+{
+"compliant": [
+{
+"section": "我們會採用適當之安全措施，防止您的個人資料被竊取、竄改、洩露或毀損。",
+"article numbers": "32, GDPR",
+"legal provisions": "This aligns with Article 32, which requires data controllers to implement appropriate technical and organizational measures to ensure a level of security appropriate to the risk, including the pseudonymization and encryption of personal data."
+},
+{
+"section": "除非是為了向您提供您所要求的產品、服務，或已獲得您的授權...",
+"article numbers": "6(1)(a), 6(1)(b), GDPR",
+"legal provisions": "This aligns with the lawful bases for processing under Article 6(1)(a) (consent) and 6(1)(b) (necessary for the performance of a contract)."
+},
+{
+"section": "為了調查和防止非法活動、涉嫌詐欺、對人身安全有潛在威脅的狀況或為了對上述情形採取應對措施...",
+"article numbers": "6(1)(f), GDPR",
+"legal provisions": "This aligns with the legitimate interests basis for processing under Article 6(1)(f), as long as the legitimate interests of the controller or a third party are not overridden by the interests or fundamental rights and freedoms of the data subject."
+},
+{
+"section": "為了遵循法律之規定，而有必要分享您的個人資料時",
+"article numbers": "6(1)(c), GDPR",
+"legal provisions": "This aligns with the legal obligation basis for processing under Article 6(1)(c)."
+}
+],
+"non_compliant": [
+{
+"section": "向已簽署保密協議書且需要使用您的資料之第三人或是代表我們執行業務、與我們共同合作之第三人",
+"article numbers": "28, GDPR",
+"legal provisions": "While mentioning confidentiality agreements is good practice, it's not sufficient under GDPR. Article 28 requires a legally binding agreement (Data Processing Agreement) with specific clauses outlining the processor's responsibilities and limitations.",
+"amend": "Replace with: \"向符合 GDPR 要求之資料處理者，且已簽署資料處理協議書之第三人，其需要使用您的資料以代表我們執行業務或與我們共同合作。\""
+},
+{
+"section": "針對傳票、法院命令或法律程序作出回應、取得或行使法律權利、或對法律上之請求提出防禦",
+"article numbers": "6(1), GDPR",
+"legal provisions": "While responding to legal obligations is a valid basis, it's too broad. GDPR requires specifying the legal basis (e.g., 6(1)(c) for legal obligations) and ensuring the disclosure is necessary and proportionate.",
+"amend": "Replace with: \"當我們依法律規定，例如為回應傳票、法院命令或法律程序，或為取得、行使或維護法律權利，必須揭露您的個人資料時。\""
+},
+{
+"section": "為了保護我們、我們的代理商、顧客及其他第三人之權利及財產",
+"article numbers": "6(1)(f), GDPR",
+"legal provisions": "This is too vague. GDPR requires a legitimate interest to be clearly defined and the processing necessary and proportionate to achieve it. It's unclear how disclosing data in all situations involving rights and property would meet these requirements.",
+"amend": "Replace with: \"當我們有合法利益且符合 GDPR 要求時，例如為防止詐欺或其他犯罪行為，或為保護我們、我們的用戶或其他人的安全。\""
+},
+{
+"section": "基於有關買賣或移轉我們一部或全部之營業或資產之商業交易(或是商業協商)之目的，包含任何合併、籌資、收購或破產之交易或程序等。",
+"article numbers": "6(1)(f), 13, 14, GDPR",
+"legal provisions": "While mergers and acquisitions can be a legitimate interest, GDPR requires transparency. The policy should clearly inform users about this potential use of their data and their rights in such situations (Articles 13 & 14).",
+"amend": "Add: \"如果我們涉及合併、收購或資產出售，您的個人資料可能會作為轉讓資產的一部分被轉移。在這種情況下，我們將在您的個人資料被轉移或受到不同隱私政策約束之前通知您。\""
+}
+]
+}

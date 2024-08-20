@@ -1,0 +1,56 @@
+{
+"compliant": [
+{
+"section": "Access to your own information: At any time you may review or update personally identifiable information that we hold about you. To obtain a copy of any information you may send us a request at [support@viatech.com](mailto:support@viatech.com). After receiving the request, we will tell you when we expect to provide you with the information.",
+"article numbers": "15.1-3",
+"legal provisions": "Right of access"
+},
+{
+"section": "Removal of your information: If you wish us to remove personally identifiable information from our website, you may contact us at [support@viatech.com](mailto:support@viatech.com) or follow the instructions at the bottom of each marketing email.",
+"article numbers": "17",
+"legal provisions": "Right to erasure ('right to be forgotten')"
+},
+{
+"section": "Verification of your information: When we receive any request to access, edit or delete personal identifiable information we shall first take reasonable steps to verify your identity before granting you access or otherwise taking any action. This is important to safeguard your information.",
+"article numbers": "12.2, 15-19",
+"legal provisions": "Right to access, Right to rectification, Right to erasure ('right to be forgotten'), Right to restriction of processing, Right to data portability, Right to object, Automated individual decision-making, including profiling"
+},
+{
+"section": "How you can complain: If you are dissatisfied with our privacy policy or would like to file a complaint, please notify us by email at [support@viatech.com](mailto:support@viatech.com). We will reach back to you as soon as possible. In case the complaint proves impossible to be resolved, we will work with the appropriate regulatory authorities, including local data protection bodies, to resolve the issue.",
+"article numbers": "77",
+"legal provisions": "Right to lodge a complaint with a supervisory authority"
+}
+],
+"non_compliant": [
+{
+"section": "Access to your own information: After receiving the request, we will tell you when we expect to provide you with the information.",
+"article numbers": "12.3, 15.1",
+"legal provisions": "Right of access",
+"amend": "The GDPR states that data controllers should respond to requests from data subjects “without undue delay and in any event within one month of receipt of the request.” The policy should be amended to guarantee a response within one month."
+},
+{
+"section": "Removal of your information: This may limit the service we can provide to you.",
+"article numbers": "17.3",
+"legal provisions": "Right to erasure ('right to be forgotten')",
+"amend": "While it's true that removing data might limit services, the GDPR outlines specific circumstances where the right to erasure doesn't apply. The policy should clarify these exceptions (e.g., compliance with legal obligations, public interest tasks, etc.)."
+},
+{
+"section": "Use of site by children: We do not sell products or provide services for purchase by minors. If you are legally not an adult, you may purchase our products or services only with an adult supervision.",
+"article numbers": "8",
+"legal provisions": "Conditions applicable to child's consent in relation to information society services",
+"amend": "The GDPR sets the age of consent for processing children's data. This section should specify the age of consent in accordance with the GDPR (16 years old, or lower as per Member State law) and detail how parental/guardian consent is obtained and managed."
+},
+{
+"section": "Retention period for personal data: Except as otherwise mentioned in this privacy notice, we keep your personal information only for as long as required by us: To provide you with the services you have requested; To comply with other law, including for the period demanded by our tax authorities; To support a claim or defence in court.",
+"article numbers": "5.1(e)",
+"legal provisions": "Principles relating to processing of personal data (specifically, storage limitation)",
+"amend": "While these are legitimate reasons for data retention, the policy should emphasize that data will be kept only *as long as necessary* for these purposes. It should avoid vague terms like “as long as required” and instead provide more specific timeframes or criteria for data deletion."
+},
+{
+"section": "Compliance with the law: Our privacy policy has been compiled so as to comply with the law of every country or legal jurisdiction in which we aim to do business.",
+"article numbers": "3",
+"legal provisions": "Territorial scope",
+"amend": "The GDPR has extraterritorial applicability, meaning it can apply even if the company is not based in the EU. The policy should acknowledge this and clearly state that it aims to comply with the GDPR for all data subjects within its scope."
+}
+]
+}

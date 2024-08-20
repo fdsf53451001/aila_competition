@@ -1,0 +1,33 @@
+{
+"compliant": [
+{
+"section": "未經全友電腦許可不得擅自使用全友電腦相關標誌。",
+"article numbers": "Article 20(1)",
+"legal provisions": "Right to portability of data"
+},
+{
+"section": "© 2020 MICROTEK INTERNATIONAL, INC.",
+"article numbers": "Article 13(1)(a), 13(2)(a)",
+"legal provisions": "Transparency and information to be provided when personal data are collected from the data subject"
+},
+{
+"section": "隱私權政策",
+"article numbers": "Articles 13, 14",
+"legal provisions": "Information to be provided where personal data have not been obtained from the data subject"
+}
+],
+"non_compliant": [
+{
+"section": "協力廠商的網站連結\n本網站已取得業務相關網站之連結與顯名權，但全友電腦並未審核所有協力廠商的站台，而且不控制、也不對任何這些站台或其內容負責，因此，對於這些網站或其中的任何資訊、軟體或其他產品或資料，或使用後可能產生的任何結果，全友電腦不負擔任何責任。\n\n如果您決定存取任何連結到本網站之相關業務廠商網站，請自行承擔一切風險。",
+"article numbers": "Article 28",
+"legal provisions": "Processor",
+"amend": "全友電腦應確保與協力廠商簽訂資料處理協議，明確雙方的責任和義務，並確保協力廠商提供足夠的保障措施來保護個人資料。"
+},
+{
+"section": "網站部份產品圖為示意圖，並無意侵犯圖片中相關建築與商品著作權，如有問題請與我們聯繫，我們將立即更換。",
+"article numbers": "Article 5(1)(a)",
+"legal provisions": "Lawfulness of processing; fairness and transparency",
+"amend": "全友電腦應確保使用示意圖時，已採取必要措施避免侵犯任何著作權，並在使用前取得必要的授權。"
+}
+]
+}

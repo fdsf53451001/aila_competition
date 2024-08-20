@@ -1,0 +1,28 @@
+{
+"compliant": [
+{
+"section": "地理位置",
+"article numbers": "6(1)(f), 9(2)(a)",
+"legal provisions": "Lawfulness of processing, Conditions for consent"
+},
+{
+"section": "隱私權說明",
+"article numbers": "12, 13, 14",
+"legal provisions": "Transparent information, communication and modalities for the exercise of the data subject's rights"
+}
+],
+"non_compliant": [
+{
+"section": "地理位置",
+"article numbers": "13(1)(a), 13(2)(a)",
+"legal provisions": "Information to be provided where personal data are collected from the data subject",
+"amend": "提供更具體有關地理位置資料收集、使用和儲存方式的資訊，包括法律依據、處理目的和資料保留期限。"
+},
+{
+"section": "隱私權說明",
+"article numbers": "15, 16, 17, 18, 19, 20, 21",
+"legal provisions": "Right of access by the data subject, Right to rectification, Right to erasure (‘right to be forgotten’), Right to restriction of processing,  Notification obligation regarding rectification or erasure of personal data or restriction of processing, Right to data portability, Right to object",
+"amend": "新增關於資料主體權利的章節，包括存取權、更正權、刪除權、限制處理權、資料可攜權和反對權。"
+}
+]
+}

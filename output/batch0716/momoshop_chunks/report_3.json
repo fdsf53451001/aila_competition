@@ -1,0 +1,69 @@
+{
+"compliant": [
+{
+"section": "Ｃ○○一一 個人描述。\n(例如：年齡、性別、出生年月日、出生地、國籍、聲音等。)",
+"article numbers": "6(1)(e), 13(2)(a)",
+"legal provisions": "Data minimization: Processing of personal data is lawful only if it is adequate, relevant and limited to what is necessary in relation to the purposes for which they are processed. This section appears to collect a broad range of personal data, some of which (e.g., voice) may not be strictly necessary for the stated purposes."
+},
+{
+"section": "Ｃ○三一 住家及設施。\n(例如：住所地址)",
+"article numbers": "6(1)(b), 13(2)(c)",
+"legal provisions": "Purpose limitation: Collection of home address is justified for the purpose of '物流寄送' (logistics and delivery)."
+},
+{
+"section": "三、客戶資料蒐集目的",
+"article numbers": "5(1)(a), 13(1)(c), 14(2)(d)",
+"legal provisions": "Transparency and purpose limitation: This section outlines the purposes for data collection, which aligns with GDPR requirements for transparency and specifying the purpose of processing."
+}
+],
+"non_compliant": [
+{
+"section": "Ｃ○○二 辨識財務者。\n(例如：金融機構帳戶之號碼與姓名、信用卡或簽帳卡之號碼、保險單號碼、個人之其他號碼或帳戶等。)",
+"article numbers": "9(1), 6(1)(c)",
+"legal provisions": "Special categories of data: Processing of financial data is considered highly sensitive and requires specific legal grounds for processing. The policy lacks details on the legal basis and safeguards for processing such data.",
+"amend": "Specify the legal basis for processing financial data (e.g., explicit consent, contractual necessity) and implement appropriate technical and organizational measures to protect this data."
+},
+{
+"section": "Ｃ○○三 政府資料中之辨識者。\n(例如：身分證統一編號、護照號碼等。)",
+"article numbers": "9(1), 6(1)(c)",
+"legal provisions": "Special categories of data: Government identification numbers are considered highly sensitive. The policy needs to specify the legal basis and safeguards for processing such data.",
+"amend": "Limit the collection of government identification numbers to situations where it is strictly necessary and legally justified. Implement appropriate safeguards for processing and storing this data."
+},
+{
+"section": "Ｃ○三三 移民情形。\n(例如：護照)",
+"article numbers": "9(1), 6(1)(c)",
+"legal provisions": "Special categories of data: Information about immigration status is considered highly sensitive. The policy needs to specify the legal basis and safeguards for processing such data.",
+"amend": "Collect and process information about immigration status only when explicitly authorized by law and with appropriate safeguards in place."
+},
+{
+"section": "Ｃ○三六 生活格調。\n(例如：使用消費品之種類及服務之細節、個人或家庭之消費模式等。)",
+"article numbers": "6(1)(f)",
+"legal provisions": "Legitimate interests: Processing data about lifestyle and consumption patterns for marketing and analysis requires a legitimate interest assessment. The policy lacks details on this assessment and how it balances the company's interests with the individual's rights.",
+"amend": "Conduct a legitimate interest assessment to justify the processing of lifestyle and consumption data for marketing and analysis. Provide individuals with information about this processing and their right to object."
+},
+{
+"section": "Ｃ○八一 收入、所得、資產與投資。",
+"article numbers": "9(1), 6(1)(c)",
+"legal provisions": "Special categories of data: Information about income, assets, and investments is considered highly sensitive. The policy needs to specify the legal basis and safeguards for processing such data.",
+"amend": "Collect and process financial information only when there is a clear legal basis and with appropriate safeguards in place."
+},
+{
+"section": "Ｃ○九三 財務交易。\n(例如：收付金額、信用額度、保證人、支付方式、往來紀錄、保證金或其他擔保等。)",
+"article numbers": "9(1), 6(1)(c)",
+"legal provisions": "Special categories of data: Financial transaction data is considered highly sensitive. The policy lacks details on the legal basis and safeguards for processing such data.",
+"amend": "Specify the legal basis for processing financial transaction data and implement appropriate technical and organizational measures to protect this data."
+},
+{
+"section": "Ｃ一○二 約定或契約。\n(例如：關於交易、商業、法律或其他契約、代理等。)",
+"article numbers": "6(1)(b)",
+"legal provisions": "Contractual necessity: While processing data for contracts is permitted, the policy should specify the types of contracts and the data processed for each.",
+"amend": "Provide more specific information about the types of contracts and the personal data processed in relation to those contracts."
+},
+{
+"section": "Ｃ一三二 未分類之資料。\n(例如：無法歸類之信件、檔案、報告或電子郵件等。)",
+"article numbers": "5(1)(c), 6(1)",
+"legal provisions": "Data minimization and purpose limitation: The broad category of 'unclassified data' contradicts the principle of data minimization. The policy should avoid collecting data that doesn't fall under a specific purpose.",
+"amend": "Refrain from collecting 'unclassified data.' Any data collected should have a defined purpose and legal basis for processing."
+}
+]
+}

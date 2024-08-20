@@ -1,0 +1,23 @@
+{
+"compliant": [
+{
+"section": "For business transfers: We may use Your information to evaluate or conduct a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of Our assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which Personal Data held by Us about our Service users is among the assets transferred.",
+"article numbers": "Article 6(1)(f), Recital 49",
+"legal provisions": "Legitimate Interests (for the purpose of a legitimate interest pursued by the controller or by a third party) and Transfers of businesses"
+}
+],
+"non_compliant": [
+{
+"section": "To manage Your requests: To attend and manage Your requests to Us.",
+"article numbers": "Article 5(1)(b), Article 5(1)(c)",
+"legal provisions": "Purpose Limitation (data minimisation), Storage Limitation",
+"amend": "Specify the types of requests covered and how long the data will be stored for each type. Ensure data is not stored longer than necessary."
+},
+{
+"section": "For other purposes: We may use Your information for other purposes, such as data analysis, identifying usage trends, determining the effectiveness of our promotional campaigns and to evaluate and improve our Service, products, services, marketing and your experience.",
+"article numbers": "Article 5(1)(b), Article 6(1)",
+"legal provisions": "Purpose Limitation, Lawfulness of Processing",
+"amend": "Specify the legal basis for each purpose (e.g., consent, contract performance, legitimate interests). If relying on legitimate interests, conduct a Legitimate Interests Assessment (LIA) and be prepared to demonstrate its findings. Ensure transparency by clearly informing users about these purposes."
+}
+]
+}

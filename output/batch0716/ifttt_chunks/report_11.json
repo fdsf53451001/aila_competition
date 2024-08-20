@@ -1,0 +1,28 @@
+{
+"compliant": [
+{
+"section": "Name: IFTTT, Inc. Mailing address: 2261 Market Street #4383, San Francisco, CA 94114, Attn: Legal.",
+"article numbers": "13, 14",
+"legal provisions": "Right to information"
+},
+{
+"section": "Designated EU representative and contact information: DP-Dock GmbH Ballindamm 39 20095 Hamburg Germany Email: IFTTT@gdpr-rep.com Tel: +49 (0) 40 99999 - 3430 Fax: +49 (0) 40 99999 - 3332 www.dp-dock.com Designated UK representative and contact information: DP Data Protection Services UK Ltd. Attn: IFTTT Inc. 16 Great Queen Street Covent Garden London WC2B 5AH United Kingdom Email: IFTTT@gdpr-rep.com www.dp-dock.com",
+"article numbers": "27",
+"legal provisions": "Representatives of controllers or processors not established in the Union"
+}
+],
+"non_compliant": [
+{
+"section": "By using the Service, you acknowledge that any Personal Data about you, regardless of whether provided by you or obtained from a third party, is being provided to IFTTT in the U.S. and will be hosted on U.S. servers, and you authorize IFTTT to transfer, store and process your information to and in the U.S., and possibly other countries.",
+"article numbers": "44, 45, 46",
+"legal provisions": "Transfers subject to appropriate safeguards",
+"amend": "Specify the legal basis for data transfer to the U.S., such as Standard Contractual Clauses (SCCs) or adequacy decisions. Provide details about the safeguards in place to protect personal data during and after the transfer."
+},
+{
+"section": "This entire section lacks details about data subject rights.",
+"article numbers": "12-23",
+"legal provisions": "Transparent information, communication and modalities for the exercise of the rights of the data subject",
+"amend": "Include information about user rights like access, rectification, erasure, restriction of processing, data portability, and objection to processing. Explain how users can exercise these rights."
+}
+]
+}

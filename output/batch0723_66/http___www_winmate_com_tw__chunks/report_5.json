@@ -1,0 +1,34 @@
+{
+"compliant": [
+{
+"section": "經您事先同意的任何其他目的。",
+"article numbers": "6(1)(a)",
+"legal provisions": "Consent of the data subject"
+},
+{
+"section": "匿名資料是指任何無法直接或間接識別您身分的數據，例如您的產品型號、軟體版本和發票日期。",
+"article numbers": "4(1)",
+"legal provisions": "‘personal data’ means any information relating to an identified or identifiable natural person (‘data subject’)"
+}
+],
+"non_compliant": [
+{
+"section": "為您提供個人化行銷服務，例如，使用第三方廣告 Cookie 提供我們認為您可能感興趣的行銷傳播和廣告，或根據您對融程的使用推薦您可能感興趣的服務產品和服務。",
+"article numbers": "7(4), 6(1)(f)",
+"legal provisions": "Conditions for consent, Legitimate Interests",
+"amend": "This section should clearly state the legal basis for processing personal data for personalized marketing. If relying on consent, it needs to meet the GDPR's requirements for valid consent (freely given, specific, informed, and unambiguous indication of the data subject's wishes). If relying on legitimate interests, it needs to articulate the specific legitimate interests pursued and demonstrate that these interests are not overridden by the interests or fundamental rights and freedoms of the data subject."
+},
+{
+"section": "當你使用融程產品和服務時，我們可能會向您收集以下匿名數據，並將這些收集到的匿名數據用於任何目的。此外，當以下匿名數據與您上面列出的個人數據相關聯時，在這種情況下，我們也會將此類匿名數據視為個人數據，並按照與個人數據保護相同的級別來保護此類匿名資料。",
+"article numbers": "5(1)(b), 5(1)(c)",
+"legal provisions": "Purpose Limitation, Storage Limitation",
+"amend": "While it's positive that data initially anonymized but later re-identified is treated as personal data, the policy should specify that data is collected and processed for specified, explicit, and legitimate purposes and not further processed in a manner incompatible with those purposes. It should also mention data retention policies and specify for how long anonymized data is kept."
+},
+{
+"section": "您與融程產品和服務相關的日誌數據，例如您的產品型號名稱、產品名稱、品牌名稱、製造商名稱、零件號碼、硬體類型和版本（例如 CPU 和主機板）以及作業系統、工廠-預設設定、啟動時間、韌體更新資料（例如，韌體更新的執行方法、更新日期和更新結果）、記憶體和儲存大小、唯讀記憶體(ROM) 相關資料（例如，類型、版本、建立指紋和ROM 構建描述）、攝影機解析度、產品顏色、用於連接我們的產品和服務的電信和網路、網路狀態、電話日誌資料、待機狀態、崩潰歷史記錄、首選介面、瀏覽器的類型、版本和語言設定、診斷和使用資料、您的使用行為、GPS和Wi-Fi版本、系統狀態（例如電池、CPU和RAM的使用狀態）以及本地時間。",
+"article numbers": "5(1)(c), 13(1)(e)",
+"legal provisions": "Data Minimisation, Information to be provided",
+"amend": "The policy should specify the legal basis for collecting each category of data and ensure that the data collected is limited to what is necessary and proportionate for the specified purposes. It should also clearly inform users about the specific types of data collected and the purposes of processing."
+}
+]
+}

@@ -1,0 +1,22 @@
+{
+"compliant": [
+{
+"section": "一、簡介\n觔斗雲聯網科技股份有限公司（下稱「本公司」或「我們」）於提供本公司所有相關產品、應用程式（Apps）、服務及網站（合稱「本服務」）時，將蒐集個人相關資料（下稱「個資」或「個人資料」）。\n本隱私權政策（下稱「本政策」）說明本公司將蒐集的個資類別、我們將如何使用及分享個資，以及您如何管理您的個資。",
+"article numbers": "13, 14",
+"legal provisions": "Information to be provided where personal data are collected from the data subject"
+},
+{
+"section": "二、本政策之適用範圍",
+"article numbers": "3",
+"legal provisions": "Material Scope"
+}
+],
+"non_compliant": [
+{
+"section": "三、個資蒐集及使用目的\n本公司基於下列目的蒐集個資：\n○四○ 行銷、○九○ 消費者、客戶管理與服務、一三五 資訊服務、一四八 網路購物及其他電子商務服務、一八一 其他經營合於營業登記項目或組織章程所定之業務、一八二  其他諮詢與顧問服務。\n本公司基於下列目的使用個資：\n提供及維護服務；\n開發及改善服務及內容；\n防止未經授權之使用，例如未經授權之存取；及/或\n為您提供優化之內容。",
+"article numbers": "5, 6",
+"legal provisions": "Principles relating to processing of personal data: lawfulness, fairness and transparency, purpose limitation",
+"amend": "The purposes for collecting and processing personal data are too broad and not specific enough. They should be clearly defined and limited to what is necessary for the specified, explicit and legitimate purposes.  For example, \"行銷\" should be specified as to what type of marketing and how it will be conducted.  \"提供及維護服務\" should be broken down into the specific services offered.  \"為您提供優化之內容\" should explain what \"優化之內容\" means and how it benefits the user. Additionally, legal basis for each purpose should be stated, such as consent, contract, legal obligation, etc."
+}
+]
+}

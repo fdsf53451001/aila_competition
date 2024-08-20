@@ -1,0 +1,61 @@
+{
+"compliant": [
+{
+"section": "聯發科技收集的資訊\n我們收集包括個人資訊和非個人資訊在內的不同類型的資訊。“個人資訊”是可用於識別您個人身份的資訊，包括您的姓名、郵寄或實際地址、電話號碼、電子郵寄地址，以及其他經您提供或因履行交易、提供服務、或寄送產品所必須的個人資訊。根據您的居住位置，“個人資訊”還可能包括您的即時位置、您的設備的IP位址或唯一設備識別碼（UDI）。我們可能會收集和儲存您或其他人通過聯發科技服務或主動提供給我們的社群討論、聊天資訊。",
+"article numbers": "4(1), 13(1)(2)",
+"legal provisions": "Lawfulness of processing, principles relating to processing of personal data"
+},
+{
+"section": "個人資訊的使用\n您同意我們基於商業目的可能會使用您的個人資訊，例如:\n為了向您交付產品，提供您所要求的服務，或為您提供產品註冊、技術和客戶支援；\n為了管理您所參加的促銷活動，如競賽或抽獎；\n為了評估您基於應聘而提交的工作申請資訊；\n為了實現您的活動參與，如線上討論群組或聊天、社群和調查；\n通過電子郵件、簡訊或電話與您溝通，介紹我們的產品和服務、有針對性的行銷內容、服務更新和促銷優惠資訊；\n為了定制、評估、提供和改進我們的產品、服務、內容和廣告；/li>\n為了在您登錄時識別您，並在您登錄後授權您的指令；\n為了向您提供個人化的完整用戶體驗；\n為了向我們授權的第三人傳輸資訊；以及\n與所收集的資訊有關的其他用途。",
+"article numbers": "5(1)(a)(b), 6(1)(a-f)",
+"legal provisions": "Lawfulness of processing, Consent"
+},
+{
+"section": "個人資訊的分享\n我們可能與協助我們進行業務營運的授權第三人（如我們的授權供應商）分享個人資訊，此業務營運包括為本隱私權聲明中所列的用途而儲存和處理個人資料。",
+"article numbers": "28",
+"legal provisions": "Processor"
+},
+{
+"section": "關於您的個人資訊權利\n您有權更新和更正您帳戶上的個人資訊。您也有權要求聯發科技對我們所持有並與您有關之個人資訊，要求限制我們對該資料的處理，並要求我們刪除該資料。根據所適用的法律，提供資料副本可能需要收取行政費用。您還有權反對我們繼續處理您的個人資訊。您也有權在適用法律允許的範圍內請求資料轉移。如果您對聯發科技使用您的個人資訊的方式有異議，您有權向您居住國的資料保護主管機關申訴。",
+"article numbers": "12-22",
+"legal provisions": "Transparent information, communication and modalities for the exercise of the rights of the data subject"
+},
+{
+"section": "安全\n我們感謝您信任我們，與我們分享您的個人資訊，我們承諾採取合理的措施來保護您的個人資訊。我們綜合使用業界普遍認可的安全技術、程式和組織措施，説明保護您的個人資訊免遭未經授權的訪問存取、使用或揭露。\n\n例如，聯發科技或其子公司的員工、承包商和代理商僅在執行其職務所必要時，才有權訪問存取這些個人資訊。我們還可能將您的個人資訊儲存在位於受控設施中的有訪問存取限制的電腦系統中。",
+"article numbers": "5(1)(f), 32",
+"legal provisions": "Security of processing"
+}
+],
+"non_compliant": [
+{
+"section": "除上述情況外，未經您的許可，聯發科技不會將個人資訊分享或揭露給任何第三人用於促銷目的。在任何情況下，未經您的許可，聯發科技都不會向任何第三人出售、出租、共用、交易或揭露個人資訊。",
+"article numbers": "6(1)(a)",
+"legal provisions": "Lawfulness of processing",
+"amend": "GDPR requires a lawful basis for processing personal data. While consent is one basis, it is not the only one.  The policy should be amended to reflect other lawful bases for processing, such as legitimate interests, legal obligation, or contractual necessity."
+},
+{
+"section": "為符合法律規定、訴訟程序、政府或半官方機構的要求，我們可能會揭露您的個人資訊，以行使我們的合法權利或進行訴訟抗辯。\n\n為針對非法活動、可疑詐欺，及其他對於我們或對第三人的權利、財產或人身安全存有潛在威脅、違反我們使用條款或其他協議、或法律另有規定或允許的情形進行調查、預防或採取措施，若我們認為該目的具有必要性或正當性，我們可以自行決定揭露個人資訊和其他可用資訊。",
+"article numbers": "6(1)",
+"legal provisions": "Lawfulness of processing",
+"amend": "The policy should specify the legal basis for processing in these situations, such as compliance with a legal obligation or legitimate interests."
+},
+{
+"section": "如果聯發科技對我們的全部或部分資產進行重組、合併或出售，我們可能會在交易中移轉個人和非個人資訊。",
+"article numbers": "13(1)(d), 14(1)(3)",
+"legal provisions": "Information to be provided where personal data are collected from the data subject",
+"amend": "The policy should explicitly mention that data subjects will be informed about such transfers and their right to object."
+},
+{
+"section": "資訊的儲存和傳輸\n您的個人資訊可能會被傳輸到臺灣和/或其他隱私保護水準與您所在地不同的國家/地區，並在這些國家/地區儲存和/或處理。",
+"article numbers": "44-50",
+"legal provisions": "Transfers of personal data to third countries or international organisations",
+"amend": "The policy should specify the safeguards in place for such transfers, such as standard contractual clauses or binding corporate rules."
+},
+{
+"section": "我們會在符合國際資料保護法的前提下傳輸資訊。我們還會採取措施，以在個人資訊的儲存地或被轉移地保護您的個人資訊。我們會以程式和控制措施來協助確保對個人資訊的保護。您的個人資訊也可能由為我們或我們的供應商工作的員工處理。這些員工可能參與提供支援服務。若您提供您的個人資訊，即表示您同意本隱私權聲明中所述的任何個人資訊的傳送，儲存或其他處理。\n\n請務必注意，您提供給第三人服務供應商的部分或全部個人資訊可能由該第三人保存在您所在國家以外的其他國家。您承認並理解，您的個人資訊將受各司法管轄區相關法律不同的約束，而可能導致無法提供與您居住國家／地區法律所保護的相同水準。",
+"article numbers": "44-50",
+"legal provisions": "Transfers of personal data to third countries or international organisations",
+"amend": "The policy should be more specific about the safeguards used for international data transfers and avoid vague language like \"international data protection laws\"."
+}
+]
+}

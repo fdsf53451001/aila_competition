@@ -1,0 +1,33 @@
+{
+"compliant": [
+{
+"section": "此類 cookie 也用於限制您看到廣告的次數，並幫助衡量廣告活動的有效性。 Winmate 透過使用廣告活動服務放置 cookie",
+"article numbers": "Article 7(4), Considering Recital 47",
+"legal provisions": "Consent to cookies for targeted advertising must be specific, informed, and freely given. This section implies a form of consent by using the website, which may not meet the GDPR's standard for explicit consent."
+},
+{
+"section": "觀看我們網站中嵌入的 YouTube 影片 我們使用 Cookie 來幫助我們將 YouTube 影片插入我們的網站。您可以使用 Google Inc. 提供的此類 Cookie 透過我們的網站觀看 YouTube 影片。",
+"article numbers": "Article 13(1)(e), Article 14(1)(e)",
+"legal provisions": "This section mentions the use of cookies by Google for embedded YouTube videos. It complies with the GDPR by informing users about the third-party (Google) involved in data processing."
+},
+{
+"section": "5.2 如何管理cookie設定\n請注意，您可以透過造訪您安裝的瀏覽器來設定Cookie設置，以接受、封鎖或刪除部分或全部Cookie（例如第三方Cookie）。",
+"article numbers": "Article 12(1), Article 21(1)",
+"legal provisions": "This section aligns with the GDPR by explaining how users can manage their cookie settings, including accepting, blocking, or deleting cookies. It empowers users to exercise their right to withdraw consent."
+}
+],
+"non_compliant": [
+{
+"section": "在某些國家/地區，當您第一次瀏覽融程網站時，我們可能會在此類融程網站頂部的橫幅中簡要介紹我們如何使用cookie。您可以透過該橫幅自由選擇接受或封鎖上述第三方cookie。",
+"article numbers": "Article 4(11), Article 7(1)",
+"legal provisions": "The GDPR requires consent to be freely given, specific, informed, and unambiguous. Using a cookie banner to gain consent is acceptable, but the language used here is vague. It doesn't specify what \"accepting\" entails and doesn't meet the standard of unambiguous consent.",
+"amend": "Clearly state what data is processed and for what purpose when the user accepts cookies. Provide a way for users to granularly select which cookie categories they consent to. Ensure the cookie banner requires a clear action to consent (e.g., clicking \"Accept\") and doesn't pre-select any options other than strictly necessary cookies."
+},
+{
+"section": "如果您選擇封鎖Cookie，您可能無法使用融程產品和服務的所有功能。",
+"article numbers": "Article 7(4), Recital 43",
+"legal provisions": "The GDPR states that consent should not be a precondition to service when the processing of data is not necessary for the performance of a contract. Denying full functionality for users who decline cookies, when those cookies are not essential, could be considered a form of coercion and violate the GDPR's conditions for valid consent.",
+"amend": "Ensure that users who decline non-essential cookies still have access to the core functionality of the website and services. If certain features require cookies, explain this clearly to the user and offer alternative ways to access those features without relying on non-essential cookies."
+}
+]
+}

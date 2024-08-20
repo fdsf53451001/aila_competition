@@ -1,0 +1,43 @@
+{
+"compliant": [
+{
+"section": "除非取得您的同意、回應您的詢問或其他法令之特別規定，本網站絕不會將您的個人資料揭露予第三人或使用於以上資料蒐集目的以外之其他用途。",
+"article numbers": "6(1)(b), 6(1)(c)",
+"legal provisions": "Lawfulness of processing: requires consent for processing; requires processing to be necessary for the performance of a contract or to comply with a legal obligation"
+},
+{
+"section": "在回應您的詢問及進行合理的客戶服務範圍下，您的個資可能會轉交本公司的服務夥伴或經銷商等第三者與您直接連繫。",
+"article numbers": "13(1)(e), 14(1)(e)",
+"legal provisions": "Transparency obligations: requires controllers to inform data subjects about the recipients or categories of recipients of the personal data"
+},
+{
+"section": "網站主機均設有防火牆、防毒系統等各項資訊安全設備及必要的安全防護措施，以保護網站及您的個人資料。",
+"article numbers": "32",
+"legal provisions": "Security of processing: requires controllers to implement appropriate technical and organisational measures to ensure a level of security appropriate to the risk"
+},
+{
+"section": "本網站採用嚴格的保護措施，只由經過授權的人員才能接觸您的個人資料，相關處理人員皆簽有保密合約，如有違者，將會受到相關的法律處分。",
+"article numbers": "32, 29",
+"legal provisions": "Security of processing: requires controllers to implement appropriate technical and organisational measures to ensure a level of security appropriate to the risk; requires processors to only act on the documented instructions of the controller"
+},
+{
+"section": "如因業務需要委託本網站相關單位提供服務時，本網站亦會嚴格要求相關人員遵守保密義務，並且採取必要檢查程序以確保遵守。",
+"article numbers": "28, 29",
+"legal provisions": "Processor requirements: requires controllers to only use processors who provide sufficient guarantees to implement appropriate technical and organisational measures; requires processors to only act on the documented instructions of the controller"
+}
+],
+"non_compliant": [
+{
+"section": "於一般瀏覽時，伺服器會自行記錄相關行徑，包括您使用連線設備的IP位址、使用時間、使用的瀏覽器、瀏覽及點選資料記錄等，做為我們增進網站服務的參考依據，此記錄為內部應用，絕對不會對外公布。",
+"article numbers": "5(1)(a), 5(1)(b)",
+"legal provisions": "Principles relating to processing of personal data: requires personal data to be collected for specified, explicit and legitimate purposes; requires personal data to be adequate, relevant and limited to what is necessary in relation to the purposes for which they are processed",
+"amend": "This section should clarify the specific, explicit, and legitimate purposes for collecting browsing data, such as improving website functionality or providing personalized content. It should also specify the legal basis for processing this data, such as consent or legitimate interests, and provide information about data retention periods."
+},
+{
+"section": "本網站絕不會提供、交換、出租或出售任何您的個人資料給其他個人、團體、私人企業或公務機關，但有法律依據或合約義務者，不在此限。",
+"article numbers": "6(1)",
+"legal provisions": "Lawfulness of processing: requires a valid legal basis for processing personal data, such as consent, contract, legal obligation, vital interests, public task, or legitimate interests",
+"amend": "While this section acknowledges legal bases for data sharing, it should be more specific about the circumstances under which data may be shared with third parties. It should list the specific legal bases that apply, such as legal obligations or contractual necessities, and provide examples of situations where sharing might occur."
+}
+]
+}

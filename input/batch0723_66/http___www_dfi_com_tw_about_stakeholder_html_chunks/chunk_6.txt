@@ -1,0 +1,20 @@
+第三方 Cookie
+使用我們的網站可能會導致某些不受 DFI 控制的 Cookie 被儲存。若您造訪的網站使用第三方分析或行銷自動化工具或包含從第三方網站顯示的內容，可能會發生此情況。我們不控制這些 Cookie 的儲存，請參閱相關第三方的隱私權政策以取得更多資訊。
+
+Cookie 持續多久
+Cookie 持續的時間長度各不相同，視用途而定：
+工作階段 Cookie
+只會儲存到您離開網站或關閉網頁瀏覽器為止。
+持續性 Cookie
+會保留在您的電腦上，直到它們被刪除或過期。持續性 Cookie 停留在裝置上的時間長度因 Cookie 而異。
+
+如何管理 Cookie
+管理、停用和刪除 Cookie 有幾種方法
+變更瀏覽器設定
+您也可以讓瀏覽器停止接受 Cookie，方式是變更瀏覽器的 Cookie 設定。Cookie 設定通常在網際網路瀏覽器的「選項」或「偏好設定」選單中。若要瞭解這些設定，以下連結可能會有幫助。您也可以使用網際網路瀏覽器的「說明」選項取得詳細資訊。
+• Internet Explorer 的 Cookie 設定  
+• Firefox 的 Cookie 設定
+• Chrome 的 Cookie 設定
+• Safari 的 Cookie 設定
+實用連結
+若要深入瞭解 Cookie 或如何加以停用，請造訪 All About Cookies 網站，如果您位於歐盟地區，請造訪Your Online Choices 網站。

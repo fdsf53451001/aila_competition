@@ -1,0 +1,40 @@
+{
+"compliant": [
+{
+"section": "本網站群所蒐集的個人資料，將依其蒐集時所闡述之特定目的使用",
+"article numbers": "5.1.b",
+"legal provisions": "Personal data shall be collected for specified, explicit and legitimate purposes and not further processed in a manner that is incompatible with those purposes"
+},
+{
+"section": "線上申請服務中所涉及的個人資訊將會被轉交給負責該項服務的相關單位，以便與使用者聯繫。",
+"article numbers": "6.1.a",
+"legal provisions": "the data subject has given consent to the processing of his or her personal data for one or more specific purposes"
+}
+],
+"non_compliant": [
+{
+"section": "若使用者不希望本網站群使用Cookies，則除非使用者先依照下面說明的方式停用Cookies，否則請不要使用本網站群服務。",
+"article numbers": "7.1",
+"legal provisions": "the data subject has given consent to the processing of his or her personal data for one or more specific purposes",
+"amend": "Consent should be freely given, specific, informed and unambiguous. This section makes accessing the service conditional on consent to cookie use, which may be considered invalid under GDPR."
+},
+{
+"section": "本網站群得自動將所收集到的任何資訊連結至個人資訊。",
+"article numbers": "5.1.b",
+"legal provisions": "Personal data shall be collected for specified, explicit and legitimate purposes and not further processed in a manner that is incompatible with those purposes",
+"amend": "The policy should specify the purposes for linking collected information with personal data. It should also mention the legal basis for such processing (e.g., consent, legitimate interest)."
+},
+{
+"section": "個人資料之使用目的、利用對象、時間等資訊請參考活動網頁之內容",
+"article numbers": "12, 13",
+"legal provisions": "Information to be provided where personal data are collected from the data subject",
+"amend": "The policy should clearly and concisely provide information about data processing purposes, recipients, retention periods, etc., within the privacy policy itself. Referring users to other pages might not be considered sufficiently transparent."
+},
+{
+"section": "本網站群不會將其做為超出蒐集之特定目的以外的用途。",
+"article numbers": "5.1.b",
+"legal provisions": "Personal data shall be collected for specified, explicit and legitimate purposes and not further processed in a manner that is incompatible with those purposes",
+"amend": "While this statement aligns with GDPR, the policy should explicitly state the specific purposes for data collection and processing."
+}
+]
+}

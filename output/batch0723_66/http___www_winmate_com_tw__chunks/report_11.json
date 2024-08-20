@@ -1,0 +1,10 @@
+{
+"compliant": [
+{
+"section": "如何透過 Google Chrome 瀏覽器控制您的Cookie設定：\nhttps://support.google.com/chrome/answer/95647?hl=zh-CN\n如何透過 Microsoft Internet Explorer 瀏覽器控制您的Cookie設定：\nhttps://support.microsoft.com/en-us/help/278835/how-to-delete-cookie-files-in-internet-explorer\n如何透過 Mozilla Firefox 瀏覽器控制您的Cookie設定：\nhttps://support.mozilla.org/en-US/kb/delete-cookies-remove-info-websites-stored\n如何透過 Apple Safari 瀏覽器控制您的Cookie設定：\nhttps://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac",
+"article numbers": "12, 13",
+"legal provisions": "Providing users with clear and concise information on how to control their cookie settings aligns with the GDPR's principles of transparency and user control (Articles 12 and 13)."
+}
+],
+"non_compliant": []
+}

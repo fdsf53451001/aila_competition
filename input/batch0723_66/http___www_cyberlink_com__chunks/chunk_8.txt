@@ -1,0 +1,9 @@
+在上述第 (2)a 與 (2)b 所述期間，我們將對您的資料處理加以限制，以儲存並維護此類資料安全性，除非就任何法律聲明或適用法律規定之任何義務須對此類資料進行審核。
+一旦上述 (1)、(2) 與 (3) (在適用範圍內) 的期間結束，我們將：
+永久刪除或銷毀相關資訊；或
+匿名化相關資訊。
+第三方服務
+使用我們的服務時，您可能會存取由第三方服務提供者提供的服務。例如，您可能透過我們的行動應用程式或電腦軟體上傳影片至 YouTube；或於使用我們的電腦軟體時啟用 YouTube 直播服務。此類第三方服務提供者具有不同且獨立的隱私權政策和 / 或服務條款，如下所示：
+YouTube API 服務條款 (https://developers.google.com/youtube/terms/api-services-terms-of-service)
+Google 隱私權政策 (https://policies.google.com/privacy)
+TikTok 隱私權政策 (https://www.tiktok.com/legal/page/row/privacy-policy/en) 與服務條款 (https://www.

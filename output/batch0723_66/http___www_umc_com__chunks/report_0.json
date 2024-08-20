@@ -1,0 +1,67 @@
+{
+"compliant": [
+{
+"section": "The purpose of this privacy policy is to explain how United Microelectronics Corporation (hereinafter referred to as \"UMC\") collects and processes (hereinafter referred to as” Process” or “Processing”) your Personal Data.",
+"article_numbers": "13, 14",
+"legal_provisions": "The data controller must provide information about data processing to the data subject in a concise, transparent, intelligible and easily accessible form (Articles 13 and 14)."
+},
+{
+"section": "It is recommended that you read this policy carefully and check this website regularly to keep you informed of the updates.",
+"article_numbers": "13, 14",
+"legal_provisions": "The data controller must provide information about data processing to the data subject in a concise, transparent, intelligible and easily accessible form (Articles 13 and 14)."
+},
+{
+"section": "UMC may collect your Personal Data from the following sources: (1) Data provided by your initiatives: you contact UMC via e-mail or telephone, or provide your personal data to apply for job vacancies in UMC.",
+"article_numbers": "13, 14",
+"legal_provisions": "The data controller must provide information about data processing to the data subject in a concise, transparent, intelligible and easily accessible form (Articles 13 and 14)."
+},
+{
+"section": "UMC obtains in business or from business cooperation: UMC obtains your personal data directly from you in business contacts or activities.",
+"article_numbers": "13, 14",
+"legal_provisions": "The data controller must provide information about data processing to the data subject in a concise, transparent, intelligible and easily accessible form (Articles 13 and 14)."
+},
+{
+"section": "Personal Data obtained in UMC website: UMC may obtain your personal data from your registrations or browsing of UMC’ website and/or systems wherein.",
+"article_numbers": "13, 14",
+"legal_provisions": "The data controller must provide information about data processing to the data subject in a concise, transparent, intelligible and easily accessible form (Articles 13 and 14)."
+}
+],
+"non_compliant": [
+{
+"section": "In order to respond to the legal changes and the needs of UMC's business execution, UMC will modify this policy from time to time.",
+"article_numbers": "13, 14",
+"legal_provisions": "The data controller must inform data subjects of any changes to the purposes of processing. (Articles 13(2)(b), 14(3)(b))",
+"amend": "It is recommended to be more specific and state what might change in the privacy policy and how it will impact individuals' rights. For example, UMC could state that it will inform users of any changes to the purposes of processing their data."
+},
+{
+"section": "UMC may obtain your personal data because of cooperation in research and development, business interactions, retaining you as a consultant, lecturer of UMC, or you’re the contact windows for the aforementioned business cooperation.",
+"article_numbers": "5",
+"legal_provisions": "Data must be collected for specified, explicit and legitimate purposes and not further processed in a manner that is incompatible with those purposes (Article 5(1)(b)).",
+"amend": "UMC should specify the purposes for which personal data is collected for each of these situations (cooperation in research and development, business interactions, etc.) and ensure that the processing is limited to what is necessary for those specific purposes."
+},
+{
+"section": "Your self-disclosure: UMC may obtain your personal data related to UMC contents in social medias.",
+"article_numbers": "5",
+"legal_provisions": "Data must be collected for specified, explicit and legitimate purposes and not further processed in a manner that is incompatible with those purposes (Article 5(1)(b)).",
+"amend": "UMC should specify the purpose for collecting personal data from social media and ensure it has a lawful basis for processing this data, such as consent or legitimate interest, considering the individuals' reasonable expectations."
+},
+{
+"section": "Personal Data provided by Third party: UMC may obtain your personal data from credit reference agencies, law enforcement agencies, or plugins and cookies by a third party.",
+"article_numbers": "14, 6",
+"legal_provisions": "When personal data has not been obtained from the data subject, the controller must provide the individual with information about the source of the personal data (Article 14). Data must be processed lawfully, fairly and in a transparent manner (Article 5(1)(a)).",
+"amend": "UMC should specify the legal basis for obtaining data from third parties, such as credit reference agencies or law enforcement. It should also be transparent about the types of data received from these sources and the purposes for processing this data."
+},
+{
+"section": "Expertise and social information: educational background, research field, languages, professional skills or expertise, employment records, current occupation, qualifications, certifications, work experience, membership of various trade unions or associations, and relationship with other individuals or institutions.",
+"article_numbers": "5",
+"legal_provisions": "Data minimization: UMC should only collect and process personal data that is adequate, relevant and limited to what is necessary for the purposes for which it is processed (Article 5(1)(c)).",
+"amend": "UMC should carefully assess whether all the listed data points under \"Expertise and social information\" are truly necessary for the specified purposes of processing. If not, UMC should limit the collection and processing of this data to what is strictly required."
+},
+{
+"section": "Your consents record: your written consents, the date and time of consents, the consents formats etc.",
+"article_numbers": "7",
+"legal_provisions": "When relying on consent as a legal basis for processing, the controller must be able to demonstrate that the data subject has consented to the processing (Article 7(1)).",
+"amend": "UMC should specify the purposes for which consent is obtained and ensure that the consent is freely given, specific, informed and unambiguous. This includes providing clear and separate consent requests for each processing purpose."
+}
+]
+}

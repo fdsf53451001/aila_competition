@@ -1,0 +1,78 @@
+{
+"compliant": [
+{
+"section": "本集團採行資料使用權限控管，只有經過授權之人員，才能在必要之範圍內，使用您的資料，以避免洩露您的資料，您所提供的資訊若無保存必要時，將確實銷毀。相關人員皆負有保密義務，如有違反者，將受到相關處分。",
+"article numbers": "5, 18, 24, 32",
+"legal provisions": "Data minimization, purpose limitation, confidentiality, security of processing"
+},
+{
+"section": "本集團設置防火牆、入侵偵測防護系統及防毒機制輔助，以保護儲存資料之伺服器及其他儲存裝置，防止未經授權地侵入行為。",
+"article numbers": "32",
+"legal provisions": "Security of processing"
+},
+{
+"section": "本集團建置實體上之安全措施，如門禁管制、保全系統並異地儲存您的資料，以因應緊急事件或災害發生時仍能保存您的資料。",
+"article numbers": "32",
+"legal provisions": "Security of processing"
+},
+{
+"section": "若需提供您的個人資料予第三人時，應符合下列情形或其他法令規定：\n依法令要求經過您的同意。\n司法單位或其他主管機關經合法正式的程序要求時。\n符合法令所允許的國際傳輸。",
+"article numbers": "6",
+"legal provisions": "Lawfulness of processing"
+},
+{
+"section": "為了提供您其他服務或優惠權益，需要與提供該服務或優惠之第三人(含供應商)共用您的資訊時，本網站會在活動時提供充分說明並告知，您可以自由選擇是否接受這項服務或優惠。",
+"article numbers": "6, 7",
+"legal provisions": "Lawfulness of processing, Conditions for consent"
+},
+{
+"section": "您得透過電子郵件或致電本集團或共享客戶資料公司，行使下列權利(電子郵件：ir@cdibh.com；電話：(02)2763-8800)。惟依法本集團因執行業務所必需者或其他法令之要求，得不依您的請求辦理。\n查詢、請求閱覽或請求製給複製本，而本集團依法得酌收必要成本費用。\n請求補充或更正，惟依法您應為適當之釋明。\n請求停止蒐集、處理、利用及請求刪除。\n請求處理限制。\n請求資料可攜性。\n拒絕自動化剖析。\n拒絕直接行銷目的之個人資料處理。",
+"article numbers": "12-22",
+"legal provisions": "Rights of the data subject"
+}
+],
+"non_compliant": [
+{
+"section": "本須知所稱之客戶資料包括客戶基本資料、身分核驗資料、帳戶資料、金融商品或服務之交易紀錄、負面資訊、認識客戶(KYC)資料及金融機構加值之資料、電子通訊歷程記錄(如IP位址、上網時間以及在網站內所瀏覽的網頁等資料)或其他經客戶同意共享之資料等。",
+"article numbers": "4",
+"legal provisions": "Transparency and modalities",
+"amend": "This section needs to be more specific about the categories of data being collected and the purposes for which they are being processed. It should also clearly state the legal basis for processing each category of data."
+},
+{
+"section": "本集團如因業務需要委託相關單位(含供應商)提供服務時，亦會嚴格要求其遵守保密義務，並採取必要之檢查程序以確定其確實遵守。",
+"article numbers": "28",
+"legal provisions": "Processor",
+"amend": "The policy should clearly identify all processors and provide details about the processing activities they are entrusted with. It should also specify the obligations of the processors and the measures taken to ensure their compliance with GDPR."
+},
+{
+"section": "本集團落實資料蒐集、處理及利用管理程序，確保相關業務符合法令之要求及例外適用情形，依據本集團個人資料管理政策暨個人資料告知聲明所列蒐集、處理、利用個人資料之目的，及個人資料利用之對象，於適當、相關及不過度之前提，以最小化原則辦理，並維持資料之正確性及及時更新。",
+"article numbers": "5, 24",
+"legal provisions": "Principles relating to processing of personal data",
+"amend": "This section should be more specific about the data processing activities, their purposes, and the legal basis for each. It should also clearly explain how the data minimization principle is applied."
+},
+{
+"section": "本集團透過內部規範建立稽核機制，並透過外部個人資料保護相關認證，確保個人資料保護之全面。",
+"article numbers": "24, 32, 40",
+"legal provisions": "Accountability",
+"amend": "The policy should provide more details about the accountability measures implemented, including the specific mechanisms for audits and certifications."
+},
+{
+"section": "中華開發金融控股股份有限公司、凱基商業銀行股份有限公司、凱基證券股份有限公司、凱基人壽保險股份有限公司、凱基期貨股份有限公司、凱基證券投資顧問股份有限公司、凱基證券投資信託股份有限公司(以下簡合稱「共享客戶資料公司」), 為辨識風險、強化風險控管、提升客戶便利性、促進金融機構間跨業合作並確保客戶權益之目的，需共享您所提供的資料，特依據個人資料保護法及金融機構間資料共享指引(以下稱「共享指引」)等相關法令，揭露客戶資料共享內容。",
+"article numbers": "13, 14",
+"legal provisions": "Information to be provided where personal data are collected from the data subject",
+"amend": "This section should clearly identify each company involved in data sharing and provide specific details about the data shared with each entity, the purpose of sharing, and the legal basis for each sharing activity."
+},
+{
+"section": "共享資料包括客戶基本資料、身分核驗資料、帳戶資料、金融商品或服務之交易紀錄、負面資訊、認識客戶(KYC)資料及金融機構加值之資料、電子通訊歷程記錄(如IP位址)、經客戶同意共享之資料、其他依法令規定或因金控爲管理子公司而共享之資料等。",
+"article numbers": "13, 14",
+"legal provisions": "Information to be provided where personal data are collected from the data subject",
+"amend": "This section needs to be more specific about the categories of data being shared and the purposes for which they are being shared. It should also clearly state the legal basis for sharing each category of data."
+},
+{
+"section": "本網站會記錄您上網之IP位址、上網時間以及在網站內所瀏覽的網頁等資料，這些資料係供本網站管理作業所需，如：內部網站流量和網路行為調查的總量分析，以利於提昇本網站的服務品質。",
+"article numbers": "5",
+"legal provisions": "Lawfulness of processing",
+"amend": "Collecting and processing IP addresses as personal data requires a valid legal basis under GDPR. The policy should clearly state the legal basis for collecting and processing this data and ensure it complies with GDPR requirements."
+}
+]
+}

@@ -1,0 +1,17 @@
+{
+"compliant": [],
+"non_compliant": [
+{
+"section": "8. INDEMNITY\nYou agree to indemnify and hold Faraday and its subsidiaries, affiliates, officers, agents, employees, partners and licensors harmless from any claim or demand, including reasonable attorneys' fees, made by any third party due to or arising out of Content you submit, post, transmit, modify or otherwise make available through the Website, your use of the Website, your connection to the Website, your violation of the T&Cs, or your violation of any rights of another.",
+"article_numbers": "6(1), 24, 78",
+"legal_provisions": "Data subjects' rights to compensation and liability, Right to an effective judicial remedy",
+"amend": "This section should be amended to clarify that Faraday's liability in the case of data breaches or other GDPR violations is not limited by this indemnity clause. Data subjects have the right to seek compensation from Faraday directly, and this right cannot be waived."
+},
+{
+"section": "9. MODIFICATIONS TO WEBSITE\nFaraday reserves the right at any time and from time to time to modify or discontinue, temporarily or permanently, the Website (or any part thereof) with or without notice.",
+"article_numbers": "13(1)(c), 13(2)(a)",
+"legal_provisions": "Transparency obligations, Information to be provided where personal data are collected from the data subject",
+"amend": "While Faraday can modify its website, it needs to specify how it will inform users about changes to the privacy policy, especially if these changes affect the processing of their data. The company should be more specific about the possibility of modifications and how users will be notified, particularly if the changes involve increased processing or data sharing."
+}
+]
+}

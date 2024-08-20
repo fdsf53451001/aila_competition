@@ -1,0 +1,50 @@
+{
+"compliant": [
+{
+"section": "資料使用之地區\n用於本公司位於全球各地之營業所，以便提供相關服務。",
+"article numbers": "Article 5(1)(a)",
+"legal provisions": "Data minimization: Data should only be processed if it's necessary for a specific, explicit, and legitimate purpose."
+},
+{
+"section": "將收集的問卷調查內容進行統計與分析，分析結果之統計數據或說明文字呈現，除供內部研究外，我們會視需要公佈統計數據及說明文字，但不涉及特定個人之資料。",
+"article numbers": "Article 5(1)(b), Article 24(1)",
+"legal provisions": "Purpose limitation: Data can only be used for the purposes it was collected for, and those purposes must be clearly communicated to the individual. \n Accountability: The controller is responsible for, and must be able to demonstrate compliance with, the GDPR principles."
+},
+{
+"section": "資料之保護\n本網站主機均設有防火牆、防毒系統等相關的各項資訊安全設備及必要的安全防護措施，加以保護網站及您的個人資料採用嚴格的保護措施，只由經過授權的人員才能接觸您的個人資料，如有違反保密義務者，將會受到相關的法律處分。\n如因業務需要有必要委託其他單位提供服務時，本網站亦會嚴格要求其遵守保密義務，並且採取必要檢查程序以確定其將確實遵守。",
+"article numbers": "Article 5(1)(f), Article 32",
+"legal provisions": "Integrity and confidentiality: Data must be processed in a way that ensures its security, including protection against unauthorized or unlawful processing, accidental loss, destruction, or damage. \n Security of processing: Appropriate technical and organizational measures must be implemented to ensure a level of security appropriate to the risk."
+},
+{
+"section": "您對於其個人資料所享有之權利\n您有權隨時提出以下需求：\n個人資料查詢、取得複製本（得酌收必要成本和費用），及更正或補充\n停止將您的個人資料用於行銷或接收特定或各類行銷資料\n除法令要求保留之用戶個人資料外，期間屆滿時要求刪除、停止處理及利用您的個人資料",
+"article numbers": "Articles 15, 16, 17, 18, 21",
+"legal provisions": "Right of access (Article 15), Right to rectification (Article 16), Right to erasure ('right to be forgotten') (Article 17), Right to restriction of processing (Article 18), Right to object (Article 21)"
+}
+],
+"non_compliant": [
+{
+"section": "資料使用之對象及方式\n介紹與行銷產品及廣告，如本公司及與本公司有特約合作關係之第三人及本公司之集團與合作夥伴所提供產品和服務。",
+"article numbers": "Article 6(1), Article 7",
+"legal provisions": "Lawfulness of processing: Data can only be processed if there is a lawful basis for doing so. This includes consent, contract, legal obligation, vital interests, public task, or legitimate interests. \n Conditions for consent: Consent must be freely given, specific, informed, and unambiguous. It must be as easy to withdraw consent as it is to give it.",
+"amend": "This section needs to clearly state the lawful basis for processing personal data for marketing purposes. If relying on consent, it must meet the GDPR's requirements for valid consent. This includes being freely given, specific, informed, and unambiguous. It should also be easy for individuals to withdraw their consent at any time."
+},
+{
+"section": "與第三人共用個人資料之政策\n本網站絕不會將您的個人資料揭露於與本服務無關之第三人或上述目的以外之用途。但不包括下列情形：\n經由您書面同意\n法律明文規定\n為免除您生命、身體、自由或財產上之危險\n與公務機關或學術研究機構合作，基於公共利益為統計或學術研究而有必要，且資料經過提供者處理或蒐集者依其揭露方式無從識別特定之當事人\n當您在網站的行為，違反服務條款或可能損害或妨礙網站與其他使用者權益或導致任何人遭受損害時，經網站管理單位研析揭露您的個人資料是為了辨識、聯絡或採取法律行動所必要者\n本網站委託廠商協助蒐集、處理或利用您的個人資料時，將對委外廠商或個人善盡監督管理之責",
+"article numbers": "Article 4(8), Article 28",
+"legal provisions": "Definition of 'controller' and 'processor': The policy should clearly define and distinguish between the roles of data controller and data processor. \n Processor requirements: The controller must only use processors who provide sufficient guarantees to implement appropriate technical and organizational measures to meet the GDPR's requirements.",
+"amend": "While this section lists some exceptions to the data sharing policy, it needs to be more specific and aligned with the GDPR's lawful bases for processing. It should clearly identify each third party with whom data is shared, the purpose of sharing, and the legal basis for doing so. Additionally, it should mention the existence of data processing agreements with these third parties to ensure GDPR compliance."
+},
+{
+"section": "網站對外的相關連結\n本網站的網頁提供其他網站的網路連結，您也可經由本網站所提供的連結，點選進入其他網站。但該連結網站不適用本網站的隱私權保護政策，您必須參考該連結網站中的隱私權保護政策。",
+"article numbers": "N/A",
+"legal provisions": "While not directly addressed in the GDPR, providing links to external websites with potentially different privacy practices can raise concerns about transparency and user awareness.",
+"amend": "Consider adding a disclaimer that clarifies the website does not endorse or control the content or privacy practices of linked websites. Encourage users to review the privacy policies of those websites independently."
+},
+{
+"section": "Cookie之使用\n為了提供您最佳的服務，本網站會在您的電腦中放置並取用我們的Cookie，若您不願接受Cookie的寫入，您可在您使用的瀏覽器功能項中設定隱私權等級為高，即可拒絕Cookie的寫入，但可能會導致網站某些功能無法正常執行。",
+"article numbers": "Article 7(4), Recital 32",
+"legal provisions": "Conditions for consent: Consent must be freely given, specific, informed, and unambiguous. It must be as easy to withdraw consent as it is to give it. \n Use of cookies: The GDPR considers cookies as personal data when they can be used to identify an individual.",
+"amend": "This section needs to be more specific about the types of cookies used, their purpose, and whether they are essential for the website's functionality or used for other purposes like tracking. It should also provide a clear and easy way for users to refuse non-essential cookies without negatively impacting their browsing experience."
+}
+]
+}

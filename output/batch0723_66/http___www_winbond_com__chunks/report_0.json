@@ -1,0 +1,50 @@
+{
+"compliant": [
+{
+"section": "This Privacy Statement applies to all website or online application that refer to or link to this Privacy Statement.",
+"article numbers": "13, 14",
+"legal provisions": "Information provided where personal data are collected by other means than via the website, such as paper forms, must be easily accessible and in clear and plain language."
+},
+{
+"section": "You may choose whether or not to provide certain personal information to us; however, if you do not provide some required personal information, you may not be able to use or obtain the products/services on this Website.",
+"article numbers": "7(4)",
+"legal provisions": "Consent should not be the legal basis for processing where there is a clear imbalance between the data subject and the controller."
+},
+{
+"section": "WINBOND will not release your personal information to any irrelevant third party; however, we may provide such information to WINBOND’s affiliates, contractors, distributors or agents to the extent necessary to carry out the Purpose.",
+"article numbers": "28",
+"legal provisions": "Outlines the requirements for a processor to process personal data on behalf of a controller."
+},
+{
+"section": "WINBOND also reserves the right to disclose such information to a third party if WINBOND considers any of the following conditions to exist: (1) such disclosure is required by law; (2) such disclosure is required to comply with legal processes or governmental requests; (3) such disclosure is to prevent, investigate, detect, or prosecute criminal offences or attacks on the website; (4) such disclosure is required to protect the rights, property, or safety of WINBOND and the users of this Website; or (5) such disclosure would serve to protect public interest.",
+"article numbers": "6(1)",
+"legal provisions": "Processing of personal data is lawful if it is necessary for compliance with a legal obligation to which the controller is subject."
+}
+],
+"non_compliant": [
+{
+"section": "Collection of Personal Information You may be required to provide personal information or others may provide your personal information to us, such as name, address, email address, phone number or other contact information by registering a website account in order to use certain services, to locate product information, to purchase products/services, or to seek assistance at this Website.",
+"article numbers": "5(1)(a), 5(1)(b)",
+"legal provisions": "Data must be collected for specified, explicit and legitimate purposes and not further processed in a manner that is incompatible with those purposes.",
+"amend": "Clearly specify the legal basis for processing personal data, such as consent, contract, legal obligation, vital interests, public interest, or legitimate interests. If relying on consent, ensure it is freely given, specific, informed, and unambiguous, with a clear affirmative action."
+},
+{
+"section": "In addition, when you visit our website, we may collect certain personal information by automated means, such as cookies and web beacons. The personal information we collect in this manner includes IP address, browser characteristics, device characteristics, operating system, language preferences, referring URLs, information on actions taken on our website, and dates and times of website visits.",
+"article numbers": "7",
+"legal provisions": "Conditions for consent. Consent must be freely given, specific, informed and unambiguous indication of the data subject's wishes by which he or she, by a statement or by a clear affirmative action, signifies agreement to the processing of personal data relating to him or her.",
+"amend": "Provide clear and comprehensive information about the use of cookies and similar technologies, including the types of cookies used, the purposes of data collection, and the data subject's rights to manage cookie preferences. Obtain consent for non-essential cookies."
+},
+{
+"section": "Purpose of Processing Personal Information Any personal information WINBOND collects from you or others is used to respond to your inquiries, to send you materials and products, to provide services you request, to provide after-sales service related to the products or services, to provide you with information about products or services, promotions, special offers and other information related to our products or services, to provide you with personalized experience in using this Website, to maintain or upgrade the quality of this Website and the services provided at this Website, or to assess and analyze our market, users, customers, products and services (collectively the “Purpose”).",
+"article numbers": "5(1)(c)",
+"legal provisions": "Personal data shall be adequate, relevant and limited to what is necessary in relation to the purposes for which they are processed ('data minimisation').",
+"amend": "Limit the collection and processing of personal data to what is necessary for the specified, explicit, and legitimate purposes. Avoid collecting excessive or irrelevant information."
+},
+{
+"section": "International Transfer We may transfer personal information we collect about you to countries other than the country in which the personal information originally was collected. Those countries may not have the same data protection laws as the country in which you initially provided the personal information.",
+"article numbers": "44-50",
+"legal provisions": "Transfers of personal data outside the EU are subject to strict rules to ensure that the data protection rights of individuals are protected. ",
+"amend": "Identify the legal basis for international data transfers, such as adequacy decisions, appropriate safeguards (e.g., standard contractual clauses), or derogations. Implement appropriate technical and organizational measures to protect personal data during transfers."
+}
+]
+}

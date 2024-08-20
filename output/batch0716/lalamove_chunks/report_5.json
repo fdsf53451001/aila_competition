@@ -1,0 +1,71 @@
+{
+"compliant": [
+{
+"section": "(A)(1) 提供和維護我們的服務，例如：\n  (a) 創建、更新和維護閣下在我們這裏註冊的帳戶；\n(b) 提供運輸和運送服務；\n(c) 運輸追蹤；和\n(d) 就我們的服務或送貨提供及處理付款。",
+"article numbers": "6(1)(b)",
+"legal provisions": "processing is necessary for the performance of a contract"
+},
+{
+"section": "(A)(2) 監控我們網站、服務或應用程式的使用情況；",
+"article numbers": "6(1)(f)",
+"legal provisions": "processing is necessary for the purposes of the legitimate interests pursued by the controller or by a third party"
+},
+{
+"section": "(A)(3) 幫助維護我們服務的安全性和可靠性，並防止犯罪和欺詐；",
+"article numbers": "6(1)(f)",
+"legal provisions": "processing is necessary for the purposes of the legitimate interests pursued by the controller or by a third party"
+},
+{
+"section": "(A)(6) 用於客戶服務：閣下的個人資料有助於我們更有效地回應閣下的客戶服務請求、接收反饋和支持需求；",
+"article numbers": "6(1)(f)",
+"legal provisions": "processing is necessary for the purposes of the legitimate interests pursued by the controller or by a third party"
+},
+{
+"section": "(A)(9) 與我們的服務相關的非促銷通信，例如通知閣下有關我們的應用程式或服務的更改；",
+"article numbers": "6(1)(f)",
+"legal provisions": "processing is necessary for the purposes of the legitimate interests pursued by the controller or by a third party"
+},
+{
+"section": "(A)(10) 用於營運我們的業務：我們可能會使用閣下的個人資料來營運我們的業務（包括管理和維護存儲個人資料的資料庫）；",
+"article numbers": "6(1)(f)",
+"legal provisions": "processing is necessary for the purposes of the legitimate interests pursued by the controller or by a third party"
+},
+{
+"section": "(A)(11) 用於進行法律訴訟或回應監管機構、政府部門和其他公共機關的要求，或遵守我們的法律義務；",
+"article numbers": "6(1)(c)",
+"legal provisions": "processing is necessary for compliance with a legal obligation to which the controller is subject"
+}
+],
+"non_compliant": [
+{
+"section": "(A)(4) 就我們應用程式提供個性化體驗：識別閣下的偏好和行為有助於我們更好地瞭解閣下的個人需求和興趣，並為閣下提供更度身定制的服務。對於部分個性化的促銷活動，我們可能需要徵得閣下的同意。在需要徵得同意的情況下，我們只會在徵得閣下同意後開展促銷活動。如果閣下不希望收到此類資訊，閣下可以隨時選擇取消訂閱；",
+"article numbers": "6(1)(a)",
+"legal provisions": "consent of the data subject",
+"amend": "This section should clearly state that consent is required for processing personal data for personalized experiences, including profiling. It should also specify the types of data used for profiling and the purpose of such processing. The option to opt-out should be clearly presented and easily accessible."
+},
+{
+"section": "(A)(5) 為了改進或開發我們的網站、服務和應用程式：我們可能會使用閣下的個人資料來開發新的特性和功能，為了改進我們的軟件和介面設計，我們可能會使用錯誤報告來改進安全功能；",
+"article numbers": "6(1)(f)",
+"legal provisions": "processing is necessary for the purposes of the legitimate interests pursued by the controller or by a third party",
+"amend": "While legitimate interest can be a legal basis, it needs to be balanced against the rights and freedoms of individuals. This section should explain how the use of personal data for these purposes is necessary and proportionate, and how it impacts individuals' privacy."
+},
+{
+"section": "(A)(7) 用於研發：閣下的個人資料將幫助我們測試、研究、分析、協助產品開發或用於機器學習以改善閣下的使用體驗；",
+"article numbers": "6(1)(f)",
+"legal provisions": "processing is necessary for the purposes of the legitimate interests pursued by the controller or by a third party",
+"amend": "Similar to (A)(5), this section needs to provide more details on the balancing test conducted to ensure that the use of personal data for R&D purposes is justified and proportionate. It should also specify the types of data used and the safeguards in place to protect individuals' privacy."
+},
+{
+"section": "(A)(8) 彙編閣下的統計數據及分析閣下的服務和應用程式使用情況；",
+"article numbers": "6(1)(f)",
+"legal provisions": "processing is necessary for the purposes of the legitimate interests pursued by the controller or by a third party",
+"amend": "This section should clarify whether the statistical data and analysis involve personal data. If so, it needs to explain the purpose of such processing and how it aligns with the legitimate interests of the controller or a third party. It should also address data minimization principles and anonymization techniques."
+},
+{
+"section": "(A)(12) 用於直接促銷，如果我們根據相關法律法規和本私隱條例第14條取得閣下的同意。",
+"article numbers": "6(1)(a)",
+"legal provisions": "consent of the data subject",
+"amend": "This section should clearly explain the types of direct marketing activities conducted and the channels used. It should also specify the type of consent required (e.g., opt-in) and how individuals can withdraw their consent at any time."
+}
+]
+}

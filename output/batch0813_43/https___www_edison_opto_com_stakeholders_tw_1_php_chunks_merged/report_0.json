@@ -1,0 +1,38 @@
+{
+"compliant": [
+{
+"section": "本公司網站的某些服務或功能，可能會收集用來識別特定個人的資訊，例如您的姓名、公司與職稱、連絡電話、電子郵件、郵寄地址或其他聯絡方式等。",
+"article numbers": "13.1 (a), (c)",
+"legal provisions": "Information provided directly by the data subject, such as when the data subject ... contacts the controller."
+},
+{
+"section": "我們所蒐集到的個人資訊，將可能在您基於特定目的而自願與艾笛森光電集團聯繫如工作應徵或要求的提供特定服務時使用；此外，我們也可能運用蒐集到的部分資訊，以協助改善本公司網站內容及服務品質。",
+"article numbers": "6.1 (a), (f)",
+"legal provisions": "(a) consent of the data subject; (f) processing is necessary for the purposes of the legitimate interests pursued by the controller or by a third party"
+},
+{
+"section": "艾笛森光電集團只會於上述您同意之特定目範圍內處理及利用您的個人資訊。",
+"article numbers": "5.1 (b)",
+"legal provisions": "collected for specified, explicit and legitimate purposes and not further processed in a manner that is incompatible with those purposes"
+},
+{
+"section": "若您希望更改您的個人資訊、停止收到我們提供的資訊、或希望自本公司網站資料庫中刪除您的個人資訊，請以電子郵件方式與我們聯繫 webmaster@edison-opto.com.tw 我們將盡快為您處理。",
+"article numbers": "15, 16, 17",
+"legal provisions": "Right of access, Right to rectification, Right to erasure ('right to be forgotten')"
+}
+],
+"non_compliant": [
+{
+"section": "此外，本公司網站亦可能自動收集使用者瀏覽網站時之相關附帶資訊，例如您的網際網路協定位址（IP）、瀏覽器類型、電腦作業系統等，或以Cookies、網路信標(Web beacon)等技術收集您使用本公司相關網頁之資訊，例如使用次數、使用時間等。",
+"article numbers": "7",
+"legal provisions": "Conditions for consent",
+"amend": "This section lacks details about obtaining explicit consent for collecting data like IP addresses, browser details, and usage data through cookies and web beacons. It should clearly state what data is collected, the purpose, and how consent is obtained and managed, especially for non-essential cookies."
+},
+{
+"section": "我們可能會將部分資訊提供給法律主管機關、我們的外部顧問、我們的服務供應商或因訴訟及其他法律程序之進行、為調查或預防犯罪之行為、收購時全部或部份業務與資產給第三方時、以及為提供廣告、外掛程式及網站內容優化時有必要性之訊息揭露。",
+"article numbers": "13.1 (c), (d), (f)",
+"legal provisions": "This section broadly mentions sharing data with various entities without specifying the legal basis for each. It should clearly state the legal grounds for each data sharing scenario (e.g., legal obligation, legitimate interest) and provide more details about the safeguards in place to protect personal data when shared with third parties.",
+"amend": "For each data sharing scenario, specify the legal basis (e.g., legal obligation for sharing with legal authorities, legitimate interest for sharing with service providers) and provide details about the safeguards in place to protect personal data."
+}
+]
+}

@@ -1,0 +1,28 @@
+{
+"compliant": [
+{
+"section": "We will provide notice before Your Personal Data is transferred and becomes subject to a different Privacy Policy.",
+"article numbers": "13, 14",
+"legal provisions": "Right to information in the case of transfers of personal data to third countries or international organisations"
+},
+{
+"section": "Law enforcement\n\nUnder certain circumstances, the Company may be required to disclose Your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).",
+"article numbers": "6(1)(c), 6(3)",
+"legal provisions": "Lawfulness of processing -  compliance with a legal obligation"
+}
+],
+"non_compliant": [
+{
+"section": "Other legal requirements\n\nThe Company may disclose Your Personal Data in the good faith belief that such action is necessary to:\nComply with a legal obligation\nProtect and defend the rights or property of the Company\nPrevent or investigate possible wrongdoing in connection with the Service\nProtect the personal safety of Users of the Service or the public\nProtect against legal liability",
+"article numbers": "6, 29(1)",
+"legal provisions": "Lawfulness of processing, specifically \"legitimate interests\".  The cited examples are overly broad and not specific enough to meet the \"necessity\" and \"balancing\" test required under legitimate interests.",
+"amend": "This section needs to be more specific about the legitimate interests being pursued and demonstrate that a balancing test was conducted to ensure that these interests do not override the fundamental rights and freedoms of data subjects. For example, instead of broadly stating \"Protect and defend the rights or property of the Company,\" specify the types of situations where disclosure might be necessary, such as suspected fraud or security breaches.  Each legitimate interest should be clearly defined and the balancing test documented."
+},
+{
+"section": "Security of Your Personal Data\n\nThe security of Your Personal Data is important to Us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure.",
+"article numbers": "5(1)(f), 32",
+"legal provisions": "Principles relating to processing of personal data - integrity and confidentiality.  While acknowledging that no system is 100% secure, the policy lacks details about the specific technical and organizational security measures implemented to protect personal data.",
+"amend": "The policy should be amended to include specific security measures taken to protect personal data. This could include, but is not limited to, encryption methods, access controls, data pseudonymization, regular security testing and assessments, and employee training programs on data protection."
+}
+]
+}

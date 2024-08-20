@@ -1,0 +1,34 @@
+{
+"compliant": [
+{
+"section": "若您為台灣居民，根據個人資料保護法您對於您的個人資訊擁有下列權利：\n查詢或請求閱覽 (我們可能酌收費用)。\n請求製給複製本 (我們可能酌收費用)。\n請求補充或更正。\n請求停止蒐集、處理或利用。\n請求刪除。",
+"article numbers": "15 (right of access), 16 (right to rectification), 17 (right to erasure/right to be forgotten), 18 (right to restriction of processing), 20 (right to data portability)",
+"legal provisions": "The listed rights for Taiwanese residents largely mirror the core data subject rights enshrined in the GDPR. This section aligns with the principles of transparency and data subject control."
+},
+{
+"section": "我們保護資訊的安全措施\n我們已實施技術及組織安全措施以保護我們持有及控管個人資訊之安全。舉例來說，此類措施包含限制僅員工及經授權之服務供應商，以其必要性或合約限制之基礎，針對本「隱私權政策」所述之目的存取個人資訊，以及其他行政、技術及實體防護。",
+"article numbers": "32 (security of processing), 24, 25 (general data processing principles)",
+"legal provisions": "This section aligns with the GDPR's requirement for data controllers to implement appropriate technical and organizational measures to ensure a level of security appropriate to the risk."
+}
+],
+"non_compliant": [
+{
+"section": "請注意，若您請求停止蒐集、處理、利用或請求刪除您的個人資訊，則此網站之使用，或我們對產品及服務之提供，或我們向您取得產品及服務 (於各情況適用時)，可能皆無法進行。若因此造成您的權益受損，我們不負相關責任。",
+"article numbers": "17 (right to erasure/right to be forgotten), 18 (right to restriction of processing), 21 (right to object)",
+"legal provisions": "The GDPR recognizes that data subject rights are not absolute. However, this statement is too broad. The GDPR outlines specific legal bases for processing (Article 6) and exceptions to data subject rights. The policy needs to specify the legal grounds for potential refusal and cannot disclaim all liability.",
+"amend": "Revise to clarify specific situations where requests to stop processing or delete data might be refused, aligning with legitimate grounds for refusal under the GDPR (e.g., legal obligations, performance of a contract)."
+},
+{
+"section": "請注意，電子郵件並非安全的媒體，且不應用於寄送機密或敏感資訊。您一旦於線上提供資訊，即代表您接受透過網際網路提供資訊所固有之安全風險，且不得要求我們負責任何安全性缺口，除非其源自我們的疏失或蓄意違約。",
+"article numbers": "5 (principles relating to processing of personal data), 32 (security of processing)",
+"legal provisions": "While it's appropriate to advise against sending sensitive information via email, this statement could be interpreted as absolving the company of responsibility for data security. The GDPR requires controllers to implement appropriate security measures and demonstrate accountability.",
+"amend": "Revise to emphasize the company's commitment to data security despite inherent risks associated with online communication. Instead of disclaiming liability, highlight the measures taken to protect data."
+},
+{
+"section": "當我們跨國傳輸資訊\n您的個人資訊可能經我們的整合電腦網路，與一個或多個位於美國及其他國家的 Aten 相關企業及辦公室傳輸或分享，並可能不會受到此類提供給我們或由我們所接收資訊之轄區之資料保護法律所規範。",
+"article numbers": "44 (general principle for transfers), 45 (transfers on the basis of an adequacy decision), 46 (transfers subject to appropriate safeguards)",
+"legal provisions": "The GDPR restricts transfers of personal data to countries outside the European Economic Area (EEA) that do not ensure an adequate level of data protection. The policy must specify the safeguards in place for international data transfers.",
+"amend": "Specify the legal mechanism used to legitimize data transfers outside of Taiwan, such as adequacy decisions, Standard Contractual Clauses, Binding Corporate Rules, or other recognized safeguards."
+}
+]
+}

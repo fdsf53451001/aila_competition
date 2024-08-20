@@ -1,0 +1,34 @@
+{
+"compliant": [
+{
+"section": "本網站可能會在您的電腦瀏覽器中寫入並讀取Cookie，若您不願意接受Cookie的寫入，可在瀏覽器功能項中設定拒絕Cookie的寫入，但可能無法正常執行本網站部分功能。",
+"article numbers": "Article 5(1)(a), Article 7(4)",
+"legal provisions": "Lawfulness of processing, Conditions for consent"
+},
+{
+"section": "為因應社會環境變遷、業務需求、科技發展與法令修改等，本公司可能不定時修訂本宣言，請您隨時上網參覽相關公告，以保障權益。",
+"article numbers": "Article 13(2)(a), Article 14(2)(a)",
+"legal provisions": "Information to be provided where personal data are collected from the data subject, Information to be provided where personal data have not been obtained from the data subject"
+}
+],
+"non_compliant": [
+{
+"section": "相關事宜請參閱本公司官網(www.tradevan.com.tw)公告，或請您本人電洽本公司（電話：02-26551188） 轉個資服務專員，本公司將有專人為您服務。",
+"article numbers": "Article 12(1), Article 13(1)",
+"legal provisions": "Transparent information, communication and modalities for the exercise of the data subject's rights, Information to be provided where personal data are collected from the data subject",
+"amend": "Provide clear and concise information about data processing in a layered approach. Include contact details of the data protection officer (DPO), if applicable."
+},
+{
+"section": "本網站的網頁提供其他網站的網路連結，您也可經由本網站所提供的連結，點選進入其他網站。但該連結網站不適用於本網站的隱私權政策，您必須參考該連結網站中的隱私權政策。",
+"article numbers": "N/A",
+"legal provisions": "N/A",
+"amend": "While not directly addressed by GDPR, it's good practice to inform users about the use of third-party links and their potential implications on data privacy."
+},
+{
+"section": "Cookie之使用\n本網站可能會在您的電腦瀏覽器中寫入並讀取Cookie，若您不願意接受Cookie的寫入，可在瀏覽器功能項中設定拒絕Cookie的寫入，但可能無法正常執行本網站部分功能。",
+"article numbers": "Article 7(2)",
+"legal provisions": "Conditions for consent",
+"amend": "Specify the types of cookies used, their purpose, and obtain explicit consent for non-essential cookies. Provide users with granular control over cookie settings."
+}
+]
+}

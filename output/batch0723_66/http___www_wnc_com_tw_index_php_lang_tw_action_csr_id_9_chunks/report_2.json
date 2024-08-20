@@ -1,0 +1,34 @@
+{
+"compliant": [
+{
+"section": "您的個人資訊可能會在蒐集所在國家和台灣進行處理。啓碁將致力於遵守所有關於客戶隱私權的適用法律。您的個人資訊至少會根據本線上隱私權政策與台灣法律處理。提醒您，台灣的法律可能會比您所在國家的法律嚴苛或寬鬆。",
+"article numbers": "Article 13, 14",
+"legal provisions": "Transparency and information to be provided"
+},
+{
+"section": "啓碁可能會不定時修改線上隱私權政策，建議您定期閱讀啓碁隱私權政策，您下次造訪我們網站時，政策可能已經更新。",
+"article numbers": "Article 13(2)(e), 14(4)",
+"legal provisions": "The right to be informed about changes to the privacy policy"
+}
+],
+"non_compliant": [
+{
+"section": "您的個人資訊可能會在蒐集所在國家和台灣進行處理。啓碁將致力於遵守所有關於客戶隱私權的適用法律。您的個人資訊至少會根據本線上隱私權政策與台灣法律處理。提醒您，台灣的法律可能會比您所在國家的法律嚴苛或寬鬆。",
+"article numbers": "Article 13, 14",
+"legal provisions": "Transparency and information to be provided",
+"amend": "This section lacks specifics about data processing. It should clearly state: \n- The specific purposes for processing personal data.\n- The legal basis for processing (e.g., consent, contract, legitimate interest).\n- The categories of personal data processed.\n- The recipients or categories of recipients of the personal data.\n- If data is transferred outside Taiwan, the safeguards for such transfers."
+},
+{
+"section": "啓碁可能會不定時修改線上隱私權政策，建議您定期閱讀啓碁隱私權政策，您下次造訪我們網站時，政策可能已經更新。",
+"article numbers": "Article 13(2)(e), 14(4)",
+"legal provisions": "The right to be informed about changes to the privacy policy",
+"amend": "While stating that the policy may change, it doesn't specify HOW users will be informed about these changes. It should state that users will be notified through prominent means, such as email or website banners, before the changes take effect."
+},
+{
+"section": "Missing sections",
+"article numbers": "Articles 12-23, 32-59",
+"legal provisions": "Various data subject rights, data security, and accountability",
+"amend": "The policy lacks information on crucial GDPR aspects, including:\n- **Data Subject Rights:** Right to access, rectification, erasure, restriction of processing, data portability, object to processing.\n- **Data Security:** Measures taken to secure personal data.\n- **Data Retention:** How long personal data is stored.\n- **Data Protection Officer (DPO):** Whether a DPO is designated.\n- **International Data Transfers:** Safeguards for data transfers outside the EEA.\n- **Legal Basis for Processing:** Specific legal basis for each processing activity.\n- **Automated Decision-Making and Profiling:** Information about any automated decision-making."
+}
+]
+}

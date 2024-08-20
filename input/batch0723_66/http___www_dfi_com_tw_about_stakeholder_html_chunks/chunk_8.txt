@@ -1,0 +1,30 @@
+聯絡我們
+若要行使您的權利，或對我們的隱私權政策、我們收集和使用您的資料或可能違反隱私權法有任何問題，您可以寄信至以下地址，附上您的姓名、電子郵件地址和要求目的：
+
+DFI Inc.
+inquiry@dfi.com
+台灣 (R.O.C.) 22175 新北市汐止區新台五路一段 97 號 10 樓
+電話：+886 (2) 2697-2986
+傳真：+886 (2) 2697-2168
+
+如果我們無法解決您的問題，則您有權聯繫您居住或工作國家的資料隱私監督機關，或在您認為資料保護規則遭違反的情況下聯繫該國的資料隱私監督機關。您可以在此處找到歐盟資料保護機關的名稱和聯絡資訊。
+
+DFI使用哪些Cookie？
+分類 Cookie名稱 Cookie用途
+絕對必要的Cookie .AspNetCore.Identity.Application 紀錄訊息供會員登入與登出
+firstbrowse 紀錄語言選擇所選之網站語系
+timeExpired 紀錄Cookie逾期的時間，並在到期前延長
+comparisonId 儲存產品資料並提供產品比較的功能
+quoteId 儲存產品資料並提供產品詢價的功能
+CookieSettings 紀錄Cookie設定所選定的選項
+gdrp 同意DFI隱私政策與Cookie使用規章
+功能Cookie PopUp 問卷彈出控制
+country_name 紀錄使用者所在地區
+性能Cookie whitepaper_forms 白皮書使用者下載紀錄
+UserSource 用於追蹤Google Ads使用者來源
+_ga
+_gat_UA-XXXXXXXX-1
+_gat_gtag_UA_XXXXXXXX_1
+__gat_gtag_UA_XXXXXXXX_1
+_gid
+_gcl_au 我們使用Cookie來計算您在DFI網站上訪問的次數和時間，以及您訪問最多的部分或功能。

@@ -1,0 +1,28 @@
+{
+"compliant": [
+{
+"section": "Leofoo Tourism Group will amend this privacy policy in accordance with the alteration of applicable regulations and advancement of technology.",
+"article numbers": "12, 13, 14",
+"legal provisions": "Principle of transparency and fairness - The controller shall take appropriate measures to provide any information referred to in Articles 13 and 14 and any communication under Articles 15 to 22 and 34 relating to processing to the data subject in a concise, transparent, intelligible and easily accessible form, using clear and plain language, in particular for any information addressed specifically to a child."
+},
+{
+"section": "If we make any material change in privacy policy or how we process Personal Information, we will prominently post notice of the change on our site.",
+"article numbers": "13, 14",
+"legal provisions": "Information to be provided where personal data are collected from the data subject - Where personal data relating to a data subject are collected from the data subject, the controller shall, at the time when personal data are obtained, provide the data subject with all of the following information"
+}
+],
+"non_compliant": [
+{
+"section": "Otherwise, your continued use of our site after we make changes to this policy is deemed acceptance of those changes.",
+"article numbers": "4, 7",
+"legal provisions": "Definitions - 'consent' of the data subject means any freely given, specific, informed and unambiguous indication of the data subject's wishes by which he or she, by a statement or by a clear affirmative action, signifies agreement to the processing of personal data relating to him or her.",
+"amend": "This section should be removed.  Silence or inactivity cannot be taken as consent under the GDPR. Explicit consent must be obtained for any changes to the privacy policy."
+},
+{
+"section": "Without prior written consent, anyone cannot use, alter, reproduce, broadcast, change, transmit, distribute, publish, rent, sale, restore, decode or reverse engineering.",
+"article numbers": "15, 17, 20",
+"legal provisions": "Right of access by the data subject, Right to erasure ('right to be forgotten'), Right to data portability",
+"amend": "This section needs to be amended to acknowledge the rights of data subjects under the GDPR, including the right of access, right to erasure, and right to data portability.  These rights may supersede copyright claims in certain situations."
+}
+]
+}

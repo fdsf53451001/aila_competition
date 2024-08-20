@@ -1,0 +1,59 @@
+{
+"compliant": [
+{
+"section": "(A) 獲取有關處理閣下的個人資料和訪問我們持有的關於閣下的個人資料的資訊的權利；",
+"article numbers": "15.1, 15.2, 15.3",
+"legal provisions": "Right of access by the data subject"
+},
+{
+"section": "(B) 如果閣下的個人資料不准確或不完整，有權要求我們更正閣下的個人資料；",
+"article numbers": "16",
+"legal provisions": "Right to rectification"
+},
+{
+"section": "(C) 在特定情況下要求我們刪除、隔離或匿名化閣下的個人資料的權利。請閣下注意，如果我們基於適用法律法規的要求保留閣下的個人資料，我們可能因此無法滿足閣下刪除、隔離或匿名化閣下的個人資料的要求；",
+"article numbers": "17.1, 17.3",
+"legal provisions": "Right to erasure ('right to be forgotten')"
+},
+{
+"section": "(D) 在特定情況下，有權要求以結構化、通用和機器可讀的格式發送一些個人資料至閣下和/或在技術上可行的情況下要求我們將這些數據傳輸給第三方。請注意，此權利僅適用於閣下提供給我們的個人資料；",
+"article numbers": "20.1, 20.2, 20.3",
+"legal provisions": "Right to data portability"
+},
+{
+"section": "(E) 撤回閣下對我們處理閣下的個人資料的同意的權利。但請注意，如果我們有其他正當理由（同意除外），我們仍然有權處理閣下的個人資料。例如，我們可能需要保留閣下的個人資料以履行法律義務；",
+"article numbers": "7.3",
+"legal provisions": "Conditions for consent"
+},
+{
+"section": "(F) 要求我們告知說明，閣下是否可以拒絕同意以及如拒絕同意所導致的後果。當同意被用作處理個人資料的法律依據時，閣下有權被告知閣下是否可以拒絕同意以及如拒絕同意所導致的後果；",
+"article numbers": "7.4",
+"legal provisions": "Conditions for consent"
+},
+{
+"section": "(J) 如果閣下認為我們侵犯了閣下的任何權利，閣下有權向主管當局提出投訴。",
+"article numbers": "77",
+"legal provisions": "Right to lodge a complaint with a supervisory authority"
+}
+],
+"non_compliant": [
+{
+"section": "(G) 閣下有權反對或主動要求我們在某些情況下限制對閣下的個人資料的處理。在某些情況下，閣下可能反對或要求我們限制對閣下的個人數據的處理，但我們在法律上有權繼續處理閣下的個人數據和/或拒絕這一要求；",
+"article numbers": "18",
+"legal provisions": "Right to restriction of processing",
+"amend": "This section acknowledges the right to restrict processing but doesn't accurately reflect the GDPR's balance. It should clarify that while the controller can continue processing under legal grounds, they must inform the data subject *before* lifting the restriction."
+},
+{
+"section": "(H) 要求我們提供我們收集的閣下的個人資料的相關歷史的權利；",
+"article numbers": "12, 13, 14",
+"legal provisions": "Transparent information, communication and modalities for the exercise of the data subject's rights",
+"amend": "The GDPR doesn't explicitly grant a right to the 'history' of all processing. It focuses on providing initial information (Art. 13) and access to the data itself (Art. 15). This section should be aligned to reflect those rights, not an unbounded 'history'."
+},
+{
+"section": "(I) 不接受完全自動化處理決策的權利；且",
+"article numbers": "22",
+"legal provisions": "Automated individual decision-making, including profiling",
+"amend": "While mentioning the right, it lacks the GDPR's specifics. It should mention 'significant effects' on the data subject, the right to human intervention/contestation, and exceptions where such processing is allowed (e.g., explicit consent, contract performance)."
+}
+]
+}

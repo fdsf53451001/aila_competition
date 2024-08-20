@@ -1,0 +1,40 @@
+{
+"compliant": [
+{
+"section": "2.4 The parties will each comply with applicable portions of the EU Data Processing policy.",
+"article numbers": "44 - 50",
+"legal provisions": "This section suggests an awareness of GDPR's international data transfer rules, but lacks specifics.  It should explicitly mention adherence to GDPR principles for data transfers outside the EEA."
+},
+{
+"section": "3.2 Both Parties will have the right to disclose the existence but not the terms and conditions of this Agreement, unless such disclosure is approved in writing by both Parties prior to such disclosure, or is included in a filing required to be made by a Party with a governmental authority (provided such party will use reasonable efforts to obtain confidential treatment or a protective order) or is made on a confidential basis as reasonably necessary to potential investors or acquirers.",
+"article numbers": "6(1)(c), 28, 32",
+"legal provisions": "This section aligns with GDPR's requirements for confidentiality and security of processing, as well as potential disclosures for legal obligations or legitimate interests."
+}
+],
+"non_compliant": [
+{
+"section": "2.2 Customer shall also be responsible for maintaining the security of the Equipment, Customer account, passwords (including but not limited to administrative and user passwords) and files, and for all uses of Customer account or the Equipment with or without Customer’s knowledge or consent.",
+"article numbers": "5(1)(f), 32",
+"legal provisions": "While this section emphasizes security, it lacks specifics on technical and organizational measures to ensure a level of security appropriate to the risk, as required by GDPR. It should explicitly mention data protection impact assessments (DPIAs) where applicable.",
+"amend": "Customer shall implement appropriate technical and organizational measures to ensure a level of security appropriate to the risk, including but not limited to the security of the Equipment, Customer account, passwords (including but not limited to administrative and user passwords) and files, and for all uses of Customer account or the Equipment. This includes measures to protect against unauthorized access, use, disclosure, alteration, or destruction of personal data. Customer will conduct data protection impact assessments (DPIAs) where required by GDPR."
+},
+{
+"section": "3.1 Each party (the “Receiving Party”) understands that the other party (the “Disclosing Party”) has disclosed or may disclose information relating to the Disclosing Party’s business (hereinafter referred to as “Proprietary Information” of the Disclosing Party). The Receiving Party agrees: (i) to take reasonable precautions to protect such Proprietary Information, and (ii) not to divulge to any third person any such Proprietary Information. The Disclosing Party agrees that the foregoing shall not apply with respect to any information after three years following the disclosure thereof or any information that the Receiving Party can document (a) is or becomes generally available to the public, (b) was in its possession or known by it prior to receipt from the Disclosing Party, (c) was rightfully disclosed to it by a third party, (d) was independently developed without use of any Proprietary Information of the Disclosing Party or (e) is required by law.",
+"article numbers": "5(1)(e), 17, 18, 19, 20, 21",
+"legal provisions": "This section broadly addresses confidentiality but needs to align with GDPR's data subject rights. It doesn't mention data minimization, purpose limitation, or storage limitations. The three-year retention period might contradict GDPR's storage limitation principles.",
+"amend": "1.  Both parties shall process Proprietary Information in accordance with GDPR, including but not limited to data minimization, purpose limitation, accuracy, storage limitations, integrity and confidentiality. 2. The Receiving Party shall only process Proprietary Information for the purposes of this Agreement and shall not further process Proprietary Information in a manner that is incompatible with these purposes. 3. The Receiving Party shall implement appropriate technical and organizational measures to ensure a level of security appropriate to the risk, including protection against unauthorized or unlawful processing and against accidental loss, destruction or damage. 4. The Receiving Party shall promptly notify the Disclosing Party of any request from a data subject to exercise their rights under GDPR with respect to the Proprietary Information. 5. The Receiving Party shall promptly inform the Disclosing Party if it becomes aware of any breach of security leading to the accidental or unlawful destruction, loss, alteration, unauthorized disclosure of, or access to, any Proprietary Information."
+},
+{
+"section": "In any event, Company may use for development, diagnostic and corrective purposes any data and information it collects relating to the Platform.",
+"article numbers": "5(1)(b), 6(1)(f)",
+"legal provisions": "This section grants broad data usage rights to the Company without specifying legal basis or purpose limitation. It might contradict GDPR's principles of lawful, fair, and transparent processing.",
+"amend": "1. Company may use data and information it collects relating to the Platform for development, diagnostic, and corrective purposes, provided that such use is necessary for the performance of this Agreement, or is based on the Customer's consent, or another legitimate interest of the Company. 2. Company shall implement appropriate safeguards to protect the rights and freedoms of data subjects when using data for these purposes."
+},
+{
+"section": "3.3 Customer acknowledges that Company does not wish to receive any Proprietary Information from Customer that is not necessary for Company to perform its obligations under this Agreement, and, unless the parties specifically agree otherwise, Company may reasonably presume that any unrelated information received from Customer is not confidential or Proprietary Information.",
+"article numbers": "5(1)(c), 6(1)",
+"legal provisions": "This section lacks a lawful basis for presuming non-confidential information. GDPR requires a legal basis for all processing activities, and assumptions don't suffice.",
+"amend": "1. The Customer shall only provide the Company with Proprietary Information that is necessary for the Company to perform its obligations under this Agreement. 2. The Company shall process all Proprietary Information received from the Customer as confidential, unless the Customer explicitly designates such information as non-confidential in writing. 3. For any information received from the Customer that is not Proprietary Information, the parties must establish a valid legal basis for processing under GDPR, such as consent or legitimate interest, and ensure such processing complies with all other principles of GDPR."
+}
+]
+}

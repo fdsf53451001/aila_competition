@@ -1,0 +1,46 @@
+{
+"compliant": [
+{
+"section": "We appreciate your trust in sharing your Personal Data with us, and we are committed to taking reasonable measures to protect it. We utilize a combination of security technologies, procedures and organizational measures that are generally accepted in the industry to help protect your Personal Data from unauthorized access, use or disclosure.",
+"article numbers": "32, 25",
+"legal provisions": "Integrity and Confidentiality, Security of Processing"
+},
+{
+"section": "In the event of a security breach, if our investigations indicate that there could be significant harm to your legal interests as a result of such unauthorized access or disclosure of your Personal Data, we will promptly notify you and the proper authorities as required by law.",
+"article numbers": "33, 34",
+"legal provisions": "Notification of a personal data breach to the supervisory authority, Communication of a personal data breach to the data subject"
+}
+],
+"non_compliant": [
+{
+"section": "Please remember that any information you choose to disclose in public areas of the CyberTAN Services (such as within community forums through a chat feature or published in a product review) may become public information. You should exercise caution when disclosing information in such public areas and refrain from disclosing Personal Information.",
+"article numbers": "5",
+"legal provisions": "Principles relating to processing of personal data",
+"amend": "This section should be amended to more explicitly state the purpose of processing user data in public areas of CyberTAN Services. It should clarify what data is collected, how it is used, and for how long it is retained. Additionally, the language should be more explicit about the risks associated with disclosing personal information in public areas and provide clear guidance on how users can protect their privacy."
+},
+{
+"section": "If you have questions about how these third parties collect, use and share your data, you should review their respective policies or contact them directly. By allowing a link to a third-party service, or otherwise allowing association with a CyberTAN Service, we are not in any way endorsing, promoting or representing the quality of that service or taking responsibility for its practices.",
+"article numbers": "24, 28",
+"legal provisions": "Responsibility of the controller, Joint controllership",
+"amend": "While linking to third-party services is not prohibited, this section absolves CyberTAN of any responsibility for data processing by these third parties. Under GDPR, CyberTAN needs to ensure that any third-party data processors they work with also comply with GDPR regulations. This includes having appropriate contractual agreements in place that outline data protection responsibilities. CyberTAN should also provide users with clear and accessible information about the third-party services they link to, including the purpose of data processing and any potential risks."
+},
+{
+"section": "We may also store your personal data on limited-access computer systems which are located in controlled facilities.",
+"article numbers": "13, 14",
+"legal provisions": "Information to be provided where personal data are collected from the data subject, Information to be provided where personal data have not been obtained from the data subject",
+"amend": "This statement lacks transparency regarding data storage location. GDPR emphasizes transparency and individuals' right to know where their data is stored. The policy should clearly state the countries where data is stored and processed. If data is transferred outside the EEA, appropriate safeguards like Standard Contractual Clauses (SCCs) should be mentioned to ensure adequate data protection."
+},
+{
+"section": "Links\nWe may link to, or otherwise make available via the CyberTAN Services, third-party services such as Facebook, LinkedIn, Twitter, and YouTube, etc. which are outside of our control and are not covered by our statements in this privacy statement. We are not responsible for the privacy practices or the content of such third-party services, including without limitation social media platforms and their plug-ins that may be on CyberTAN Services.",
+"article numbers": "4, 5, 28",
+"legal provisions": "Definitions, Principles relating to processing of personal data, Joint controllership",
+"amend": "Similar to the previous point about third-party services, this section attempts to waive CyberTAN's responsibility for data processing by linked platforms. GDPR requires data controllers to be accountable for the data they process, even when shared with third parties. CyberTAN should clearly define its role and the role of these platforms (e.g., as joint controllers or processors) and outline the purpose of data sharing. They should also implement appropriate safeguards, such as data processing agreements, to ensure GDPR compliance by these third parties."
+},
+{
+"section": "Amendments\nThis privacy statement may be amended from time to time. If we decide to change our Privacy statement, we will post the revised statement on this page.",
+"article numbers": "13, 14",
+"legal provisions": "Information to be provided where personal data are collected from the data subject, Information to be provided where personal data have not been obtained from the data subject",
+"amend": "While it's acceptable to amend the privacy statement, GDPR requires that any material changes be communicated to users in a clear and concise manner. Simply stating that the statement may be amended is not sufficient. The policy should specify how users will be informed about changes, such as through email notifications or prominent notices on the website. It should also be clarified whether users have the right to object to these changes and what options they have if they disagree."
+}
+]
+}

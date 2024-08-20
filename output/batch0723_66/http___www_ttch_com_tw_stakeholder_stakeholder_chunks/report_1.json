@@ -1,0 +1,40 @@
+{
+"compliant": [
+{
+"section": "二、利用期間、地區及方式：\n1. 期間：個人資料蒐集之特定目的存續期間，或依相關法令規定，或台灣農林因執行業務所必須之保存期間，或依個別契約約定之保存期間。",
+"article numbers": "Article 5(1)(e), Article 14(2)(a)",
+"legal provisions": "Storage limitation, Lawfulness, fairness and transparency"
+},
+{
+"section": "您得依個人資料保護法相關規定，行使下列權利：\n1. 查詢或請求閱覽或請求製給複製本，台灣農林得酌收必要合理費用；\n2. 請求補充或更正，惟依法您應為適當之釋明；\n3. 請求停止蒐集、處理或利用及請求刪除，惟台灣農林因執行業務、契約約定或依法令規範所必須者，得不依您的請求為之。",
+"article numbers": "Articles 12-23",
+"legal provisions": "Data subject rights, Right to erasure ('right to be forgotten')"
+}
+],
+"non_compliant": [
+{
+"section": "二、利用期間、地區及方式：\n2. 對象：台灣農林及其關係企業、協力廠商及委外機構、司法機關、依法有調查權之機關或政府機構或其他未受中央目的事業主管機關限制之國際傳輸個人資料之接收者，或其他台灣農林之交易相對人而有蒐集、處理、利用及國際傳輸個人資料之必要者。",
+"article numbers": "Article 5(1)(c), Articles 12-23",
+"legal provisions": "Purpose limitation, Data subject rights",
+"amend": "The section should specify the purposes for each category of recipients and ensure that data processing is limited to the specified, explicit, and legitimate purposes. It should also clarify the legal basis for data transfers to recipients outside the EU, ensuring compliance with GDPR's requirements for international data transfers (e.g., adequacy decisions, appropriate safeguards)."
+},
+{
+"section": "您得依個人資料保護法相關規定，行使下列權利：\n1. 查詢或請求閱覽或請求製給複製本，台灣農林得酌收必要合理費用；",
+"article numbers": "Article 12(5)",
+"legal provisions": "Right of access",
+"amend": "GDPR states that information should be provided free of charge.  The policy should remove the mention of charging reasonable fees for access requests."
+},
+{
+"section": "您得自由選擇是否提供相關個人資料，若您拒絕提供您本人相關之個人資料，台灣農林或本網站將無法為您提供產品或其他相關服務。",
+"article numbers": "Article 6(1), Article 7(4)",
+"legal provisions": "Lawfulness of processing, Conditions for consent",
+"amend": "The policy should clarify the legal basis for processing personal data and ensure that any refusal to provide data does not result in unfair or discriminatory treatment. It should also specify the consequences of not providing data in a clear and concise manner."
+},
+{
+"section": "若您欲行使刪除請求權，請直接聯繫服務專員協助您行使權利，惟本公司得酌收必要成本費用，並將處理結果以書面通知請求人。",
+"article numbers": "Article 12(3), Article 12(5)",
+"legal provisions": "Right of access, Communication and modalities",
+"amend": "The policy should provide a clear and accessible way for individuals to exercise their right to erasure and should not impose any cost for handling the request. While GDPR allows for charging a reasonable fee in specific cases, it generally requires data controllers to respond to erasure requests free of charge."
+}
+]
+}

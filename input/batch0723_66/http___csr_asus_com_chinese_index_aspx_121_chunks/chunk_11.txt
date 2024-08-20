@@ -1,0 +1,4 @@
+儲存您的偏好設定 本類型的Cookies可將您的偏好設定儲存於您的產品中，例如您習慣使用的語言類別、國別或字體;在您再次造訪華碩產品及服務時，您即無需再次選擇國別、語言類別或字體，例如ASUS的current_site cookie、EntryPage cookie等。
+儲存您在使用華碩產品及服務所提供的資訊 本類型的Cookies可將您在華碩產品及服務中所填寫的資訊暫時儲存在您的產品中，例如您在ASUS Store購買產品時所填寫的購買資訊，以便記取您欲購買的產品、數量以及您所填寫的資訊，例如ASUS的count cookie。
+安全性 本類型的Cookies可防止網站詐騙行為，保障您在使用華碩產品及服務時的交易安全，例如ASUS的ip_address cookie。為了以上的目的，我們可能會透過此類Cookies將您在登入ASUS Store和您在ASUS Store下訂單時的IP位址分享給華碩，以讓華碩能夠驗證登入ASUS Store的使用者和在ASUS Store下訂單者為同一人。
+維持網站流量的穩定性 本類型的Cookies可穩定華碩的網站瀏覽流量，讓您能順暢地瀏覽華碩的網站，例如ASUS的BIGipServerNew cookie。

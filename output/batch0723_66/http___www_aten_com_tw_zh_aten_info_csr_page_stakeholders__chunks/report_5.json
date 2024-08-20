@@ -1,0 +1,33 @@
+{
+"compliant": [
+{
+"section": "我們主要向您收集或接收 (a) 身分資訊，例如姓名、性別、稱謂、職稱或地址；(b) 聯絡資訊，包含您的電話號碼、您的電子郵件及相關之社群媒體帳號及關於您所擔任代表的公司之資訊 (若適用)；(c) 財務資訊，例如付款來源或目的地資訊；(d) 關於我們向您購買或詢問之產品或服務之資訊，以及 (e) 關於我們與您的關係及任何我們與您之間聯絡時所展現的資訊。",
+"article numbers": "Article 5(1)(c), Article 5(1)(e)",
+"legal provisions": "Data minimisation: The policy outlines the specific categories of personal data collected, which appears to be limited to what is necessary for the stated purposes. \n\nPurpose limitation: The policy broadly describes the purposes for processing personal data, such as contacting suppliers, fulfilling contracts, and maintaining relationships."
+},
+{
+"section": "我們使用此資訊與我們的廠商和供應商及潛在廠商和供應商，依必要聯繫以提出及回應相關詢問，及於其他情況下取得及接收您的產品及服務、進行我們的業務、履行我們的合約以及維持與您的關係。",
+"article numbers": "Article 6(1)(b), Article 6(1)(f)",
+"legal provisions": "Lawfulness of processing: The policy indicates lawful bases for processing, including contract performance (for existing suppliers) and legitimate interests (for potential suppliers and general business purposes)."
+},
+{
+"section": "此資訊於需要該資訊來提供洽詢之回應及提供產品及服務所需之必要，以協助我們員工之間的分享",
+"article numbers": "Article 5(1)(c), Article 5(1)(e)",
+"legal provisions": "Data minimisation and purpose limitation: The policy further specifies that data sharing among employees is limited to what is necessary for responding to inquiries and providing services."
+}
+],
+"non_compliant": [
+{
+"section": "並可能提供給代表我們且根據我們的書面指示於我們的業務過程中，執行其服務而處理您的個人資訊的廠商，例如 IT 服務供應商、貨運廠商、金融機構、廠商關係管理資料庫，及其他雲端解決方案 (我們盡力確保當我們聯繫此類廠商時，他們僅依我們的指示處理您的個人資訊，並且透過對此類處理實施適當之技術及組織措施，保護您的個人資訊的安全及機密)。",
+"article numbers": "Article 28, Article 32",
+"legal provisions": "Data processing agreements: While the policy mentions written instructions to processors, it lacks details about formal data processing agreements (DPAs) required under Article 28. \n\nSecurity of processing: The policy vaguely refers to \"appropriate technical and organizational measures\" but should provide more specific information about the safeguards employed to protect personal data.",
+"amend": "This section should be amended to explicitly state that the company enters into legally compliant data processing agreements with all third-party processors. It should also provide more specific information about the technical and organizational security measures implemented, such as encryption, access controls, and regular security assessments."
+},
+{
+"section": "個別廠商或供應商 我們主要向您收集或接收 (a) 身分資訊，例如姓名、性別、稱謂、職稱或地址；(b) 聯絡資訊，包含您的電話號碼、您的電子郵件地址及相關之社群媒體帳號及關於您所擔任代表的公司之資訊 (若適用)；(c) 財務資訊，例如付款來源或目的地資訊，以及 (d) 稅務 ID 資訊。",
+"article numbers": "Article 5(1)(c), Article 13(1)(c), Article 14(2)(g)",
+"legal provisions": "Data minimisation: Collecting \"tax ID information\" requires a strong justification under GDPR. The policy should explain why this data is strictly necessary and proportionate for the identified purposes. \n\nTransparency: The policy lacks details about the legal basis for processing this data and the individuals' rights concerning this information.",
+"amend": "The policy should clarify the specific purpose and legal basis for collecting \"tax ID information.\" It should also inform individuals about their rights regarding this data, including access, rectification, and erasure, as outlined in Articles 13 and 14."
+}
+]
+}

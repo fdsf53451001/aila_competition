@@ -1,0 +1,22 @@
+{
+"compliant": [
+{
+"section": "This Privacy Policy outlines our privacy practices regarding the collection, use and safeguard of your personal information",
+"article numbers": "13, 14",
+"legal provisions": "Information to be provided where personal data are collected from the data subject"
+},
+{
+"section": "This Privacy Policy outlines our privacy practices regarding the collection, use and safeguard of your personal information through (1) the website(s) operated by NUVOTON (http://www.nuvoton.com) (the \"Website(s)\"), (2) NUVOTON’s App, and (3) any services, both online and offline we provide (hereinafter referred to as “SERVICE”), along with whom we may share or disclose the collected information.",
+"article numbers": "13, 14",
+"legal provisions": "Transparency and modalities; Lawfulness of processing"
+}
+],
+"non_compliant": [
+{
+"section": "NUVOTON Privacy Policy, together with any additional terms and conditions that contain supplementary information in connection with particular services you are using (hereinafter referred to as “Privacy Policy”),",
+"article numbers": "12",
+"legal provisions": "Transparent information, communication and modalities for the exercise of the rights of the data subject",
+"amend": "The reference to additional terms and conditions could make it difficult for data subjects to understand how their data is processed. The policy should clearly state where to find these additional terms and conditions and avoid incorporating them by reference."
+}
+]
+}

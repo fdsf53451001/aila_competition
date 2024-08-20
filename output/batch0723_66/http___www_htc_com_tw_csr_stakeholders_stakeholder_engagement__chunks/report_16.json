@@ -1,0 +1,38 @@
+{
+"compliant": [
+{
+"section": "HTC 帳號可讓您使用單一使用者名稱與密碼，登入 HTCSense.com 及其他 HTC 應用程式與服務。部分 HTC 應用程式與服務則需要使用不同的使用者名稱與密碼。請妥善保護您的使用者名稱與密碼，以防任何人擅自存取您的帳號與服務。",
+"article numbers": "5.1.a, 5.1.b",
+"legal provisions": "Data Minimisation, Purpose Limitation"
+},
+{
+"section": "對於任何獨立第三方應用程式與服務，或是該等第三方應用程式與服務所收集的您相關資料，其安全性本公司概不負責。請洽詢第三方以了解其如何確保您資料安全。",
+"article numbers": "14, 24",
+"legal provisions": "Information to be provided where personal data are collected from the data subject, Responsibility of the controller"
+},
+{
+"section": "本公司非常歡迎您就本政策提供相關的意見或問題。",
+"article numbers": "12, 13",
+"legal provisions": "Transparent information, communication and modalities for the exercise of the data subject's rights"
+},
+{
+"section": "請發送電子郵件至 global-privacy@htc.com 。您亦可寄電子郵件至以下地址與本公司聯絡：",
+"article numbers": "13.1.a, 13.1.b",
+"legal provisions": "Means for exercising data subject rights"
+}
+],
+"non_compliant": [
+{
+"section": "請妥善保護您的使用者名稱與密碼，以防任何人擅自存取您的帳號與服務。",
+"article numbers": "25, 32",
+"legal provisions": "Security of processing, Security of personal data",
+"amend": "While encouraging users to protect their credentials is good practice, the policy should explicitly state what security measures HTC has implemented to protect user data (e.g., encryption, access controls). It should also mention data breach notification procedures as required by Article 33."
+},
+{
+"section": "The entire privacy policy lacks details about:",
+"article numbers": "13, 15, 16, 17, 18, 19, 20, 21",
+"legal provisions": "Information to be provided where personal data are collected from the data subject, Right of access by the data subject, Right to rectification, Right to erasure (‘right to be forgotten’), Right to restriction of processing, Right to data portability, Right to object, Automated individual decision-making, including profiling",
+"amend": "The policy needs to explicitly address data subject rights including access, rectification, erasure, restriction of processing, data portability, and objection. It should also specify how users can exercise these rights and the timeframe for HTC to respond to such requests. Additionally, information about automated decision-making (if applicable) and the right to lodge a complaint with a supervisory authority should be included."
+}
+]
+}

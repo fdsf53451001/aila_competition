@@ -1,0 +1,39 @@
+{
+"compliant": [
+{
+"section": "群創光電將運用您的個人基本資料以維繫您與群創光電間的連絡關係，例如傳送商業參考資訊、電子報或電子郵件。未經您事先同意，群創光電絕不會將您的個人資料揭露、販售或給予其他不相干機構從事行銷或兜售行為；但群創光電保留將您的個人基本資料在提供上述服務之範圍內提供給群創光電的關係企業、代理商或承包商等的權利。",
+"article numbers": "6(1)(a), 6(1)(f)",
+"legal provisions": "Consent, Legitimate Interests"
+},
+{
+"section": "如果依法律或因收到法院或政府命令、搜索票、傳票，或配合警方辦案必須提供您的個人基本資料，或是為了保護群創光電及其關係企業的權益時，群創光電也會依法提供相關資料。",
+"article numbers": "6(1)(c), 6(1)(f)",
+"legal provisions": "Legal Obligation, Legitimate Interests"
+},
+{
+"section": "如果您於電子報訂閱後欲修改您的個人基本資料，或擬不再繼續收受任何群創光電寄送給您的資訊，請您於電子報訂閱處修改或勾選取消訂閱，服務人員於收到您的通知後將儘速處理。",
+"article numbers": "15, 17",
+"legal provisions": "Right of Access, Right to Erasure ('Right to be Forgotten')"
+}
+],
+"non_compliant": [
+{
+"section": "關於您和其他使用者的瀏覽模式，群創光電可能將之彙整作為個人用途之研究資料。",
+"article numbers": "5",
+"legal provisions": "Purpose Limitation",
+"amend": "This section needs to specify the purpose of research and ensure it's compatible with the original purpose for which the data was collected. It should also mention the legal basis for processing (consent or legitimate interest) and offer users a way to opt out."
+},
+{
+"section": "個人基本資料的使用\n群創光電會長期儲存並維護您自願提供給群創光電的個人基本資料，用以提供您所需要的服務，直到您直接向群創光電表達終止保留資料或法律要求群創光電終止保留資料為止。",
+"article numbers": "5, 13(2)(a)",
+"legal provisions": "Storage Limitation, Transparency",
+"amend": "The policy should specify the criteria used to determine the data retention period. It should also clearly inform users about their right to request data deletion and how to exercise this right."
+},
+{
+"section": "群創光電將運用您的個人基本資料以維繫您與群創光電間的連絡關係，例如傳送商業參考資訊、電子報或電子郵件。未經您事先同意，群創光電絕不會將您的個人資料揭露、販售或給予其他不相干機構從事行銷或兜售行為；但群創光電保留將您的個人基本資料在提供上述服務之範圍內提供給群創光電的關係企業、代理商或承包商等的權利。",
+"article numbers": "13, 14",
+"legal provisions": "Transparency, Information about recipients",
+"amend": "While the policy mentions data sharing with related companies, agents, or contractors, it needs to be more specific. It should list the categories of recipients and provide information about them. Additionally, it should clarify what \"related companies\" refers to."
+}
+]
+}

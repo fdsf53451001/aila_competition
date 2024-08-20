@@ -1,0 +1,40 @@
+{
+"compliant": [
+{
+"section": "得向本公司請求補充或更正，惟依法台端應為適當之釋明。",
+"article numbers": "12.2, 16",
+"legal provisions": "Right to rectification: Data subjects have the right to obtain from the controller without undue delay the rectification of inaccurate personal data concerning him or her."
+},
+{
+"section": "得向本公司請求停止蒐集、處理或利用及請求刪除，惟依法本公司因執行業務所必須者，得不依台端請求為之。",
+"article numbers": "17, 18",
+"legal provisions": "Right to erasure ('right to be forgotten') and Right to restriction of processing: Data subjects have the right to obtain from the controller the erasure of personal data concerning him or her without undue delay, and the controller shall have the obligation to erase personal data without undue delay where one of a number of grounds applies (e.g., the personal data are no longer necessary in relation to the purposes for which they were collected or otherwise processed)."
+}
+],
+"non_compliant": [
+{
+"section": "得向本公司請求補充或更正，惟依法台端應為適當之釋明。",
+"article numbers": "12.2",
+"legal provisions": "The controller shall facilitate the exercise of data subject rights. The controller shall provide information on action taken on a request under Articles 15 to 22 to the data subject without undue delay and in any case within one month of receipt of the request.",
+"amend": "Remove the requirement for justification from the data subject when requesting rectification."
+},
+{
+"section": "得向本公司請求停止蒐集、處理或利用及請求刪除，惟依法本公司因執行業務所必須者，得不依台端請求為之。",
+"article numbers": "17, 18",
+"legal provisions": "The GDPR sets out specific legal grounds for processing personal data, and businesses must have a valid legal basis for any processing they undertake. Simply stating that processing is necessary for business operations is not sufficient.",
+"amend": "Specify the legal basis for refusing requests to stop processing or delete data, ensuring it aligns with GDPR's requirements (e.g., legal obligation, performance of a contract)."
+},
+{
+"section": "(2)行使權利之方式：\n本公司將秉持對您個人資料保護的重視，依法律及上述原則管理、保護、處理、使用您的個人資料，如您對我們有任何指教，或要行使前述的權利，請撥打本公司的聯絡電話+886-2-2998-6788，或將您的需求郵寄至本公司的電子郵件信箱ldc.service@ldchotels.com。",
+"article numbers": "12.1",
+"legal provisions": "The controller shall take appropriate measures to provide any information referred to in Articles 13 and 14 and any communication under Articles 15 to 22 and 34 relating to processing to the data subject in a concise, transparent, intelligible and easily accessible form, using clear and plain language, in particular for any information addressed specifically to a child.",
+"amend": "Provide an online form or other electronic means for data subjects to exercise their rights, in addition to phone and postal mail options."
+},
+{
+"section": "7.台端對本公司有權修訂告知條款內容之同意\n台端同意本公司有權修訂本告知條款內容，並同意本公司於修訂後，得以言詞、書面、電話、簡訊、電子郵件、傳真、電子文件或其他足以使台端知悉或可得知悉之方式（包括但不限於以前述方式告知提供詳載本告知條款內容之網站連結），告知台端修訂要點及指定網頁。",
+"article numbers": "12.1, 13.1",
+"legal provisions": "Data subjects have the right to be informed about the processing of their personal data in a concise, transparent, intelligible and easily accessible form, using clear and plain language. Consent should be freely given, specific, informed and unambiguous indication of the data subject's wishes.",
+"amend": "Obtain explicit consent from data subjects for any changes to the privacy policy that affect the processing of their personal data. Clearly communicate the changes and provide an option to opt out if they disagree."
+}
+]
+}

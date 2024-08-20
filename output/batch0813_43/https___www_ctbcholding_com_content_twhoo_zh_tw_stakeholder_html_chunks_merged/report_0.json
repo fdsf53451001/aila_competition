@@ -1,0 +1,38 @@
+{
+"compliant": [
+{
+"section": "本公司於本網站所蒐集的申請或受訪者姓名、身分證字號、電話、e-mail、住址及其他個人資料，除依法令規定或經您書面同意外，僅於本公司蒐集之特定目的(包含申辦本公司金融商品、參加本網站抽獎活動或市場調查分析)必要範圍內處理及利用，本公司不會將前述個人資料用做其他用途。",
+"article numbers": "6(1)(b), 5(1)(b)",
+"legal provisions": "Principles relating to processing of personal data - lawfulness of processing -  processed for the purpose for which they are collected"
+},
+{
+"section": "本公司並將依法令規範對前述個人資料負保密之責，絕不會公布個別申請者或受訪者之任何個人資訊。",
+"article numbers": "5(1)(f), 32(1)",
+"legal provisions": "Principles relating to processing of personal data - integrity and confidentiality.  Security of processing"
+},
+{
+"section": "對於本公司透過本網站所蒐集與保存您的個人資料，除法令另有規定外，您可以向本公司：（1）查詢或請求閱覽您的個人資料。（2）請求製給您個人資料之複製本。（3）請求補充或更正您的個人資料。\n（4）請求停止蒐集、利用或處理您的個人資料；或（5）請求刪除您的個人資料。",
+"article numbers": "12, 15, 16, 17, 18",
+"legal provisions": "Transparent information, communication and modalities for the exercise of the rights of the data subject. Right of access by the data subject. Right to rectification. Right to erasure ('right to be forgotten'). Right to restriction of processing"
+},
+{
+"section": "若您的個人資料已逾法令規定之保存時限且蒐集之特定目的均已消滅，則本公司將主動銷毀或刪除您的個人資料。",
+"article numbers": "5(1)(e), 17(1)(a)",
+"legal provisions": "Principles relating to processing of personal data - storage limitation. Right to erasure ('right to be forgotten')"
+}
+],
+"non_compliant": [
+{
+"section": "本公司會對個別連線者的瀏覽器予以標示，歸納使用者瀏覽器在本網站內部所瀏覽的網頁，除非您願意告知或提供你的個人資料，否則本公司不會，也無法將此項記錄和您對應。",
+"article numbers": "5(1)(a)",
+"legal provisions": "Principles relating to processing of personal data -  processed lawfully, fairly and in a transparent manner in relation to the data subject ('lawfulness, fairness and transparency')",
+"amend": "It is unclear what is meant by \"標示\" (marking) in this context. If this refers to using techniques like browser fingerprinting to uniquely identify users without their knowledge or consent, then this would be a violation of GDPR. The policy should clarify what data is collected and how it is used to identify users. It should also provide a clear and unambiguous way for users to opt out of this tracking."
+},
+{
+"section": "Cookies 是伺服端為了區別使用者的不同喜好，經由瀏覽器寫入使用者硬碟的一些簡短資訊。您可以在Firefox瀏覽器的「工具選項」的「個人隱私」項目或是IE瀏覽器的「網際網際網路選項」的「隱私權」項目中選擇修改您瀏覽器對Cookies的接受程度。如果您選擇「拒絕所有的cookies」，您就可能無法使用部份個人化服務，或是參與部份的活動。",
+"article numbers": "7(4), 4(11)",
+"legal provisions": "Conditions for consent. Definitions - Consent of the data subject",
+"amend": "While the policy mentions that users can manage cookie preferences in their browser settings, it does not clearly state that consent is required to store non-essential cookies. The policy should explicitly mention that by continuing to use the website after being informed about the use of cookies, the user consents to the placement of those cookies. It should also differentiate between essential and non-essential cookies and provide users with granular control over their cookie preferences."
+}
+]
+}

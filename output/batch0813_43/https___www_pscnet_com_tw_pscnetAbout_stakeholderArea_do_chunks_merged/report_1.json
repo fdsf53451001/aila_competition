@@ -1,0 +1,48 @@
+{
+"compliant": [
+{
+"section": "(一)將秉誠信、合法且適當之方式，蒐集、處理及利用個人資料。",
+"article numbers": "5",
+"legal provisions": "Principles relating to processing of personal data: lawfulness, fairness and transparency"
+},
+{
+"section": "(二)在合法之特定目的下，僅蒐集、處理及利用必要且最小範圍之個人資料。",
+"article numbers": "5, 6",
+"legal provisions": "Principles relating to processing of personal data: purpose limitation, data minimisation"
+},
+{
+"section": "(三)對於所蒐集、保管之個人資料，應確保其安全。",
+"article numbers": "5, 32",
+"legal provisions": "Principles relating to processing of personal data: integrity and confidentiality, Security of processing"
+},
+{
+"section": "(五)尊重當事人對其個人資料所得行使之權利，包含查詢或請求閱覽、製給複製本、請求補充或更正、請求停止蒐集、處理或利用及請求刪除等。",
+"article numbers": "12-23",
+"legal provisions": "Chapter III: Rights of the data subject"
+},
+{
+"section": "(六)僅在符合法令及有適當充分保護的狀況下，始得就個人資料進行國際傳輸。",
+"article numbers": "44-50",
+"legal provisions": "Chapter V: Transfers of personal data to third countries or international organisations"
+},
+{
+"section": "(七)建立「個資侵害事件」之應變措施，並於查明後以適當方式通知當事人。",
+"article numbers": "33, 34",
+"legal provisions": "Notification of a personal data breach to the supervisory authority, Communication of a personal data breach to the data subject"
+}
+],
+"non_compliant": [
+{
+"section": "(四)維持個人資料之正確性，並適時更新。",
+"article numbers": "5",
+"legal provisions": "Principles relating to processing of personal data: accuracy",
+"amend": "While this section aligns with GDPR's principle of accuracy, it lacks specifics on how data accuracy is maintained and doesn't mention the right to rectification (Article 16) for data subjects."
+},
+{
+"section": "(八)建立並落實適當之個人資料管理制度，明確界定員工之義務與責任，並隨時檢視其有效性。",
+"article numbers": "24, 32",
+"legal provisions": "Responsibility of the controller, Security of processing",
+"amend": "This section broadly addresses data protection but lacks specifics required by GDPR. It should explicitly mention accountability (Article 5(2)), data protection by design and default (Article 25), and potentially data protection impact assessments (Article 35) depending on the data processing activities."
+}
+]
+}

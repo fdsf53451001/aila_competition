@@ -1,0 +1,28 @@
+{
+"compliant": [
+{
+"section": "飛捷科技股份有限公司及其關係企業(下稱「我們」或「飛捷」)承諾保護您的隱私。我們遵循隱私權保護及個人資料保護的相關法令訂立了本隱私權政策聲明(下稱「本政策」)以幫助您了解我們如何蒐集、處理及利用您的個人資料。",
+"article numbers": "12, 13",
+"legal provisions": "Right to information, Transparency"
+},
+{
+"section": "「個人資料」是指可以直接或間接地識別您個人身分的資料。",
+"article numbers": "4(1)",
+"legal provisions": "Definition of personal data"
+}
+],
+"non_compliant": [
+{
+"section": "請您詳讀本政策。在您同意本政策前提下，您才可訪問我們的網站或使用網站的服務。若您不同意本政策，請勿繼續訪問我們的網站或使用網站的服務。",
+"article numbers": "6, 7",
+"legal provisions": "Lawfulness of processing, Consent",
+"amend": "GDPR requires a lawful basis for processing personal data, and consent is only one of six bases.  Consent must be freely given, specific, informed, and unambiguous.  The policy should clarify the lawful basis for processing and ensure that consent meets GDPR requirements if relied upon."
+},
+{
+"section": "我們保留隨時修改本政策的權利。",
+"article numbers": "13, 14",
+"legal provisions": "Information to be provided, Right to be informed",
+"amend": "While it's acceptable to update the policy, GDPR requires that data subjects be informed of any changes. The policy should specify how users will be notified of changes and whether their consent will be sought again."
+}
+]
+}

@@ -1,0 +1,29 @@
+{
+"compliant": [
+{
+"section": "會員就個人資料之權利：我們蒐集個人資料之會員，依個人資料保護法得對我們行使以下權利：(1) 查詢或請求閱覽。(2) 請求製給複製本。(3) 請求補充或更正。(4) 請求停止蒐集、處理或利用。(5) 請求刪除。",
+"article_numbers": "15",
+"legal_provisions": "Right of access, Right to rectification, Right to erasure ('right to be forgotten'), Right to restriction of processing"
+}
+],
+"non_compliant": [
+{
+"section": "會員如欲行使上述權利，可透過網站內的「聯絡我們」進行申請。",
+"article_numbers": "12",
+"legal_provisions": "Right to information shall be provided in a concise, transparent, intelligible and easily accessible form, using clear and plain language.",
+"amend": "It is recommended to provide a clear and direct way to exercise these rights, such as a dedicated form or email address, rather than directing users through a general \"Contact Us\" section."
+},
+{
+"section": "我們不會將您的個人資料販售給第三方。",
+"article_numbers": "6, 7",
+"legal_provisions": "Data must be processed lawfully, fairly and in a transparent manner. This section only addresses selling data but not other forms of processing, such as sharing with third parties for other purposes.",
+"amend": "Clarify all purposes of data processing and the legal basis for each purpose. Explicitly state whether data is shared with third parties and for what purposes."
+},
+{
+"section": "如沒有收集個人資料之必要，我們會停止收集或是使用您的個人資料。",
+"article_numbers": "5",
+"legal_provisions": "Data minimisation: Personal data shall be adequate, relevant and limited to what is necessary in relation to the purposes for which they are processed.",
+"amend": "This statement aligns with GDPR but is not sufficient. The policy should proactively state that data will only be collected if necessary for specified, explicit and legitimate purposes."
+}
+]
+}

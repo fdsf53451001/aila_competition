@@ -1,0 +1,44 @@
+{
+"compliant": [
+{
+"section": "本公司將於以下時候蒐集您的個人資訊：\n使用本公司網站信箱\n透過本公司提供的管道進行聯絡\n填寫本公司寄送您的表單或合約\n與本公司進行合作‧使用本公司的產品\n本公司亦有可能從第三方所提供的資訊中蒐集或取的您的個人資料（如：人力銀行等）\n非經您書面同意，本公司不會將您的個人資料用於其他用途。",
+"article numbers": "6(1)(a), 6(1)(b)",
+"legal provisions": "Consent of the data subject, processing is necessary for the performance of a contract"
+},
+{
+"section": "依法，就您的個人資料您有下列權利：\n請求查詢或閱覽。\n請求製給複製本。\n請求補充缺漏或更正錯誤。\n請求停止蒐集、處理或利用。\n請求刪除。",
+"article numbers": "15, 16, 17, 18, 21",
+"legal provisions": "Right of access, Right to rectification, Right to erasure ('right to be forgotten'), Right to restriction of processing, Right to object"
+},
+{
+"section": "三、資料的保護\n本網站主機均設有防火牆、防毒系統等相關的各項資訊安全設備及必要的安全防護措施，加以保護網站及您的個人資料採用嚴格的保護措施，只由經過授權的人員才能接觸您的個人資料，相關處理人員皆簽有保密合約，如有違反保密義務者，將會受到相關的法律處分。",
+"article numbers": "32",
+"legal provisions": "Security of processing"
+},
+{
+"section": "五、與第三人共用個人資料之政策\n本公司絕不會提供、交換、出租或出售任何您的個人資料給其他個人、團體、私人企業或公務機關，但有法律依據或合約義務者，不在此限。\n前項但書之情形包括不限於：\n經由您書面同意。\n法律明文規定。\n為免除您生命、身體、自由或財產上之危險。\n與公務機關或學術研究機構合作，基於公共利益為統計或學術研究而有必要，且資料經過提供者處理或蒐集者依其揭露方式無從識別特定之當事人。\n當您在網站的行為，違反服務條款或可能損害或妨礙網站與其他使用者權益或導致任何人遭受損害時，經網站管理單位研析揭露您的個人資料是為了辨識、聯絡或採取法律行動所必要者。",
+"article numbers": "6(1)",
+"legal provisions": "Lawfulness of processing"
+}
+],
+"non_compliant": [
+{
+"section": "本公司亦有可能從第三方所提供的資訊中蒐集或取的您的個人資料（如：人力銀行等）",
+"article numbers": "14",
+"legal provisions": "Information to be provided where personal data have not been obtained from the data subject",
+"amend": "The policy should specify that when personal data is collected from third parties, the company will provide the data subject with information about the collection and processing within a reasonable period and at the latest at the time of the first communication, or, if the data is to be used for direct marketing, at the latest when the data is first disclosed. This information should include the source of the data, the purposes of the processing, the types of data collected, and the rights of the data subject."
+},
+{
+"section": "請注意，您提供給第三方的部分或全部個人資料可能由該第三人方存放在您所在國家以外的其他國家。您的個人資料將被各司法管轄區，受有關法律不同的約束，可能導致無法與您居住或所在國家法律提供相同的保護水準。",
+"article numbers": "44-49",
+"legal provisions": "Transfers of personal data to third countries or international organisations",
+"amend": "The policy should specify the legal basis for transferring personal data outside of the EEA, such as adequacy decisions, appropriate safeguards (e.g., standard contractual clauses), or derogations. It should also mention the data subject's rights regarding such transfers."
+},
+{
+"section": "六、Cookie 之使用\n為了提供您最佳的服務，本公司網站會在您的電腦中放置並取用我們的 Cookie，若您不願接受 Cookie 的寫入，您可在您使用的瀏覽器功能項中設定隱私權等級為高，即可拒絕 Cookie 的寫入，但可能會導致網站某些功能無法正常執行。",
+"article numbers": "7(4)",
+"legal provisions": "Conditions for consent",
+"amend": "The policy should clearly explain what cookies are used for and obtain specific, unambiguous consent for each purpose. It should also explain how to refuse cookies and the potential consequences of doing so in a more user-friendly manner."
+}
+]
+}

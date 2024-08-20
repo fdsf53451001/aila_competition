@@ -1,0 +1,56 @@
+{
+"compliant": [
+{
+"section": "We may disclose your personal data to comply with applicable laws, legal processes, government or quasi-governmental requests, to exercise our legal rights or defend against legal claims.",
+"article numbers": "Article 6(1)(c) and Article 6(1)(f)",
+"legal provisions": "Processing is necessary for compliance with a legal obligation to which the controller is subject or Processing is necessary for the purposes of the legitimate interests pursued by the controller or by a third party"
+},
+{
+"section": "We may disclose personal data and other information available to us when we believe, in our sole discretion, disclosure is necessary or appropriate in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to us or the rights, property or physical safety of any person, violations of our terms of use or other agreements, or as otherwise required or permitted by law.",
+"article numbers": "Article 6(1)(f)",
+"legal provisions": "Processing is necessary for the purposes of the legitimate interests pursued by the controller or by a third party"
+},
+{
+"section": "We will not retain your personal data longer than is necessary to honor your choices, fulfill the purposes for which it was collected, or as required by law.",
+"article numbers": "Article 5(1)(e)",
+"legal provisions": "Personal data shall be kept in a form which permits identification of data subjects for no longer than is necessary for the purposes for which the personal data are processed"
+},
+{
+"section": "We do not knowingly collect personal data from children under the age of 13 or other years of age as required by applicable laws. If we learn that we have inadvertently collected personal data from a child under the age of 13 or other years of age as required by applicable laws, we will delete the information to the extent required by applicable laws.",
+"article numbers": "Articles 8 and 12(1)",
+"legal provisions": " Child's consent in relation to information offer services directly to a child and Right of access by the data subject"
+}
+],
+"non_compliant": [
+{
+"section": "Sharing Personal Data\nWe may also share Personal Data with our authorized third parties (such as our authorized vendors) who help with our business operations, including the storage and processing of personal data for the uses listed in this privacy statement.",
+"article numbers": "Article 14, Article 13(1)(e), Article 28",
+"legal provisions": "Information to be provided where personal data have not been obtained from the data subject, Information to be provided where personal data are collected from the data subject, Processor",
+"amend": "Specify the categories of recipients of the personal data, including vendors. Provide information about the legal basis for sharing data with vendors and ensure that appropriate safeguards are in place, such as data processing agreements."
+},
+{
+"section": "As permitted by applicable law, we may disclose and share non-personal data without restriction. For instance, we may share aggregated and non-personally identifiable data with our commercial customers, business partners or vendors for the purposes of improving their products or services.",
+"article numbers": "Recital 10",
+"legal provisions": "Even if data is anonymized, it may still be possible to identify individuals indirectly. ",
+"amend": "Clarify the measures taken to ensure that non-personal data is truly anonymized and cannot be used to identify individuals."
+},
+{
+"section": "In no event will CyberTAN sell, rent, share, trade or disclose Personal Data to any third party without your permission.",
+"article numbers": "Article 6(1)(a), Article 7(1)(a)",
+"legal provisions": "Consent of the data subject, Conditions for consent",
+"amend": "Provide details about how consent is obtained, including how it is freely given, specific, informed, and unambiguous. Specify how users can withdraw their consent."
+},
+{
+"section": "Your Personal Data may be transferred to, stored, and/or processed in Taiwan and/or other countries with different levels of privacy protection than are applicable in your country. It is important to note that some or all of your Personal Data provided to third party service providers may be held by them in countries other than your own. You acknowledge and understand that your Personal Data will be subject to the applicable laws of each such jurisdiction, which may not provide for the same level of protection as your country of residence.",
+"article numbers": "Article 44, Article 45, Article 46",
+"legal provisions": "General principle for transfers, Transfers on the basis of an adequacy decision, Transfers subject to appropriate safeguards",
+"amend": "Identify the legal basis for transferring personal data to countries outside the EEA. Implement appropriate safeguards, such as standard contractual clauses or binding corporate rules, to ensure adequate protection of personal data."
+},
+{
+"section": "When we do so, we transfer data in compliance with applicable international data protection laws. We also take steps to protect Personal data in the jurisdiction in which it is stored or to which it is transferred. We have procedures and controls to help ensure the protection of Personal Data. Your Personal Data may also be processed by staff working for us or for our vendors or suppliers. Such staff may be engaged in, among other things, the provision of support services. By submitting your Personal Data, you consent to any such transfers, storage or other processing of your Personal Data as set out in this Privacy Statement.",
+"article numbers": "Article 44, Article 45, Article 46",
+"legal provisions": "General principle for transfers, Transfers on the basis of an adequacy decision, Transfers subject to appropriate safeguards",
+"amend": "Provide specific details about the safeguards implemented to protect personal data during international transfers. Clearly identify the legal basis for transferring data and ensure that it meets the requirements of the GDPR."
+}
+]
+}

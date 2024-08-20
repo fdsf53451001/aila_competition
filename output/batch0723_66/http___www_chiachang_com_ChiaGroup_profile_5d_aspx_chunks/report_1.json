@@ -1,0 +1,28 @@
+{
+"compliant": [
+{
+"section": "個人資訊的更新\n嘉彰希望幫助您保持個人資訊的準確性，如您提供之個人資訊有所變更時，請即使通知我們以便更新。",
+"article numbers": "Article 12(2), 16",
+"legal provisions": "Right of rectification: Data subjects have the right to obtain from the controller without undue delay the rectification of inaccurate personal data concerning him or her."
+},
+{
+"section": "聯絡我們\n如果您對我們的隱私權保護政策有任何疑問，請致函下面的地址：\n台灣桃園市蘆竹區南山路二段205巷45號\n嘉彰股份有限公司\n郵遞區號：338\nE-mail：services@chiachang.com",
+"article numbers": "Article 12(1), 30",
+"legal provisions": "Transparent information, communication and modalities for the exercise of the rights of the data subject: The controller shall take appropriate measures to provide any information referred to in Articles 13 and 14 and any communication under Articles 15 to 22 and 34 relating to processing to the data subject in a concise, transparent, intelligible and easily accessible form, using clear and plain language, in particular for any information addressed specifically to a child."
+}
+],
+"non_compliant": [
+{
+"section": "本聲明的變更\n嘉彰可在任何時候以更新此公告的方式修改本聲明，通過使用此網站，您同意受此類修訂版的約束。您應定期訪問此頁面來確定當前約束您的條款。",
+"article numbers": "Article 13(2)(e), 14(2)(a)",
+"legal provisions": "Information to be provided where personal data are collected from the data subject: Where personal data are collected from the data subject, the controller shall, at the time when personal data are obtained, provide the data subject with all of the following information: (e) the period for which the personal data will be stored, or if that is not possible, the criteria used to determine that period;",
+"amend": "Specify the criteria used to determine the data retention period or provide a specific timeframe for how long the data will be stored."
+},
+{
+"section": "Chia Group. 2011. All Rights Reserved. (c)2011 嘉彰股份有限公司 .隱私權聲明　智慧財產權及商標聲明",
+"article numbers": "Article 12(1)",
+"legal provisions": "Transparent information, communication and modalities for the exercise of the rights of the data subject: The controller shall take appropriate measures to provide any information referred to in Articles 13 and 14 and any communication under Articles 15 to 22 and 34 relating to processing to the data subject in a concise, transparent, intelligible and easily accessible form, using clear and plain language, in particular for any information addressed specifically to a child.",
+"amend": "Provide clear and concise information about data processing activities, including the legal basis for processing, data subject rights, and contact information for the data controller, in a separate, dedicated privacy policy."
+}
+]
+}

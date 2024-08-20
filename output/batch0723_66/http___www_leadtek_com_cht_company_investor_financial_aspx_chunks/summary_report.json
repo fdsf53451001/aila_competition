@@ -1,0 +1,88 @@
+{
+"compliant": [
+{
+"section": "\u9e97\u81fa\u627f\u8afe\u4fdd\u8a3c\u60a8\u500b\u4eba\u8cc7\u6599\u7684\u5b89\u5168\uff0c\u60a8\u7684\u8cc7\u6599\u6703\u88ab\u5132\u5b58\u5728\u53d7\u7ba1\u5236\u7684\u96fb\u8166\u5167\uff0c\u53ea\u6709\u7232\u57f7\u884c\u8077\u52d9\u800c\u5177\u6709\u5b58\u53d6\u6b0a\u9650\u8005\u80fd\u63a5\u89f8\u5230\u60a8\u7684\u500b\u4eba\u8cc7\u6599\u3002",
+"article numbers": "Article 5, Article 32",
+"legal provisions": "Principles relating to processing of personal data - specifically integrity and confidentiality, Security of processing"
+},
+{
+"section": "\u9664\u672c\u653f\u7b56\u6240\u8ff0\u5167\u5bb9\u3001\u6216\u6cd5\u5f8b\u5141\u8a31\u7684\u7bc4\u570d\u4ee5\u5916\uff0c\u672a\u7d93\u60a8\u540c\u610f\uff0c\u9e97\u81fa\u4e0d\u6703\u5c0d\u9e97\u81fa\u53ca\u95dc\u4fc2\u4f01\u696d\u4ee5\u5916\u7684\u7b2c\u4e09\u4eba\u63ed\u9732\u60a8\u7684\u500b\u4eba\u8cc7\u8a0a\u3002",
+"article numbers": "Article 6",
+"legal provisions": "Lawfulness of processing - specifically consent"
+},
+{
+"section": "\u9e97\u81fa\u65bc\u60a8\u63d0\u51fa\u4e0a\u8ff0\u8acb\u6c42\u6642\uff0c\u6703\u65bc\u5408\u7406\u7684\u6642\u9593\u5167\u56de\u8986",
+"article numbers": "12.3, 15.3",
+"legal provisions": "The controller shall provide information on action taken on a request to exercise data subject rights without undue delay and in any event within one month of receipt of the request."
+},
+{
+"section": "\u8981\u6c42\u63d0\u4f9b\u8907\u88fd\u672c",
+"article numbers": "15.1 (c)",
+"legal provisions": "The data subject shall have the right to obtain from the controller a copy of the personal data undergoing processing."
+},
+{
+"section": "\u8981\u6c42\u88dc\u5145\u6216\u66f4\u6b63",
+"article numbers": "16",
+"legal provisions": "Right to rectification"
+},
+{
+"section": "\u8981\u6c42\u505c\u6b62\u8490\u96c6\u3001\u8655\u7406\u6216\u5229\u7528",
+"article numbers": "18, 21",
+"legal provisions": "Right to restriction of processing, Right to object"
+},
+{
+"section": "\u8acb\u6c42\u522a\u9664",
+"article numbers": "17",
+"legal provisions": "Right to erasure ('right to be forgotten')"
+},
+{
+"section": "\u5728\u60a8\u700f\u89bd\u672c\u670d\u52d9\u6642\uff0c\u60a8\u4e26\u4e0d\u9700\u8981\u8f38\u5165\u7279\u5b9a\u500b\u4eba\u8cc7\u6599\uff0c\u53ea\u6709\u5728\u4f5c\u7279\u5b9a\u7684\u884c\u70ba\u6642(\u4f8b\u5982\u8a3b\u518a\u6210\u70ba\u6703\u54e1\u3001\u53c3\u52a0\u4fc3\u92b7\u6216\u62bd\u734e\u6d3b\u52d5\u3001\u53c3\u52a0\u554f\u5377\u8abf\u67e5\u6d3b\u52d5\u3001\u5206\u4eab\u7522\u54c1\u8cc7\u8a0a\u7d66\u597d\u53cb\u6642)\uff0c\u9e97\u81fa\u6703\u8981\u6c42\u60a8\u63d0\u4f9b\u500b\u4eba\u8cc7\u6599\uff0c\u60a8\u53ef\u81ea\u7531\u9078\u64c7\u662f\u5426\u63d0\u4f9b\u60a8\u7684\u500b\u4eba\u8cc7\u6599\uff0c\u4f46\u53ef\u80fd\u5c07\u7121\u6cd5\u53c3\u8207\u8a72\u6d3b\u52d5\u3002",
+"article numbers": "Article 7(4), Article 4(11)",
+"legal provisions": "Freely given consent, unambiguous indication of wishes"
+}
+],
+"non_compliant": [
+{
+"section": "\u9e97\u81fa\u5982\u4f55\u4f7f\u7528\u60a8\u63d0\u4f9b\u7684\u8cc7\u6599(\u5305\u62ec\u975e\u500b\u4eba\u8cc7\u6599\u4ee5\u53ca\u500b\u4eba\u8cc7\u6599)\n\u5728\u60a8\u4f7f\u7528\u672c\u670d\u52d9\u671f\u9593\uff0c\u9e97\u81fa\u6703\u5c07\u60a8\u63d0\u4f9b\u4e4b\u8cc7\u6599\u7528\u65bc\u4ee5\u4e0b\u7528\u9014\uff1a\u884c\u92b7\u696d\u52d9\u53ca\u60a8\u770b\u5230\u7684\u7db2\u9801\u5167\u5bb9\u3001\u6eff\u8db3\u60a8\u5c0d\u7522\u54c1\u548c\u670d\u52d9\u7684\u8981\u6c42\u3001\u6539\u9032\u6211\u5011\u7684\u670d\u52d9\u3001\u806f\u7d61\u60a8\u3001\u9032\u884c\u7814\u7a76\uff0c\u4ee5\u53ca\u63d0\u4f9b\u5167\u90e8\u53ca\u5916\u90e8\u5ba2\u6236\u4e0d\u8f09\u6709\u500b\u4eba\u8cc7\u6599\u4e4b\u5e02\u5834\u5206\u6790\u6216\u696d\u52d9\u5831\u544a\u3001\u5ba2\u6236\u7ba1\u7406\u8207\u670d\u52d9\u3001\u53ca\u96fb\u5b50\u5546\u52d9\u670d\u52d9\u3001\u5ee3\u544a\u548c\u5546\u696d\u884c\u70ba\u7ba1\u7406\u696d\u52d9\u4ee5\u53ca\u5176\u4ed6\u5951\u7d04\u3001\u985e\u4f3c\u5951\u7d04\u6216\u6cd5\u5f8b\u95dc\u4fc2\u7ba1\u7406\u4e4b\u4e8b\u52d9\u6216\u696d\u52d9\u3002",
+"article numbers": "Article 6(1), Article 5(1)(b)",
+"legal provisions": "Lawfulness of processing, purpose limitation",
+"amend": "Specify the legal basis for each processing purpose (e.g., consent, contract, legitimate interest) and ensure that data processing is limited to what is necessary for the specified, explicit, and legitimate purposes."
+},
+{
+"section": "\u672c\u96b1\u79c1\u6b0a\u653f\u7b56(\u4ee5\u4e0b\u7c21\u7a31\u300c\u672c\u653f\u7b56\u300d)\u76ee\u7684\u5728\u65bc\u5354\u52a9\u60a8\u4e86\u89e3\u9e97\u81fa\u5982\u4f55\u8490\u96c6\u3001\u8655\u7406\u53ca\u5229\u7528\u60a8\u7684\u500b\u4eba\u8cc7\u6599\u3002\n\u7576\u60a8\u5b58\u53d6\u3001\u4f7f\u7528\u672c\u670d\u52d9\uff0c\u6216\u900f\u904e\u672c\u670d\u52d9\u63d0\u4f9b(\u5305\u542b\u500b\u4eba\u6216\u975e\u500b\u4eba)\u8cc7\u8a0a\u7d66\u9e97\u81fa\u6642\uff0c\u5373\u8868\u793a\u60a8\u5df2\u8a73\u95b1\u672c\u653f\u7b56\u4e4b\u5167\u5bb9\uff0c\u4e26\u540c\u610f\u63a5\u53d7\u672c\u653f\u7b56\u5167\u63d0\u5230\u4e4b\u4f5c\u6cd5\u3002 \u9664\u672c\u653f\u7b56\u5916\uff0c\u9e97\u81fa\u53ef\u80fd\u91dd\u5c0d\u672c\u670d\u52d9\u4e2d\u7279\u5b9a\u7684\u7522\u54c1\u3001\u512a\u60e0\u3001\u5340\u57df\u3001\u670d\u52d9\u3001\u6d3b\u52d5\uff0c\u63d0\u51fa\u4e0d\u540c\u6216\u9644\u52a0\u7684\u8cc7\u8a0a\u4ee5\u53ca\u689d\u6b3e\u3002",
+"article numbers": "Article 12(1), Article 13, Article 14",
+"legal provisions": "Transparent information, communication and modalities for the exercise of the data subject's rights",
+"amend": "Provide information about data processing in a concise, transparent, intelligible, and easily accessible form, using clear and plain language. This includes details about the controller, the purposes of processing, the legal basis, recipients of data, data retention periods, and data subject rights."
+},
+{
+"section": "\u9e97\u81fa\u6703\u5411\u5df2\u7c3d\u7f72\u4fdd\u5bc6\u5354\u8b70\u66f8\u4e4b\u4ee3\u8868\u9e97\u81fa\u6216\u8207\u9e97\u81fa\u5171\u540c\u57f7\u884c\u696d\u52d9\u7684\u503c\u5f97\u4fe1\u8cf4\u7684\u5408\u4f5c\u5925\u4f34\u63d0\u4f9b\u9019\u4e9b\u8cc7\u6599\u3002\u9019\u4e9b\u516c\u53f8\u6703\u5c07\u60a8\u7684\u500b\u4eba\u8cc7\u6599\u7528\u65bc\u5354\u52a9\u9e97\u81fa\u8207\u5408\u4f5c\u5925\u4f34\u6240\u63d0\u4f9b\u7522\u54c1\u53ca\u670d\u52d9\u7684\u4e8b\u5b9c\u4e0a\u3002",
+"article numbers": "Article 13, Article 14",
+"legal provisions": "Information to be provided where personal data are collected from the data subject, Information to be provided where personal data have not been obtained from the data subject",
+"amend": "The policy should clearly identify all third parties with whom data is shared, not just describe them in general terms. It should also specify the purpose of sharing data with each third party."
+},
+{
+"section": "\u672c\u670d\u52d9\u6703\u5728\u60a8\u9020\u8a2a\u672c\u670d\u52d9\u6642\uff0c\u7559\u4e0b\u4e00\u500bcookies (\u4e00\u500b\u975e\u5e38\u5c0f\u7684\u7d14\u6587\u5b57\u6a94\uff09\u5728\u60a8\u7684\u96fb\u8166\u88e1\u3002\u76ee\u7684\u662f\u70ba\u4e86\u8a18\u9304\u60a8\u700f\u89bd\u904e\u7684\u8cc7\u6599\uff0c\u4ee5\u65b9\u4fbf\u60a8\u5728\u4e0b\u6b21\u9020\u8a2a\u672c\u670d\u52d9\u6642\uff0c\u672c\u670d\u52d9\u53ef\u63d0\u4f9b\u60a8\u66f4\u500b\u4eba\u5316\u670d\u52d9\uff0c\u672c\u7ad9\u4e0d\u6703\u5229\u7528\u6b64 cookies \u8490\u96c6\u60a8\u7684\u59d3\u540d\u3001\u96fb\u5b50\u90f5\u4ef6\u7b49\u500b\u4eba\u8cc7\u6599\u3002\u5982\u60a8\u6709\u7591\u616e\uff0c\u53ef\u900f\u904e\u81ea\u884c\u66f4\u6539\u700f\u89bd\u5668\u6216\u88dd\u7f6e\u7684\u8a2d\u5b9a\uff0c\u9078\u64c7\u63a5\u53d7\u6216\u62d2\u7d55\u5168\u90e8\u6216\u67d0\u4e9b\u7684cookies\u529f\u80fd\u3002",
+"article numbers": "Article 7, Recital 32",
+"legal provisions": "Conditions for consent,  Consent should be given by a clear affirmative act",
+"amend": "While the policy mentions cookies and their purpose, it does not explicitly state that using cookies to store browsing data requires user consent. It should clearly state that consent is required and provide an option to reject cookies that are not essential for the website's functionality."
+},
+{
+"section": "\u60a8\u5982\u679c\u5c0d\u65bc\u9e97\u81fa\u900f\u904e\u672c\u670d\u52d9\u8490\u96c6\u5230\u60a8\u7684\u500b\u4eba\u8cc7\u6599\u7684\u76f8\u95dc\u653f\u7b56\u6709\u7591\u616e\u6216\u610f\u898b\uff0c\u53ef\u900f\u904eemail\u81f3\u670d\u52d9\u4fe1\u7bb1(service@leadtek.",
+"article numbers": "Article 12, Article 15 to 22",
+"legal provisions": "Transparent information, communication and modalities for the exercise of the data subject's rights, Rights of the data subject",
+"amend": "The policy should provide a complete list of data subject rights under GDPR, including the right to access, rectification, erasure, restriction of processing, data portability, and object to processing. It should also provide clear and accessible procedures for exercising these rights, including contact information beyond just an email address."
+},
+{
+"section": "\u4e26\u53ef\u80fd\u5411\u60a8\u914c\u6536\u5fc5\u8981\u4e14\u5408\u7406\u4e4b\u8655\u7406\u8cbb\u7528\u3002",
+"article numbers": "12.5",
+"legal provisions": "The controller shall bear the cost of providing information on action taken on a request to exercise data subject rights. The controller may charge a reasonable fee where requests from a data subject are manifestly unfounded or excessive, in particular because of their repetitive character.",
+"amend": "Remove the provision allowing for charging fees for data subject requests, unless they are manifestly unfounded or excessive."
+},
+{
+"section": "\u9664\u975e\u6cd5\u5f8b\u6709\u660e\u6587\u898f\u5b9a\u5916\uff0c\u5426\u5247\u60a8\u6301\u7e8c\u4f7f\u7528\u672c\u670d\u52d9\uff0c\u5373\u8996\u70ba\u60a8\u63a5\u53d7\u66f4\u65b0\u5f8c\u7684\u96b1\u79c1\u6b0a\u653f\u7b56\u3002",
+"article numbers": "7",
+"legal provisions": "Conditions for consent",
+"amend": "Consent must be freely given, specific, informed and unambiguous. Continued use of a service cannot be considered valid consent."
+}
+]
+}

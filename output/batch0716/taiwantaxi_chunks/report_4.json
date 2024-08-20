@@ -1,0 +1,40 @@
+{
+"compliant": [
+{
+"section": "您確認於註冊時提供個人資料均屬真實，如您個人資料誤填或有變更時，您將隨時更正或更新，如您未及時更新，表示您同意台灣大車隊股份有限公司繼續依您原登錄資料提供各項服務。",
+"article numbers": "5, 12",
+"legal provisions": "Data accuracy, Right to rectification"
+},
+{
+"section": "請您確認上載、傳送、輸入或提供至台灣大車隊會員網站的資料，都已合法取得授權使用（下稱授權使用，包含但不限修改、重製、公開播送、改作、散佈、發行、公開發表等方式），並可將前述權利轉授權第三人。",
+"article numbers": "6(1)(a)",
+"legal provisions": "Lawfulness of processing - Consent"
+}
+],
+"non_compliant": [
+{
+"section": "若您登錄不實或不完整資料，台灣大車隊將暫停或終止您的會員資格，並拒絕您使用會員服務。",
+"article numbers": "5, 12",
+"legal provisions": "Data accuracy, Right to rectification",
+"amend": "Instead of suspending or terminating accounts for inaccurate data, users should be given the opportunity to correct or complete their information."
+},
+{
+"section": "如果您發現或合理懷疑有第三人使用您的會員資料，您應該立即通知台灣大車隊，台灣大車隊將採取必要的防範措施。",
+"article numbers": "33, 34",
+"legal provisions": "Notification of a personal data breach to the supervisory authority, Communication of a personal data breach to the data subject",
+"amend": "This section should clearly state the company's responsibilities in case of a data breach, including notifying the relevant supervisory authority and affected individuals within 72 hours of becoming aware of the breach."
+},
+{
+"section": "您應妥善保管帳號及密碼，並於每次連線完畢時或使用後確實登出，以防他人盜用。利用此組帳號與密碼登入系統後所進行之一切活動，您將負完全的責任。請勿將您的帳號與密碼洩露或提供予第三人知悉，以免因此遭人非法使用。",
+"article numbers": "32",
+"legal provisions": "Security of processing",
+"amend": "While encouraging users to protect their credentials is good practice, the company is ultimately responsible for implementing appropriate technical and organizational measures to ensure the security of personal data."
+},
+{
+"section": "以同一個會員手機號碼和密碼使用會員服務所進行的所有行為，都將被認為是這位會員本人的行為。",
+"article numbers": "32",
+"legal provisions": "Security of processing",
+"amend": "This statement could potentially undermine the company's responsibility to implement adequate security measures. It should be clarified that while users are responsible for protecting their credentials, the company also takes measures to prevent unauthorized access."
+}
+]
+}

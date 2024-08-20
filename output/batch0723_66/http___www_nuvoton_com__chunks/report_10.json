@@ -1,0 +1,28 @@
+{
+"compliant": [
+{
+"section": "We will only record and/or review your conversations with us where we are permitted to do so by applicable laws and we will tell you that we are doing so at the latest at the start of the conversations.",
+"article numbers": "Article 5(1)(a), Article 13(1)(c), Article 14(2)(a)",
+"legal provisions": "Lawfulness, fairness and transparency, Purposes of the processing, Information to be provided where personal data are collected from the data subject"
+},
+{
+"section": "Where you subscribe to our promotional communications and newsletters we will collect Personal Information including your email address and postal address.",
+"article numbers": "Article 6(1)(a)",
+"legal provisions": "Consent of the data subject"
+}
+],
+"non_compliant": [
+{
+"section": "We may access some your NUVOTON account/profile.",
+"article numbers": "Article 5(1)(b), Article 5(1)(c)",
+"legal provisions": "Purpose limitation, Data minimisation",
+"amend": "Specify the specific and limited purposes for accessing NUVOTON account/profile data, and only access the data absolutely necessary for those purposes."
+},
+{
+"section": "We may also record and review your conversations with our customer support representatives (e.g. when you contact us by telephone) and also review any information you have provided in response to a voluntary customer survey(s).",
+"article numbers": "Article 5(1)(e)",
+"legal provisions": "Storage limitation",
+"amend": "Establish a retention schedule for recorded conversations and survey responses, and ensure data is deleted securely once no longer necessary for the original purpose."
+}
+]
+}

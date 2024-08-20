@@ -1,0 +1,39 @@
+{
+"compliant": [
+{
+"section": "三、本公司倘因業務需要有與第三方合作或委託外部廠商者，亦會嚴格要求第三方合作公司或外部廠商遵守個人資料保護相關法令，及本公司個人資料管理與資訊安全制度，並採取必要監督、查核程序，以確認其確實遵守本公司前述規範要求。",
+"article numbers": "28, GDPR",
+"legal provisions": "This section aligns with the GDPR's requirement for data controllers to only use processors that provide sufficient guarantees to implement appropriate technical and organizational measures for processing."
+},
+{
+"section": "五、提供或揭露予第三方政策\n本網站僅有符合下列情形者，才可將個人資料或其他資訊提供或揭露予第三方，進行資訊處理、行銷模式調查、提升網站服務功能或品質、商品運送或或交付，或其他客戶延伸服務。\n1.經充分告知作業或活動目的、資料利用範圍及相關權益事項後，獲得您明確表示同意者。\n2.政府機關、金融監理機關、司法機關或其他有權調查機關，經合法正式的程序要求提供或揭露。",
+"article numbers": "6(1)(a), 6(1)(c), GDPR",
+"legal provisions": "This section partially aligns with the GDPR by listing legal bases for processing data, including consent (6(1)(a)) and legal obligations (6(1)(c))."
+},
+{
+"section": "六、消費者聯絡資訊\n倘您就本網站之隱私權保護政策內容與個人資料蒐集、處理或利用有所疑義而需諮詢，亦或欲行使個人資料保護法所定權利時，可撥打客服專線0809-068-888， 力當竭誠為您服務。惟您行使權利方式或內容具有法定駁回情事者，則本公司將會檢附理由拒絕您之請求。",
+"article numbers": "12 GDPR",
+"legal provisions": "This section aligns with Article 12, providing a point of contact for individuals to exercise their data protection rights."
+}
+],
+"non_compliant": [
+{
+"section": "四、另也建議您務必妥善保管個人資料、CA（Certificate authority） 憑證或密碼，並提醒您不要將任何個人資料（尤其是密碼）提供給任何人或機構；尤其使用完本網站所提供各項服務功能後，請您務必登出；如與他人共用同一部電腦或使用公共電腦，請務必登出帳號與關閉瀏覽器視窗，以防止他人獲取您個人資料。",
+"article numbers": "N/A",
+"legal provisions": "While this section promotes good security practices, it does not directly relate to GDPR compliance.",
+"amend": "No amendment needed, but it's not a GDPR compliance point."
+},
+{
+"section": "五、提供或揭露予第三方政策\n本網站僅有符合下列情形者，才可將個人資料或其他資訊提供或揭露予第三方，進行資訊處理、行銷模式調查、提升網站服務功能或品質、商品運送或或交付，或其他客戶延伸服務。\n1.經充分告知作業或活動目的、資料利用範圍及相關權益事項後，獲得您明確表示同意者。\n2.政府機關、金融監理機關、司法機關或其他有權調查機關，經合法正式的程序要求提供或揭露。",
+"article numbers": "13, 14 GDPR",
+"legal provisions": "This section lacks the specificity required by Articles 13 and 14. It doesn't clearly state all purposes of processing, data categories, recipients, retention periods, or data subject rights.",
+"amend": "Provide specific details about data processing activities, including purpose, legal basis, data categories, recipients (if any), data retention periods, and data subject rights (access, rectification, erasure, etc.)."
+},
+{
+"section": "七、網站隱私權政策的修改\n本公司為保護使用者個人資料、維護網路隱私，將配合法令變動與因應最新技術，隨時更新本網站所提供的隱私權保護政策，以落實保障您的隱私權與個人資料。建議您於再次來訪時，可重新瞭解本公司的最新隱私權保護政策及其改。",
+"article numbers": "N/A",
+"legal provisions": "While this section highlights the dynamic nature of privacy policies, it doesn't directly address GDPR requirements.",
+"amend": "No amendment needed, but it's not a GDPR compliance point."
+}
+]
+}

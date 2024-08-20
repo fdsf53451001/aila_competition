@@ -1,0 +1,28 @@
+{
+"compliant": [
+{
+"section": "Cookie 是儲存 Internet 設定的小型文件，幾乎每個網站都使用 Cookie 技術。當您第一次訪問某網站時，Cookie 會經由您的瀏覽器下載。當您下一次使用同一個裝置訪問該網站時，Cookie 的信息會被送回，讓網站知道這個瀏覽器再度來訪。\n一些 Cookie 非常有用，因為它們可以在您重回網站時改善您的用戶體驗，Cookie 會記住您的偏好，會知道您如何使用該網站並自動調整顯示的內容，以便與您的個人興趣和需求更相關。",
+"article numbers": "13.1.a",
+"legal provisions": "Providing information about the processing of personal data in clear and plain language."
+},
+{
+"section": "本網站上使用 Cookies 是不需要經過您同意的。Cookies 是“絕對必要”，如果沒有這些功能，您將無法使用本網站。這些 Cookies 僅由本站使用，因此被稱為第一方 Cookie。當您瀏覽網站時，它們只會保存在您的瀏覽裝置上。使用本網站的功能您無法禁用絕對必要的 Cookie，使用絕對必要的 Cookies 不需要您的同意。",
+"article numbers": "6.4",
+"legal provisions": "Lawfulness of processing based on legitimate interests of the controller or a third party."
+}
+],
+"non_compliant": [
+{
+"section": "根據 Cookie 的功能和使用 Cookies 的目的，有四類 Cookie：絕對必要的 Cookie、性能 Cookie、功能性 Cookie 和行銷 Cookie。",
+"article numbers": "4.12, 5.1.a",
+"legal provisions": "Principles relating to processing of personal data, specifically lawfulness, fairness and transparency. Consent of the data subject.",
+"amend": "The policy should clearly state that consent is required for non-essential cookies, such as performance, functionality, and marketing cookies. It should also provide users with the option to accept or reject these cookies individually or collectively."
+},
+{
+"section": "您在本網站上的 COOKIE 設置",
+"article numbers": "12.1, 15.1.a-h",
+"legal provisions": "Transparent information, communication and modalities for the exercise of the rights of the data subject.",
+"amend": "This section should provide users with clear and specific information about the cookies used on the website, including their names, purposes, duration, and third-party access. It should also explain how users can manage their cookie preferences, including how to withdraw consent."
+}
+]
+}

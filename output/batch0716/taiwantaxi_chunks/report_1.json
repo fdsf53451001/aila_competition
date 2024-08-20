@@ -1,0 +1,34 @@
+{
+"compliant": [
+{
+"section": "台灣大車隊得於本公司營運期間及經營地區內，於與行銷、客戶管理、會員管理、個人資料之交易、統計調查分析等之合理相關連之特定目的內，蒐集、處理及利用包括但不限於會員之姓名、電話、地址、生日及消費情形等基本資料及使用會員之個人資料，提供會員各種優惠措施及行銷活動訊息",
+"article numbers": "6(1)(b), 6(1)(f)",
+"legal provisions": "Processing is lawful if necessary for the purposes of the legitimate interests pursued by the controller or by a third party, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data, in particular where the data subject is a child."
+},
+{
+"section": "但會員如表示不同意或要求停止對其進行行銷，台灣大車隊不得拒絕，且會員之權益不會受到影響。",
+"article numbers": "21(2), 7(3)",
+"legal provisions": "The data subject shall have the right to object, on grounds relating to his or her particular situation, at any time to processing of personal data concerning him or her which is based on point (e) or (f) of Article 6(1), including profiling based on those provisions. The controller shall no longer process the personal data unless the controller demonstrates compelling legitimate grounds for the processing which override the interests, rights and freedoms of the data subject or for the establishment, exercise or defence of legal claims."
+}
+],
+"non_compliant": [
+{
+"section": "您得自由選擇是否提供個人資料給我們，但若特定資料欄位係屬必填欄位者，您若不提供該等資料則無法使用相關的台灣大車隊產品及服務。",
+"article numbers": "7(4), 6(1)",
+"legal provisions": "Where processing is based on consent pursuant to point (a) of Article 6(1) or point (a) of Article 9(2), the controller shall be able to demonstrate that the data subject has consented to processing of his or her personal data.",
+"amend": "It should be clarified that the user has the right to refuse providing personal data, even for mandatory fields, without being denied access to the service, unless such data is strictly necessary for the performance of a contract or service requested by the user, and this is explicitly stated."
+},
+{
+"section": "會員應確保提供之個人資料均屬真實，如個人資料誤填或有變更時，會員應隨時向台灣大車隊更正或更新。如會員未及時更新，表示同意台灣大車隊繼續依原登錄資料提供各項服務，且不會與台灣大車隊對此產生爭議。",
+"article numbers": "5(1)(d), 16",
+"legal provisions": "Personal data shall be: (d) accurate and, where necessary, kept up to date; every reasonable step must be taken to ensure that personal data that are inaccurate, having regard to the purposes for which they are processed, are erased or rectified without delay ('accuracy').",
+"amend": "The user should not be held responsible for keeping their data updated. The company should implement measures to ensure data accuracy, such as periodic reminders for users to update their information."
+},
+{
+"section": "若會員登錄不實資料，於會員活動抽獎所得之相關贈品時，該會員不得請求兌換該贈品或參與活動。",
+"article numbers": "5(1)(a)",
+"legal provisions": "Personal data shall be: (a) processed lawfully, fairly and in a transparent manner in relation to the data subject ('lawfulness, fairness and transparency')",
+"amend": "Denying a prize based on inaccurate data, without giving the opportunity for rectification, might be considered unfair. The company should provide a mechanism for users to correct their data and claim their prize."
+}
+]
+}

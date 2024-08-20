@@ -1,0 +1,11 @@
+{
+"compliant": [],
+"non_compliant": [
+{
+"section": "The provided text does not contain a privacy policy.",
+"article_numbers": "N/A",
+"legal_provisions": "N/A",
+"amend": "Provide a comprehensive privacy policy that addresses GDPR requirements, including but not limited to:\n\n* **Lawful basis for processing (Article 6):** Clearly state the legal basis for collecting and processing personal data (e.g., consent, contract performance, legitimate interests).\n* **Transparency and information (Articles 12-14):** Provide clear, concise, and easily accessible information about data processing activities, including the identity of the controller, purpose of processing, data retention periods, and data subject rights.\n* **Data subject rights (Articles 15-22):** Inform individuals about their rights, such as the right to access, rectification, erasure, restriction of processing, and data portability.\n* **Data security (Article 32):** Implement appropriate technical and organizational measures to ensure the security of personal data.\n* **Data transfers outside the EEA (Chapter V):** If transferring data outside the European Economic Area, ensure appropriate safeguards are in place (e.g., adequacy decisions, Standard Contractual Clauses)."
+}
+]
+}

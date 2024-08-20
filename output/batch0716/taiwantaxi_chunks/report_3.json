@@ -1,0 +1,57 @@
+{
+"compliant": [
+{
+"section": "二、個人資料之類別。",
+"article numbers": "13.1(a), 14.1(a)",
+"legal provisions": "The data subject has the right to be informed about the categories of personal data being processed."
+},
+{
+"section": "三、個人資料利用之期間、地區、對象及方式。",
+"article numbers": "13.1(a), 13.2(a), 14.1(a), 14.2(f)",
+"legal provisions": "The data subject has the right to be informed about the period for which the personal data will be stored, the recipients of the personal data, and the purpose of the processing."
+},
+{
+"section": "四、當事人依第三條規定得行使之權利及方式。",
+"article numbers": "12.1, 15, 16, 17, 18, 19, 20, 21",
+"legal provisions": "The data subject has the right to request access to, rectification of, erasure of, and restriction of processing of their personal data. They also have the right to data portability and to object to processing."
+}
+],
+"non_compliant": [
+{
+"section": "自您加入成為會員（以下簡稱會員）即日起至台灣大車隊及合作特約商終止營運之日、及會員停止提供服務之日止。",
+"article numbers": "5.1(e)",
+"legal provisions": "Personal data shall be kept in a form which permits identification of data subjects for no longer than is necessary for the purposes for which the personal data are processed.",
+"amend": "Specify a clear and limited data retention period based on the purpose of processing, and delete data afterwards."
+},
+{
+"section": "(1)台灣地區及服務使用地，且基於履行契約義務，將提供相關資料予合作特約商或台灣大車隊於特定目的範圍內委外之廠商。",
+"article numbers": "13.1(f), 14.1(f)",
+"legal provisions": "The data subject has the right to be informed about the legal basis for processing their data, including if it is based on legitimate interests.",
+"amend": "Specify the legal basis for transferring data to partners and subcontractors, including details about legitimate interests if applicable."
+},
+{
+"section": "(2)台灣大車隊將於蒐集之特定目的範圍內處理並利用個人資料。",
+"article numbers": "5.1(b)",
+"legal provisions": "Personal data shall be collected for specified, explicit and legitimate purposes and not further processed in a manner that is incompatible with those purposes.",
+"amend": "Clearly specify the specific purposes for processing personal data."
+},
+{
+"section": "(3)合作特約廠商及委外廠商於贈品兌換及行銷等特定目的範圍內蒐集、處理或利用個人資料。",
+"article numbers": "6.1(a)",
+"legal provisions": "Processing shall be lawful only if and to the extent that at least one of six conditions are met, including consent.",
+"amend": "Specify the legal basis for processing data for marketing purposes, especially if it requires consent. Ensure consent is freely given, specific, informed and unambiguous."
+},
+{
+"section": "上述權利，若因會員不符合申請程序或法律規定，或台灣大車隊依法負有保存義務，或法律另有規定之情況者，不在此限。若您就您的會員註冊資料向台灣大車隊請求答覆查詢、提供閱覽。",
+"article numbers": "12.3, 23",
+"legal provisions": "The controller shall provide information on action taken on a request by the data subject without undue delay. Restrictions to data subject rights must be provided for by law and respect the essence of the fundamental rights and freedoms.",
+"amend": "Clearly specify the lawful basis for any restrictions to data subject rights and ensure they are applied in a transparent and proportionate manner."
+},
+{
+"section": "消費者得自由選擇提供個人資料，惟若其提供之資料不足或有誤時，台灣大車隊除將無法提供完整之服務將可能損及消費者之權益。",
+"article numbers": "7.4",
+"legal provisions": "Consent should not be the basis for processing where there is a clear imbalance between the data subject and the controller.",
+"amend": "Ensure that not providing data does not disadvantage the consumer in an unfair or disproportionate way. Consider alternative methods for service provision if data is not provided."
+}
+]
+}

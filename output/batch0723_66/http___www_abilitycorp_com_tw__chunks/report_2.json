@@ -1,0 +1,23 @@
+{
+"compliant": [
+{
+"section": "If you have any question or suggestion regarding this Privacy Policy, please kindly contact to us.",
+"article numbers": "12, 13",
+"legal provisions": "Right to information, communication and modalities for the exercise of the rights of the data subject"
+}
+],
+"non_compliant": [
+{
+"section": "Our Company has right to change this Privacy Policy at any time. By visiting our website, you agree to accept such change.",
+"article numbers": "13, 14",
+"legal provisions": "Right to information, communication and modalities for the exercise of the rights of the data subject, Conditions for consent",
+"amend": "Users must be informed of changes in an appropriate and timely manner, and consent must be explicit, freely given, specific, informed and unambiguous. Simply visiting the website does not constitute valid consent."
+},
+{
+"section": "佳能企業股份有限公司\n24242新北市新莊區中環路3段200號\n電話：+886-2-8522-9788     傳真：+886-2-8522-9789",
+"article numbers": "13, 14",
+"legal provisions": "Right to information, communication and modalities for the exercise of the rights of the data subject, Contact details of the controller",
+"amend": "While providing contact information is good, the policy should explicitly mention that this is the contact information of the data controller and/or Data Protection Officer (DPO), if applicable."
+}
+]
+}

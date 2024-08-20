@@ -1,0 +1,67 @@
+{
+"compliant": [
+{
+"section": "拒絕提供個人資料之權利",
+"article numbers": "13.2.c, 21",
+"legal provisions": "Right to object, including for direct marketing purposes"
+},
+{
+"section": "查閱您個人資料之權利",
+"article numbers": "15",
+"legal provisions": "Right of access"
+},
+{
+"section": "更正不正確個人資料之權利",
+"article numbers": "16",
+"legal provisions": "Right to rectification"
+},
+{
+"section": "要求刪除之權利",
+"article numbers": "17",
+"legal provisions": "Right to erasure ('right to be forgotten')"
+},
+{
+"section": "限制處理您個人資料之權利",
+"article numbers": "18",
+"legal provisions": "Right to restriction of processing"
+},
+{
+"section": "反對處理您個人資料之權利",
+"article numbers": "21",
+"legal provisions": "Right to object"
+},
+{
+"section": "要求移轉您個人資料至其他控管人之權利",
+"article numbers": "20",
+"legal provisions": "Right to data portability"
+},
+{
+"section": "撤回同意之權利",
+"article numbers": "7",
+"legal provisions": "Conditions for consent"
+},
+{
+"section": "向資訊保護主管機關申訴之權利",
+"article numbers": "77",
+"legal provisions": "Right to lodge a complaint with a supervisory authority"
+},
+{
+"section": "對於我們或代我們處理您個人資料之第三人，就您的特殊情形提出異議之權利",
+"article numbers": "21",
+"legal provisions": "Right to object on grounds relating to the particular situation"
+},
+{
+"section": "對於我們或代我們以直接行銷為目的而處理您個人資料之第三人，提出異議之權利",
+"article numbers": "21.2",
+"legal provisions": "Right to object to direct marketing"
+}
+],
+"non_compliant": [
+{
+"section": "在某些情形下，您需要提供身分證明文件以行使上述之權利。",
+"article numbers": "12.2, 15-22",
+"legal provisions": "The requirement for identity verification should be proportionate and not hinder the exercise of data subject rights. It should be clearly explained when such verification is required and why.",
+"amend": "說明何種情況下需要提供身分證明文件，以及提供文件之目的，以確保要求合理且符合比例原則。"
+}
+]
+}

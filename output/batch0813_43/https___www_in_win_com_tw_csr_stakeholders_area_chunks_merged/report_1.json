@@ -1,0 +1,40 @@
+{
+"compliant": [
+{
+"section": "當您在瀏覽或是使用本網站所提供的相關服務時，您可以自行決定是否要註冊、請求產品或是技術支援、登錄購買產品等，然而部分服務可能會要求您提供相關的個人資訊",
+"article numbers": "Article 7(4)",
+"legal provisions": "Freely given consent"
+},
+{
+"section": "收集的個人資料將主要用於行銷、消費者、客戶管理與服務、廣告或商業行為管理、網路購物及其他電子商務服務及調查、統計與研究分析",
+"article numbers": "Article 5(1)(b)",
+"legal provisions": "Purpose limitation"
+}
+],
+"non_compliant": [
+{
+"section": "像是您的姓名、電話、居住地址、電子郵件等或是其他所需的個人資訊",
+"article numbers": "Article 5(1)(c), Article 5(1)(e)",
+"legal provisions": "Data minimization, Storage limitation",
+"amend": "Specify the exact types of data collected for each purpose and how long it will be stored. Avoid collecting unnecessary data or using broad terms like \"其他所需的個人資訊\"."
+},
+{
+"section": "除此之外，我們也會在不定期舉辦的活動中，像是抽獎活動、競賽、促銷活動等，收集由參與者自願提供的個人資料。",
+"article numbers": "Article 6(1)(a), Article 7",
+"legal provisions": "Lawfulness of processing, Consent",
+"amend": "Specify how consent is obtained for each processing activity, ensuring it is freely given, specific, informed, and unambiguous. Provide an option to withdraw consent."
+},
+{
+"section": "如符合您個人需求的支援服務、聯絡活動得獎人、問題回覆、消費者使用經驗及滿意度調查、不定期的產品優惠資訊或是最新活動資訊等",
+"article numbers": "Article 13, Article 14",
+"legal provisions": "Information to be provided",
+"amend": "Provide a comprehensive privacy notice that includes all required information, such as the controller's identity, contact details, processing purposes, legal basis, data retention periods, and data subject rights."
+},
+{
+"section": "如果您有相關的問題或是其他個人需求，也歡迎您透過網站內的「聯絡我們」與我們聯繫。",
+"article numbers": "Article 12, Article 15-22",
+"legal provisions": "Transparent information, communication and modalities for the exercise of the data subject's rights",
+"amend": "Provide clear and accessible information on how individuals can exercise their data subject rights, including access, rectification, erasure, restriction of processing, and data portability."
+}
+]
+}

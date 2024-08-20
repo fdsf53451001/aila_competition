@@ -1,0 +1,11 @@
+{
+"compliant": [],
+"non_compliant": [
+{
+"section": ", LTD.\nAll Rights Reserved\n利害關係人專區\n02-8793-9000\n03-347-6699\n04-3702-3279\n06-703-0250\n07-213-7799\n02-8793-9608\n02-7746-3988\n+886-2-8793-9695\n02-8793-9000\n03-347-6699\n04-3702-3279\n06-703-0250\n07-213-7799\n02-8793-9608\n02-7746-3988\n+886-2-8793-9695    \n    Which parts of this privacy policy comply with GDPR? Which parts are not GDPR compliant?\n    Please match the policy with the provisions, citing article numbers and legal provisions:\n\n    for example:\n    {\n        \"compliant\": [\n            {\n            \"section\": \"...\",\n            \"article numbers\": \"...\",\n            \"legal provisions\": \"...\"\n            }\n        ],\n        \"non_compliant\": [\n            {\n            \"section\": \"...\",\n            \"article numbers\": \"...\",\n            \"legal provisions\": \"...\",\n            \"amend\": \"...\"\n            }\n        ]\n    }\n    ",
+"article numbers": "Multiple",
+"legal provisions": "The provided text does not constitute a privacy policy and lacks information related to data processing, user rights, or legal bases for processing. Therefore, it is entirely non-compliant with GDPR.",
+"amend": "Provide a comprehensive privacy policy that includes:\n- Information about the data controller\n- Purpose and legal basis for data processing\n- Categories of data processed\n- Data subject rights (access, rectification, erasure, etc.)\n- Data retention periods\n- Data security measures\n- Contact information for data protection inquiries"
+}
+]
+}

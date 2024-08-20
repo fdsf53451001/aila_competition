@@ -1,0 +1,48 @@
+{
+"compliant": [
+{
+"section": "本政策聲明自即日起生效",
+"article numbers": "13.1",
+"legal provisions": "Requirement for a privacy policy to be in place."
+},
+{
+"section": "本政策將因應法令規定之修訂與科技的進步隨時進行修正",
+"article numbers": "13.1",
+"legal provisions": "Policies must be updated to reflect changes in law and technology."
+},
+{
+"section": "修正後的條款將更新於本公司網站上",
+"article numbers": "12.1",
+"legal provisions": "Data subjects must be informed of changes to the privacy policy."
+},
+{
+"section": "歡迎您定期檢視本公司之隱私權政策及相關使用規範",
+"article numbers": "12.1",
+"legal provisions": "Data subjects are encouraged to stay informed about the privacy policy."
+},
+{
+"section": "若您持續使用本網站服務，即代表您同意本政策及任何更新之內容",
+"article numbers": "7.1",
+"legal provisions": "Consent can be implied through continued use of a service."
+},
+{
+"section": "若您對本政策有任何意見，歡迎與本公司聯繫",
+"article numbers": "Article 32",
+"legal provisions": "Right to lodge a complaint with a supervisory authority."
+}
+],
+"non_compliant": [
+{
+"section": "以落實保障您隱私權之立意",
+"article numbers": "5.1 (a)",
+"legal provisions": "Data must be processed lawfully, fairly and in a transparent manner.",
+"amend": "The policy should clearly state the legal basis for processing personal data, such as consent, contract performance, legal obligation, vital interests, public interest, or legitimate interests."
+},
+{
+"section": "以瞭解本公司如何保護所蒐集之個人資料",
+"article numbers": "13, 14",
+"legal provisions": "Information about data processing activities must be specific, granular, and easily accessible.",
+"amend": "The policy should provide specific details about what data is collected, how it is used, for what purposes, and for how long. It should also explain the data subject's rights and how to exercise them."
+}
+]
+}

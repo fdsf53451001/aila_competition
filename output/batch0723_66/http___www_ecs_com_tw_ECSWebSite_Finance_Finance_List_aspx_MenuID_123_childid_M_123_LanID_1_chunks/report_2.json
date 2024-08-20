@@ -1,0 +1,29 @@
+{
+"compliant": [
+{
+"section": "Unless otherwise specified in applicable laws and regulations, you may exercise the following rights with regard to your Information upon written request: (i) any inquiry and request for a review of your Information; (ii) any request to make duplications of your Information; (iii) any request to supplement or correct your Information; (iv) any request to discontinue the collection, processing or use of your Information; (v) any request to delete your Information; and (vi) withdraw your consent.",
+"article numbers": "Article 12, 15, 16, 17, 18, 19, 20, 21",
+"legal provisions": "Right of access, Right to rectification, Right to erasure ('right to be forgotten'), Right to restriction of processing, Right to data portability, Right to object, Automated individual decision-making, including profiling"
+}
+],
+"non_compliant": [
+{
+"section": "Since ECS’s web pages require user authorization, cookies are not optional. Users choosing not to accept cookies will probably not be able to access those pages.",
+"article numbers": "Article 7",
+"legal provisions": "Conditions for consent",
+"amend": "The user should be able to access core functionalities of the website without accepting cookies.  The website should provide an option to refuse cookies without disrupting the essential functionality."
+},
+{
+"section": "ECS uses cookies to track your visit to our Website.com and log the IP/Internet address of your computer.",
+"article numbers": "Article 5",
+"legal provisions": "Principles relating to processing of personal data - Purpose limitation",
+"amend": "The specific and legitimate purposes for processing IP addresses should be explicitly stated. If the purpose is not essential for providing the service, consent should be obtained from the user."
+},
+{
+"section": "ECS strives to maintain the accuracy of your Information against any accidental or malicious destruction. ECS will accommodate your requests regarding your Information; however, ECS may not be able to fulfill all your requests in the following circumstances: (i) by law; (ii) to comply with legal processes or governmental requests; (iii) to prevent, investigate, detect or prosecute criminal offences or attacks on the technical integrity of the Website or our network; and/or (iv) to protect the rights, property, or safety of ECS, the users of the Website, or the public.",
+"article numbers": "Article 12",
+"legal provisions": "Transparent information, communication and modalities for the exercise of the rights of the data subject",
+"amend": "While these exceptions are generally acceptable, the policy should be more specific about which legal obligations might prevent fulfilling user requests. It should also mention the right to lodge a complaint with a supervisory authority."
+}
+]
+}

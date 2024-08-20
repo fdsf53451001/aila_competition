@@ -1,0 +1,22 @@
+{
+"compliant": [
+{
+"section": "「Cookies」是指儲存於您電腦中，蒐集您如何使用網頁，並在您下一次登錄該網頁時，提供您更加個人化、流暢瀏覽體驗的技術。\n目前大多數的網站，都將Cookies視為標準的技術。我們使用Cookies儲存您使用過我們網頁的資訊，讓我們能夠持續優化我們網頁，提供您一個更加舒適良好的上網環境。",
+"article numbers": "Article 12, 13 GDPR",
+"legal provisions": "This section provides a clear and concise explanation of cookies, their purpose, and how they are used. This aligns with the GDPR's principles of transparency and providing clear and concise information to users."
+},
+{
+"section": "您可以將您的瀏覽器設定為拒絕Cookies，不過請注意，如此一來，部份網頁的功能無法使用。",
+"article numbers": "Article 7(3) GDPR",
+"legal provisions": "This section informs users of their right to withdraw consent at any time by adjusting their browser settings to refuse cookies. It also clearly states the potential consequences of doing so, which is required for informed consent."
+}
+],
+"non_compliant": [
+{
+"section": "如果您擔心cookies的使用會造成您的負擔或是疑慮，目前大多數的瀏覽器都能幫助您清除電腦中的cookies資料、拒絕接收cookies或是在發現cookies時發出提醒告知您該網頁有使用cookies。",
+"article numbers": "Article 7(3), 32 GDPR",
+"legal provisions": "While this section mentions the ability to delete cookies and set browsers to refuse them, it doesn't explicitly mention the requirement for active, unambiguous consent *before* cookies are placed. It also doesn't specify what types of cookies are used (e.g., necessary, preferences, statistics, marketing) and their respective purposes, which is necessary for informed consent.",
+"amend": "在您使用本網站之前，我們會先徵求您的同意，讓您可以選擇是否接受我們使用 Cookies。您可以透過調整您的瀏覽器設定，選擇接受所有 Cookies、僅接受必要的 Cookies、或是在每次我們網站使用 Cookies 時收到通知。我們會清楚說明我們使用的各種類型的 Cookies 及其目的，讓您在充分了解的情況下做出選擇。請注意，如果您選擇拒絕某些 Cookies，可能會影響您在本網站上的使用體驗。"
+}
+]
+}

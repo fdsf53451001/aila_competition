@@ -1,0 +1,28 @@
+{
+"compliant": [
+{
+"section": "華晶科技將會盡一切努力在合理適當的範圍內儘快改善您所提出的各項建議，以便提供您更完善的服務。",
+"article numbers": "12, 15, 27",
+"legal provisions": "Right to provide information, Right of access, Right to rectification"
+},
+{
+"section": "若您對自己在華晶科技網站中的隱私權有任何問題，或任何時候如果您認為華晶科技沒有遵守這些原則時，歡迎您提供寶貴意見給我們，請利用電子郵件通知華晶科技，帳號是service@altek.com.tw",
+"article numbers": "12, 77",
+"legal provisions": "Right to lodge a complaint, Right to an effective judicial remedy"
+}
+],
+"non_compliant": [
+{
+"section": "請注意，您透過點選「我同意」或「確認送出」來送出資訊。如果您選按或勾選「我同意」之選項，或是在填寫資訊後按「確認送出」鍵將資料送出，您將被視為了解並同意此文件的所有內容。",
+"article numbers": "7",
+"legal provisions": "Conditions for consent",
+"amend": "Consent must be freely given, specific, informed and unambiguous. The statement does not clearly indicate what the user is consenting to and bundles consent for all processing activities. It should clearly specify the different processing purposes and data uses, allowing separate consent for each."
+},
+{
+"section": "華晶科技隱私權保障聲明文件諮詢",
+"article numbers": "12, 13, 14",
+"legal provisions": "Transparent information, communication and modalities for the exercise of the rights of the data subject",
+"amend": "The policy lacks specific information about data processing activities, data retention periods, data sharing practices, and the legal basis for processing. It should provide clear and easily accessible information about these aspects."
+}
+]
+}

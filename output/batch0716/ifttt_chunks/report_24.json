@@ -1,0 +1,28 @@
+{
+"compliant": [
+{
+"section": "Company reserves the right to change the Fees or applicable charges and to institute new charges and Fees at the end of the Initial Term or then current Renewal Term, upon thirty (30) days prior notice to Customer (which may be sent by email).",
+"article numbers": "13.3",
+"legal provisions": "Providing reasonable notice for modifications to terms and conditions, including fee changes."
+},
+{
+"section": "If Customer believes that Company has billed Customer incorrectly, Customer must contact Company no later than sixty (60) days after the closing date on the first billing statement in which the error or problem appeared, in order to receive an adjustment or credit.",
+"article numbers": "24 (2)",
+"legal provisions": "Providing a clear and accessible process for addressing billing disputes."
+}
+],
+"non_compliant": [
+{
+"section": "Customer hereby grants Company a non-exclusive, worldwide, royalty-free license to use and disclose the Feedback in any manner Company chooses and, directly or indirectly through third parties, to display, perform, copy, have copied, make, have made, use, sell, offer to sell, and otherwise dispose of Company’s products and services (including any improvements or modifications thereof) embodying the Feedback in any manner and via any media the Company chooses, but without reference to you as the source of the Feedback.",
+"article numbers": "6(1)(a), 7(4)",
+"legal provisions": "Unclear and overly broad consent for the use of customer feedback. GDPR requires specific, informed, and unambiguous consent.",
+"amend": "Clarify the specific purposes for using customer feedback and provide an option to opt-out. Ensure consent is freely given, specific, informed, and unambiguous."
+},
+{
+"section": "Unpaid Fees are subject to a finance charge of 1.5% per month on any outstanding balance, or the maximum permitted by law, whichever is lower, plus all expenses of collection.",
+"article numbers": "N/A",
+"legal provisions": "Potentially excessive penalties for late payments. GDPR does not explicitly regulate late payment fees, but national laws and consumer protection regulations may apply.",
+"amend": "Ensure that any late payment fees are reasonable and proportionate to the costs incurred. Comply with applicable national laws and regulations regarding late payment fees."
+}
+]
+}

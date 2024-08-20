@@ -1,0 +1,34 @@
+{
+"compliant": [
+{
+"section": "PChome 網路家庭將於您啟用LBS服務時將您的裝置位置、GPS定位位置座標資料提供予與PChome 網路家庭合作LBS服務之其他廠商，使合作廠商於判斷您的所在位置及距離後提供適合您的店家/商品服務營運及優惠訊息。",
+"article numbers": "6(1)(a), 7(4)",
+"legal provisions": "Lawfulness of processing based on consent; Conditions for consent"
+},
+{
+"section": "PChome 網路家庭將依照本隱私權聲明所載之個人資料蒐集的特定目的(...)持續保管、處理及利用所蒐集之個人資料。",
+"article numbers": "5(1)(b)",
+"legal provisions": "Principles relating to processing of personal data (storage limitation)"
+}
+],
+"non_compliant": [
+{
+"section": "PChome 網路家庭將於您啟用LBS服務時將您的裝置位置、GPS定位位置座標資料提供予與PChome 網路家庭合作LBS服務之其他廠商",
+"article numbers": "5(1)(c)",
+"legal provisions": "Principles relating to processing of personal data (data minimization)",
+"amend": "The policy should specify the categories of third-party companies receiving location data, rather than broadly stating \"other companies cooperating with PChome\". It should also clarify the specific purposes for sharing this data with each category of recipient."
+},
+{
+"section": "利用對象：依照前述『個人資料的利用』所說明，PChome 網路家庭將自行利用、於PChome 網路家庭之關係企業間分享及交互運用、或依照提供予您的各該服務或所參加活動所須之範圍內，將您的個人資料提供予必要的相關合作夥伴或委託辦理相關業務之業者。",
+"article numbers": "12(1), 13(1)(f), 14(1)",
+"legal provisions": "Transparent information, communication and modalities for the exercise of the rights of the data subject; Information to be provided where personal data are collected from the data subject; Right of access by the data subject",
+"amend": "The policy should clearly identify all categories of recipients of personal data, including \"related partners\" and \"vendors\", and provide specific information about each category, such as their industry sector and the purpose for data sharing. It should also specify the legal basis for transferring data to each recipient category, such as consent, contract performance, or legitimate interests."
+},
+{
+"section": "除法令另有規定外，PChome 網路家庭僅會基於您授權的範圍，於PChome 網路家庭服務所提供之領域及地區內，依照各該服務目的範圍為作業之必要，利用您所提供的個人資料。",
+"article numbers": "44",
+"legal provisions": "General principles for transfers",
+"amend": "While the policy mentions compliance with legal regulations for international data transfers, it lacks specific details about potential transfers outside the user's jurisdiction. It should explicitly state whether data is transferred internationally, identify the recipient countries, and specify the safeguards employed to ensure GDPR-compliant data protection during such transfers."
+}
+]
+}

@@ -1,0 +1,23 @@
+{
+"compliant": [],
+"non_compliant": [
+{
+"section": "全部接受",
+"article numbers": "Article 7(4)",
+"legal provisions": "Consent requires a clear and affirmative action, simply having \"Accept All\" does not give users a genuine choice and could be considered pre-ticked boxes, which are invalid.",
+"amend": "Provide separate options for accepting or rejecting specific categories of cookies or processing activities."
+},
+{
+"section": "全部拒絕",
+"article numbers": "N/A",
+"legal provisions": "While not non-compliant, it's best practice to be as easy to reject as to consent.",
+"amend": "Ensure the \"Reject All\" option is as prominent and easily accessible as the \"Accept All\" option."
+},
+{
+"section": "管理個人偏好",
+"article numbers": "Articles 12(1), 13(1-2), 14(1-2)",
+"legal provisions": "Users must have granular control over their data. \"Manage Preferences\" suggests options, but it's unclear what these entail.",
+"amend": "Provide a clear and detailed explanation of each cookie category or processing activity within the \"Manage Preferences\" section, allowing users to consent to specific data uses."
+}
+]
+}

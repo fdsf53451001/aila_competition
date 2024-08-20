@@ -1,0 +1,39 @@
+{
+"compliant": [
+{
+"section": "二、個人資料之類別\n當您使用本網站或本公司之服務時，本公司可能會請您提供姓名、身分證字號、地址、電話、生日、職業、語言、E-mail或其他相關資料。除此之外，本公司也會保留您在本網站瀏覽或查詢時，伺服器自行產生的相關紀錄（包括但不限於您使用連線設備的IP位址、瀏覽行為、使用的瀏覽器、使用時間、瀏覽及點選資料紀錄等）。\n您不一定要依照本公司的要求提供個人資料，若您未能提供相關個人資料時，將可能導致本公司在許多情況下無法為您提供產品或完善的服務，或是無法回應您提出的問題。",
+"article numbers": "13, 14",
+"legal provisions": "Information to be provided where personal data are collected from the data subject; Right to be informed"
+},
+{
+"section": "三、個人資料之保存年限\n本公司及子公司之個人資料保存年限以五年為原則。但相關法令就保存期間另有規定、或依執行業務而必須另訂保存期間、或依個別契約另有約定保存年限者，不在此限。除法規要求更長的保留期間外，本公司僅於本隱私權保護聲明所述目的之必要期間內保留您的個人資料。\n本公司於特定目的消失或期限屆滿時將依規定刪除、停止處理或利用您的個人資料。",
+"article numbers": "5",
+"legal provisions": "Principles relating to processing of personal data - storage limitation"
+},
+{
+"section": "四、當事人得行使之權利及方式\n您可以透過本公司及子公司所設立之服務管道（包括但不限於電話、郵件等，例如：本公司當事人權利行使受理信箱為service@cathayholdings.",
+"article numbers": "12",
+"legal provisions": "Transparent information, communication and modalities for the exercise of the rights of the data subject"
+}
+],
+"non_compliant": [
+{
+"section": "本公司可能蒐集您在使用本公司網站及服務時的活動相關資訊。本公司將彙總這類資訊，以提供您更實用的資訊，並分析本公司網站及服務關注度。",
+"article numbers": "5, 6",
+"legal provisions": "Principles relating to processing of personal data - lawfulness of processing",
+"amend": "This section needs to specify the legal basis for data collection and processing, as per GDPR Article 6. This could be consent, contract necessity, legal obligation, vital interests, public interest, or legitimate interests. The specific purpose of data processing for providing more useful information and analyzing website and service interest should be explicitly stated and aligned with the chosen legal basis."
+},
+{
+"section": "二、個人資料之類別\n當您使用本網站或本公司之服務時，本公司可能會請您提供姓名、身分證字號、地址、電話、生日、職業、語言、E-mail或其他相關資料。除此之外，本公司也會保留您在本網站瀏覽或查詢時，伺服器自行產生的相關紀錄（包括但不限於您使用連線設備的IP位址、瀏覽行為、使用的瀏覽器、使用時間、瀏覽及點選資料紀錄等）。\n您不一定要依照本公司的要求提供個人資料，若您未能提供相關個人資料時，將可能導致本公司在許多情況下無法為您提供產品或完善的服務，或是無法回應您提出的問題。",
+"article numbers": "6",
+"legal provisions": "Lawfulness of processing",
+"amend": "While this section mentions that providing personal data is not mandatory, it needs to clarify that the consequences of not providing data should not be disproportionate or unfair. It should be clear that users have the right to refuse data collection if it's not essential for the service."
+},
+{
+"section": "三、個人資料之保存年限\n本公司及子公司之個人資料保存年限以五年為原則。但相關法令就保存期間另有規定、或依執行業務而必須另訂保存期間、或依個別契約另有約定保存年限者，不在此限。除法規要求更長的保留期間外，本公司僅於本隱私權保護聲明所述目的之必要期間內保留您的個人資料。\n本公司於特定目的消失或期限屆滿時將依規定刪除、停止處理或利用您的個人資料。",
+"article numbers": "5",
+"legal provisions": "Principles relating to processing of personal data - storage limitation",
+"amend": "While a 5-year retention period is mentioned, it's considered non-compliant because GDPR emphasizes data minimization. The policy should justify why this specific timeframe is necessary and proportionate to the processing purpose. It should also specify the criteria for determining retention periods when exceeding the initial 5-year period."
+}
+]
+}

@@ -1,0 +1,45 @@
+{
+"compliant": [
+{
+"section": "本公司將透過保密合約、公司規章或其他保護機制來確保對您的個人資料提供足夠之保護。",
+"article numbers": "46",
+"legal provisions": "Appropriate safeguards for international data transfers, such as standard contractual clauses."
+},
+{
+"section": "本公司網站使用cookies蒐集您對本公司網站的使用資訊",
+"article numbers": "5.1.a",
+"legal provisions": "Lawfulness of processing based on clear and informed consent."
+},
+{
+"section": "用以改善您的使用體驗，以及分析和蒐集本公司網路流量的統計數據",
+"article numbers": "5.1.b",
+"legal provisions": "Lawfulness of processing for legitimate interests, such as website improvement and analytics."
+}
+],
+"non_compliant": [
+{
+"section": "個人資料可能透過國際傳輸運送至本公司位於國際間其他辦公處所或供應商地點",
+"article numbers": "44-49",
+"legal provisions": "International data transfers require specific legal basis and safeguards. The policy lacks details on the specific countries, legal basis, and safeguards employed.",
+"amend": "Specify the countries of data transfer, the legal basis (e.g., adequacy decision, appropriate safeguards), and the specific safeguards implemented (e.g., standard contractual clauses, binding corporate rules)."
+},
+{
+"section": "強制性cookies (mandatory cookies)提供更佳的用戶安全性，或提昇本公司網站使用體驗。",
+"article numbers": "6.1.c",
+"legal provisions": "Consent for strictly necessary cookies might not be required, but the policy should clearly distinguish between strictly necessary cookies and other types.",
+"amend": "Clarify that 'mandatory cookies' are strictly necessary for the website's basic functionality and do not require consent. Provide a separate section for other cookie categories requiring consent."
+},
+{
+"section": "功能性cookies (functional cookies)提供各功能來提昇用戶使用性，例如Google搜索引擎。",
+"article numbers": "6.1.a",
+"legal provisions": "Consent is required for functional cookies that are not essential for the website's operation.",
+"amend": "Request explicit consent for the use of functional cookies. Provide users with the option to opt-out of these cookies."
+},
+{
+"section": "性能cookies (performance cookies)蒐集用戶如何使用本公司網站，例如用戶所瀏覽之頁面。本類型cookies提供分析性資訊使本公司能夠改善網站的使用性，Google Analytics為其中一個例子。",
+"article numbers": "6.1.a",
+"legal provisions": "Consent is required for performance cookies, including those used for analytics.",
+"amend": "Request explicit consent for the use of performance cookies. Provide users with the option to opt-out of these cookies, including Google Analytics."
+}
+]
+}

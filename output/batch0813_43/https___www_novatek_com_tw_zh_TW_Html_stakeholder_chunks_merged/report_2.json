@@ -1,0 +1,45 @@
+{
+"compliant": [
+{
+"section": "如有下述情形之一時，聯詠得揭露您的個人資料：（1）依法令之要求；（2）為遵守相關法律程序或政府要求；",
+"article numbers": "6(1)(c), 6(1)(e)",
+"legal provisions": "Lawful bases for processing: compliance with a legal obligation, task carried out in the public interest"
+},
+{
+"section": "（3）為確認及聯繫對於可能違反本網站使用條款之人或對其採取法律行動，或者為確認及聯繫損害聯詠或他人權利或對聯詠或他人之其他財產或利益造成損害或妨礙之人，或對其採取法律行動；",
+"article numbers": "6(1)(f)",
+"legal provisions": "Lawful bases for processing: legitimate interests (prevention of fraud, protection of rights)"
+},
+{
+"section": "本網站並未使用 Cookie 功能收集一般參訪者或使用者之資料。",
+"article numbers": "5(1)(a)",
+"legal provisions": "Principles relating to processing of personal data: data minimisation"
+}
+],
+"non_compliant": [
+{
+"section": "及/或（4）為保障聯詠、本網站參訪者及公眾之權利、財產及安全時。",
+"article numbers": "6(1)(f)",
+"legal provisions": "Lawful bases for processing: legitimate interests",
+"amend": "This section needs to be more specific and demonstrate a legitimate interest that is not overridden by the rights and freedoms of the data subject. For example, it could specify situations like preventing a crime or ensuring network security."
+},
+{
+"section": "Cookie不會對您的電腦造成任何損害，也不會包含任何病毒。大多數瀏覽器會自動接受 cookie 作為預設設定。您可以通過編輯瀏覽器選項來修改瀏覽器設置，以拒絕我們的 cookie 或在接受 cookie 之前提示您。然而，如果您封鎖或清除 cookies，我們將不能恢復您先前已設定的喜好及客製化設定，可能影響您在本網站上的使用者體驗。",
+"article numbers": "7(4), 25",
+"legal provisions": "Conditions for consent, accountability",
+"amend": "While this section mentions user control over cookies, it doesn't clearly state that consent is required for non-essential cookies. It should explicitly mention that continued use of the website after being informed about the use of cookies will be considered consent. It should also provide clear instructions on how to withdraw consent."
+},
+{
+"section": "我們得不經通知您隨時修改本隱私權政策。您有義務定期審視本網站之隱私權政策。如您在聯詠張貼修改之本隱私權政策後繼續使用本網站，視為您同意接受修改後之本隱私權政策。",
+"article numbers": "12(1), 13(1), 14(1)",
+"legal provisions": "Transparent information, communication and modalities for the exercise of the rights of the data subject",
+"amend": "While informing users about policy changes is good, GDPR requires explicit consent for any material changes to the privacy policy. Simply continuing to use the website doesn't constitute valid consent. The company should inform users about the changes and obtain explicit consent, especially if the changes affect the processing of their data."
+},
+{
+"section": "如您對本網站隱私權政策有任何問題，請您利用以下之電子郵件信箱（webmaster@novatek.com.tw）與我們聯絡。您亦可透過以下地址及電話與我們聯絡： 聯詠科技股份有限公司 新竹科學園區創新一路1-2號 電話：886-3-567-0889 傳真：886-3-577-0132",
+"article numbers": "13(1), 14(1), 30(1)",
+"legal provisions": "Transparent information, communication and modalities for the exercise of the rights of the data subject, Records of processing activities",
+"amend": "This section should clearly mention the data subject's rights under GDPR, including the right to access, rectify, erase, restrict processing, and data portability. It should also provide information about the Data Protection Officer (DPO), if one has been designated."
+}
+]
+}

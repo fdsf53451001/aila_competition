@@ -1,0 +1,40 @@
+{
+"compliant": [
+{
+"section": "二、蒐集之個人資料類別\n(2) 應用程式（Apps）、瀏覽器、裝置及網路資訊：本公司將蒐集您所使用的裝置、瀏覽器及應用程式（Apps）的相關資訊（Cookie識別碼、裝置類型、作業系統、瀏覽器類型、應用程式（Apps）版本等），以及網路資訊（IP位址等）。但於本公司網站蒐集時，將僅供作流量分析、系統改進和網路行為調查，以便於改善本網站之服務品質，不涉及您個人身分資料。",
+"article numbers": "6(1)(f), recital 49",
+"legal provisions": "Data minimization, purpose limitation. This section seems to comply with GDPR as long as the data collected is indeed anonymized and not used to identify individuals."
+},
+{
+"section": "五、個資利用之期間\n除法令或中央事業主管單位另有規定個人資料保存期限外，本服務將持續使用您提供的個人資料直至您要求停止使用或本服務停止提供服務之日為止。",
+"article numbers": "5(1)(e)",
+"legal provisions": "Storage limitation. This section aligns with GDPR by stating data will not be kept longer than necessary."
+}
+],
+"non_compliant": [
+{
+"section": "二、蒐集之個人資料類別\n(3) 蒐集自第三方的個人資料：本公司得向第三方蒐集您的個人資料，第三方包括本公司的子公司或關係企業、合作夥伴。",
+"article numbers": "14, 12(1)",
+"legal provisions": "Transparency, fairness. This section lacks transparency about the specific data collected from third parties and the legal basis for doing so. It needs to specify the categories of data, the source of the data, and the legal basis for processing (e.g., consent, contract, legitimate interest).",
+"amend": "明確說明從第三方收集的個人資料類別、來源以及處理的法律依據（例如：同意、契約、合法利益）。"
+},
+{
+"section": "五、個資利用之期間\n但本公司將依據適用法規及本公司內部規定，為下列目的而將您的個人資料保留一段時間：\n回覆您的請求/詢問；\n解決爭議或收取費用；\n辨識及防止本服務冒用或盜（濫）用；或\n遵守適用法規。",
+"article numbers": "5(1)(e)",
+"legal provisions": "Storage limitation. While these purposes might be legitimate, the policy needs to specify the retention periods for each purpose and ensure they are not excessive.",
+"amend": "針對每個目的明確說明資料保留期限，並確保期限不過長。"
+},
+{
+"section": "六、個資利用之地區\n本服務提供之區域、以及第三方合作夥伴於您同意範圍內使用個人資料所涵蓋之區域。",
+"article numbers": "44-50",
+"legal provisions": "Data transfers outside the EEA. This section is too vague. If data is transferred outside the EEA, the policy needs to specify the countries and the safeguards in place to ensure adequate data protection (e.g., adequacy decisions, standard contractual clauses).",
+"amend": "如果資料會傳輸到歐洲經濟區以外，需要明確說明國家/地區，並說明為確保充分資料保護所採取的措施（例如：適當性認定、標準合約條款）。"
+},
+{
+"section": "七、個資利用之對象\n本公司子公司及關係企業、本公司委外廠商或合作夥伴。本公司不會向任何無關第三方提供、揭露或分享您的個人資料，但經您同意，或因適用法規許可該等個人資料的提供、揭露或分享者，不在此限。",
+"article numbers": "13, 14",
+"legal provisions": "Information to be provided, transparency. This section needs to be more specific about the categories of recipients and the purposes for sharing data. It should also clarify the legal basis for sharing data with each recipient category.",
+"amend": "更具體地說明接收者類別以及分享資料的目的。同時，應闡明與每個接收者類別分享資料的法律依據。"
+}
+]
+}

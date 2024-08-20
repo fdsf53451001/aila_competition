@@ -1,0 +1,11 @@
+{
+"compliant": [],
+"non_compliant": [
+{
+"section": "You represent and warrant that you: (a) are not a prohibited party identified on any government export exclusion lists (see http://www.bis.doc.gov/complianceandenforcement/liststocheck.htm) or a member of a government of any other export-prohibited countries as identified in applicable export and import laws and regulations; (b) will not transfer software, technology, and other technical data via the Website to export-prohibited parties or countries, or in such way in violation applicable export or import laws.",
+"article numbers": "6(1)(b), 6(1)(c)",
+"legal provisions": "Lawfulness of processing - requiring consent for processing special categories of personal data; Lawfulness of processing - processing is necessary for compliance with a legal obligation",
+"amend": "This section potentially processes special categories of personal data, such as political opinions or trade union membership, by making inferences about users based on their potential presence on export exclusion lists or association with certain governments.  The GDPR requires a specific legal basis for processing such data, and consent is unlikely to be freely given in this context. To amend, this section should be rephrased to focus on objective criteria related to export control compliance without implicating sensitive personal data."
+}
+]
+}

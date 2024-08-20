@@ -1,0 +1,27 @@
+{
+"compliant": [
+{
+"section": "Usage Data is collected automatically when using the Service.",
+"article numbers": "13.1(e), Recital 45",
+"legal provisions": "Information provided by the data subject: The data subject has provided the data in question by using the service."
+},
+{
+"section": "Usage Data may include information such as Your Device's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that You visit, the time and date of Your visit, the time spent on those pages, unique device identifiers and other diagnostic data.",
+"article numbers": "5.1(b)",
+"legal provisions": "Purpose limitation: Collection of data limited to what is necessary for the specified, explicit and legitimate purposes."
+},
+{
+"section": "When You access the Service by or through a mobile device, We may collect certain information automatically, including, but not limited to, the type of mobile device You use, Your mobile device unique ID, the IP address of Your mobile device, Your mobile operating system, the type of mobile Internet browser You use, unique device identifiers and other diagnostic data.",
+"article numbers": "5.1(b)",
+"legal provisions": "Purpose limitation: Collection of data limited to what is necessary for the specified, explicit and legitimate purposes."
+}
+],
+"non_compliant": [
+{
+"section": "Personally identifiable information may include, but is not limited to: Usage Data Usage Data",
+"article numbers": "5.1(c), 4.1",
+"legal provisions": "Data minimization and accuracy: Data must be adequate, relevant and limited to what is necessary. The definition of \"Personally identifiable information\" is too broad and vague.",
+"amend": "Replace \"Personally identifiable information may include, but is not limited to: Usage Data Usage Data\" with a clear and concise definition of personally identifiable information, specifying the exact data points collected and ensuring they are all necessary for the stated purpose."
+}
+]
+}

@@ -1,0 +1,34 @@
+{
+"compliant": [
+{
+"section": "01. 您可以隨時登入您的會員修改基本資料或您可提出可茲確認之身份證明文件，於上班時間(周一至周五09:00-18:00)撥打客戶服務電話(02)8793-9000，請求本旅遊網對於所保留之會員個人資料（1）查詢或請求閱覽（2）製給複製本（3）補充或更正（4）停止蒐集、處理或利用（5）刪除。若委託他人代為申請者，請另外提出可茲確認的身分證明，以備查核",
+"article numbers": "Articles 12, 15, 16, 17, 18, 21",
+"legal provisions": "Right of access, Right to rectification, Right to erasure ('right to be forgotten'), Right to restriction of processing, Right to data portability"
+},
+{
+"section": "02. 若申請刪除其個人資料時，即視為終止會員帳戶，並停止提供本旅遊網一切會員服務，且日後將導致您對相關會員資料無法事後查核、比對或辦理證明。",
+"article numbers": "Article 17",
+"legal provisions": "Right to erasure ('right to be forgotten')"
+}
+],
+"non_compliant": [
+{
+"section": "01. 您可以隨時登入您的會員修改基本資料或您可提出可茲確認之身份證明文件，於上班時間(周一至周五09:00-18:00)撥打客戶服務電話(02)8793-9000，請求本旅遊網對於所保留之會員個人資料（1）查詢或請求閱覽（2）製給複製本（3）補充或更正（4）停止蒐集、處理或利用（5）刪除。若委託他人代為申請者，請另外提出可茲確認的身分證明，以備查核",
+"article numbers": "Article 12",
+"legal provisions": "Transparent information, communication and modalities for the exercise of the rights of the data subject",
+"amend": "GDPR requires that data controllers provide means for exercising data subject rights free of charge, and those means should be as easy to use as the means used to collect the data.  Consider providing a convenient online mechanism for data subjects to exercise their rights, in addition to the phone number."
+},
+{
+"section": "03. 若申請停止蒐集、處理或利用其個人資料，如您於本公司、本旅遊網尚有業務持續往來者，您知悉並同意本公司將俟所有往來業務結束後，本公司始停止對於會員個人資料蒐集、處理或利用。",
+"article numbers": "Article 18",
+"legal provisions": "Right to restriction of processing",
+"amend": "While legitimate business purposes can justify continued processing, GDPR emphasizes minimizing data processing.  Clarify the specific processing purposes and legal basis for continuing to process data after a request to stop, ensuring it aligns with GDPR's principles of data minimization and purpose limitation."
+},
+{
+"section": "04. 若您申請查詢或請求閱覽個人資料或製給複製本，本旅遊網得酌收相當費用。收費將依本旅遊網所規定的標準辦理。若本旅遊網未能於十五天內完成您的申請，得視狀況延長作業時間，延長之期間最長不超過十五天，並會將原因以書面方式告知您。您亦可在本旅遊網的「會員服務」網頁登入您的帳號及密碼，線上即時查閱您的個人資料檔案。",
+"article numbers": "Articles 12, 15",
+"legal provisions": "Right of access",
+"amend": "GDPR generally requires data controllers to provide access to personal data free of charge. While reasonable fees can be charged in specific circumstances (e.g., manifestly unfounded or excessive requests), this section needs clarification.  Specify the criteria for charging fees and ensure they align with GDPR's exceptions. Additionally, the response time for data subject requests should generally be one month, extendable by two months in certain cases. Ensure the policy reflects these timelines accurately."
+}
+]
+}

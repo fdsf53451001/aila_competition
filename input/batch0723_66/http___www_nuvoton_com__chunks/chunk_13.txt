@@ -1,0 +1,3 @@
+e., geo-location) of your mobile device when using NUVOTON’s App;
+III. Log information - such as the preferred interface, type and language settings of browser, diagnose and usage data, your usage behavior on our SERVICE, the time and duration of your use of the Websites, search query terms you enter through the Websites, and any information stored in cookies that we have set on your device (such as your pc, mobile phone or tablet).
+IV. Voice information - such as recordings of your voice that we store on our servers when you use voice commands.

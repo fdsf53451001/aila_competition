@@ -1,0 +1,43 @@
+{
+"compliant": [
+{
+"section": "本公司將在法律許可期間內，及為達成個人資料之蒐集或處理目的所需之期間內，保存您的個人資料。",
+"article numbers": "Article 5(1)(e)",
+"legal provisions": "Storage Limitation (data minimisation)"
+},
+{
+"section": "依據適當法律規定，本公司可能在下列情形時刪除個人資料：該個人資料已非原蒐集或處理目的所必需",
+"article numbers": "Article 5(1)(e)",
+"legal provisions": "Storage Limitation (data minimisation)"
+},
+{
+"section": "當您撤回同意或要求刪除個人資料時，並且沒有其他法律依據以供繼續處理時",
+"article numbers": "Article 17(1)(b), Article 17(1)(a)",
+"legal provisions": "Right to erasure ('right to be forgotten') - Right to withdraw consent, Right to erasure ('right to be forgotten') - Right to object"
+},
+{
+"section": "當您反對資料的處理，且本公司並沒有其他正當理由可繼續處理時",
+"article numbers": "Article 21",
+"legal provisions": "Right to object"
+},
+{
+"section": "當您的個人資料被非法利用時",
+"article numbers": "Article 5(1)(f)",
+"legal provisions": "Integrity and Confidentiality (data security)"
+}
+],
+"non_compliant": [
+{
+"section": "Cookies會在不同時間到期，大多數cookies在瀏覽器關閉時到期，第三方cookies則由第三方網站控制。您可以透過調整瀏覽器的設定（例如Microsoft Internet Explorer、Firefox、Chrome）隨時停用這些cookies。在此提醒您停用cookies可能會影響正確使用本公司網站，若您停用了強制性cookies，您可能無法使用登入功能。",
+"article numbers": "Article 7(2), Article 4(11)",
+"legal provisions": "Conditions for consent, Definition of consent",
+"amend": "This section needs to be more specific about what cookies are used for, what data they collect, and how long they are stored. It should also provide a clear and specific way for users to refuse non-essential cookies. For example, the policy could offer a granular cookie consent tool or provide instructions on how to disable specific cookies through browser settings."
+},
+{
+"section": "為遵守法律上要求的義務時",
+"article numbers": "Article 6(1)(c), Article 23",
+"legal provisions": "Lawfulness of processing - Legal obligation, Restrictions",
+"amend": "While processing data to comply with legal obligations is permissible, the policy should specify what legal obligations might require data processing. It should also mention the potential restrictions on data subject rights when processing is necessary for compliance with legal obligations."
+}
+]
+}

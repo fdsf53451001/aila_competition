@@ -1,0 +1,57 @@
+{
+"compliant": [
+{
+"section": "The policy mentions collecting data from visitors, users, agents, and drivers, which is generally acceptable under GDPR if there is a lawful basis.",
+"article numbers": "6(1)",
+"legal provisions": "Lawfulness of processing"
+},
+{
+"section": "The policy lists specific data points collected for each category (visitors, users, agents, drivers).",
+"article numbers": "12(1), 13(1)",
+"legal provisions": "Transparent information, communication and modalities for the exercise of the rights of the data subject"
+},
+{
+"section": "The policy mentions collecting data like IP addresses, device identifiers, and geolocation, which are considered personal data under GDPR.",
+"article numbers": "4(1)",
+"legal provisions": "Definitions"
+}
+],
+"non_compliant": [
+{
+"section": "The policy lacks a clear and specific legal basis for processing personal data for each category (visitors, users, agents, drivers).",
+"article numbers": "6(1)",
+"legal provisions": "Lawfulness of processing",
+"amend": "Specify the legal basis for processing data for each category, such as consent, contract performance, legal obligation, vital interests, public interest, or legitimate interests. For example, processing user data for account creation and service provision would fall under contract performance (Article 6(1)(b))."
+},
+{
+"section": "The policy doesn't explicitly mention data subject rights (access, rectification, erasure, etc.) or how individuals can exercise these rights.",
+"article numbers": "12-23",
+"legal provisions": "Chapter III: Rights of the data subject",
+"amend": "Include a dedicated section outlining data subject rights, including the right to access, rectify, erase, restrict processing, object to processing, and data portability. Provide clear instructions on how individuals can exercise these rights, such as contact information or a dedicated online form."
+},
+{
+"section": "Collecting driver's license information, vehicle insurance information, and ID card copies requires a strong legal basis and appropriate safeguards due to their sensitive nature.",
+"article numbers": "5(1)(f), 9",
+"legal provisions": "Principles relating to processing of special categories of personal data",
+"amend": "Clearly justify the necessity and proportionality of collecting and processing such sensitive data. Implement appropriate technical and organizational measures to ensure the security of this information, such as encryption and access controls."
+},
+{
+"section": "Collecting driver's facial recognition data and biometric data requires explicit consent and a clear explanation of the purpose and processing activities.",
+"article numbers": "9(2)(a), 9(2)(b)",
+"legal provisions": "Conditions for consent, Processing of special categories of personal data",
+"amend": "Obtain explicit and informed consent from drivers before collecting and processing their facial recognition data. Provide a clear and concise explanation of the purpose of collecting this data, how it will be used, and for how long it will be stored."
+},
+{
+"section": "The policy lacks information about data retention periods for different categories of personal data.",
+"article numbers": "5(1)(e)",
+"legal provisions": "Storage limitation",
+"amend": "Specify the data retention periods for each data category, considering the purpose of processing and legal obligations. Ensure that data is deleted or anonymized once it is no longer necessary for the specified purpose."
+},
+{
+"section": "The policy doesn't mention international data transfers if applicable, which requires safeguards like standard contractual clauses or adequacy decisions.",
+"article numbers": "44-50",
+"legal provisions": "Chapter V: Transfers of personal data to third countries or international organisations",
+"amend": "If personal data is transferred outside the European Economic Area (EEA), identify the recipient countries and implement appropriate safeguards to ensure an adequate level of data protection, such as standard contractual clauses or adequacy decisions."
+}
+]
+}

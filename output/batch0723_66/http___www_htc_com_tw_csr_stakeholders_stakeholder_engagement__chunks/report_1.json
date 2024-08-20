@@ -1,0 +1,77 @@
+{
+"compliant": [
+{
+"section": "您有權對本公司使用、分享或進行任何與貴用戶個人資訊 (在特定情況下) 相關的活動，包括使用貴用戶的個人資訊進行直接行銷 (即接收本公司發送的電子郵件，通知貴用戶本公司認為是貴用戶會感興趣的其他服務或聯絡不同的潛在機會)。請隨時聯絡本公司以取得更多詳細資訊，並在適用情況下行使這些權利。",
+"article numbers": "12, 13, 14, 15",
+"legal provisions": "Right to information, access, rectification, erasure ('right to be forgotten'), restriction of processing, data portability, object to processing including profiling, not to be subject to automated decision making"
+},
+{
+"section": "本隱私權政策並不適用於任何第三方及其產品、行為或服務。HTC 無法控制第三方如何蒐集、使用或保護您的資料。如需有關第三方隱私權施行原則的詳細資訊，請參閱其隱私權政策。請務必僅從信譽良好的第三方下載應用程式、進行互動及連線。",
+"article numbers": "14",
+"legal provisions": "Information to be provided where personal data are collected from the data subject"
+},
+{
+"section": "兒童隱私",
+"article numbers": "8",
+"legal provisions": "Conditions applicable to child's consent in relation to information society services"
+},
+{
+"section": "個人資訊之使用",
+"article numbers": "5",
+"legal provisions": "Principles relating to processing of personal data"
+},
+{
+"section": "個人資訊之分享",
+"article numbers": "13, 14",
+"legal provisions": "Information to be provided where personal data are disclosed by the controller or processor"
+},
+{
+"section": "本公司儲存您資訊之所在地及您資訊之傳輸",
+"article numbers": "13, 14",
+"legal provisions": "Information to be provided where personal data are transferred to a third country or to an international organisation"
+},
+{
+"section": "資訊保存",
+"article numbers": "5",
+"legal provisions": "Principles relating to processing of personal data (storage limitation)"
+},
+{
+"section": "您的個人權利行使",
+"article numbers": "12-23",
+"legal provisions": "Chapter III: Rights of the data subject"
+},
+{
+"section": "加州用戶權利",
+"article numbers": "N/A",
+"legal provisions": "This section is specific to California law (CCPA) and not directly covered by GDPR, but aligns with GDPR's principles."
+},
+{
+"section": "資訊之選擇與變更",
+"article numbers": "12, 13, 14",
+"legal provisions": "Right to information, access, rectification"
+},
+{
+"section": "您個人資訊之安全性",
+"article numbers": "32",
+"legal provisions": "Security of processing"
+},
+{
+"section": "聯絡資訊",
+"article numbers": "37, 38",
+"legal provisions": "Contact details of the controller and Data Protection Officer (DPO)"
+},
+{
+"section": "本隱私權政策之變更",
+"article numbers": "13, 14",
+"legal provisions": "Information to be provided where personal data are collected from the data subject (transparency)"
+}
+],
+"non_compliant": [
+{
+"section": "聯絡資訊：姓名、電子郵件地址、街道地址、電話號碼、加密錢包地址；\n檔案：相片、聯絡人名單和影片；\n人口統計資料：性別、公司或組織名稱、職業、語言偏好、城市、國家、郵遞區號、地區代碼、時區等)。",
+"article numbers": "5, 6",
+"legal provisions": "Data minimisation, lawfulness of processing",
+"amend": "This section needs to specify the legal basis for processing each category of data (e.g., consent, contract, legitimate interest) and ensure that the data collected is limited to what is necessary for the specified purpose."
+}
+]
+}

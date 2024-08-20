@@ -1,0 +1,39 @@
+{
+"compliant": [
+{
+"section": "上述個人資料的使用期間，是以特定目的之蒐集期間為基礎，或是以為了執行目的所需的保留期間為基礎。",
+"article numbers": "5.1.e",
+"legal provisions": "Data minimization: Personal data shall be [...] kept in a form which permits identification of data subjects for no longer than is necessary for the purposes for which the personal data are processed; [...]"
+},
+{
+"section": "Promise 將盡其所能確保其員工、子公司奉行並遵守本隱私權政策條款之規定",
+"article numbers": "24.1, 32.1.b",
+"legal provisions": "Responsibility of the controller: The controller shall implement appropriate technical and organisational measures to ensure and to be able to demonstrate that processing is performed in accordance with this Regulation. [...] Security of processing: [...] the controller shall implement appropriate technical and organisational measures to ensure a level of security appropriate to the risk, [...]"
+},
+{
+"section": "Promise 並承諾，未經您的同意，不會將您的個人資料揭露給與指定服務無關的第三人",
+"article numbers": "6.1.a",
+"legal provisions": "Lawfulness of processing: Processing shall be lawful only if and to the extent that at least one of the following applies: (a) the data subject has given consent to the processing of his or her personal data for one or more specific purposes;"
+}
+],
+"non_compliant": [
+{
+"section": "蒐集個人資料之時間、地區、目標及所使用之方法",
+"article numbers": "13.1, 14.1",
+"legal provisions": "Information to be provided where personal data are collected from the data subject: [...] At the time when personal data are obtained, the controller shall provide the data subject with all of the following information: (a) the identity and the contact details of the controller and, where applicable, of the controller's representative; (b) the contact details of the data protection officer, where applicable; (c) the purposes of the processing for which the personal data are intended as well as the legal basis for the processing; (d) the recipients or categories of recipient of the personal data, if any; (e) where applicable, the fact that the controller intends to transfer personal data to a third country or international organisation and one of the following: [...] (f) the period for which the personal data will be stored, or, if that is not possible, the criteria used to determine that period; (g) the existence of the right to request from the controller access to and rectification or erasure of personal data or restriction of processing concerning the data subject or to object to processing as well as the right to data portability; (h) where the processing is based on point (a) of Article 6(1) or point (a) of Article 9(2), the existence of the right to withdraw consent at any time, without affecting the lawfulness of processing based on consent before its withdrawal; (i) the right to lodge a complaint with a supervisory authority; (j) where the personal data are not collected from the data subject, any available information as to their source; (k) the existence of automated decision-making, including profiling, referred to in Article 22(1) and (4) and, at least in those cases, meaningful information about the logic involved, as well as the significance and the envisaged consequences of such processing for the data subject.",
+"amend": "This section needs to be more specific and provide details about the time, location, purpose, and methods of personal data collection. It should clearly state what data is collected, for how long, for what purpose, from where, and using what methods. It should also specify the legal basis for the processing (e.g., consent, contract, legal obligation)."
+},
+{
+"section": "在全球 Promise 的業務辦事處，將使用您的個人資料以提供相關服務。",
+"article numbers": "13.1.f, 14.2.f",
+"legal provisions": "Information to be provided where personal data are collected from the data subject: [...] (f) the period for which the personal data will be stored, or, if that is not possible, the criteria used to determine that period; [...] Information to be provided where personal data have not been obtained from the data subject: [...] (f) the period for which the personal data will be stored, or, if that is not possible, the criteria used to determine that period;",
+"amend": "This section should specify the retention period for personal data or the criteria used to determine it. It should be clear how long the data will be kept and for what purpose."
+},
+{
+"section": "但如有下列例外情況：您的個人資料可能因配合司法機關或相關機關，根據職責與責任所發起的法律調查而揭露或使用。",
+"article numbers": "13.1.d",
+"legal provisions": "Information to be provided where personal data are collected from the data subject: [...] (d) the recipients or categories of recipient of the personal data, if any;",
+"amend": "While this section mentions disclosure to legal authorities, it should be more specific about the categories of recipients of personal data. It should clearly state which judicial or related authorities may receive the data and under what circumstances."
+}
+]
+}

@@ -1,0 +1,29 @@
+{
+"compliant": [
+{
+"section": "如果您有任何問題或建議，請透過客服信箱 marketing@ares.com.tw 與我們聯繫。",
+"article numbers": "13, 14",
+"legal provisions": "Right to information"
+},
+{
+"section": "隱私權聲明",
+"article numbers": "12, 13, 14",
+"legal provisions": "Transparency principle, Right to information"
+}
+],
+"non_compliant": [
+{
+"section": "版權所有 © 2024 資通電腦股份有限公司",
+"article numbers": "N/A",
+"legal provisions": "Copyright notice is not a data protection issue, but it should be accurate and reflect the current year.",
+"amend": "Update the year to 2023 or the year of publication."
+},
+{
+"section": "Missing sections",
+"article numbers": "6, 15, 16, 17, 18, 19, 20, 21, 22",
+"legal provisions": "Lawfulness of processing, Right to access, Right to rectification, Right to erasure ('right to be forgotten'), Right to restriction of processing, Right to data portability, Right to object, Automated individual decision-making, including profiling, Transfers of personal data to third countries or international organisations",
+"amend": "The policy needs to include information about:\n- The legal basis for processing personal data (Article 6)\n- Data subject rights (Articles 15-22)\n- Data retention periods\n- Whether data is transferred internationally and the safeguards in place\n- The use of cookies and other tracking technologies\n- The right to lodge a complaint with a supervisory authority"
+}
+]
+}
+

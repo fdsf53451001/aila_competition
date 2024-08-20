@@ -1,0 +1,39 @@
+{
+"compliant": [
+{
+"section": "IFTTT’s YouTube service uses YouTube’s API services. By using IFTTT’s YouTube service, you agree to be bound by YouTube’s terms of service and privacy policy.",
+"article numbers": "13, 14",
+"legal provisions": "Lawfulness of processing, information to be provided"
+},
+{
+"section": "Connecting to IFTTT’s YouTube service will grant IFTTT access to the following: A list of current active members on your channel with the name of their YouTube channel and their channel URL, the profile picture of each current active member on your channel, how long each current active member has been a member of their current level on your channel, how long each current active member has been a member on your channel, when each member purchased their current active membership on your channel, information about the levels you offer on your channel (e.g., level names), your videos and playlists, and your YouTube activity.",
+"article numbers": "13, 14",
+"legal provisions": "Lawfulness of processing, information to be provided"
+},
+{
+"section": "In addition to IFTTT’s normal procedure for deleting stored data, you may revoke IFTTT’s access to this data at any time by going to https://security.google.com/settings/security/permissions.",
+"article numbers": "15, 17",
+"legal provisions": "Right of access, right to erasure ('right to be forgotten')"
+}
+],
+"non_compliant": [
+{
+"section": "S. Government embargo, or that has been designated by the U.S. Government as a “terrorist supporting” country, and that you are not listed on any U.S. Government list of prohibited or restricted parties",
+"article numbers": "14",
+"legal provisions": "Information to be provided",
+"amend": "The policy should clearly state the legal basis for processing this data, particularly if it involves automated decision-making (Article 22). It should also specify how long this data is retained and for what purposes."
+},
+{
+"section": "Both you and IFTTT acknowledge and agree that, in your use of the Mobile App, you will comply with any applicable third party terms of agreement which may affect or be affected by such use",
+"article numbers": "13, 14",
+"legal provisions": "Lawfulness of processing, information to be provided",
+"amend": "The policy should provide more specific information about these third-party terms of agreement, including the purpose of data sharing and the types of data involved. Users should be able to easily access these third-party policies."
+},
+{
+"section": "Both you and IFTTT acknowledge and agree that Apple and Apple’s subsidiaries are third party beneficiaries of these Terms, and that upon your acceptance of these Terms, Apple will have the right (and will be deemed to have accepted the right) to enforce these Terms against you as the third party beneficiary hereof.",
+"article numbers": "13, 14, 28",
+"legal provisions": "Lawfulness of processing, information to be provided, processor obligations",
+"amend": "The policy should clarify the specific roles and responsibilities of Apple and its subsidiaries in processing user data. It should also specify the legal basis for transferring data to Apple and any safeguards in place to protect user data."
+}
+]
+}

@@ -1,0 +1,45 @@
+{
+"compliant": [
+{
+"section": "This Statement describes your choices regarding any applicable rights of access, deletion, and correction of your personal information.",
+"article numbers": "15, 16, 17, 18, 19, 20, 21, 22",
+"legal provisions": "Right of access, Right to rectification, Right to erasure ('right to be forgotten'), Right to restriction of processing, Right to data portability, Right to object, Automated individual decision-making, including profiling"
+},
+{
+"section": "If you are a citizen of Switzerland, the United Kingdom, or a country in the European Economic Area, we describe additional rights you may have in the European Privacy Rights statement.",
+"article numbers": "44 - 50",
+"legal provisions": "General Principles for Transfers"
+},
+{
+"section": "Our Services are not directed at children under the age of 16, and we do not knowingly collect information from individuals under the age of 16.",
+"article numbers": "8",
+"legal provisions": "Conditions applicable to child's consent in relation to information society services"
+}
+],
+"non_compliant": [
+{
+"section": "This updated Zapier Privacy Statement completely replaces all previous versions.",
+"article numbers": "13, 14",
+"legal provisions": "Information to be provided where personal data are collected from the data subject, Information to be provided where personal data have not been obtained from the data subject",
+"amend": "Clarify that previous privacy statements may still apply to data collected under those versions, especially if the processing is ongoing. Provide a clear and accessible way for users to access and review previous versions of the privacy statement."
+},
+{
+"section": "This Privacy Statement does not apply to the information we collect about employees (our employment policies apply) or job applicants (our Applicant Privacy Statement applies).",
+"article numbers": "2",
+"legal provisions": "Material Scope",
+"amend": "While separate policies for employees and job applicants are acceptable, this statement should still clarify that GDPR principles apply to the processing of employee and applicant data. It should mention that further information about those specific processing activities can be found in the respective policies."
+},
+{
+"section": "This Privacy Statement also does not apply to information collected by third parties, like third-party websites, social media platforms or accounts, third-party service providers, or other third-party services or applications that integrate with our Services.",
+"article numbers": "4, 24, 28",
+"legal provisions": "Definitions, Responsibility of the controller, Joint controllership",
+"amend": "The statement should clarify Zapier's role and responsibility regarding data processed by third-party integrations. It should specify whether Zapier acts as a controller or processor in such cases. If joint controllership exists, the statement should outline the respective responsibilities."
+},
+{
+"section": "This Privacy Statement also does not apply to any information that is not personally identifiable, like aggregated or anonymous information.",
+"article numbers": "4",
+"legal provisions": "Definitions",
+"amend": "GDPR's definition of personal data is broad and can encompass information that might not seem personally identifiable at first glance. The statement should avoid blanket exclusions for aggregated or anonymized data. Instead, it should explain how Zapier ensures anonymization is effective and irreversible, especially if such data is used for any purpose beyond what is strictly necessary."
+}
+]
+}

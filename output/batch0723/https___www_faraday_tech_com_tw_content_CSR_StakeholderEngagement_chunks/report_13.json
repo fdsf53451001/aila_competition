@@ -1,0 +1,34 @@
+{
+"compliant": [
+{
+"section": "By submitting ideas, suggestions, documents, and/or proposals (\"Contributions\") to Faraday through Website, you acknowledge and agree that: (a) your Contributions do not contain confidential or proprietary information;",
+"article numbers": "5, 6",
+"legal provisions": "Data Minimisation, Purpose Limitation"
+},
+{
+"section": "By submitting ideas, suggestions, documents, and/or proposals (\"Contributions\") to Faraday through Website, you acknowledge and agree that: (c) Faraday shall be entitled to use or disclose (or choose not to use or disclose) such Contributions for any purpose, in any way, in any media worldwide;",
+"article numbers": "5, 6",
+"legal provisions": "Storage Limitation, Purpose Limitation"
+}
+],
+"non_compliant": [
+{
+"section": "By submitting ideas, suggestions, documents, and/or proposals (\"Contributions\") to Faraday through Website, you acknowledge and agree that: (b) Faraday is not under any obligation of confidentiality, express or implied, with respect to the Contributions;",
+"article numbers": "5, 32",
+"legal provisions": "Confidentiality, Security of Processing",
+"amend": "Faraday should implement appropriate technical and organizational measures to ensure the confidentiality and integrity of user contributions."
+},
+{
+"section": "By submitting ideas, suggestions, documents, and/or proposals (\"Contributions\") to Faraday through Website, you acknowledge and agree that: (e) your Contributions automatically become the property of Faraday without any obligation of Faraday to you;",
+"article numbers": "17, 20",
+"legal provisions": "Right to Erasure (\"Right to be Forgotten\"), Right to Data Portability",
+"amend": "Users should retain control over their data and have the right to request deletion or transfer of their contributions."
+},
+{
+"section": "By submitting ideas, suggestions, documents, and/or proposals (\"Contributions\") to Faraday through Website, you acknowledge and agree that: (f) you are not entitled to any compensation or reimbursement of any kind from Faraday under any circumstances.",
+"article numbers": "82",
+"legal provisions": "Right to Compensation and Liability",
+"amend": "Users may have the right to compensation for material or non-material damages resulting from GDPR violations."
+}
+]
+}

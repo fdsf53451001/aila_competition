@@ -1,0 +1,28 @@
+{
+"compliant": [
+{
+"section": "個人資訊的更新\nAOT希望幫助您保持個人資訊的準確性，如您提供之個人資訊有所變更時，請即時通知我們以便更新。",
+"article numbers": "12, 16",
+"legal provisions": "Right to rectification: Data subjects have the right to obtain from the controller without undue delay the rectification of inaccurate personal data concerning him or her."
+},
+{
+"section": "聯絡我們\n如果您對我們的隱私權保護政策有任何疑問，請致函下面的地址： 新竹縣303湖口鄉新竹工業區工業五路13號 榮創能源科技股份有限公司 E-mail： contact@aot.com.tw",
+"article numbers": "12, 13, 14",
+"legal provisions": "Right to information: Data subjects have the right to be provided with information about the processing of their personal data in a concise, transparent, intelligible and easily accessible form."
+}
+],
+"non_compliant": [
+{
+"section": "AOT不能保證或擔保您傳送給AOT的資訊的安全性，您需要對此負責。",
+"article numbers": "5, 24, 32",
+"legal provisions": "Security of processing: The controller shall implement appropriate technical and organisational measures to ensure a level of security appropriate to the risk, including the pseudonymisation and encryption of personal data.",
+"amend": "AOT takes appropriate technical and organizational measures to protect the personal data you transmit to us. However, no data transmission over the internet or other network can be guaranteed to be 100% secure. Therefore, while we strive to protect your personal information, we cannot guarantee its absolute security."
+},
+{
+"section": "本聲明的變更\nAOT可在任何時候以更新此公告的方式修改本聲明，通過使用此網站，您同意受此類修訂版的約束。您應定期訪問此頁面來確定當前約束您的條款。",
+"article numbers": "12, 13, 14",
+"legal provisions": "Transparent information, communication and modalities for the exercise of the rights of the data subject: The information shall be provided in writing or other means, including, where appropriate, by electronic means.",
+"amend": "We will notify you of any changes to this Privacy Policy by posting the updated policy on our website. We encourage you to review this page periodically to stay informed about our privacy practices. Your continued use of the website following the posting of changes constitutes your acceptance of such changes."
+}
+]
+}

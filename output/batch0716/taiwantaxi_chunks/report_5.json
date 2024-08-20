@@ -1,0 +1,35 @@
+{
+"compliant": [
+{
+"section": "關於您的會員註冊以及其他個人資料，都將受到台灣大車隊網站「隱私權聲明」的保護與規範。",
+"article numbers": "12-14, 24",
+"legal provisions": "Data subjects' rights (transparency, information, access, rectification, etc.), right to be informed"
+}
+],
+"non_compliant": [
+{
+"section": "任何資料一經您上載、傳送、輸入或提供至台灣大車隊會員網站時，視為您已同意台灣大車隊取得您的授權使用，並得將前述權利轉授權他人，您對此絕無異議。",
+"article numbers": "6, 7, 13",
+"legal provisions": "Lawfulness of processing, conditions for consent, right to withdraw consent",
+"amend": "Consent should be freely given, specific, informed, and unambiguous. The policy should clarify the specific purposes of data processing and the third parties involved. Users should have the right to withdraw consent at any time."
+},
+{
+"section": "您並應保證台灣大車隊取得授權使用的內容，均無侵害任何第三人智慧財產權的情形，如果因此造成對台灣大車隊的損失或損害，您承諾將對台灣大車隊負賠償或補償責任。",
+"article numbers": "5, 6",
+"legal provisions": "Principles relating to processing of personal data (lawfulness, fairness, transparency, purpose limitation, data minimisation, accuracy, storage limitation, integrity and confidentiality)",
+"amend": "The data controller (Taiwan Taxi) is responsible for ensuring the legality of data processing, not the data subject. This clause unfairly shifts liability to users."
+},
+{
+"section": "您同意台灣大車隊僅能於合理範圍內使用、分析",
+"article numbers": "5, 6",
+"legal provisions": "Principles relating to processing of personal data (lawfulness, fairness, transparency, purpose limitation, data minimisation, accuracy, storage limitation, integrity and confidentiality)",
+"amend": "The policy should clearly define \"reasonable use\" and specify the purposes for data analysis. It should also mention the legal basis for processing (e.g., legitimate interest, contract performance)."
+},
+{
+"section": "此外，如有任何糾紛，您同意以會員服務資料庫所記錄之電子資料為認定標準。",
+"article numbers": "5, 22",
+"legal provisions": "Principles relating to processing of personal data, automated individual decision-making, including profiling",
+"amend": "Solely relying on automated data processing for dispute resolution might be unfair to users. The policy should provide alternative dispute resolution mechanisms and ensure human intervention in decisions with legal or significant effects."
+}
+]
+}

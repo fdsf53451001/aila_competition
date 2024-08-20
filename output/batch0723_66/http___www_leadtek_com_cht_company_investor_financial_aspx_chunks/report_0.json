@@ -1,0 +1,23 @@
+{
+"compliant": [
+{
+"section": "麗臺收集哪些資料\n在您瀏覽本服務時，您並不需要輸入特定個人資料，只有在作特定的行為時(例如註冊成為會員、參加促銷或抽獎活動、參加問卷調查活動、分享產品資訊給好友時)，麗臺會要求您提供個人資料，您可自由選擇是否提供您的個人資料，但可能將無法参與該活動。",
+"article numbers": "Article 7(4), Article 4(11)",
+"legal provisions": "Freely given consent, unambiguous indication of wishes"
+}
+],
+"non_compliant": [
+{
+"section": "麗臺如何使用您提供的資料(包括非個人資料以及個人資料)\n在您使用本服務期間，麗臺會將您提供之資料用於以下用途：行銷業務及您看到的網頁內容、滿足您對產品和服務的要求、改進我們的服務、聯絡您、進行研究，以及提供內部及外部客戶不載有個人資料之市場分析或業務報告、客戶管理與服務、及電子商務服務、廣告和商業行為管理業務以及其他契約、類似契約或法律關係管理之事務或業務。",
+"article numbers": "Article 6(1), Article 5(1)(b)",
+"legal provisions": "Lawfulness of processing, purpose limitation",
+"amend": "Specify the legal basis for each processing purpose (e.g., consent, contract, legitimate interest) and ensure that data processing is limited to what is necessary for the specified, explicit, and legitimate purposes."
+},
+{
+"section": "本隱私權政策(以下簡稱「本政策」)目的在於協助您了解麗臺如何蒐集、處理及利用您的個人資料。\n當您存取、使用本服務，或透過本服務提供(包含個人或非個人)資訊給麗臺時，即表示您已詳閱本政策之內容，並同意接受本政策內提到之作法。 除本政策外，麗臺可能針對本服務中特定的產品、優惠、區域、服務、活動，提出不同或附加的資訊以及條款。",
+"article numbers": "Article 12(1), Article 13, Article 14",
+"legal provisions": "Transparent information, communication and modalities for the exercise of the data subject's rights",
+"amend": "Provide information about data processing in a concise, transparent, intelligible, and easily accessible form, using clear and plain language. This includes details about the controller, the purposes of processing, the legal basis, recipients of data, data retention periods, and data subject rights."
+}
+]
+}

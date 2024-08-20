@@ -1,0 +1,54 @@
+{
+"compliant": [
+{
+"section": "我們只收集您所提供的線上資料，透過填寫表格、電子郵件或其他服務時輸入的資料。",
+"article numbers": "5, 6",
+"legal provisions": "Data minimization, lawfulness of processing"
+},
+{
+"section": "我們不會以任何形式將您的個人資料洩漏給第三者，除非事先獲得您的同意，或者依法必須如此處理時。",
+"article numbers": "6, 7, 8, 9",
+"legal provisions": "Lawfulness of processing, consent, right to information, data security"
+},
+{
+"section": "對於您提供的資料，我們會負起控管之責任。",
+"article numbers": "5, 24",
+"legal provisions": "Accountability, responsibility"
+},
+{
+"section": "收集資料的目的僅用於正確提供您需求的產品或服務，或者是您已事先同意的其他用途。",
+"article numbers": "5, 6",
+"legal provisions": "Purpose limitation, lawfulness of processing"
+},
+{
+"section": "Cookies是本網站伺服器傳送Cookies識別訊息至您的電腦，用來辨識您在該次連結時所使用的電腦。",
+"article numbers": "N/A",
+"legal provisions": "This section is informative and doesn't state legal obligations."
+},
+{
+"section": "您可自行決定解除接受Cookies的設定，或調整您的瀏覽器設定，讓您的電腦在儲存Cookies前先提醒您。",
+"article numbers": "N/A",
+"legal provisions": "This section is informative and doesn't state legal obligations."
+}
+],
+"non_compliant": [
+{
+"section": "這些資料儲存在我們控管的資料處理器或伺服器",
+"article numbers": "13, 14",
+"legal provisions": "Transparency obligation, information to be provided where personal data are collected",
+"amend": "應說明資料儲存位置（例如：歐盟境內或境外）以及資料儲存期限。若資料儲存於歐盟境外，需說明資料傳輸的法律依據（例如：標準契約條款）"
+},
+{
+"section": "我們不會以任何形式將您的個人資料洩漏給第三者，除非事先獲得您的同意，或者依法必須如此處理時。",
+"article numbers": "12, 13, 14",
+"legal provisions": "Transparent information, communication and modalities for the exercise of the data subject's rights",
+"amend": "需更明確說明可能將個人資料揭露給第三者的情況，例如：提供服務所需的合作廠商。並說明使用者取得這些第三者資訊的管道。"
+},
+{
+"section": "Cookies是本網站伺服器傳送Cookies識別訊息至您的電腦，用來辨識您在該次連結時所使用的電腦。您可自行決定解除接受Cookies的設定，或調整您的瀏覽器設定，讓您的電腦在儲存Cookies前先提醒您。",
+"article numbers": "7, 32",
+"legal provisions": "Conditions for consent, security of processing",
+"amend": "需明確告知使用者使用Cookies的目的、類型以及儲存期限，並取得使用者明確同意。同時，應說明如何管理和刪除Cookies。"
+}
+]
+}

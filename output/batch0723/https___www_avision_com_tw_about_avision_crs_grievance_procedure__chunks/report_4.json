@@ -1,0 +1,45 @@
+{
+"compliant": [
+{
+"section": "虹光將依您提供之通訊方式寄送虹光之各種產品、服務或支援的相關資訊，包括新產品資訊、特別優惠方案、或是參加市場研究之邀請。若您不願再接收以上資訊，請來信至本聲明第9條所載之聯絡方式告知虹光，您拒絕接受虹光所寄出之特定相關資訊，並請註明您的姓名及其他可識別資料。",
+"article numbers": "6(1)(a), 7(2)",
+"legal provisions": "Consent of the data subject; Proof of consent"
+},
+{
+"section": "關於個人資料之保護，虹光悉依中華民國法律及其相關法令規定。",
+"article numbers": "1(2), 2(1)",
+"legal provisions": "Material scope; Territorial scope"
+},
+{
+"section": "為了防範未經授權的存取或洩露您的個人資料、維護資料的正確性及確保資訊被正當使用，虹光會採取某些技術上及管理上之程序及適當措施來保護虹光所蒐集的資訊。",
+"article numbers": "32, 24, 5(1)(f)",
+"legal provisions": "Security of processing; Responsibility of the controller; Principles of data processing"
+}
+],
+"non_compliant": [
+{
+"section": "若您不願再接收以上資訊，請來信至本聲明第9條所載之聯絡方式告知虹光，您拒絕接受虹光所寄出之特定相關資訊，並請註明您的姓名及其他可識別資料。",
+"article numbers": "12(1), 20(1)",
+"legal provisions": "Transparent information, communication and exercise of the right to object; Right to erasure ('right to be forgotten')",
+"amend": "The policy should clearly state the right to withdraw consent at any time and provide an easy way to do so, such as an unsubscribe link in emails. It should also mention the right to erasure."
+},
+{
+"section": "虹光不會要求您也請不要提供特殊或具敏感性的個人資料，例如您的病歷、醫療、政治、宗教和哲學信仰、種族、性取向、性生活、犯罪紀錄或基因。",
+"article numbers": "9(1), 10",
+"legal provisions": "Processing of special categories of personal data; Conditions for processing of special categories of personal data",
+"amend": "While it's good they discourage providing sensitive data, they should explicitly state they don't process it unless they have explicit consent and legal basis (Art. 9 GDPR)."
+},
+{
+"section": "本聲明如有任何變更，虹光將在此公佈變更後之聲明，並附上更新日期。若此聲明有重大變更，虹光將以寄發電子郵件之方式通知您或將此變更公佈於虹光網站首頁。在相關法律允許的範圍內，若您仍持續使用本網站，即視為接受更新版本的本聲明。",
+"article numbers": "13(2), 14(2)",
+"legal provisions": "Information to be provided where personal data are collected from the data subject; Information to be provided where personal data have not been obtained from the data subject",
+"amend": "The policy should specify how they inform users about changes, especially substantial ones. Continued use of the website cannot be considered consent for substantial changes."
+},
+{
+"section": "如果您對於虹光的隱私權聲明或隱私權政策有任何疑問或指教，請將您的意見寄至以下地址：\n虹光精密工業股份有限公司\n新竹科學園區研新一路20號\n電子信箱：webmaster@avision.",
+"article numbers": "30, 12(1), 13(1), 14(1)",
+"legal provisions": "Notifications of a personal data breach to the supervisory authority; Transparent information, communication and exercise of the right to object; Information to be provided where personal data are collected from the data subject; Information to be provided where personal data have not been obtained from the data subject",
+"amend": "They need to provide contact details of their Data Protection Officer (if applicable) and clearly outline data subject rights (access, rectification, erasure, etc.)."
+}
+]
+}

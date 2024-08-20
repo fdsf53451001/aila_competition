@@ -1,0 +1,93 @@
+{
+"compliant": [
+{
+"section": "We collect information from you when you register on our site or fill out a form. Some areas of the site may require you to actively submit information in order for you to benefit from specific features (such as newsletter subscriptions, order processing). You will be informed at each information collection point what information is required and what information is optional.",
+"article numbers": "13.1.a, 13.2.a",
+"legal provisions": "Information provided by the data subject; contract"
+},
+{
+"section": "You will be informed at each information collection point what information is required and what information is optional.",
+"article numbers": "12.1, 13.1.c, 13.2.d",
+"legal provisions": "Transparent information, communication and modalities for the exercise of the rights of the data subject"
+},
+{
+"section": "Your Consent By using this site, you agree with the terms of this Privacy Policy. Whenever you submit information via this site, you consent to the collection, use, and disclosure of that information in accordance with this Privacy Policy.",
+"article numbers": "4.11, 7.1",
+"legal provisions": "Consent; Conditions for consent"
+},
+{
+"section": "We may also need to disclose your personal information in connection with law enforcement, fraud prevention or other legal action, if required by law or regulation.",
+"article numbers": "6.1.c",
+"legal provisions": "Lawfulness of processing"
+},
+{
+"section": "Infortrend will not sell, rent or lease your personal information to others.",
+"article numbers": "6.1.b, 9, 10",
+"legal provisions": "Lawfulness of processing; Processing of personal data relating to criminal convictions and offences"
+},
+{
+"section": "The use and processing of personal information are performed in accordance with applicable and relevant data protection laws and this Privacy Policy.",
+"article numbers": "5.1.a",
+"legal provisions": "Principles relating to processing of personal data"
+},
+{
+"section": "You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it. However, by not accepting cookies you may not be allowed to access certain information.",
+"article numbers": "4.11, 7.1",
+"legal provisions": "Consent; Conditions for consent"
+},
+{
+"section": "We take reasonable steps to protect your personally identifiable information as you transmit your information from your computer to our site and to protect such information from loss, misuse, and unauthorized access, disclosure, alteration, or destruction.",
+"article numbers": "32.1, 32.2",
+"legal provisions": "Security of processing"
+},
+{
+"section": "If you have any questions about our Privacy Policy, would like to stop receiving information from Infortrend, or would like to correct or update information provided to Infortrend, please contact us by sending an email to privacy@infortrend.com.",
+"article numbers": "12-23",
+"legal provisions": "Transparent information, communication and modalities for the exercise of the rights of the data subject"
+}
+],
+"non_compliant": [
+{
+"section": "We may supplement this information to complete a transaction or to provide a better service.",
+"article numbers": "5.1.b",
+"legal provisions": "Purpose limitation",
+"amend": "Specify the exact purposes for which the information is collected and ensure they are compatible with the initial purpose."
+},
+{
+"section": "Personal information collected may be used, to deliver the services and support, or carry out, the transactions you have requested, send product or service information to you, improve our products, services and relationship with you, enforce our conditions of sale, website terms and/or separate contracts (if applicable) with you, prevent fraud and other prohibited or illegal activities, protect the security or integrity of the website, our business, or our products or services; or otherwise, as disclosed to you at the point of collection.",
+"article numbers": "5.1.b",
+"legal provisions": "Purpose limitation",
+"amend": "Clearly define and separate legitimate purposes for data processing and obtain separate consent for each purpose, especially for marketing and fraud prevention."
+},
+{
+"section": "The information collected will be stored and processed in Taiwan or any other country in which Infortrend or its corporate affiliates, subsidiaries or agents maintain facilities; you consent to any such transfer of information outside of your country.",
+"article numbers": "44-49",
+"legal provisions": "Transfers of personal data to third countries or international organisations",
+"amend": "Provide specific safeguards for international data transfers, such as standard contractual clauses or binding corporate rules, and ensure adequacy decisions are in place for the countries involved."
+},
+{
+"section": "We may share your personal information with corporate affiliates to carry out transactions you request, or to make our business or that of our corporate affiliates more responsive to your needs, which includes our corporate affiliates providing you with information about Infortrend, and Infortrend products and services.",
+"article numbers": "13, 14",
+"legal provisions": "Information to be provided where personal data are collected from the data subject; Information to be provided where personal data have not been obtained from the data subject",
+"amend": "Provide specific information about the corporate affiliates with whom data is shared, their purpose for processing, and ensure transparency and user control over such sharing."
+},
+{
+"section": "It does not store any personal information such as your email address, street address, credit card number, or phone number.",
+"article numbers": "4.1.1",
+"legal provisions": "Definitions",
+"amend": "Acknowledge that online identifiers, such as IP addresses and cookie data, can constitute personal data under GDPR and should be handled accordingly."
+},
+{
+"section": "Infortrend encourages you to periodically review this Privacy Policy so you are informed on how your information is being protected and used.",
+"article numbers": "12.1",
+"legal provisions": "Transparent information, communication and modalities for the exercise of the rights of the data subject",
+"amend": "Implement a mechanism to actively inform users of any significant changes to the privacy policy, rather than solely relying on users to periodically review it."
+},
+{
+"section": "Infortrend reserves the right to make changes to this Privacy Policy from time to time without notice.",
+"article numbers": "13.2.a, 14.3",
+"legal provisions": "Information to be provided where personal data are collected from the data subject; Information to be provided where personal data have not been obtained from the data subject",
+"amend": "Provide clear and timely notice to users regarding any material changes to the privacy policy, allowing them to exercise their rights accordingly."
+}
+]
+}

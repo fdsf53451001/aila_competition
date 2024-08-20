@@ -1,0 +1,3 @@
+因使用 Google Analytics，我們的網站採用外掛程式「anonymizeIp」。如此一來，Google 於傳輸您的 IP 位址離開 EU/EEA 成員國前將之簡化，並因而匿名化。Google 使用此資訊分析您對我們的網站之使用，以為我們彙整網際網路活動報告，並提供其他與我們的網站相關之服務。
+ Google 可能基於法律要求或由第三方代表 Google 來處理此資料之情況，並將此資料傳輸予第三方。Google 說明將永不將您的 IP 位址和其他 Google 所持有之資料進行連結。您可以根據本「隱私權政策」於他處註明之方式，透過調整瀏覽器軟體之設定來防止 cookie 之安裝。然而，您應知悉如此將無法完整使用我們的網站之所有功能。Google 使用及分享 Google Analytics 收集關於您對此網站之造訪之資訊之能力受 Google Analytics 使用條款 及 Google 隱私權政策之限制。請參閱 Google 隱私權政策來了解更多細節。您也可選擇下載 Google Analytics 不透露資訊流覽器外掛程式。
+ 您可以下載並安裝以下連結提供之瀏覽器外掛程式，來防止 cookie 來產生關於您使用網站之資料傳輸予 Google 及由 Google 處理： tools.

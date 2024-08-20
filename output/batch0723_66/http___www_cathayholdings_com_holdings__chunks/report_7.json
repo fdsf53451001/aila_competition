@@ -1,0 +1,62 @@
+{
+"compliant": [
+{
+"section": "本機制下所蒐集之資料均經客戶同意，或於客戶簽署各類契約文書中明文約定而取得，或來自公開資訊",
+"article numbers": "6(1)(a), 6(1)(b)",
+"legal provisions": "Lawfulness of processing: Data must be processed lawfully, fairly and in a transparent manner. This section indicates the data is collected with consent, contractual obligation, or from public sources."
+},
+{
+"section": "對於客戶資料或公開資訊中對客戶有不利影響的訊息，都會採取必要之查證，或提供其他強化客戶資料保護措施(包括但不限於進行交叉比對或請客戶提出說明等)",
+"article numbers": "5(1)(d)",
+"legal provisions": "Accuracy: Personal data shall be accurate and, where necessary, kept up to date. This section highlights measures taken to ensure data accuracy."
+},
+{
+"section": "嚴格遵守公平待客原則",
+"article numbers": "5(1)(a)",
+"legal provisions": "Fairness and lawfulness: Data must be processed lawfully, fairly and in a transparent manner. This aligns with the principle of fair processing."
+},
+{
+"section": "所有可分享的客戶資料均嚴密地保存在專門建置的資料庫中",
+"article numbers": "32(1)",
+"legal provisions": "Security of processing: Taking appropriate technical and organisational measures to ensure a level of security appropriate to the risk. This section indicates data security measures."
+},
+{
+"section": "未來因業務需求而依法令委由管理資訊系統之第三人代為處理或儲存時，亦會依法進行相應管理措施",
+"article numbers": "28",
+"legal provisions": "Processors: This section refers to data processing by a third party and the requirement for appropriate contractual safeguards."
+},
+{
+"section": "對於共享資料之使用均依業務權責進行權限控管",
+"article numbers": "32(1)",
+"legal provisions": "Security of processing: This section highlights access control as a security measure."
+},
+{
+"section": "必須在法令許可之規範下，依訂定之管理制度，方可進行資料分享作業",
+"article numbers": "5(1)(a), 24(1)",
+"legal provisions": "Lawfulness and accountability: This emphasizes data sharing within legal boundaries and established procedures."
+},
+{
+"section": "不在授權範圍內之任何人，均不得亦無法取得資料",
+"article numbers": "32(1)",
+"legal provisions": "Confidentiality and security: This section reinforces data confidentiality and restricted access."
+},
+{
+"section": "參與本機制之成員間採用 SSL 加密機制，或其他安全無虞之方式來保護客戶個人資料安全，除以安全軟硬體設備進行資料傳輸外，並以安全之防護機制儲存密碼，且加裝防火牆防止第三人不法入侵，或內部之非法使用",
+"article numbers": "32(1)",
+"legal provisions": "Security of processing: This section details technical and organizational security measures."
+},
+{
+"section": "客戶可以隨時通知參與本機制各成員停止或中止對其相關資訊的全部或一部進行分享，各成員於收受上開通知後，將於三個工作日內依客戶通知內容辦理",
+"article numbers": "17(1), 17(2)",
+"legal provisions": "Right to erasure ('right to be forgotten'): Data subjects have the right to request erasure of their data. This section outlines the process for data subjects to exercise this right."
+}
+],
+"non_compliant": [
+{
+"section": "三個工作日內",
+"article numbers": "12(3), 17(1)",
+"legal provisions": "Right of access and erasure: The GDPR requires controllers to respond to requests from data subjects without undue delay and in any event within one month of receipt of the request. Three working days might be too long in certain situations.",
+"amend": "Amend the policy to ensure responses to data subject requests are provided without undue delay and within one month, aligning with GDPR requirements."
+}
+]
+}

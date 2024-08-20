@@ -1,0 +1,43 @@
+{
+"compliant": [
+{
+"section": "若為提供服務所需資料，我們會在使用者持有帳戶期間持續保留此類資料。例如，帳戶資料。",
+"article numbers": "Article 5(1)(e)",
+"legal provisions": "Storage limitation: Data must be kept only as long as necessary for the purposes for which they are processed."
+},
+{
+"section": "若為遵循稅務要求所需資料，則保留 7 年。例如：職業駕駛與合作外送夥伴的行程或外送地點資訊。",
+"article numbers": "Article 6(1)(c), Article 5(1)(e)",
+"legal provisions": "Lawfulness of processing: Processing is lawful if it is necessary for compliance with a legal obligation. Storage limitation: Data must be kept only as long as necessary for the purposes for which they are processed."
+},
+{
+"section": "使用得可透過 Uber App 內的「設定」>「隱私設定」選單，或透過 Uber 網站，要求刪除自己的帳戶",
+"article numbers": "Article 12(2), Article 17(1)",
+"legal provisions": "Transparent information, communication and modalities for the exercise of the data subject's rights: The controller shall take appropriate measures to provide any information referred to in Articles 13 and 14 and any communication under Articles 15 to 22 and 34 relating to processing to the data subject in a concise, transparent, intelligible and easily accessible form, using clear and plain language, particularly for any information addressed specifically to a child. Right to erasure ('right to be forgotten'): The data subject shall have the right to obtain from the controller the erasure of personal data concerning him or her without undue delay"
+},
+{
+"section": "Uber 讓使用者能夠存取和/或控制 Uber 收集的資料，包含透過以下方式：隱私設定 裝置權限 App 內評分頁面 行銷和廣告選擇 ",
+"article numbers": "Article 15(1), Article 15(2)",
+"legal provisions": "Right of access by the data subject: The data subject shall have the right to obtain from the controller confirmation as to whether or not personal data concerning him or her are being processed, and, where that is the case, access to the personal data and the following information: (a) the purposes of the processing; (b) the categories of personal data concerned; (c) the recipients or categories of recipient to whom the personal data have been or will be disclosed, in particular recipients in third countries or international organisations; (d) where possible, the envisaged period for which the personal data will be stored, or, if not possible, the criteria used to determine that period; (e) the existence of the right to request from the controller rectification or erasure of personal data or restriction of processing of personal data concerning the data subject or to object to such processing; (f) the right to lodge a complaint with a supervisory authority; (g) where the personal data are not collected from the data subject, any available information as to their source; (h) the existence of automated decision-making, including profiling, referred to in Article 22(1) and (4) and, at least in those cases, meaningful information about the logic involved, as well as the significance and the envisaged consequences of such processing for the data subject. The controller shall provide a copy of the personal data undergoing processing."
+},
+{
+"section": "Uber 也讓使用者能夠要求存取或取得個人資料的副本、對帳戶進行變更或更新、要求刪除帳戶，或要求限制 Uber 處理使用者資料。",
+"article numbers": "Article 15, Article 16, Article 17, Article 18",
+"legal provisions": "Right of access, Right to rectification, Right to erasure ('right to be forgotten'), Right to restriction of processing"
+}
+],
+"non_compliant": [
+{
+"section": "基於維護安全或防範詐騙目的，視需要在規定期間內保留資料。例如：我們會將未完成的職業駕駛線上開通資料保留 1 年，將已拒絕的職業駕駛線上開通資料保留 7 年。",
+"article numbers": "Article 5(1)(e)",
+"legal provisions": "Storage limitation: Data must be kept only as long as necessary for the purposes for which they are processed.",
+"amend": "Specify a clear and legitimate timeframe for data retention for security and fraud prevention purposes, ensuring it is not excessive. Provide specific justification for the 1-year and 7-year retention periods mentioned, demonstrating their necessity and proportionality."
+},
+{
+"section": "在收到帳戶刪除要求後，出於安全、資安、防範詐騙或法規遵循需求，或使用者帳戶相關問題 (例如未結清點數，或有索賠或爭議未解決) 而保留資料,否則我們會將使用者帳戶和資料刪除。對於職業駕駛與合作外送夥伴，這通常意味著我們會在必要時保留其部分資料，以應付實際或潛在的稅務、訴訟或保險索賠。除非出於上述原因需要保留資料，我們通常會在收到帳戶刪除要求的 90 天內，刪除乘客和訂單收件人的資料。",
+"article numbers": "Article 17(3), Article 5(1)(e)",
+"legal provisions": "Right to erasure ('right to be forgotten'): The controller may restrict processing of the personal data in question to storage only. Storage limitation: Data must be kept only as long as necessary for the purposes for which they are processed.",
+"amend": "While legitimate reasons for retaining data after account deletion are mentioned, specific and limited timeframes for each reason should be provided. The vague language of \"as long as necessary\" should be replaced with clear deadlines. The 90-day retention period for passenger and order recipient data should be justified or shortened to comply with the principle of data minimization."
+}
+]
+}

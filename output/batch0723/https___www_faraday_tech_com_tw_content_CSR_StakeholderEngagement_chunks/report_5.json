@@ -1,0 +1,22 @@
+{
+"compliant": [
+{
+"section": "Faraday's web server automatically records certain information incidental to your use of the Website.",
+"article numbers": "5",
+"legal provisions": "Data minimization: Processing of personal data must be adequate, relevant and limited to what is necessary."
+},
+{
+"section": "(a) provide true, accurate, current and complete Registration Data and (b) maintain and promptly update the Registration Data to keep it true, accurate, current and complete.",
+"article numbers": "5, 16",
+"legal provisions": "Accuracy (Article 5), Right to rectification (Article 16): Data subjects have the right to have inaccurate personal data rectified."
+}
+],
+"non_compliant": [
+{
+"section": "There are certain services on the Website which you may wish to subscribe for that may require you to provide personally identifiable information, such as name, mailing address, email address and other contact information as prompted by the registration form (the \"Registration Data\").",
+"article numbers": "5, 6",
+"legal provisions": "Lawfulness, fairness and transparency (Article 5), Lawfulness of processing (Article 6): Processing of personal data requires a lawful basis (e.g., consent, contract, legal obligation). The policy doesn't specify the legal basis for collecting this data.",
+"amend": "Specify the legal basis for collecting and processing personal data, such as consent, contract performance, legal obligation, or legitimate interests. Clearly state the specific purpose for collecting each category of personal data."
+}
+]
+}

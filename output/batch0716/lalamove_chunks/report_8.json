@@ -1,0 +1,34 @@
+{
+"compliant": [
+{
+"section": "1 (A) 用戶或代理人的姓名、電話號碼和用戶於文本框內自願輸入的其他個人資料，包括在運送服務發起後，為完成訂單之目的，向司機共用訂單起點及終點；",
+"article numbers": "6(1)(b), 5(1)(a)",
+"legal provisions": "Data must be processed lawfully, fairly and in a transparent manner in relation to the data subject ('lawfulness, fairness and transparency').\n\nData must be collected for specified, explicit and legitimate purposes and not further processed in a manner that is incompatible with those purposes ('purpose limitation')."
+},
+{
+"section": "5.2 (A) 我們的員工、管理人員或獨立顧問； (B) 我們的審計師以及外部法律和財務顧問； (C) 我們的供應商、業務合作夥伴、數據處理商和承包商，包括： (1) IT服務和軟件供應商； (2) 支付服務供應商和處理人； (3) 雲平臺服務供應商； (4) 雲存儲服務供應商； (5) 數據分析服務供應商； (6) 研究合作夥伴； (7) 為我們製作廣告和策劃促銷活動的市場廣告代理商； (8) 背景調查和身份驗證服務供應商； (9) 協助我們提高網站和應用程式安全性的供應商；和 (10) 客戶服務供應商； (D) 我們的保險公司和銀行，以及司機的保險公司； (E) 根據任何適用法律法規的要求，我們負有披露義務的監管機構或政府機構； (F) 我們的關聯公司：我們與我們的子公司、母公司和其他關聯公司共用個人資料，以幫助我們提供服務或代表我們進行數據處理",
+"article numbers": "28",
+"legal provisions": "Data processing by a processor must be governed by a contract or other legal act under Union or Member State law that is binding on the processor with regard to the controller and that sets out the subject-matter and duration of the processing, the nature and purpose of the processing, the type of personal data and categories of data subjects and the obligations and rights of the controller."
+}
+],
+"non_compliant": [
+{
+"section": "1 (B) 在運送服務發起後，為完成訂單之目的，與用戶或代理人共用司機的姓名、電話號碼、司機資料資訊、車輛資訊、車輛圖片和地理位置；和 如果閣下是車隊成員，閣下的個人資料（例如姓名、電話號碼、駕駛員資料資訊、我們的服務和應用程式的使用記錄和報告、付款記錄、車輛資訊）將共用至車隊的所有者或經理。",
+"article numbers": "6(1)(f), 5(1)(c)",
+"legal provisions": "Processing is only lawful if, in relation to the purposes for which they are processed, the personal data are adequate, relevant and limited to what is necessary for the purposes for which they are processed ('data minimisation').\n\nPersonal data shall be processed in a manner that ensures appropriate security of the personal data, including protection against unauthorised or unlawful processing and against accidental loss, destruction or damage, using appropriate technical or organisational measures ('integrity and confidentiality').",
+"amend": "Limit the data shared with users to only what is necessary to complete the delivery. For example, instead of sharing the driver's full name and phone number, consider using an anonymized identifier or a masked phone number. Additionally, ensure appropriate security measures are in place to protect the driver's data, such as encryption and access controls."
+},
+{
+"section": "閣下理解並承認，我們無法控制閣下可能選擇與之共用個人資料的用戶的行為。我們不會在日常經營活動中監控此類功能的使用，雖然我們保留啟用監控的權利。因此，閣下理解並承認，我們不能也不保證閣下與其他用戶共用的個人資料不會被披露至未經授權的人。閣下還需承認到，在運送完成後，閣下與之共用個人資料的相關用戶仍可能訪問閣下的個人資料。例如，相關用戶可能會查看包含閣下個人資料的交易記錄。",
+"article numbers": "5(1)(f), 25",
+"legal provisions": "Personal data shall be processed in a manner that ensures appropriate security of the personal data, including protection against unauthorised or unlawful processing and against accidental loss, destruction or damage, using appropriate technical or organisational measures ('integrity and confidentiality').\n\nTaking into account the state of the art, the costs of implementation and the nature, scope, context and purposes of processing as well as the risk of varying likelihood and severity for the rights and freedoms of natural persons, the controller shall implement appropriate technical and organisational measures to ensure a level of security appropriate to the risk, including inter alia as appropriate.",
+"amend": "Implement appropriate technical and organizational measures to protect personal data shared between users. This could include data encryption, access controls, and monitoring mechanisms to detect and prevent unauthorized access or disclosure. Consider implementing a system that limits the retention period of personal data shared between users, deleting it securely once it is no longer necessary for the delivery service."
+},
+{
+"section": "5.2 (G) 在我們的認識內，基於適用法律法規、法律程式、政府要求或出於合理的安全考慮我們負有披露義務的任何人員。",
+"article numbers": "6(1)(c)",
+"legal provisions": "Processing is necessary for compliance with a legal obligation to which the controller is subject.",
+"amend": "Specify the legal bases for processing personal data for legal obligations, legal proceedings, government requests, or security considerations. Provide specific examples of situations where disclosure may be necessary. This will enhance transparency and provide individuals with a clearer understanding of the circumstances under which their data may be shared."
+}
+]
+}

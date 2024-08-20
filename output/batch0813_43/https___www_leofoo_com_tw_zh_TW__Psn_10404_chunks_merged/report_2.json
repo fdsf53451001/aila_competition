@@ -1,0 +1,28 @@
+{
+"compliant": [
+{
+"section": "VI. Inquire, Alter, Update or Delete Personal Information\nIf you request for inquiry, alteration, update, transmission or deletion of Personal Information, or question our privacy policy, you may click “Contact Us” or dial the service line for the service.",
+"article numbers": "12, 15, 21",
+"legal provisions": "Right of access, Right to rectification, Right to erasure ('right to be forgotten')"
+},
+{
+"section": "According to applicable laws, information that are necessary for the retention cannot be provided, used, deleted or cease collections by Leofoo Tourism Group upon your request.",
+"article numbers": "17.3",
+"legal provisions": "Right to erasure ('right to be forgotten') subject to limitations"
+}
+],
+"non_compliant": [
+{
+"section": "IV. Use of Cookies\n“Cookies” are small blocks of data created by a web server to differentiate users’ preferences.\nLeofoo Tourism Group processes the information to help our site functions correctly, and better understand the needs of our customers. Therefore, each field uses “Cookies” to obtain the information keyed in for the site, and allows third parties to use essential and non-essential cookies, web beacons, Software Development Kit(SDK), Application Programming Interfaces(APIs) and similar technologies (collectively, “Cookie”) to collect specific data about you.\nPartial Cookies on the site are necessary for your services and website protection and maintenance.",
+"article numbers": "5.3, 7",
+"legal provisions": "Conditions for consent, Lawfulness of processing",
+"amend": "The policy should clearly differentiate between strictly necessary cookies and those used for other purposes like analytics or marketing. It should obtain explicit consent for non-essential cookies before they are set and provide users with granular control over their cookie preferences."
+},
+{
+"section": "V. Security of Personal Information\nLeofoo Tourism Group applies to appropriate security regulations to maintain the security of Personal Information, and safeguard Personal Information against unauthorized or unlawful process, disclosure or access.",
+"article numbers": "32",
+"legal provisions": "Security of processing",
+"amend": "The policy should specify the technical and organizational measures implemented to ensure data security. Vague terms like 'appropriate security regulations' are not sufficient. Examples include pseudonymization, encryption, data breach protocols, etc."
+}
+]
+}

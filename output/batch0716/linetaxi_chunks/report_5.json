@@ -1,0 +1,49 @@
+{
+"compliant": [
+{
+"section": "八、個資利用之方式\n本公司得於法令許可範圍內，依據下列法定事由處理您的個資：\n為履行本公司與您之間的契約，或於簽署契約前依據您的要求採取相關步驟而有必要處理個資。",
+"article numbers": "6(1)(b)",
+"legal provisions": "processing is necessary for the performance of a contract to which the data subject is party or in order to take steps at the request of the data subject prior to entering into a contract"
+},
+{
+"section": "八、個資利用之方式\n本公司得於法令許可範圍內，依據下列法定事由處理您的個資：\n為履行本公司法定義務而有必要處理個資（例如：遵守政府機關依據相關法令所發布的資訊揭露命令）。",
+"article numbers": "6(1)(c)",
+"legal provisions": "processing is necessary for compliance with a legal obligation to which the controller is subject"
+},
+{
+"section": "八、個資利用之方式\n本公司得於法令許可範圍內，依據下列法定事由處理您的個資：\n為保護您或第三人重大利益而有必要處理個資。",
+"article numbers": "6(1)(d)",
+"legal provisions": "processing is necessary in order to protect the vital interests of the data subject or of another natural person"
+},
+{
+"section": "八、個資利用之方式\n本公司得於法令許可範圍內，依據下列法定事由處理您的個資：\n為公共利益、歷史文件保存、調查或統計相關事由而有必要處理個資，且已採取適當安全措施。例如：本公司得為提供、維護、開發及改良相關服務，以及確保安全及防止未經授權的使用，依據上述第5.款所述合法利益處理您的個資。",
+"article numbers": "6(1)(e)",
+"legal provisions": "processing is necessary for the performance of a task carried out in the public interest or in the exercise of official authority vested in the controller"
+},
+{
+"section": "九、當事人權利之行使\n（一）您得依「個人資料保護法」相關法令規定行使下列個資權利：\n查詢、請求閱覽或請求製給複製本、\n請求補充或更正、\n請求停止蒐集、處理或利用、\n請求刪除。\n請與本公司客服部聯繫，以進一步了解。",
+"article numbers": "15, 16, 17, 18",
+"legal provisions": "Right of access by the data subject, Right to rectification, Right to erasure ('right to be forgotten'), Right to restriction of processing"
+}
+],
+"non_compliant": [
+{
+"section": "八、個資利用之方式\n本公司得於法令許可範圍內，依據下列法定事由處理您的個資：\n為調查或防止非法或疑似非法行為，或採取相關措施而有必要處理個資。",
+"article numbers": "6(1)(f), recital 47",
+"legal provisions": "Compliance with GDPR requires a legal basis for data processing. While this section mentions processing data to prevent illegal activities, it lacks the necessary specificity regarding legitimate interests and the balancing test required by GDPR. ",
+"amend": "This section should be amended to explicitly state the legitimate interests pursued by the company or a third party. It should also clarify that such processing is necessary and proportionate and that the data subject's rights and freedoms are not overridden."
+},
+{
+"section": "八、個資利用之方式\n本公司得於法令許可範圍內，依據下列法定事由處理您的個資：\n本公司或第三方為合法利益（包括本公司執行營運或系統的改善、防止詐欺、維護安全、行銷及研究）而有必要處理個資；但如果您的隱私相關權利、利益及自由，顯然比該等合法利益更值得保護者，不在此限；或",
+"article numbers": "6(1)(f), recital 47",
+"legal provisions": "This section mentions legitimate interests as a basis for processing but is not specific enough about the balancing test required under GDPR.",
+"amend": "This section should clearly identify the specific legitimate interests pursued by the company or a third party. It should also provide more details about the balancing test conducted to ensure that the data subject's interests, rights, and freedoms are not overridden by the legitimate interests."
+},
+{
+"section": "九、當事人權利之行使\n（二）就本公司蒐集之個人資料，若答覆查詢、提供閱覽或製給複製本而妨害國家安全、外交及軍事機密、整體經濟利益或其他國家重大利益、妨害公務機關執行法定職務或妨害本公司或第三人之重大利益，則本公司將會拒絕當事人的請求，並提供拒絕理由予當事人。",
+"article numbers": "23",
+"legal provisions": "While this section outlines exceptions to data subject rights, it doesn't explicitly align with the specific restrictions laid out in GDPR Article 23. ",
+"amend": "This section should be revised to specifically reference the relevant restrictions outlined in Article 23 of GDPR and ensure any limitations applied to data subject rights comply with the regulation."
+}
+]
+}

@@ -1,0 +1,28 @@
+{
+"compliant": [
+{
+"section": "群創光電保留不定期修訂此份隱私權保護聲明之權利。",
+"article numbers": "13.1(b), 14.1(b)",
+"legal provisions": "Right to be informed of processing"
+},
+{
+"section": "群創光電將於隱私權保護聲明網頁中敘明最後一次更新的日期",
+"article numbers": "13.1(b), 14.1(b)",
+"legal provisions": "Right to be informed of processing"
+}
+],
+"non_compliant": [
+{
+"section": "此隱私權保護聲明僅適用於群創光電透過本網站所蒐集到的使用者個人基本資料。藉由廣告或其他超連結連至群創光電網站而得的資料，並不列於此隱私權保護聲明中。",
+"article numbers": "4(14), 26",
+"legal provisions": "Definition of \"controller\", \"joint controllership\"",
+"amend": "The policy should clearly identify and define the scope of its application, including any joint controllership arrangements with third-party websites linked through advertisements or hyperlinks. It should specify whether data collected through these links falls under the scope of this policy and, if so, how joint controllership is managed."
+},
+{
+"section": "群創光電有權在未事先告知的情況下變動此聲明。",
+"article numbers": "13.2(a), 14.2(a)",
+"legal provisions": "Right to be informed of processing",
+"amend": "The policy should state that any significant changes to the privacy policy will be communicated to users before they take effect. While the policy mentions providing the last updated date, it should explicitly state that users will be informed of changes in advance, especially if the changes affect how their data is processed."
+}
+]
+}

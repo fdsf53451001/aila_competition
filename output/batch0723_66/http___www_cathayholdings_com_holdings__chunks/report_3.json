@@ -1,0 +1,43 @@
+{
+"compliant": [
+{
+"section": "查詢或請求閱覽。",
+"article numbers": "15.1(a)",
+"legal provisions": "Right of access"
+},
+{
+"section": "請求製給複製本。",
+"article numbers": "15.3",
+"legal provisions": "Right to obtain a copy"
+},
+{
+"section": "請求補充或更正。",
+"article numbers": "16",
+"legal provisions": "Right to rectification"
+},
+{
+"section": "請求停止蒐集、處理或利用。",
+"article numbers": "18, 21",
+"legal provisions": "Right to restriction of processing, Right to object"
+},
+{
+"section": "請求刪除。",
+"article numbers": "17",
+"legal provisions": "Right to erasure ('right to be forgotten')"
+}
+],
+"non_compliant": [
+{
+"section": "為了提供您更好、更個人化的服務、方便您參與個人化的互動活動，以及本公司為瞭解及管理本網站使用情形(包括但不限於分析訪客人數、網站流量、使用者分布、產品/服務關注度、活動行為及使用模式)、提昇本網站服務品質、提供符合您需求或興趣偏好之客製化行銷資訊或廣告並追蹤其成效等類似目的，本公司將自行或透過合作廠商運用Cookies、信標(Web beacon、Beacon API等，以下同)或其他類似技術之工具(以下合稱標記工具)來記錄、存取及蒐集您的線上行為資料。",
+"article numbers": "5.1(a), 7.4",
+"legal provisions": "Lawfulness of processing, Conditions for consent",
+"amend": "The policy needs to clearly state the legal basis for processing personal data, especially for cookies and tracking technologies. While legitimate interest can be used for some purposes, consent is likely required for personalized services, marketing, and tracking. The policy should specify the types of cookies used, their purpose, and whether they are first-party or third-party. It should also provide a clear and specific way for users to consent to cookies, such as through a granular cookie consent mechanism."
+},
+{
+"section": "線上行為資料包括當您訪問本網站、其他網站及社群媒體平台(不論是否與本網站相連結者)所為網路行為而產生之資訊(包括但不限於IP位址、Cookie ID與其內容、唯一識別碼、網域名稱、裝置資訊、使用時間、瀏覽器類型、語言設定、地理位置、作業系統、伺服器紀錄、網頁搜尋/瀏覽/點選紀錄及使用模式與資訊或經合作廠商以其名義取得前開資料分析歸納而成標籤等類似資料)。",
+"article numbers": "5.1(c), 13, 14",
+"legal provisions": "Purpose limitation, Transparency, Information to be provided",
+"amend": "The policy should clearly specify the purpose of collecting and processing online behavioral data, including data collected on other websites and social media platforms. It should also provide specific information about the categories of data collected, the recipients of the data, and the data retention period. Users should be informed about their rights regarding their data and how to exercise them."
+}
+]
+}

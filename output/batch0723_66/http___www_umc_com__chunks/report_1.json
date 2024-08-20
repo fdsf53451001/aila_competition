@@ -1,0 +1,165 @@
+{
+"compliant": [
+{
+"section": "UMC will not collect and process your sensitive personal data except for very limited circumstances and when processing your sensitive personal data for legitimate purposes are necessary .",
+"article numbers": "9(2)",
+"legal provisions": "Processing of special categories of personal data"
+},
+{
+"section": "And UMC will process in accordance with applicable laws .",
+"article numbers": "General Data Protection Regulation",
+"legal provisions": "Overall compliance with GDPR principles"
+},
+{
+"section": "To comply with applicable laws and regulations",
+"article numbers": "6(1)(c)",
+"legal provisions": "Legal obligation"
+},
+{
+"section": "To detect or prevent crimes",
+"article numbers": "6(1)(f)",
+"legal provisions": "Legitimate interests"
+},
+{
+"section": "To claim, exercise or protect the legal rights of UMC or relevant parties",
+"article numbers": "6(1)(f)",
+"legal provisions": "Legitimate interests"
+},
+{
+"section": "Based on your consent .",
+"article numbers": "6(1)(a)",
+"legal provisions": "Consent"
+},
+{
+"section": "If you provide Sensitive Personal Data to UMC, you must ensure that you are legally entitled to those data .",
+"article numbers": "5(1)(a)",
+"legal provisions": "Lawfulness of processing"
+},
+{
+"section": "Provision of products and services",
+"article numbers": "6(1)(b)",
+"legal provisions": "Necessary for the performance of a contract"
+},
+{
+"section": "For UMC business and operation",
+"article numbers": "6(1)(f)",
+"legal provisions": "Legitimate interests"
+},
+{
+"section": "For Communication and Marketing purposes",
+"article numbers": "6(1)(a) or 6(1)(f)",
+"legal provisions": "Consent or Legitimate interests (depending on the specific processing activities)"
+},
+{
+"section": "For UMC’s System Management",
+"article numbers": "6(1)(f)",
+"legal provisions": "Legitimate interests"
+},
+{
+"section": "For Managing Suppliers",
+"article numbers": "6(1)(b) or 6(1)(f)",
+"legal provisions": "Necessary for the performance of a contract or Legitimate interests"
+},
+{
+"section": "Obtaining your feedback on UMC's products or services",
+"article numbers": "6(1)(f)",
+"legal provisions": "Legitimate interests"
+},
+{
+"section": "Maintaining the security of UMC’s plants",
+"article numbers": "6(1)(f)",
+"legal provisions": "Legitimate interests"
+},
+{
+"section": "For Investigations and Compliance purposes in order to fulfill legal statutory obligations",
+"article numbers": "6(1)(c)",
+"legal provisions": "Legal obligation"
+},
+{
+"section": "For the purpose of asserting, exercising or defending legal rights",
+"article numbers": "6(1)(f)",
+"legal provisions": "Legitimate interests"
+},
+{
+"section": "For the purpose of improving or developing UMC's products and services",
+"article numbers": "6(1)(f)",
+"legal provisions": "Legitimate interests"
+},
+{
+"section": "For the purpose of manpower recruitment",
+"article numbers": "6(1)(b) or 6(1)(f)",
+"legal provisions": "Necessary for the performance of a contract or Legitimate interests"
+},
+{
+"section": "Based on the express provisions of the laws .",
+"article numbers": "6(1)(c)",
+"legal provisions": "Legal obligation"
+},
+{
+"section": "Necessary to advance the public interest .",
+"article numbers": "6(1)(e)",
+"legal provisions": "Public interest"
+},
+{
+"section": "To avoid danger to your life, body, liberty or property .",
+"article numbers": "6(1)(d)",
+"legal provisions": "Vital interests"
+},
+{
+"section": "To prevent major harm to the rights and interests of others .",
+"article numbers": "6(1)(f)",
+"legal provisions": "Legitimate interests"
+},
+{
+"section": "Based on your consent .",
+"article numbers": "6(1)(a)",
+"legal provisions": "Consent"
+},
+{
+"section": "In favor of your rights .",
+"article numbers": "6(1)(f)",
+"legal provisions": "Legitimate interests"
+},
+{
+"section": "Base on your prior consent",
+"article numbers": "6(1)(a)",
+"legal provisions": "Consent"
+},
+{
+"section": "Necessary for the contract between UMC and you, or for the purpose to negotiate the contract with you",
+"article numbers": "6(1)(b)",
+"legal provisions": "Necessary for the performance of a contract"
+},
+{
+"section": "UMC has legitimate interests, but the legitimate interests do not exceed your interests, fundamental rights and freedoms",
+"article numbers": "6(1)(f)",
+"legal provisions": "Legitimate interests"
+},
+{
+"section": "UMC fulfills its legal obligations",
+"article numbers": "6(1)(c)",
+"legal provisions": "Legal obligation"
+},
+{
+"section": "The processing of personal data is necessary to establish, exercise or defend legal claims",
+"article numbers": "6(1)(f)",
+"legal provisions": "Legitimate interests"
+},
+{
+"section": "UMC cooperates with the investigation, to investigate fraud and other crimes in accordance with relevant laws and regulations, and prevents behaviors that violate the company's regulations and criminal crimes .",
+"article numbers": "6(1)(c) or 6(1)(f)",
+"legal provisions": "Legal obligation or Legitimate interests"
+},
+{
+"section": "Internal processing",
+"article numbers": "N/A",
+"legal provisions": "Internal processing is not a specific legal basis under GDPR, but the processing activities described should fall under one of the lawful bases in Article 6."
+},
+{
+"section": "External processing",
+"article numbers": "N/A",
+"legal provisions": "External processing is not a specific legal basis under GDPR, but the processing activities described should fall under one of the lawful bases in Article 6."
+}
+],
+"non_compliant": []
+}

@@ -1,0 +1,76 @@
+{
+"compliant": [
+{
+"section": "我們在交易過程中使用SSL（Secure Sockets Layer）技術為信用卡資料加密。",
+"article numbers": "32",
+"legal provisions": "This aligns with the GDPR's principle of integrity and confidentiality (Article 5(1)(f)), which requires data to be processed in a manner that ensures appropriate security, including protection against unauthorized or unlawful processing and against accidental loss, destruction or damage, using appropriate technical or organizational measures ('integrity and confidentiality')."
+},
+{
+"section": "本網站絕不會提供、交換、出租或出售任何您的個人資料給其他個人、團體、私人企業或公務機關，但有法律依據或合約義務者，不在此限。",
+"article numbers": "6(1)(c)",
+"legal provisions": "The principle of lawfulness of processing is outlined in Article 6(1), and point (c) specifically allows processing when it is 'necessary for compliance with a legal obligation to which the controller is subject.'"
+}
+],
+"non_compliant": [
+{
+"section": "與第三人共用個資",
+"article numbers": "6, 13, 14",
+"legal provisions": "Sharing data with third parties broadly without specific, informed consent from users is generally frowned upon under GDPR.  ",
+"amend": "Clearly specify the legal basis (Article 6) and the categories of recipients of the personal data. Provide specific information about each third-party data sharing scenario, ensuring transparency and user understanding (Articles 13 & 14)."
+},
+{
+"section": "A. 經由您書面同意。",
+"article numbers": "4(11), 7",
+"legal provisions": "While consent is a valid legal basis for processing, GDPR sets a high bar for consent. It must be freely given, specific, informed, and unambiguous indication of the data subject's wishes by a statement or by a clear affirmative action.",
+"amend": "Revise the consent mechanism to meet GDPR standards. Consent should be demonstrable, require a clear affirmative action, be separate from other terms and conditions, and easy to withdraw."
+},
+{
+"section": "B. 法律明文規定。",
+"article numbers": "6(1)(c)",
+"legal provisions": "While this aligns with GDPR, it lacks specificity. ",
+"amend": "Provide specific examples of the laws that may require data disclosure."
+},
+{
+"section": "C. 為維護國家安全或增進公共利益。",
+"article numbers": "6(1)(e), 23(1)",
+"legal provisions": "Processing for these purposes is permissible but requires a legal basis in law and must respect the essence of the right to data protection.",
+"amend": "Specify the legal basis in law that allows for processing for national security or public interest and implement appropriate safeguards."
+},
+{
+"section": "D. 為免除您生命、身體、自由或財產上之危險。",
+"article numbers": "6(1)(d)",
+"legal provisions": "This aligns with GDPR, but it's recommended to provide further context.",
+"amend": "Provide specific examples of situations where data processing might be necessary to protect vital interests."
+},
+{
+"section": "E. 公務機關或學術研究機構基於公共利益為統計或學術研究而有必要，且資料經過提供者處理或蒐集著依其揭露方式無從識別特定之當事人。",
+"article numbers": "6(1)(e), 89",
+"legal provisions": "Processing for research purposes is permissible but requires safeguards.",
+"amend": "Ensure that data processing for research purposes complies with GDPR requirements, including appropriate safeguards for data subjects' rights and freedoms."
+},
+{
+"section": "F. 當您使用本網站時，有違反本網站之服務條款或可能損害或妨礙本公司之權益或導致任何人遭受損害時，經本網站研析揭露您的個人資料是為了辨識、聯絡或採取法律行動所必要者。",
+"article numbers": "6(1)(f)",
+"legal provisions": "While legitimate interests can be a legal basis, it requires a balancing test.",
+"amend": "Conduct and document a legitimate interests assessment (LIA) to demonstrate that the processing is necessary and proportionate, and that the interests of the data subjects do not override the website's interests."
+},
+{
+"section": "G. 有利於您的權益。",
+"article numbers": "6",
+"legal provisions": "This is too vague. GDPR requires a specific legal basis.",
+"amend": "Clearly identify the specific legal basis for processing that benefits the user, ensuring it aligns with one of the lawful bases outlined in Article 6."
+},
+{
+"section": "H. 相關協力廠商為執行相關活動之必要範圍內。",
+"article numbers": "27, 28",
+"legal provisions": "Sharing data with processors requires a written contract.",
+"amend": "Ensure that any data sharing with processors complies with GDPR requirements, including having a legally compliant data processing agreement in place."
+},
+{
+"section": "本網站委託廠商協助蒐集、處理或利用您的個人資料時，將對委外廠商或個人善盡監督管理之責。",
+"article numbers": "28(3)",
+"legal provisions": "GDPR requires more than just 'supervision.'",
+"amend": "Specify the controls and measures in place to ensure the processor provides sufficient guarantees to implement appropriate technical and organizational measures for GDPR compliance."
+}
+]
+}

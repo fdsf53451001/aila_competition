@@ -1,0 +1,39 @@
+{
+"compliant": [
+{
+"section": "本公司將盡力確保於跨境傳輸您的個人資料時符合本公司所在地及傳輸對象國家的法律規定，如果兩者規定不同的將以較嚴者為準。",
+"article numbers": "44, 45, 46",
+"legal provisions": "Transfers of personal data to third countries or international organisations"
+},
+{
+"section": "本公司已採取業界常用標準加密技術及組織規劃措施，致力於防止您提供的個人資料因本公司故意過失而非法毀損、遺失、篡改、未經授權揭露、未經授權存取以及其他非法、未經授權或超出本政策約定內容以外之處理。",
+"article numbers": "32",
+"legal provisions": "Security of processing"
+},
+{
+"section": "本公司同時盡力採取合理的儲存限制措施，只在合法且必要的期間內保留您提供的個人資料。",
+"article numbers": "5",
+"legal provisions": "Principles relating to processing of personal data (specifically, storage limitation)"
+}
+],
+"non_compliant": [
+{
+"section": "本公司可能將您的資料傳輸予在本公司所在地以外的前述傳輸對象並進行儲存及處理利用(以下簡稱「跨境傳輸」)",
+"article numbers": "13, 14",
+"legal provisions": "Information to be provided where personal data are collected from the data subject",
+"amend": "The policy should explicitly state the specific countries or regions where the data will be transferred. It should also clearly explain to users how their rights are protected under these different data protection laws (e.g., by using standard contractual clauses)."
+},
+{
+"section": "但也請您留意，由於網際網路的開放特性，資訊安全服務有時而窮且本政策僅保護您提供予本公司之個人資料，在您經由網際網路提供個人資料過程中之風險，仍需由您自行確認傳輸的資訊安全性問題。",
+"article numbers": "12",
+"legal provisions": "Transparent information, communication and modalities for the exercise of the rights of the data subject",
+"amend": "While acknowledging the inherent risks of internet communication is acceptable, the policy should not shift the entire burden of data security to the user. The company should clearly outline the security measures it has in place to protect data during transmission and reassure users that it takes data security seriously."
+},
+{
+"section": "本公司將以可以識別資料當事人身分的形式保存您的個人資料，保存期間為您與本公司間有持續往來關係之期間內(包括但不限於商務合作、註冊會員資格持續時間)，或本公司或第三人具有合法利益之期間內(包括但不限於權利維護或履行法律申報義務的資料調閱時間)，以較長者為準。",
+"article numbers": "5",
+"legal provisions": "Principles relating to processing of personal data (specifically, storage limitation)",
+"amend": "While the policy mentions legitimate interest and legal obligations, it needs to be more specific about the retention periods for different data categories. Vague terms like '持續往來關係' and '合法利益' are not specific enough under GDPR. The company should define clear and specific retention periods for each data processing purpose and justify the necessity of retaining the data for that duration."
+}
+]
+}

@@ -1,0 +1,33 @@
+{
+"compliant": [
+{
+"section": "本網站群所傳送的優惠權益訊息內容，我們會在活動時提供充分的說明，使用者可以自由選擇是否接受這項特定服務或活動，若使用者選擇接受本項服務，本網站群保證不會將使用者在本網站所登錄的任何資料轉送給第三人。",
+"article numbers": "6(1)(a), 7(4)",
+"legal provisions": "Consent of the data subject; Conditions for consent"
+},
+{
+"section": "本網站群將在事前或註冊登錄取得使用者的同意後，傳送商業性資料或電子郵件給使用者。",
+"article numbers": "6(1)(a), 7(4)",
+"legal provisions": "Consent of the data subject; Conditions for consent"
+},
+{
+"section": "本網站群除了在該資料或電子郵件上註明是由我們發送，也會在該資料或電子郵件上提供使用者能隨時停止接收這些資料或電子郵件的方法、說明或功能連結。",
+"article numbers": "7(3), 17(2), 21(2)",
+"legal provisions": "Right to withdraw consent at any time; Right to object; Right to object to processing"
+}
+],
+"non_compliant": [
+{
+"section": "本網站群將會視需要隨時修改本網站群所提供的隱私權保護聲明，以落實保障使用者的隱私權。當本隱私權保護政策修改時，將以醒目標示提醒使用者。建議使用者於再次來訪時，可重新瞭解我們新的隱私權政策及其改變。",
+"article numbers": "13(2), 14(2)",
+"legal provisions": "Information to be provided where personal data are collected; Information to be provided where personal data have not been obtained from the data subject",
+"amend": "GDPR requires that any changes to the privacy policy be communicated to users in a clear and concise way, and that users be informed of their right to object to such changes. The policy should explicitly state how users will be informed of changes (e.g., email notification) and provide a reasonable timeframe for users to object before the changes take effect."
+},
+{
+"section": "本網站群使用者若對本隱私權保護政策、或欲詢問個人資料使用等相關事項時，可至本網站群之\"服務中心\"與我們連絡。",
+"article numbers": "12(1), 13(1), 15 to 22",
+"legal provisions": "Transparent information, communication and modalities for the exercise of the rights of the data subject; Information to be provided where personal data are collected; Rights of the data subject",
+"amend": "While providing a contact point is good, GDPR requires more specific information about data subject rights and how to exercise them. The policy should clearly list all data subject rights (access, rectification, erasure, etc.), provide specific contact information for exercising these rights (e.g., dedicated email address), and explain the process for handling data subject requests."
+}
+]
+}

@@ -1,0 +1,28 @@
+{
+"compliant": [
+{
+"section": "5.2 如何管理Cookies設定\n請注意，您可透過瀏覽器，依自己的偏好管理您對於Cookies的設定。您可自由地將全部或部分（如第三方的Cookies）的Cookies設定為拒絕使用、刪除您瀏覽器內的Cookies紀錄或進行其他相關設定。",
+"article numbers": "Article 12(3), Article 21(1)",
+"legal provisions": "Right to object, Transparent information, communication and modalities for the exercise of the rights of the data subject"
+},
+{
+"section": "在某些國家，當您第一次瀏覽華碩的網站時，我們會將簡短的Cookies說明文字放在這些網站的最上方橫幅中。您可在該橫幅中，自由選擇開啟或拒絕使用上述第三方的Cookies。",
+"article numbers": "Article 7(4), Article 4(11)",
+"legal provisions": "Conditions for consent, Definitions"
+}
+],
+"non_compliant": [
+{
+"section": "本類型Cookies所蒐集得之資訊僅供我們及我們的廣告活動服務供應商使用。",
+"article numbers": "Article 5(1)(b)",
+"legal provisions": "Principles relating to processing of personal data - Purpose Limitation",
+"amend": "Specify the exact purposes for which the data collected through cookies will be used by both the company and its advertising service providers. This should go beyond the broad term \"advertising activities\" and detail the specific processing activities involved."
+},
+{
+"section": "如您選擇將Cookies設定為拒絕使用，則我們有可能無法提供您華碩產品及服務完整的功能。",
+"article numbers": "Article 7(4), Article 21",
+"legal provisions": "Conditions for consent, Right to object",
+"amend": "The user's experience should not be significantly degraded or restricted for refusing cookies. Ensure that essential functionalities of the website and services remain accessible even when cookies are rejected. If certain features are strictly dependent on cookies, offer alternative ways to access those features without compromising user experience."
+}
+]
+}

@@ -1,0 +1,28 @@
+{
+"compliant": [
+{
+"section": "和碩得依相關個人資訊保護法規及和碩制訂之《個人資料保護管理辦法》保留駁回申請之權，並提供駁回理由予您。",
+"article numbers": "12.3, 12.4",
+"legal provisions": "Right to restriction of processing, Right to be informed"
+},
+{
+"section": "隱私權保護與Cookie政策",
+"article numbers": "7.4, 12-14, 25-50",
+"legal provisions": "Conditions for consent, Chapter III (Rights of the data subject), Chapter IV (Controller and processor)"
+}
+],
+"non_compliant": [
+{
+"section": "倘因行使前開權利有妨害國家安全、外交及軍事機密、整體經濟利益或其他國家重大利益、妨害公務機關執行法定職務或妨害和碩或第三人重大利益之虞者，則和碩得依相關個人資訊保護法規及和碩制訂之《個人資料保護管理辦法》保留駁回申請之權，並提供駁回理由予您。",
+"article numbers": "23",
+"legal provisions": "Restrictions",
+"amend": "While this section acknowledges legal basis for restricting data subject rights, it broadly interprets national security and public interest exceptions. It should specify legitimate grounds for restrictions as per GDPR Article 23 and relevant national laws, ensuring they are interpreted narrowly and applied transparently with documentation."
+},
+{
+"section": "和碩對於非和碩網站之內容或隱私權運作，不承擔任何責任（包含但不限於透過www.pegatroncorp.com或任何其他和碩網站可能連接到的網站）。",
+"article numbers": "4, 5, 24",
+"legal provisions": "Definitions, Principles relating to processing of personal data, Responsibility of the controller",
+"amend": "GDPR emphasizes accountability throughout the data processing chain. While disclaiming responsibility for third-party websites is common, it doesn't absolve Pegatron from its obligations. Pegatron should clarify its role (controller/processor) regarding data shared with linked websites and implement appropriate safeguards (e.g., data processing agreements, privacy by design) to ensure GDPR compliance even when data is processed by third parties."
+}
+]
+}

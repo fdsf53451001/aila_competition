@@ -1,0 +1,57 @@
+{
+"compliant": [
+{
+"section": "to prevent spam or attempts to defraud users of our Websites",
+"article numbers": "6(1)(f), Recital 47",
+"legal provisions": "Legitimate interests pursued by the controller or by a third party"
+},
+{
+"section": "to operate and maintain the security of our Websites (e.g. to prevent or stop an attack on our systems or networks)",
+"article numbers": "6(1)(f), Recital 49",
+"legal provisions": "Legitimate interests pursued by the controller or by a third party, specifically network and information security"
+},
+{
+"section": "to protect the rights or property of NUVOTON, including enforcing any terms or agreements governing the use of our Websites",
+"article numbers": "6(1)(f), Recital 47",
+"legal provisions": "Legitimate interests pursued by the controller or by a third party"
+},
+{
+"section": "Competitions and Promotions - to conduct Activities and record your participation thereto, as permitted by law as well as to provide your Personal Information to our partners and sponsors of such Activities",
+"article numbers": "6(1)(a), 6(1)(f)",
+"legal provisions": "Consent of the data subject, Legitimate interests pursued by the controller or by a third party (if applicable)"
+},
+{
+"section": "Training - for staff training and quality assurance purposes, particularly in relation to our customer support representatives",
+"article numbers": "6(1)(f)",
+"legal provisions": "Legitimate interests pursued by the controller or by a third party"
+},
+{
+"section": "Updates - to communicate with you, including communicating with you about your account, profiles or transactions with us",
+"article numbers": "6(1)(b)",
+"legal provisions": "Processing is necessary for the performance of a contract to which the data subject is party or in order to take steps at the request of the data subject prior to entering into a contract"
+},
+{
+"section": "giving you important information about our Websites or NUVOTON’s APP, sending you notice about any material changes to our Privacy Policy",
+"article numbers": "6(1)(f), Recital 47",
+"legal provisions": "Legitimate interests pursued by the controller or by a third party, specifically keeping users informed about important changes"
+},
+{
+"section": "Combining Personal Information - to combine Personal Information we collect from you, for example to allow us to provide better support services and more personalised content",
+"article numbers": "6(1)(f)",
+"legal provisions": "Legitimate interests pursued by the controller or by a third party"
+},
+{
+"section": "Corporate Transaction - to manage corporate transactions involving our company including reorganisation, merger, transfer, sale, joint venture, assignment or other disposition of all or any portion of NUVOTON's business, assets or stock, including, without limitation, in connection with any bankruptcy or similar proceeding",
+"article numbers": "6(1)(f)",
+"legal provisions": "Legitimate interests pursued by the controller or by a third party"
+}
+],
+"non_compliant": [
+{
+"section": "Job qualification screening",
+"article numbers": "N/A",
+"legal provisions": "Not enough information provided. GDPR requires a lawful basis for processing data for job applications, such as consent or legal obligation.",
+"amend": "Specify the legal basis for processing data during job qualification screening, such as explicit consent from the applicant or a legal obligation."
+}
+]
+}

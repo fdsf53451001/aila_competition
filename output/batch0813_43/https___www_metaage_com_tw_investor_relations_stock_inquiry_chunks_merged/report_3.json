@@ -1,0 +1,45 @@
+{
+"compliant": [
+{
+"section": "邁達特數位保護您所分享給我們的個人資料。邁達特數位規定，非工作必要者不得存取您的個人資料。",
+"article numbers": "5, 24",
+"legal provisions": "Data minimization, Integrity and confidentiality"
+},
+{
+"section": "此外，邁達特數位的政策亦包括維持本公司所屬個人資料的完整性。",
+"article numbers": "5",
+"legal provisions": "Integrity and confidentiality"
+},
+{
+"section": "本隱私權政策如有修改，公布在本網站後即刻生效。",
+"article numbers": "13, 14",
+"legal provisions": "Information to be provided where personal data are collected from the data subject"
+}
+],
+"non_compliant": [
+{
+"section": "連結到本網站的網站／本網站所連結出去的網站可能具有不同的政策。由於邁達特數位無法管制此類網站，因此希望您仔細了解該網站上所公布之隱私權政策。",
+"article numbers": "N/A",
+"legal provisions": "N/A",
+"amend": "While this statement is common, it does not absolve the company from responsibility for data transfers to third parties.  The company should ensure that any third parties they transfer data to also comply with GDPR."
+},
+{
+"section": "邁達特數位亦得蒐集、總計與維持本網站線上訪客之匿名資料，如訪客嗜好、興趣、購物喜好等。此類資料將用於量身訂做邁達特數位網站之內容與廣告，以提供訪客更佳的瀏覽經驗。",
+"article numbers": "5",
+"legal provisions": "Purpose limitation",
+"amend": "While the data is described as \"anonymous,\" browsing habits, interests, and shopping preferences could potentially be used to identify individuals.  The company should clarify what they mean by \"anonymous\" and ensure they have a lawful basis for processing this data, such as consent or legitimate interest."
+},
+{
+"section": "此外，邁達特數位得與廣告商、商業夥伴、贊助商及其他第三者共享此訪客總計資料，例如用於告知男／女性訪客之百分比或某特定年齡層訪客之百分比。",
+"article numbers": "13, 14",
+"legal provisions": "Transparency and modalities, Information to be provided where personal data are collected from the data subject",
+"amend": "The company needs to be more specific about the third parties they share data with and provide users with information about their right to object to this sharing. They should also provide clear and concise information about the purpose of sharing this data."
+},
+{
+"section": "所收集之資料及其使用皆依本政策之現行條款規定，邁達特數位保留隨時修改本政策之權利。",
+"article numbers": "13, 14",
+"legal provisions": "Information to be provided where personal data are collected from the data subject",
+"amend": "While the company states they can amend the policy, they should clarify how they will inform users about these changes and ensure that any changes are communicated in a clear and understandable way."
+}
+]
+}

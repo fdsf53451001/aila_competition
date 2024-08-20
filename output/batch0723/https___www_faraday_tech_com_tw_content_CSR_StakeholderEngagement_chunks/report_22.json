@@ -1,0 +1,17 @@
+{
+"compliant": [],
+"non_compliant": [
+{
+"section": "ANY MATERIAL DOWNLOADED OR OTHERWISE OBTAINED THROUGH THE USE OF THE WEBSITE OR SOFTWARE IS ACCESSED AT YOUR OWN DISCRETION AND RISK, AND YOU WILL BE SOLELY RESPONSIBLE FOR AND HEREBY WAIVE ANY AND ALL CLAIMS AND CAUSES OF ACTION WITH RESPECT TO ANY DAMAGE TO YOUR COMPUTER SYSTEM, INTERNET ACCESS, DOWNLOAD OR DISPLAY DEVICE, OR LOSS OF DATA THAT RESULTS FROM THE DOWNLOAD OF ANY SUCH MATERIAL.",
+"article_numbers": "6(1), 7(2), 8(1), 24, 44",
+"legal_provisions": "Lawfulness of processing, Conditions for consent, Right to damages, Responsibility of the controller, General principles for transfers",
+"amend": "This section appears to waive all liability for damages related to data processing, which may infringe on the data subject's rights to legal remedies and the controller's responsibility for data protection.  The GDPR emphasizes a high level of protection for personal data, and blanket waivers of liability are unlikely to be enforceable."
+},
+{
+"section": "NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED BY YOU FROM FARADAY OR THROUGH OR FROM THE WEBSITE OR SOFTWARE SHALL CREATE ANY WARRANTY NOT EXPRESSLY STATED IN THE T&Cs.",
+"article_numbers": "12(1), 13, 14",
+"legal_provisions": "Transparent information, communication and modalities for the exercise of the data subject's rights, Information to be provided where personal data are collected from the data subject, Information to be provided where personal data have not been obtained from the data subject",
+"amend": "While this section focuses on warranties outside the T&Cs, it might indirectly impact the clarity and transparency of information related to data processing. The GDPR emphasizes providing clear and concise information to data subjects about their rights and how their data is processed. This section could be interpreted as limiting those rights."
+}
+]
+}

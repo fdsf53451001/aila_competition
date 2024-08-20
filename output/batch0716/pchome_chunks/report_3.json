@@ -1,0 +1,46 @@
+{
+"compliant": [
+{
+"section": "為執行商品配送所需者：當您透過PChome 網路家庭相關網站或行動應用程式進行交易，為提供商品配送物流服務時，PChome 網路家庭將請您提供商品/服務配送所需的配送資料，包括：收件人之姓名、連絡電話、收件/聯絡地址及其他必要的配送相關資料。",
+"article numbers": "6(1)(b)",
+"legal provisions": "Processing is necessary for the performance of a contract"
+},
+{
+"section": "為執行收付款所需之資料：當您透過PChome 網路家庭相關網站或行動應用程式進行交易，為辦理收付款金流服務時，PChome 網路家庭將留存您所提供為完成收款或付款所需之資料，包括：信用卡號碼、簽帳卡號碼、金融機構帳戶之姓名及號碼等；但若您選擇使用PChome 網路家庭相關網站內由第三方服務供應商所提供之第三方支付方式時包括但不限於Pi拍錢包、Apple Pay、Google Pay、Samsung Pay等，您因使用該等第三方支付服務所提供的相關資料之保護及管理，請參閱各該第三方服務供應商之隱私權政策。",
+"article numbers": "6(1)(b)",
+"legal provisions": "Processing is necessary for the performance of a contract"
+}
+],
+"non_compliant": [
+{
+"section": "辨識財務者：包括但不限於金融機構帳戶之號碼與姓名、信用卡或簽帳卡之號碼、保險單號碼、個人之其他號碼或帳戶等。",
+"article numbers": "9(1), 10",
+"legal provisions": "Processing of personal data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, and the processing of genetic data, biometric data for the purpose of uniquely identifying a natural person, data concerning health or data concerning a natural person's sex life or sexual orientation is prohibited.",
+"amend": "This section should be removed entirely as it describes special category data that requires explicit consent and a legal basis beyond contractual necessity."
+},
+{
+"section": "政府資料中之辨識者：包括但不限於身分證統一編號、統一證號、稅籍編號、護照號碼等。",
+"article numbers": "9(1), 10",
+"legal provisions": "Processing of personal data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, and the processing of genetic data, biometric data for the purpose of uniquely identifying a natural person, data concerning health or data concerning a natural person's sex life or sexual orientation is prohibited.",
+"amend": "This section should be removed entirely as it describes special category data that requires explicit consent and a legal basis beyond contractual necessity.  Government identifiers should only be collected when absolutely necessary and with a legal basis."
+},
+{
+"section": "個人描述：包括但不限於年齡、性別、出生年月日、出生地、國籍等。",
+"article numbers": "5(1)(c), 6(1)(f)",
+"legal provisions": "Data minimisation: Only collect data that is adequate, relevant and limited to what is necessary. Legitimate interest: This data is not strictly necessary for the performance of a contract and requires a legitimate interest assessment.",
+"amend": "Only collect age and nationality if necessary for contractual obligations like age verification or international shipping.  Justify the collection and processing of this data with a legitimate interest assessment."
+},
+{
+"section": "家庭情形：結婚有無等。",
+"article numbers": "9(1), 10",
+"legal provisions": "Processing of personal data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, and the processing of genetic data, biometric data for the purpose of uniquely identifying a natural person, data concerning health or data concerning a natural person's sex life or sexual orientation is prohibited.",
+"amend": "This section should be removed entirely as it describes special category data that requires explicit consent and a legal basis beyond contractual necessity."
+},
+{
+"section": "休閒活動及興趣：包括但不限於嗜好、運動及其他興趣等。",
+"article numbers": "5(1)(c), 6(1)(f)",
+"legal provisions": "Data minimisation: Only collect data that is adequate, relevant and limited to what is necessary. Legitimate interest: This data is not strictly necessary for the performance of a contract and requires a legitimate interest assessment.",
+"amend": "This section should be removed entirely as it is not necessary for the performance of a contract and likely does not have a legitimate interest."
+}
+]
+}

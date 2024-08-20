@@ -1,0 +1,22 @@
+{
+"compliant": [
+{
+"section": "雄獅旅行社股份有限公司會對個別連線者的瀏覽器予以標示,歸納使用者瀏覽器在雄獅旅行社股份有限公司官方網站內部所瀏覽的網頁,除非您願意告知您的個人資料,否則雄獅旅行社股份有限公司不會,也無法將此項記錄和您對應。",
+"article numbers": "5(1)(a)",
+"legal provisions": "Data Minimisation: Lion Travel only collects and processes browsing data in a way that does not directly identify the user unless consent is given."
+},
+{
+"section": "請您注意，在雄獅旅行社股份有限公司官方網站刊登廣告之廠商，或與雄獅旅行社股份有限公司官方網站連結的網站，也可能蒐集您個人的資料。對於您主動提供的個人資訊，這些廣告廠商、或連結網站有其個別的隱私權保護政策，其資料處理措施不適用雄獅旅行社股份有限公司隱私權保護政策，雄獅旅行社股份有限公司不負任何連帶責任。",
+"article numbers": "13, 14",
+"legal provisions": "Transparency and Information to be Provided: Lion Travel informs users about third-party data collection practices on their website, including those of advertisers and linked websites. They clearly state that these third parties have their own privacy policies and that Lion Travel is not responsible for their data processing activities."
+}
+],
+"non_compliant": [
+{
+"section": "本網站於會員註冊及登入、訂購流程填寫旅客資料等頁面，未就會員姓名、手機號碼、身分證字號等個人資料欄位進行遮蔽，係因旅遊商品大多有記名之需求，為使旅遊商品訂購資料正確性，故您於會員註冊或登入後，於訂購時可透過該頁面確認所輸入之資料無誤，避免因資料錯誤可能衍生之相關費用，惟該頁面僅限查看個人資訊如姓名、手機號碼、e-mail且非屬支付工具(如信用卡卡號及驗證資料)等高風險資訊，故本網站未於會員註冊及登入、訂購流程填寫旅客資料等介面就前述資料進行遮蔽。",
+"article numbers": "5(1)(c), 25",
+"legal provisions": "Data Security and Data Minimisation: Displaying sensitive personal data like names, phone numbers, and potentially national identification numbers without masking or hashing raises concerns about data security and minimisation. While Lion Travel justifies this by the need for accurate booking information, they should explore alternative methods like displaying only the last few digits or using a confirmation system that avoids displaying the full data.",
+"amend": "Implement appropriate technical and organisational measures to ensure a level of security appropriate to the risk, considering the state of the art, the costs of implementation and the nature, scope, context and purposes of processing as well as the risk of varying likelihood and severity for the rights and freedoms of natural persons posed by the processing. For example, Lion Travel could consider masking or hashing personal data on these pages and providing users with an option to view the full information only when necessary."
+}
+]
+}

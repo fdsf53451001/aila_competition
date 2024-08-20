@@ -1,0 +1,28 @@
+{
+"compliant": [
+{
+"section": "Our Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from anyone under the age of 13.",
+"article numbers": "Article 8",
+"legal provisions": "GDPR sets the age of consent to 16, but allows member states to lower it to no less than 13. This section aligns by prohibiting data collection from children under 13, meeting the minimum age requirement."
+},
+{
+"section": "If We become aware that We have collected Personal Data from anyone under the age of 13 without verification of parental consent, We take steps to remove that information from Our servers.",
+"article numbers": "Articles 8, 17",
+"legal provisions": "This aligns with the GDPR's requirements for data deletion (Article 17) and child protection (Article 8) by outlining steps to rectify unauthorized data collection from children."
+}
+],
+"non_compliant": [
+{
+"section": "If You are a parent or guardian and You are aware that Your child has provided Us with Personal Data, please contact Us.",
+"article numbers": "Articles 12, 25",
+"legal provisions": "GDPR requires clear and accessible methods for exercising rights, including those related to children's data. Simply asking users to 'contact us' is not specific or transparent enough.",
+"amend": "Provide a clear and accessible way for parents to exercise their rights, such as a dedicated form or email address, and specify the types of requests they can make (e.g., access, deletion, correction)."
+},
+{
+"section": "If We need to rely on consent as a legal basis for processing Your information and Your country requires consent from a parent, We may require Your parent's consent before We collect and use that information.",
+"article numbers": "Articles 6, 8",
+"legal provisions": "While obtaining parental consent is good practice, the language is vague. GDPR requires a specific legal basis for processing, and 'needing to rely on consent' isn't sufficient. Additionally, the age of consent should be clearly stated and not left open to interpretation based on the user's location.",
+"amend": "1. Specify the legal basis for processing children's data (e.g., consent, legitimate interest) and the types of data processed under each basis. 2. Clearly state the age of consent used by the service, taking into account both the GDPR's default and any lower limits set by the relevant Member State. 3. Detail how parental consent is obtained and verified, ensuring it meets GDPR standards (e.g., freely given, specific, informed, unambiguous indication of wishes)."
+}
+]
+}

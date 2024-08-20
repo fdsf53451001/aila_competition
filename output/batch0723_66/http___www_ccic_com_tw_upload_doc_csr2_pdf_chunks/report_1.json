@@ -1,0 +1,40 @@
+{
+"compliant": [
+{
+"section": "呈交您的諮詢時, 您已了解並閱讀飛捷的 隱私權政策聲明",
+"article numbers": "13, 14",
+"legal provisions": "Information to be provided where personal data are collected from the data subject"
+},
+{
+"section": "同意訂閱飛捷電子報及行銷相關資訊",
+"article numbers": "6, 7",
+"legal provisions": "Lawfulness of processing"
+}
+],
+"non_compliant": [
+{
+"section": "© 2021 FLYTECH TECHNOLOGY CO., LTD.",
+"article numbers": "13, 14",
+"legal provisions": "Transparency obligations",
+"amend": "The website's privacy policy should clearly state the legal entity responsible for data processing (data controller). While the copyright notice mentions \"FLYTECH TECHNOLOGY CO., LTD.\", it's not explicitly stated as the data controller responsible for handling personal information."
+},
+{
+"section": "搜尋引擎 (Google, yahoo, etc.)\n                    社群媒體 (Linkedin / Facebook /Youtube)\n                    展覽會\n                    EDM\n                    被推薦: ________\n                    其他: ________",
+"article numbers": "14",
+"legal provisions": "Information to be provided where personal data are obtained other than from the data subject",
+"amend": "The website should inform users about personal data received from third parties like search engines or social media, specifying the categories of data received and the source."
+},
+{
+"section": "清除重填 確認提交",
+"article numbers": "15, 17, 20",
+"legal provisions": "Right of access, right to rectification, right to erasure ('right to be forgotten')",
+"amend": "While the website provides options to \"清除重填\" (clear and refill), it lacks explicit information about users' rights to access, rectify, or erase their data. Clear instructions and functionalities for exercising these rights should be provided."
+},
+{
+"section": "LINKEDIN YOUTUBE LOGIN",
+"article numbers": "24, 25",
+"legal provisions": "Responsibility of the controller, Data protection by design and by default",
+"amend": "The website mentions \"LINKEDIN YOUTUBE LOGIN\" without specifying data processing implications. It should clearly inform users about data shared during social logins and implement appropriate safeguards to ensure data protection by design."
+}
+]
+}

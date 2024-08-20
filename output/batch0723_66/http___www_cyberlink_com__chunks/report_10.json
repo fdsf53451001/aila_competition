@@ -1,0 +1,53 @@
+{
+"compliant": [
+{
+"section": "行使言論自由，確保其他消費者行使言論自由之權利，或者行使法律規定之其他權利。",
+"article numbers": "Articles 11, 21",
+"legal provisions": "Freedom of expression and information, Right to an effective remedy and to a fair trial"
+},
+{
+"section": "遵守加州電子通訊隱私法 (《加州刑法典》第 1546 條及其後條文)。",
+"article numbers": "Article 5, GDPR does not supersede CCPA",
+"legal provisions": "Principles relating to processing of personal data"
+},
+{
+"section": "在公開或同行審查符合所有其他適用倫理及隱私權法公共利益之科學、歷史或統計研究下，如您早前提供了知情同意，而刪除該資訊可能導致無法完成或嚴重損害研究成果。",
+"article numbers": "Articles 5(1)(b), 89",
+"legal provisions": "Principles relating to processing of personal data, Safeguards and derogations relating to processing for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes"
+},
+{
+"section": "基於您和我們的關係，滿足完全符合消費者期望之內部用途。",
+"article numbers": "Article 6(1)(f)",
+"legal provisions": "Lawfulness of processing"
+},
+{
+"section": "遵守法律義務。",
+"article numbers": "Article 6(1)(c)",
+"legal provisions": "Lawfulness of processing"
+},
+{
+"section": "可透過以下其中一種方式提出可驗證的消費者刪除或更正其個人資訊的請求：\n撥打免費電話 (+1) 888-226-6030\n或透過電子郵件：privacy@cyberlink.com",
+"article numbers": "Articles 12(2), 15, 16",
+"legal provisions": "Transparent information, communication and modalities for the exercise of the data subject's rights, Right of access by the data subject, Right to rectification"
+},
+{
+"section": "資訊安全性\n我們致力於保護您的權益，防範他人在未經授權存取的情況下使用我們的服務，或未經授權變更、揭露或毀損我們持有的資訊等情況。尤其是：\n我們使用 TLS、SHA256 等技術為我們多數的服務加密。\n我們會審查我們的資訊收集、儲存和處理做法，以防範他人未經授權存取系統。\n我們僅允許為了代為處理個人資訊而需要知悉該等資訊的訊連科技員工、承包商和代理人存取個人資訊，且相關人員均須遵守嚴格的合約保密義務，一旦未遵守義務便將受到懲戒或解僱處分。",
+"article numbers": "Articles 5(1)(f), 32",
+"legal provisions": "Principles relating to processing of personal data, Security of processing"
+}
+],
+"non_compliant": [
+{
+"section": "進行產品偵錯以識別並修復損害現有預期功能的錯誤。",
+"article numbers": "Article 5(1)(b)",
+"legal provisions": "Principles relating to processing of personal data",
+"amend": "Specify the legal basis for processing personal data for debugging purposes, such as legitimate interests or consent, and ensure that the processing is limited to what is necessary for the purpose."
+},
+{
+"section": "將該項資訊作為其他內部及合法用途，並符合您提供資訊的背景條件。",
+"article numbers": "Articles 5(1)(b), 6(1)",
+"legal provisions": "Principles relating to processing of personal data, Lawfulness of processing",
+"amend": "Clearly define the specific legal basis for each internal and lawful purpose, ensuring it aligns with the original context in which the information was provided and complies with GDPR's principles."
+}
+]
+}

@@ -1,0 +1,107 @@
+{
+"compliant": [
+{
+"section": "This privacy statement describes the privacy practices of Formosa International Hotels Corporation, FIH Management Limited, together with our affiliates and subsidiaries that form the Silks Hotel Group (collectively, the “Group”) are committed to protecting your Personal Information and your privacy.",
+"article numbers": "13, 14",
+"legal provisions": "Organizations must provide a concise, transparent, intelligible and easily accessible privacy policy."
+},
+{
+"section": "This Policy explains how and why we gather, store, share and use your Personal Information, as well as sets out the options you have as to when and how you choose to share your Personal Information.",
+"article numbers": "12, 13, 14",
+"legal provisions": "The policy should explain the purposes of processing, the legal basis, and the rights of the data subject."
+},
+{
+"section": "“Personal Information” is information or data, recorded in any format that identifies you personally either by itself or together with other information that is made available to us.",
+"article numbers": "4(1)",
+"legal provisions": "Definition of personal data"
+},
+{
+"section": "When is your Personal Information Collected?\nWe will collect your Personal Information when you are involved in any hotel activities.",
+"article numbers": "5(1)(a)",
+"legal provisions": "Data must be collected for specified, explicit, and legitimate purposes."
+},
+{
+"section": "For example, your Personal Information will be collected each time you reserve a room, at check-in, staying at any of our hotels and/or enjoying any of our hotel services and facilities (including partaking of any food and/or beverage at any restaurant outlets, using the spa, gym or health centres) and when making payments or providing guest comments or feedback.",
+"article numbers": "5(1)(a)",
+"legal provisions": "Providing hotel services can be a legitimate purpose for data collection."
+},
+{
+"section": "In addition, we may collect your Personal Information when some internet activities are initiated. For example, at times when you visit our Websites, we may collect information through our third party service providers' use of technologies, such as pixels or other tracking tools and similar technologies.",
+"article numbers": "5(1)(a), 7",
+"legal provisions": "Explicit consent is required for tracking technologies."
+},
+{
+"section": "When you fill in any of our online forms (such as for online reservation or questionnaires), your information may be collected as well.",
+"article numbers": "5(1)(a)",
+"legal provisions": "Data collection through forms should be tied to a specific purpose."
+},
+{
+"section": "Further, if you make reservations or apply for membership programs offered by the Group or our hotels, the Personal Information you provide will be automatically collected by our third party system service provider(s) due to the nature of the system’s design and operation.",
+"article numbers": "28(1), 28(3)",
+"legal provisions": "Data processors must provide sufficient guarantees of GDPR compliance."
+},
+{
+"section": "Given the similar design of the systems, our advertisement service provider, business intelligence tool provider, marketing tool provider, channel manager service provider, shopping cart and restaurant questionnaire service provider, room and restaurant reservation service provider, and Google Analytics will also automatically collect your Personal Information while you visit our websites.",
+"article numbers": "7, 28(1)",
+"legal provisions": "Explicit consent is required for tracking technologies and data processing by third parties."
+},
+{
+"section": "For more information, please see Web Technologies Used to Passively Collect Information about You.",
+"article numbers": "13(1)(d)",
+"legal provisions": "Information about data processing activities should be easily accessible."
+},
+{
+"section": "When you opt to participate in our marketing programs, your Personal Information will be collected.",
+"article numbers": "6(1)(a)",
+"legal provisions": "Consent is required for direct marketing."
+},
+{
+"section": "For example, if you sign up for any of our loyalty programs, participate in customer surveys, take part in online games or competitions, or subscribe to newsletters, request to receive offers and promotions via email or other channels.",
+"article numbers": "6(1)(a)",
+"legal provisions": "Specific consent is required for each marketing activity."
+},
+{
+"section": "We also obtain your information by transmissions from third parties. Such third parties include, tour operators, travel agencies (online or not), and others. We may collect Personal Information about you from other companies that have the right to share information with us.",
+"article numbers": "14(1), 14(2)",
+"legal provisions": "Data subjects have the right to be informed about the source of their data."
+}
+],
+"non_compliant": [
+{
+"section": "This Cookie Policy is intended to inform you about the purpose for the use of cookies and tracking pixels when you visit our Website: https://www.silkshotelgroup.com/tw/;https://www.silksplace.com/; http://www.silks-club.com/;https://tainan.silksplace.com/;https://taroko.silksplace.com/;https://www.silksplace-yilan.com.tw/; https://www.silksspring.com/; https://www.justsleep.com.tw/; https://www.regenttaipei. com/shopping/project/; http://survey.silkshotelgroup.com/tp_fb/ and https://inline.app/groups/regenttaipei and our mobile application.",
+"article numbers": "7(3)",
+"legal provisions": "Consent to cookies must be freely given, specific, informed and unambiguous.",
+"amend": "The website should provide a mechanism for users to accept or reject cookies, with granular control over different types of cookies."
+},
+{
+"section": "Also, this policy will inform you of your rights with regard to cookies and other tracers used by the Group.",
+"article numbers": "12(1), 12(2)",
+"legal provisions": "The information about cookie rights should be provided in a concise, transparent, intelligible and easily accessible form.",
+"amend": "Provide a separate section detailing user rights regarding cookies, including the right to access, withdraw consent, and delete cookies."
+},
+{
+"section": "This Cookie Policy should be read in conjunction with the Privacy Policy.",
+"article numbers": "12(1)",
+"legal provisions": "Information about data processing should be provided in a concise and easily understandable way.",
+"amend": "Consider merging the Cookie Policy with the Privacy Policy for better clarity and accessibility."
+},
+{
+"section": "Consent\nThis Policy forms part of the terms and conditions governing your use of our services. By using our Website, central reservation service, staying at any of our hotels, use of any of our products and/or services, or by participating in one of our programs, you are agreeing to this Policy.",
+"article numbers": "4(11), 7(1)",
+"legal provisions": "Consent must be freely given, specific, informed and unambiguous.  Silence, pre-ticked boxes or inactivity should not constitute consent.",
+"amend": "Provide a clear and separate consent mechanism for the privacy policy and cookie use. Do not bundle consent with terms and conditions."
+},
+{
+"section": "If we receive information from a party other than yourself (such as in special programs where members of guest loyalty programs refer a friend to us), we will only use that information for the specific reason for which it was provided. If you provide us with Personal Information about others, you should always tell those individuals and let them know that they can find a copy of this Policy at https://www.silkshotelgroup.com/tw/privacy.",
+"article numbers": "14(2)(f)",
+"legal provisions": "The controller shall inform the data subject of the recipients or categories of recipients of the personal data.",
+"amend": "Explicitly state the recipients or categories of recipients of the personal data collected through referrals."
+},
+{
+"section": "For those of our customers to whom GDPR is not applicable, if we receive information from a party other than yourself (such as in special programs where members of guest loyalty programs refer a friend to us), we will only use that information for the specific reason for which it was provided. If you provide us with Personal Information about others, you should always tell those individuals and let them know that they can find a copy of this Policy at https://www.silkshotelgroup.com/tw/privacy.",
+"article numbers": "N/A",
+"legal provisions": "GDPR applies to data controllers and processors outside the EU if they offer goods or services to, or monitor the behavior of, EU residents.",
+"amend": "Remove this section or rephrase it to clarify that GDPR may still apply even if the customer is not in the EU."
+}
+]
+}

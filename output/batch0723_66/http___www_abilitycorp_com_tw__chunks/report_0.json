@@ -1,0 +1,40 @@
+{
+"compliant": [
+{
+"section": "Collection of Personal Information",
+"article numbers": "6(1)(b), 13(1)(c)",
+"legal provisions": "Lawfulness of processing - consent, Information to be provided where personal data are collected from the data subject"
+},
+{
+"section": "Use of Personal Information",
+"article numbers": "6(1)(b)",
+"legal provisions": "Lawfulness of processing - consent"
+}
+],
+"non_compliant": [
+{
+"section": "Our Company hereby declares the Privacy Policy as below. By visiting our Company’s website, you agree to the terms of our Privacy Policy.",
+"article numbers": "7(1), 7(2)",
+"legal provisions": "Conditions for consent, Explicit consent in relation to special categories of data",
+"amend": "The company should make it clear that users have the right to withdraw consent at any time and that simply visiting the website does not constitute consent for data processing. Consent should be freely given, specific, informed, and unambiguous, potentially through a clear affirmative action like ticking a box."
+},
+{
+"section": "Collection of Personal Information",
+"article numbers": "13(1)(a-f), 13(2)(a-e)",
+"legal provisions": "Information to be provided where personal data are collected from the data subject, Purposes of processing for which the personal data are intended",
+"amend": "The company should clearly state the specific purposes for collecting personal data, the legal basis for processing, the recipients of the data, the data retention period, and the data subject's rights. They should also specify if data is transferred internationally and the safeguards in place."
+},
+{
+"section": "Use of Personal Information",
+"article numbers": "5(1)(a-b)",
+"legal provisions": "Principles relating to processing of personal data - purpose limitation, data minimisation",
+"amend": "The company should specify the exact purposes for using personal information and ensure that data processing is limited to what is necessary for those specific purposes."
+},
+{
+"section": "Entire Policy",
+"article numbers": "12(1), 15, 16, 17, 18, 19, 20, 21",
+"legal provisions": "Transparent information, communication and modalities for the exercise of the rights of the data subject, Right of access by the data subject, Right to rectification, Right to erasure (‘right to be forgotten’), Right to restriction of processing, Right to data portability, Right to object, Automated individual decision-making, including profiling",
+"amend": "The policy should be written in a concise, transparent, intelligible and easily accessible form, using clear and plain language. It should also explicitly mention the data subject's rights regarding their data, including the right to access, rectify, erase, restrict processing, data portability, object to processing, and not be subject to automated decision-making."
+}
+]
+}

@@ -1,0 +1,45 @@
+{
+"compliant": [
+{
+"section": "和碩將不定期修訂本隱私政策，並以最新版本之隱私政策為準。請定期查閱本隱私政策，以確保您知悉本隱私政策的詳細內容。",
+"article numbers": "13, 14",
+"legal provisions": "Information to be provided where personal data are collected from the data subject"
+},
+{
+"section": "您可以自主決定提供予和碩的個人資訊內容",
+"article numbers": "6",
+"legal provisions": "Lawfulness of processing"
+},
+{
+"section": "當您提供個人資訊給和碩時，您的個人資訊僅會在預定目的內處理、利用或儲存。",
+"article numbers": "5",
+"legal provisions": "Principles relating to processing of personal data"
+}
+],
+"non_compliant": [
+{
+"section": "和碩不會要求您提供任何可能透露您的種族或族裔、政治傾向、宗教或哲學信仰、工會會員資訊、基因或生物特徵、與健康有關、性生活或性取向有關的資訊（下稱「特種個資」）。",
+"article numbers": "9",
+"legal provisions": "Prohibition of processing of special categories of personal data",
+"amend": "While the policy states that it won't request this information, it does not explicitly prohibit the collection or processing of this data, which is required under GDPR Article 9."
+},
+{
+"section": "說明了和碩蒐集、處理、利用、儲存個人資訊的方式，並詳述和碩如何維護個人資訊",
+"article numbers": "12",
+"legal provisions": "Transparent information, communication and modalities for the exercise of the rights of the data subject",
+"amend": "The policy needs to be more specific and clearly outline the methods used for each processing activity (collection, use, storage) and the technical and organizational security measures employed to protect personal data."
+},
+{
+"section": "您可以透過撥打電話至本網站列出的電話號碼、在本網站瀏覽、註冊本網站帳號、寄發電郵至和碩等方式來提供您的個人資訊。",
+"article numbers": "13",
+"legal provisions": "Information to be provided where personal data are collected from the data subject",
+"amend": "The policy should explicitly state what data is collected through each method (browsing, registering an account, emailing) and the legal basis for processing that data."
+},
+{
+"section": "cookies以及其他可用以識別個人之資訊",
+"article numbers": "4(1)",
+"legal provisions": "Definitions",
+"amend": "The policy should clearly define what is meant by \"other information that can be used to identify an individual\" and ensure it aligns with the GDPR's definition of personal data."
+}
+]
+}

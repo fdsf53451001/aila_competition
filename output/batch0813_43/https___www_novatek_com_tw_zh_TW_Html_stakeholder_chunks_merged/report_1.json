@@ -1,0 +1,28 @@
+{
+"compliant": [
+{
+"section": "如您不希望接受上開訊息，您只要以電子郵件郵件通知我們自郵件清單上移除您的姓名即可。",
+"article numbers": "6(1)(a), 7(3)",
+"legal provisions": "Right to withdraw consent; Right to erasure ('right to be forgotten')"
+},
+{
+"section": "非個人資料之蒐集及使用\n請您注意，我們可能就參訪者、顧客、銷售資料、網路資訊流通模式及本網站相關資訊，提供統計資料予第三人，惟該統計資料將不會包含您個人之特定身份資料。",
+"article numbers": "4(1)",
+"legal provisions": "Definition of personal data - this section refers to data that is not considered personal data."
+}
+],
+"non_compliant": [
+{
+"section": "個人資料之保護、分享及公開\n請您注意，在任何情況下提供個人資料予他人均有風險，且無任何系統或技術可以保證百分之百安全或可防止駭客入侵，聯詠將盡力採取合理措施保障您個人資料之安全性，並遵循本網站使用條款及本隱私權政策。",
+"article numbers": "5(1), 32",
+"legal provisions": "Principles relating to processing of personal data - specifically, integrity and confidentiality (this section implies that 100% security is not possible, which contradicts the principle of ensuring ongoing confidentiality); Security of processing",
+"amend": "This section should be amended to clarify that while absolute security is not guaranteed, the company implements appropriate technical and organizational measures to ensure a level of security appropriate to the risk, in line with Article 32."
+},
+{
+"section": "除本隱私權政策約定或經您同意外，我們不會揭露、販賣或提供您個人資料予不相關之第三人。當您提供資料給聯詠時，代表您已同意：\n  聯詠、其子公司及關聯企業得使用該資料。",
+"article numbers": "6(1)(a), 5(1)(a)",
+"legal provisions": "Lawfulness of processing - this section lacks clarity on the legal basis for processing data and obtaining consent. It also broadly states that providing data implies consent for use by the company, subsidiaries, and affiliates, which may not be specific or unambiguous enough.",
+"amend": "This section should clearly specify the legal basis for processing data (e.g., consent, contract, legitimate interest) and provide separate and explicit consent options for different purposes and entities (e.g., the company, subsidiaries, affiliates). Consent should be freely given, specific, informed, and unambiguous."
+}
+]
+}

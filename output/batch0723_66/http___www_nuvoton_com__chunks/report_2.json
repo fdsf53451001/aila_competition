@@ -1,0 +1,23 @@
+{
+"compliant": [
+{
+"section": "This Privacy Policy only applies to the personal information that you provided to us or that are collected through your use of this Website(s) and NUVOTON’s App.",
+"article numbers": "5",
+"legal provisions": "Principles relating to processing of personal data -  data minimisation"
+}
+],
+"non_compliant": [
+{
+"section": "If you are a minor, you shall access or use the SERVICE only after your parents (or your guardian) read and agree our Privacy Policy.",
+"article numbers": "6(1), 8",
+"legal provisions": "Lawfulness of processing, Conditions applicable to child's consent in relation to information society services",
+"amend": "The GDPR requires a specific age for consent to process data from children.  This age is determined by each EU member state, and ranges from 13 to 16.  You must specify the minimum age for your users in the EU, and obtain parental consent for users under that age.  You should also provide an age-appropriate privacy notice for children."
+},
+{
+"section": "The use, access or submission of personal information to the SERVICE by you, or if you are a minor, the submission of your personal information either by your parents (or your guardian) or by you with the permission of your parents (or guardian) to NUVOTON will be deemed as your acceptance of the Privacy Policy.",
+"article numbers": "4(11), 7",
+"legal provisions": "Definitions - Consent, Conditions for consent",
+"amend": "The GDPR requires 'explicit consent' for processing personal data.  'Deemed consent' is not sufficient.  You must obtain clear and affirmative consent from users before collecting, processing, or sharing their data.  Silence, pre-ticked boxes, or inactivity do not constitute consent."
+}
+]
+}

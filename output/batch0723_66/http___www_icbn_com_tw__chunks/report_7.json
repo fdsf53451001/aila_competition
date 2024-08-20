@@ -1,0 +1,38 @@
+{
+"compliant": [
+{
+"section": "You can enable or disable access to this information at any time, through Your Device settings.",
+"article numbers": "12.1, 13.1(a), 13.2(a)",
+"legal provisions": "Right to withdraw consent; Transparent information, communication and modalities for the exercise of the rights of the data subject; Information to be provided where personal data are collected from the data subject"
+},
+{
+"section": "To provide and maintain our Service, including to monitor the usage of our Service.",
+"article numbers": "6.1(b)",
+"legal provisions": "Lawfulness of processing: processing is necessary for the performance of a contract"
+},
+{
+"section": "To manage Your Account: to manage Your registration as a user of the Service. The Personal Data You provide can give You access to different functionalities of the Service that are available to You as a registered user.",
+"article numbers": "6.1(b)",
+"legal provisions": "Lawfulness of processing: processing is necessary for the performance of a contract"
+},
+{
+"section": "For the performance of a contract: the development, compliance and undertaking of the purchase contract for the products, items or services You have purchased or of any other contract with Us through the Service.",
+"article numbers": "6.1(b)",
+"legal provisions": "Lawfulness of processing: processing is necessary for the performance of a contract"
+}
+],
+"non_compliant": [
+{
+"section": "Use of Your Personal Data",
+"article numbers": "5.1(a), 6.1",
+"legal provisions": "Principles relating to processing of personal data: lawfulness, fairness and transparency; Lawfulness of processing",
+"amend": "The policy should specify the legal basis for processing personal data, such as consent (Art. 6.1(a)) or legitimate interests (Art. 6.1(f)), for each purpose. For instance, monitoring service usage might fall under legitimate interests, but this needs to be explicitly stated and justified."
+},
+{
+"section": "The Company may use Personal Data for the following purposes:",
+"article numbers": "13.1(c), 14.1(a)",
+"legal provisions": "Information to be provided where personal data are collected from the data subject: the purposes of the processing for which the personal data are intended as well as the legal basis for the processing; Information to be provided where personal data have not been obtained from the data subject: the purposes of the processing",
+"amend": "The policy should clearly state what specific categories of personal data are being collected and used. For example, instead of \"Personal Data,\" it should specify \"name, email address, payment information\" etc."
+}
+]
+}

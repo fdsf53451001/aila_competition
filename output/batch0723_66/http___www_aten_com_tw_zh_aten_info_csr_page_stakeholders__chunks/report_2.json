@@ -1,0 +1,34 @@
+{
+"compliant": [
+{
+"section": "若經相關法律需求，我們將尋求您明確同意，並依本「隱私權政策」所述處理您的個人資訊。任何明確同意均出於自願。",
+"article numbers": "Article 4(11), Article 7",
+"legal provisions": "Consent of the data subject means any freely given, specific, informed and unambiguous indication of the data subject's wishes by which he or she, by a statement or by a clear affirmative action, signifies agreement to the processing of personal data relating to him or her."
+},
+{
+"section": "然而，若您未授予我們對處理您個人資訊的同意之請求，則此網站之使用，或我們對產品及服務之提供，或我們向您取得產品及服務 (於各情況適用時)，可能皆無法進行。",
+"article numbers": "Article 7(4)",
+"legal provisions": "The controller shall bear the burden of demonstrating that the data subject has consented to processing of his or her personal data."
+}
+],
+"non_compliant": [
+{
+"section": "透過存取我們的網站及與我們聯繫，即代表您同意我們收集並使用您的個人資訊，如以下表格及資訊所述。若您「不」同意我們以如下方式收集並使用您的個人資訊，請勿於各適用情況造訪我們的網站或透過我們的網站與我們聯繫。",
+"article numbers": "Article 4(11), Article 7",
+"legal provisions": "Consent of the data subject means any freely given, specific, informed and unambiguous indication of the data subject's wishes by which he or she, by a statement or by a clear affirmative action, signifies agreement to the processing of personal data relating to him or her.",
+"amend": "This section suggests that visiting the website or contacting the company constitutes consent. Under GDPR, consent must be freely given, specific, informed, and unambiguous.  This section should be amended to clearly separate consent from accessing the website. It should also provide a clear and affirmative action for users to consent to the processing of their data."
+},
+{
+"section": "我們透過分析服務來收集關於您造訪我們的網站的資訊，例如瀏覽器類型及版本、作業系統及網路、位置及時區設定、瀏覽偏好設定及於我們的網站特定頁面的停留時間。該彙總資訊不與特定使用者進行連結。",
+"article numbers": "Article 5(1)(c), Recital 44",
+"legal provisions": "Data minimisation: Personal data shall be adequate, relevant and limited to what is necessary in relation to the purposes for which they are processed ('data minimisation').",
+"amend": "While the policy states that the collected information is aggregated and not linked to specific users, it is unclear if collecting data like location and time zone settings, browsing preferences, and time spent on specific pages is necessary for the stated purpose. The policy should clarify the specific purpose for collecting this data and ensure it aligns with the data minimisation principle."
+},
+{
+"section": "在某些情況下，例如當您下載與我們的產品相關的軟體，我們可能也會接收 cookie 及裝置資訊，例如可能讓我們辨識特定系統或使用者的 IP 位址或裝置識別碼。",
+"article numbers": "Article 6(1), Recital 40",
+"legal provisions": "Processing shall be lawful only if and to the extent that at least one of the following applies: (a) the data subject has given consent to the processing of his or her personal data for one or more specific purposes",
+"amend": "The policy mentions collecting cookies and device information, including IP addresses and device identifiers, when downloading software. This collection requires a legal basis for processing, such as consent. The policy should clearly state the legal basis for collecting this data and provide users with a clear and affirmative way to consent or object to the use of cookies and device information."
+}
+]
+}

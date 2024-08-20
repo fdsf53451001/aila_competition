@@ -1,0 +1,39 @@
+{
+"compliant": [
+{
+"section": "我們將依照您提供個人資料予本公司之目的，以自動化或非自動化之方式，處理或利用您的個人資料，除非取得您的書面同意、依法律規定或為契約履行之緣故，本公司絕不會將您的個人資料作其他用途使用。",
+"article numbers": "6(1)(b), 6(1)(c)",
+"legal provisions": "Lawfulness of processing"
+},
+{
+"section": "您的個人資料，本公司將依照個人資料保護法、個人資料保護法施行細則等一切相關法令規定，以及您與本公司往來之契約或書面約定辦理。除法律規定、委任第三人處理營業相關事務，或與您的往來契約或書面文件另有約定，而須揭露您的個人資料予第三人外，將不會向任何其他第三人揭露或供其使用。",
+"article numbers": "6(1)(c), 28",
+"legal provisions": "Lawfulness of processing, Processors"
+},
+{
+"section": "公務機關因公共利益或法律規定，要求本公司公開特定個人資料時，本公司將視公務機關合法正式的程序，以及對本公司所有使用者安全之考量下，做可能必要的配合。",
+"article numbers": "6(1)(c), 6(1)(e)",
+"legal provisions": "Lawfulness of processing"
+}
+],
+"non_compliant": [
+{
+"section": "就您個人資料的利用期間，本公司將依照相關法令規定，以及您與本公司往來之契約或書面約定辦理。",
+"article numbers": "5(1)(e), 13(2)(a)",
+"legal provisions": "Principles relating to processing of personal data, Information to be provided where personal data are collected from the data subject",
+"amend": "Specify the data retention period or criteria for determining the period. Provide this information to data subjects."
+},
+{
+"section": "您的個人資料將使用於中華民國領域，或因業務需要，在符合本公司所定之資訊安全標準的情況下傳輸至其他國家，惟國際傳輸之作業，將會依照我國及接受國之法規規範辦理。",
+"article numbers": "44-49",
+"legal provisions": "Transfers of personal data to third countries or international organisations",
+"amend": "Specify the countries of transfer, legal basis for transfer (e.g., adequacy decision, appropriate safeguards), and means to obtain a copy of safeguards."
+},
+{
+"section": "為提供您更多產品及服務優惠，本公司將會在必要範圍內，將您的姓名、性別、聯絡電話、手機號碼、電子郵件信箱、通訊地址、會員點數、消費金額及發票號碼等基本資料，提供予本公司之關係企業及與本公司有合作關係之指定特約廠商處理及利用。",
+"article numbers": "6(1)(f), 28",
+"legal provisions": "Lawfulness of processing, Processors",
+"amend": "Demonstrate legitimate interest for sharing data with affiliates and partners. Ensure appropriate safeguards are in place with processors."
+}
+]
+}

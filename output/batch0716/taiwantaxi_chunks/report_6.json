@@ -1,0 +1,28 @@
+{
+"compliant": [
+{
+"section": "二、智慧財產權\n台灣大車隊所使用之軟體或程式、網站上所有內容，包括但不限於著作、圖片、檔案、資訊、資料、網站架構、網站畫面的安排、網頁設計，均由台灣大車隊或其他權利人依法擁有其智慧財產權；請務必於取得台灣大車隊及其他權利人書面同意後，才能使用前述資料。",
+"article numbers": "n/a",
+"legal provisions": "This section pertains to intellectual property rights, which are outside the scope of GDPR."
+},
+{
+"section": "三、服務暫停與中斷\n本系統或功能可能因『例行性』之維護、改置或變動發生服務暫停或中斷，台灣大車隊將於該暫停或中斷前以電子郵件、公告或其他適當之方式告知會員。\n台灣大車隊將以合理之方式及技術，維護會員服務之正常運作。但如有下列任一情況，台灣大車隊將逕行暫停或中斷會員服務之全部或一部，且對因此所造成任何不便或損害，均不負任何賠償或補償之責任。",
+"article numbers": "n/a",
+"legal provisions": "This section describes service interruptions and disclaimers of liability, which are generally outside the scope of GDPR, although data processing limitations may apply in specific situations."
+}
+],
+"non_compliant": [
+{
+"section": "對於會員所登錄或留存之個人資料，台灣大車隊都應予保護，但有下列情形時，不在此限：\n1.基於法律之規定、或受司法機關與其他有權機關基於法定程序之要求。\n2.在緊急情況下為維護其他會員或第三人之合法權益。\n3.您的行為違反會員約定條款。\n4.您的會員資料遭受他人冒用。\n5.為維護會員服務系統的正常運作。\n6.您透過會員服務與商家購物、兌換贈品，因而產生的金流、物流必要資訊。",
+"article numbers": "6(1)(c), 6(1)(f), 13, 14",
+"legal provisions": "This section broadly outlines exceptions to data protection without specifying legal bases or providing sufficient information about data processing purposes. GDPR requires a lawful basis for processing (Article 6), with specific conditions for consent (Article 6(1)(c)) and legitimate interests (Article 6(1)(f)). It also mandates transparency obligations, requiring clear and concise information about data processing purposes (Articles 13 & 14).",
+"amend": "Specify the legal basis for each exception, ensuring alignment with GDPR's requirements. For consent, ensure it's freely given, specific, informed, and unambiguous. For legitimate interests, conduct a balancing test and inform users. Provide specific details about data processing purposes for each exception."
+},
+{
+"section": "四、網站連結\n為方便您自行蒐集或取得資訊，台灣大車隊會員網站將提供其他網站連結，但此連結並不代表台灣大車隊與此類連結網站管理者有任何合夥、僱傭或其他類似關係，其他業者經營的網站均由各該業者自行負責，台灣大車隊對任何的外部連結，不擔保其合適性、有效性、或即時性，且台灣大車隊不對連結網站所提供產品、服務或資訊提供擔保或其他責任。",
+"article numbers": "n/a",
+"legal provisions": "While this section primarily addresses liability for third-party websites, GDPR emphasizes joint controllership when data processing activities are intertwined. If the linked websites involve shared data processing responsibilities, further clarification is needed.",
+"amend": "If data is shared with linked websites, clarify the nature of the relationship and data processing responsibilities. Consider a data processing agreement with joint controllers to outline roles and obligations."
+}
+]
+}

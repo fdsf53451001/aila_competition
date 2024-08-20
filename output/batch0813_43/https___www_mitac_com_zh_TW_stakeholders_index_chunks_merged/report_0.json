@@ -1,0 +1,48 @@
+{
+"compliant": [
+{
+"section": "神達不會在知情的形況下收集任何未滿18歲未成年者之資料。若您未滿18歲，您不被允許使用本網站或遞交任何個人資料給我們，除非經過您的父母或監護者的同意和監督。",
+"article numbers": "Article 8",
+"legal provisions": "Conditions applicable to child's consent in relation to information society services"
+},
+{
+"section": "針對本網站使用的Cookie，我們必須提供您清楚與充分的Cookie資訊，因此提供您我們的Cookie政策，其中包含Cookie資訊以及使用Coolie之細節。",
+"article numbers": "Article 12, Article 13",
+"legal provisions": "Transparent information, communication and modalities for the exercise of the rights of the data subject"
+},
+{
+"section": "當使用本網站、手機版網站或Apps，表示您同意我們的隱私權規範和Cookie政策，以及您同意我們使用cookie、相關技術，以及在上述政策中提及我們仔細挑選的第三方夥伴。",
+"article numbers": "Article 4(11), Article 7",
+"legal provisions": "Definitions, Consent of the data subject"
+},
+{
+"section": "Cookies不會包含保密資訊，例如您的住家地址、電話號碼或信用卡資訊。",
+"article numbers": "Article 5(1)(c)",
+"legal provisions": "Principles relating to processing of personal data - Purpose limitation"
+},
+{
+"section": "我們重視您的隱私",
+"article numbers": "Article 25",
+"legal provisions": "Data protection by design and by default"
+},
+{
+"section": "點擊“全部接受”即表示您同意在您的裝置上儲存Cookie，用以增強網站導引，分析網站使用情況，協助網站行銷與效能。",
+"article numbers": "Article 7",
+"legal provisions": "Conditions for consent"
+}
+],
+"non_compliant": [
+{
+"section": "神達有權隨時變更或更新本Cookie政策。如果有任何條款更新，我們將會公佈這些更新的內容。最新版本Cookie政策的更新日期置於Cookie政策的最下方。本Cookie政策的變更於公佈本網站時隨即生效。如您繼續使用本網站，您將被視為同意接受更新後之本Cookie政策的拘束。",
+"article numbers": "Article 7(2)",
+"legal provisions": "Conditions for consent",
+"amend": "The user must give consent again after the policy is updated. Continued use of the website does not constitute valid consent."
+},
+{
+"section": "欲使用完整的神達網站功能，您必須在您的瀏覽器或裝置上啟用cookies。如果您拒絕啟用cookies，某些功能將無法執行。",
+"article numbers": "Article 7(4)",
+"legal provisions": "Conditions for consent",
+"amend": "Refusing cookies should not make it impossible to use the website. Only services strictly necessary for the website to function can be bundled with cookie consent."
+}
+]
+}

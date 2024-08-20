@@ -1,0 +1,11 @@
+{
+"compliant": [],
+"non_compliant": [
+{
+"section": "Choice of Law and Forum. The Website is controlled and operated in whole or in part by Faraday from its offices within Taiwan. You and Faraday each agree that the T&Cs and the relationship between the parties shall be governed by the laws of Taiwan without regard to its conflict of law provisions and that any and all claims, causes of action or disputes (regardless of theory) arising out of or relating to the T&Cs, or the relationship between you and Faraday, shall be brought exclusively in Hsinchu District Court, Taiwan and agree to waive any and all objections to the exercise of jurisdiction over the parties by such courts and to venue in such courts.",
+"article numbers": "6, 7",
+"legal provisions": "Right to lodge a complaint with a supervisory authority, Right to an effective judicial remedy",
+"amend": "The exclusive jurisdiction of a court in Taiwan and the application of Taiwanese law, without regard to conflict of law provisions, may infringe on the rights of data subjects under the GDPR, particularly those residing in the EU.  \n\nThe GDPR emphasizes the data subject's right to lodge a complaint with a supervisory authority in their own Member State (Article 77) and their right to an effective judicial remedy against a controller or processor (Article 79).  \n\nTo comply with the GDPR, the choice of law clause should not prevent the application of GDPR provisions intended to protect individuals' rights and freedoms in relation to the processing of their personal data. Additionally, the choice of forum clause should allow data subjects residing in the EU to bring legal action in their own Member State. \n\nConsider adding a statement that clarifies the application of the GDPR for EU residents and their right to bring legal action in their own Member State."
+}
+]
+}

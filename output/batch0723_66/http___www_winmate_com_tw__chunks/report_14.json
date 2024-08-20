@@ -1,0 +1,51 @@
+{
+"compliant": [
+{
+"section": "您可以透過登入您的融程會員帳戶並編輯您的帳戶資料來檢視和變更您的帳戶資料。",
+"article numbers": "15: Right of access, 12: Transparent information, communication and modalities for the exercise of the rights of the data subject",
+"legal provisions": "This aligns with GDPR's requirement for data access and transparency, allowing users to view and modify their data."
+},
+{
+"section": "您可以透過您安裝的瀏覽器管理Cookie設定，以接受、封鎖或刪除部分或全部Cookie（例如第三方Cookie）或隨時採用其他設定。",
+"article numbers": "4(11), 7(4)",
+"legal provisions": "This aligns with GDPR's requirement for consent regarding cookies. Users have the right to accept, block, or delete cookies."
+},
+{
+"section": "如果您不希望融程透過第三方Cookie向您提供個人化行銷服務和廣告，您可以隨時透過瀏覽器封鎖或刪除第三方Cookie。",
+"article numbers": "7(4)",
+"legal provisions": "This aligns with GDPR's requirement for consent regarding cookies, specifically for direct marketing purposes."
+}
+],
+"non_compliant": [
+{
+"section": "此外，您也可以透過融程官網「客戶對個人資料的請求」介面或發送電子郵件至https://www.winmate.com/Inquiry",
+"article numbers": "12: Transparent information, communication and modalities for the exercise of the rights of the data subject",
+"legal provisions": "GDPR requires providing a specific, valid email address for data subject requests, not just a general inquiry link.",
+"amend": "Provide a dedicated and clearly labeled email address specifically for data subject requests (DSR)."
+},
+{
+"section": "請在您的融程會員帳戶下向融程提供您真實、準確、最新、完整的個人數據，以便融程為您提供相應的融程產品和服務。",
+"article numbers": "5(1)(a,b): Principles relating to processing of personal data (lawfulness, fairness and transparency, purpose limitation)",
+"legal provisions": "While requesting accurate data is reasonable, GDPR emphasizes purpose limitation. The policy should clarify the specific, legitimate purposes for collecting and processing this data.",
+"amend": "Specify the exact purposes for collecting each piece of personal data and how it's used to provide products and services."
+},
+{
+"section": "如果您想訂閱或取消訂閱融程eDM，並了解融程新聞、最新產品和服務，您可以透過登入您的融程會員帳戶來更改設置，在左欄中找到「訂閱」，選擇「是」或「否」。",
+"article numbers": "7(4): Conditions for consent",
+"legal provisions": "Bundling consent for marketing with other services like account access is not compliant. Consent should be freely given, specific, informed, and unambiguous.",
+"amend": "Separate consent for marketing communications from other actions like account management. Provide a clear and separate option to opt-in or out of marketing."
+},
+{
+"section": "如果您選擇「否」取消訂閱，請注意，取消訂閱流程可能需要大約2個工作天才能完成。",
+"article numbers": " ",
+"legal provisions": "While a reasonable processing time is acceptable, GDPR emphasizes efficient responses to withdrawal of consent. Two business days might be considered excessive.",
+"amend": "Aim to make unsubscribing effective within a shorter timeframe, ideally immediately or within 24 hours, and clearly inform users about the processing time."
+},
+{
+"section": "當您使用此類融程產品和服務時，您可以隨時透過特定於 融程 產品和服務的隱私權相關設置，自由選擇啟用或停用與 融程 共用您的個人資料。",
+"article numbers": "7(4), 12(1)",
+"legal provisions": "The policy should clearly explain what data sharing entails, with whom it's shared, and for what purpose. Vaguely mentioning \"data sharing\" without specifics is insufficient.",
+"amend": "Provide specific details about data sharing practices, including the categories of recipients, the types of data shared, and the purpose of sharing."
+}
+]
+}

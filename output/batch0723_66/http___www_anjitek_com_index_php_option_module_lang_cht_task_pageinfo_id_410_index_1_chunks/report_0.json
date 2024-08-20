@@ -1,0 +1,39 @@
+{
+"compliant": [
+{
+"section": "二、範圍：\n1.適用範圍：在本公司及所屬網站活動時，所涉及之個人資料蒐集、運用與保護。",
+"article numbers": "3",
+"legal provisions": "Territorial Scope"
+},
+{
+"section": "二、範圍：\n2.不適用範圍：凡經由本網站連結之第三者獨立管理、經營之網站，各網站均有其專屬之隱私權政策，本網站不負任何連帶責任。當您在這些網站進行詢價/會員申請時，關於個人資料的保護，適用各該網站的隱私權政策。",
+"article numbers": "N/A",
+"legal provisions": "While not directly addressed in the GDPR, this section aligns with the principle of accountability by clarifying the website's limited responsibility for third-party links."
+},
+{
+"section": "三、政策內容：\n1.蒐集資料：\n單純瀏覽本網站及檔案下載行為，本網站不會蒐集任何有關個人的身份資料。",
+"article numbers": "5",
+"legal provisions": "Principles relating to processing of personal data (specifically purpose limitation)"
+}
+],
+"non_compliant": [
+{
+"section": "三、政策內容：\n1.蒐集資料：\n本網站會記錄使用者的 IP 位址、上網時間以及在各項資訊查閱次數。",
+"article numbers": "5, 13, 14",
+"legal provisions": "Lawfulness of processing, transparency and information,  legal basis for processing. The policy doesn't specify the legal basis for collecting IP addresses and browsing activity (consent, legitimate interest, etc.). It also lacks transparency on how this data is used.",
+"amend": "Specify the legal basis for collecting IP addresses and browsing data. If relying on legitimate interest, conduct and document a Legitimate Interest Assessment (LIA). Provide users with a clear and concise explanation of why this data is collected, how it's used, and for how long it's retained."
+},
+{
+"section": "三、政策內容：\n1.蒐集資料：\n利用本網站提供的各項服務，如詢問報價，本站會依需求請您提供姓名、電話、傳真、電子郵件信箱及所屬機關。",
+"article numbers": "5, 13, 14",
+"legal provisions": "Purpose Limitation, Transparency and Information. The policy should clearly specify the purpose for collecting each piece of information (name, phone, email, etc.) and how it will be used.",
+"amend": "Provide specific and transparent information about the purpose of collecting each data element. For example, state that the name is collected to address the user personally, the phone number is for contacting regarding their inquiry, and the email address is for sending the quote or follow-up information."
+},
+{
+"section": "三、政策內容：\n2.使用資料：\n本網站基於網站內部管理需要，根據使用者查閱資訊進行網站流量和網路行為調查「總量分析」，作為提昇服務品質之重要參考，不會對「個別」使用者進行分析。",
+"article numbers": "5(1)(b), 5(1)(e)",
+"legal provisions": "Purpose Limitation, Storage Limitation. While aggregate analysis is generally acceptable, the policy should clarify the purposes of 'internal management needs' and 'improving service quality.' It should also specify how long this aggregated data is retained.",
+"amend": "Define 'internal management needs' and 'improving service quality' in concrete terms related to data processing. Specify the retention period for aggregated data or the criteria used to determine its deletion."
+}
+]
+}

@@ -1,0 +1,23 @@
+{
+"compliant": [
+{
+"section": "We and other NUVOTON Affiliates may use your Personal Information (such as your contact details (e.g. name, address, email address, telephone number)) to send you marketing-related correspondence by mail, email, telephone and/or text message related to our products, devices and other Services in accordance with your email and contact preferences in your Member Profile or as you otherwise agree to.",
+"article numbers": "6(1)(a)",
+"legal provisions": "Consent of the data subject"
+},
+{
+"section": "When you purchase our products or device, contact our customer support representatives, create an account or profile for one of our Services, or subscribe to one of our Services, you may be given the opportunity to opt-in to (or where permitted by applicable law, opt-out of) the receiving of such marketing-related correspondence.",
+"article numbers": "7(4), 21(2)",
+"legal provisions": "Conditions for consent, Right to object"
+}
+],
+"non_compliant": [
+{
+"section": "When you purchase our products or device, contact our customer support representatives, create an account or profile for one of our Services, or subscribe to one of our Services, you may be given the opportunity to opt-in to (or where permitted by applicable law, opt-out of) the receiving of such marketing-related correspondence.",
+"article numbers": "7(4)",
+"legal provisions": "Conditions for consent",
+"amend": "The policy should be amended to clearly state that opting out of marketing communications is always a right, regardless of applicable law. The language \"where permitted by applicable law\" suggests that opting out might not always be an option, which contradicts GDPR's emphasis on user control over personal data."
+}
+]
+}
+

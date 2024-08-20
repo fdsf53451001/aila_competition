@@ -1,0 +1,30 @@
+這些資料有助於我們分析DFI產品和服務的性能和運行情況，以提高性能並開發新功能， 新功能和服務，例如Google Inc.提供的Google跟蹤代碼管理器Cookie和Google Analytics（分析）Cookie。
+doubleclick.net 我們使用Cookie來收集有關您在DFI網站和服務中的使用情況的資料，並確定您的興趣，例如您瀏覽過的廣告。
+
+此類Cookie還可用於限制您看到廣告的次數，並有助於衡量廣告活動的有效性。 收集的數據Cookie僅在DFI和廣告活動服務提供商之間使用
+__cfduid
+_ga
+_gaexp
+_gid
+_hjid
+cb_anonymous_id
+cb_group_id
+cb_user_id
+oribi_user_guid 從OneSignal.com發送移動和Web推送通知
+新聞中心
+知識庫
+下載中心
+產品資訊
+工業級主機板 嵌入式電腦模組 工業級系統 工業級觸控電腦及顯示器 特定應用系統 軟體與服務
+解決方案
+工業自動化 醫療 博弈 交通 能源 強固 5G應用、網路 ODM/OEM服務
+聯絡我們
+技術支援 報價諮詢 全球據點
+
+全球經銷
+美洲線上商城 全球合作夥伴
+
+夥伴專區
+登入 註冊
+訂閱電子報
+關注我們的LinkedIn ，了解產品更新和行業新聞。

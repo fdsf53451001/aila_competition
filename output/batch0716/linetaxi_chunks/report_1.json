@@ -1,0 +1,87 @@
+{
+"compliant": [
+{
+"section": "提供及維護服務",
+"article numbers": "6(1)(b), 6(1)(c)",
+"legal provisions": "Processing is necessary for the performance of a contract or to take steps at the request of the data subject before entering into a contract; Processing is necessary for compliance with a legal obligation to which the controller is subject."
+},
+{
+"section": "回覆您的詢問",
+"article numbers": "6(1)(a)",
+"legal provisions": "Consent of the data subject"
+},
+{
+"section": "辦理行銷活動",
+"article numbers": "6(1)(a)",
+"legal provisions": "Consent of the data subject"
+},
+{
+"section": "處理您購買商品或使用付費服務的發票",
+"article numbers": "6(1)(b)",
+"legal provisions": "Processing is necessary for the performance of a contract"
+},
+{
+"section": "檢視您使用本服務狀況，以便回答您向本公司客服中心提出的詢問",
+"article numbers": "6(1)(b)",
+"legal provisions": "Processing is necessary for the performance of a contract"
+},
+{
+"section": "向您通知本服務之重要變更，例如：條款修訂、服務中止計畫，或功能變更",
+"article numbers": "6(1)(c)",
+"legal provisions": "Processing is necessary for compliance with a legal obligation to which the controller is subject."
+},
+{
+"section": "安全性及防止未經授權的使用",
+"article numbers": "6(1)(f)",
+"legal provisions": "Processing is necessary for the purposes of the legitimate interests pursued by the controller or by a third party"
+},
+{
+"section": "確認您是否違反使用條款，或出現任何不法行為、未經授權存取或其他未經授權使用",
+"article numbers": "6(1)(f)",
+"legal provisions": "Processing is necessary for the purposes of the legitimate interests pursued by the controller or by a third party"
+},
+{
+"section": "於實際或可能發生任何未經授權的使用時，確認相關事實或與您聯繫",
+"article numbers": "6(1)(f)",
+"legal provisions": "Processing is necessary for the purposes of the legitimate interests pursued by the controller or by a third party"
+}
+],
+"non_compliant": [
+{
+"section": "瞭解您使用本服務的滿意度及反饋，並用於日後本服務及改善之用",
+"article numbers": "6",
+"legal provisions": "None of the six lawful bases for processing appear to apply. While improving services is a legitimate interest, it's unclear if this purpose is compatible with the initial purpose of collecting feedback.",
+"amend": "Provide a separate legal basis for processing feedback data for service improvement, such as explicit consent or legitimate interest with a clear explanation and opportunity to object."
+},
+{
+"section": "開發及改善服務及內容",
+"article numbers": "6(1)(f)",
+"legal provisions": "While legitimate interest can be a legal basis, it requires a balancing test. The policy lacks details on the specific legitimate interests pursued and how they outweigh the individuals' rights and freedoms.",
+"amend": "Specify the legitimate interests pursued by the data controller in developing and improving services. Explain how these interests are balanced against the rights and freedoms of individuals, and provide information about their right to object to such processing."
+},
+{
+"section": "就本服務的使用蒐集統計數據及建立模型，以便改善本服務",
+"article numbers": "5(1)(b)",
+"legal provisions": "Data minimization principle requires processing only data necessary for each specific purpose. Collecting detailed usage data for statistical modeling might be considered excessive for the purpose of service improvement.",
+"amend": "Explore ways to minimize the collected data for statistical modeling. Consider anonymizing or aggregating data where possible to reduce the impact on individuals' privacy."
+},
+{
+"section": "透過本服務各項消費紀錄來瞭解趨勢，以便開發新服務及內容",
+"article numbers": "5(1)(b), 6(4)",
+"legal provisions": "Processing personal data for a purpose different than the one for which it was initially collected requires compatibility assessment. Developing new services might not be considered compatible with the original purpose of providing the existing service.",
+"amend": "Provide a clear and separate legal basis for processing purchase history to develop new services. This could be explicit consent or a legitimate interest assessment demonstrating compatibility with the initial purpose and outweighing individuals' rights."
+},
+{
+"section": "瞭解本服務各項使用頻率，來改善螢幕畫面設計",
+"article numbers": "5(1)(b)",
+"legal provisions": "Collecting detailed usage frequency data for screen design improvement might be considered excessive. Explore alternative approaches like A/B testing with aggregated data to minimize personal data processing.",
+"amend": "Consider less intrusive methods for improving screen design, such as A/B testing with anonymized or aggregated data. If using personal data is unavoidable, ensure it's justified by a legal basis and proportionate to the aim pursued."
+},
+{
+"section": "就本公司目前提供或未來可能提供的服務進行調查",
+"article numbers": "6(1)(a)",
+"legal provisions": "Conducting surveys generally requires explicit consent, especially when related to future services. The policy lacks information about obtaining consent for this purpose.",
+"amend": "Clearly state how consent is obtained for conducting surveys, particularly those related to future services. Ensure individuals are informed about the purpose of the survey and their right to withdraw consent."
+}
+]
+}

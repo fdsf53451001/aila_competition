@@ -1,0 +1,8 @@
+以下舉出幾個目前市面上常見的瀏覽器類型，您可參考以下連結，來了解如何透過這些瀏覽器管理Cookies設定(以下網站連結的內容為中文，請點選這些網頁中的語言選項，以選擇您方便閱讀的語言)。若您非使用以下瀏覽器，或以下的網址內容被移除，請造訪您的產品所安裝瀏覽器的支援頁面或瀏覽器廠商的隱私權說明頁面以取得更多的資訊。您亦可參考https://www.aboutcookies.org/ 網站(內容為英文)，裡面介紹了如何從許多不同的瀏覽器中管理Cookies設定。
+
+在Google Chrome瀏覽器中清除、啟用與管理 Cookie：
+https://support.google.com/chrome/answer/95647?hl=en
+在Microsoft Internet Explorer瀏覽器中清除、啟用與管理 Cookie：
+https://support.microsoft.com/en-us/help/278835/how-to-delete-cookie-files-in-internet-explorer
+在Mozilla Firefox瀏覽器中清除、啟用與管理 Cookie：
+https://support.

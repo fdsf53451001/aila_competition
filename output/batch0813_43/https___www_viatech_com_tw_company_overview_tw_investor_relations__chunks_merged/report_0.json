@@ -1,0 +1,87 @@
+{
+"compliant": [
+{
+"section": "This is a notice to inform you of our policy about all information that we record about you.",
+"article numbers": "13, 14",
+"legal provisions": "Right to information in a concise, transparent, intelligible and easily accessible form"
+},
+{
+"section": "It sets out the conditions under which we may process any information that we collect from you, or that you provide to us.",
+"article numbers": "13, 14",
+"legal provisions": "Transparency and modalities of the right to information"
+},
+{
+"section": "It covers information that could identify you (“personal information”) and information that could not.",
+"article numbers": "4.1",
+"legal provisions": "Definition of personal data"
+},
+{
+"section": "We take seriously the protection of your privacy and confidentiality.",
+"article numbers": "5.1.f",
+"legal provisions": "Principles relating to processing of personal data (specifically integrity and confidentiality)"
+},
+{
+"section": "We understand that all visitors to our website are entitled to know that their personal data will not be used for any purpose unintended by them, and will not accidentally fall into the hands of a third party.",
+"article numbers": "5.1.a, 5.1.f",
+"legal provisions": "Principles relating to processing of personal data (specifically purpose limitation and integrity and confidentiality)"
+},
+{
+"section": "We undertake to preserve the confidentiality of all information you provide to us, and hope that you reciprocate.",
+"article numbers": "5.1.f",
+"legal provisions": "Principles relating to processing of personal data (specifically integrity and confidentiality)"
+},
+{
+"section": "Our policy complies with EU General Data Protection Regulation (GDPR).",
+"article numbers": "N/A",
+"legal provisions": "General compliance statement"
+},
+{
+"section": "We would like to inform you about your rights and our obligations to you in regards to the processing and control of your personal data.",
+"article numbers": "12-23",
+"legal provisions": "Chapter III - Rights of the data subject"
+},
+{
+"section": "Except as set out below, we do not share, or sell, or disclose to a third party, any information collected through our website.",
+"article numbers": "13, 14",
+"legal provisions": "Transparency obligations regarding data sharing"
+},
+{
+"section": "The law requires us to determine under which of six defined bases we process different categories of your personal information, and to notify you of the basis for each category.",
+"article numbers": "13.1.c",
+"legal provisions": "Information to be provided where personal data are collected from the data subject (specifically the legal basis for processing)"
+},
+{
+"section": "If a basis on which we process your personal information is no longer relevant then we shall immediately stop processing your data.",
+"article numbers": "5.1.e",
+"legal provisions": "Principle of storage limitation"
+},
+{
+"section": "If the basis changes then if required by law we shall notify you of the change and of any new basis under which we have determined that we can continue to process your information.",
+"article numbers": "13.2.b, 14.3",
+"legal provisions": "Notification obligation regarding rectification or erasure of personal data or restriction of processing"
+},
+{
+"section": "When you create an account on our website, buy a product or service from us, or otherwise agree to our terms and conditions, a contract is formed between you and us.",
+"article numbers": "6.1.b",
+"legal provisions": "Lawfulness of processing (specifically processing is necessary for the performance of a contract)"
+},
+{
+"section": "In order to carry out our obligations under that contract we must process the information you give us.",
+"article numbers": "6.1.b",
+"legal provisions": "Lawfulness of processing (specifically processing is necessary for the performance of a contract)"
+},
+{
+"section": "We process this information on the basis that there is a contract between us, or that you have requested we use the information before we enter into a legal contract.",
+"article numbers": "6.1.b",
+"legal provisions": "Lawfulness of processing (specifically processing is necessary for the performance of a contract)"
+}
+],
+"non_compliant": [
+{
+"section": "We regret that if there are one or more points below with which you are not happy, your only recourse is to leave our website immediately.",
+"article numbers": "12-23",
+"legal provisions": "Chapter III - Rights of the data subject (This statement contradicts various data subject rights, such as the right to access, rectification, erasure, etc.)",
+"amend": "We are committed to upholding your rights regarding your personal data. If you have any concerns or requests related to your data, please contact us using the information provided [insert contact details]. You can find detailed information about your rights in this privacy notice."
+}
+]
+}

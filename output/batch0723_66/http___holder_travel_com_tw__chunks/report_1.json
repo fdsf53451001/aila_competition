@@ -1,0 +1,71 @@
+{
+"compliant": [
+{
+"section": "個人資料利用期間：本網站會員有效期間或網站停止提供服務之日；若非會員則於該蒐集個人資料之目的消失後。",
+"article numbers": "5.1.e",
+"legal provisions": "Data must be stored no longer than is necessary for the purposes for which the personal data are processed."
+}
+],
+"non_compliant": [
+{
+"section": "政府資料中之辨識者(包含但不限於身分證統一編號、護照號碼、護照姓名、護照有效期等) 。",
+"article numbers": "5.1.c, 9",
+"legal provisions": "Data minimization principle: Only collect data that is strictly necessary. Special categories of data: Explicit consent is required for processing sensitive data, such as government identifiers.",
+"amend": "Limit the collection of government identifiers to what is strictly necessary for the specific purpose. Obtain explicit consent for processing any sensitive data."
+},
+{
+"section": "個人描述 (包含但不限於年齡、性別、出生年月日、出生地、國籍等) 。",
+"article numbers": "5.1.c, 9",
+"legal provisions": "Data minimization principle: Only collect data that is strictly necessary. Special categories of data: Some data like ethnicity may be considered sensitive and require explicit consent.",
+"amend": "Only collect personal data strictly necessary for the specific purpose. If collecting sensitive data like ethnicity, obtain explicit consent."
+},
+{
+"section": "移民情形(包含但不限於護照、居留證明文件、住居或旅行限制、入境之條件、簽證核發、簽證有效日期及其他相關細節等)。",
+"article numbers": "5.1.c, 9",
+"legal provisions": "Data minimization principle: Only collect data that is strictly necessary. Special categories of data: Immigration status can be considered sensitive data and requires explicit consent.",
+"amend": "Only collect immigration data if strictly necessary and justified for the specific purpose. Obtain explicit consent for processing this sensitive data."
+},
+{
+"section": "旅行及其他遷徙細節(包含但不限於旅行細節、外國護照、居留證明文件及工作證照及工作證等相關細節等)。",
+"article numbers": "5.1.c",
+"legal provisions": "Data minimization principle: Only collect travel and relocation details that are strictly necessary for the specific purpose.",
+"amend": "Clearly specify the purpose for collecting travel and relocation details and limit collection to what is strictly necessary."
+},
+{
+"section": "生活格調(包含但不限於使用消費品之種類及服務之細節、個人或家庭之消費模式等)",
+"article numbers": "5.1.c",
+"legal provisions": "Data minimization principle: Collecting data about lifestyle choices and consumption patterns might not be necessary for most purposes.",
+"amend": "Clearly justify the necessity for collecting lifestyle and consumption data and minimize the amount collected."
+},
+{
+"section": "資料主體之商業活動(包含但不限於商業種類、提供或使用之財貨或服務、商業契約等)",
+"article numbers": "5.1.c",
+"legal provisions": "Data minimization principle: Only collect data about commercial activities that is strictly necessary for the specific purpose.",
+"amend": "Specify the purpose for collecting data about commercial activities and limit collection to what is strictly necessary."
+},
+{
+"section": "約定或契約(包含但不限於關於交易、商業、法律或其他契約、代理等)",
+"article numbers": "5.1.c",
+"legal provisions": "Data minimization principle: Only collect data about agreements and contracts that is strictly necessary for the specific purpose.",
+"amend": "Specify the purpose for collecting data about agreements and contracts and limit collection to what is strictly necessary."
+},
+{
+"section": "其他(包含但不限於往來電子郵件、網站留言、網站瀏覽紀錄、系統自動紀錄之軌跡資訊等)。",
+"article numbers": "5.1.c",
+"legal provisions": "Data minimization principle: Collecting data like browsing history and email content requires a legal basis and should be minimized.",
+"amend": "Provide a specific legal basis for collecting data like browsing history and email content. Minimize the collection and storage of such data."
+},
+{
+"section": "個人資料利用地區：本公司執行業務及伺服器主機所在地，目前為台灣地區。",
+"article numbers": "44, 45",
+"legal provisions": "Data transfers outside the EEA: Taiwan is not recognized as having adequate data protection laws by the EU. Transfers require appropriate safeguards.",
+"amend": "Implement appropriate safeguards for data transfers to Taiwan, such as Standard Contractual Clauses or Binding Corporate Rules."
+},
+{
+"section": "個人資料利用對象：本公司及本公司委外之協力廠商(例如:提供物流、金流或活動贈品 、展示品之廠商)；如為本公司與其他廠商共同蒐集者，將於該共同蒐集之活動中載明。",
+"article numbers": "28, 44",
+"legal provisions": "Data processors: Data processing agreements are required with all third-party processors. Joint controllers: Clearly define responsibilities for data protection.",
+"amend": "Establish data processing agreements with all third-party vendors. If acting as joint controllers with other companies, clearly define responsibilities for data protection in a transparent manner."
+}
+]
+}

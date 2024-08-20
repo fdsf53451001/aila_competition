@@ -1,0 +1,52 @@
+{
+"compliant": [
+{
+"section": "IFTTT shall use good faith efforts to provide you with written notice of such claim, suit or action .",
+"article numbers": "12, 13, 14",
+"legal provisions": "Right to be informed"
+},
+{
+"section": "You will be responsible for paying, withholding, filing, and reporting all taxes, duties, and other governmental assessments associated with your activity in connection with the Service, provided that the IFTTT may, in its sole discretion, do any of the foregoing on your behalf or for itself as it sees fit .",
+"article numbers": "30",
+"legal provisions": "Confidentiality of communications"
+}
+],
+"non_compliant": [
+{
+"section": "IFTTT DOES NOT REPRESENT OR WARRANT THAT THE SERVICE IS FREE OF INACCURACIES, ERRORS, BUGS, OR INTERRUPTIONS, OR ARE RELIABLE, ACCURATE, COMPLETE, OR OTHERWISE VALID . THE SERVICE IS PROVIDED \"AS IS\" WITH NO WARRANTY, EXPRESS OR IMPLIED, OF ANY KIND AND IFTTT EXPRESSLY DISCLAIMS ANY AND ALL WARRANTIES AND CONDITIONS, INCLUDING, BUT NOT LIMITED TO, ANY IMPLIED WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AVAILABILITY, SECURITY, TITLE AND/OR NON-INFRINGEMENT .",
+"article numbers": "12, 13, 14",
+"legal provisions": "Right to be informed",
+"amend": "IFTTT should clearly inform users about the service's limitations and disclaimers in a transparent and easily understandable way."
+},
+{
+"section": "YOUR USE OF THE SITE AND THE SERVICE IS AT YOUR OWN DISCRETION AND RISK, AND YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE THAT RESULTS FROM YOUR USE INCLUDING, BUT NOT LIMITED TO, ANY DAMAGE TO YOUR COMPUTER SYSTEM, MOBILE PHONE OR LOSS OF DATA .",
+"article numbers": "12, 13, 14",
+"legal provisions": "Right to be informed",
+"amend": "While users are ultimately responsible for their own actions, IFTTT should provide clear guidelines and security recommendations to minimize potential risks and damages."
+},
+{
+"section": "Limitation of Liability IFTTT SHALL NOT, UNDER ANY CIRCUMSTANCES, BE LIABLE TO YOU FOR ANY INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL OR EXEMPLARY DAMAGES ARISING OUT OF OR IN CONNECTION WITH USE OF THE SITE OR THE SERVICE, WHETHER SUCH DAMAGES ARE BASED ON BREACH OF CONTRACT, BREACH OF WARRANTY, TORT (INCLUDING NEGLIGENCE, PRODUCT LIABILITY OR OTHERWISE), OR ANY OTHER PECUNIARY LOSS, WHETHER OR NOT IFTTT HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES .",
+"article numbers": "79, 82",
+"legal provisions": "Right to an effective judicial remedy, Right to compensation and liability",
+"amend": "IFTTT's liability limitations should not infringe on the user's right to seek legal remedies for damages caused by IFTTT's negligence or breach of contract, as per GDPR."
+},
+{
+"section": "UNDER NO CIRCUMSTANCES SHALL IFTTT BE LIABLE TO YOU FOR ANY AMOUNT .",
+"article numbers": "79, 82",
+"legal provisions": "Right to an effective judicial remedy, Right to compensation and liability",
+"amend": "This blanket statement contradicts GDPR's provisions for user compensation in case of damages caused by IFTTT's actions or inactions."
+},
+{
+"section": "SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF CERTAIN WARRANTIES OR THE LIMITATION OR EXCLUSION OF LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES . ACCORDINGLY, SOME OF THE ABOVE LIMITATIONS MAY NOT APPLY TO YOU .",
+"article numbers": "N/A",
+"legal provisions": "General Data Protection Regulation (GDPR)",
+"amend": "While acknowledging jurisdictional variations, IFTTT must prioritize GDPR compliance for all users within the European Economic Area (EEA)."
+},
+{
+"section": "Indemnity To the maximum extent permitted by applicable law, you agree to hold harmless and indemnify IFTTT, and its employees, officers, agents, or other partners from and against any third party claim arising from or in any way related to your access or use of the Service (including anything you develop using IFTTT), including any liability or expense arising from all claims, losses, damages (actual and/or consequential), suits, judgments, litigation costs and attorneys' fees, of every kind and nature .",
+"article numbers": "79, 82",
+"legal provisions": "Right to an effective judicial remedy, Right to compensation and liability",
+"amend": "The broad scope of this indemnity clause might be interpreted as limiting user rights under GDPR to seek redress for damages caused by IFTTT."
+}
+]
+}

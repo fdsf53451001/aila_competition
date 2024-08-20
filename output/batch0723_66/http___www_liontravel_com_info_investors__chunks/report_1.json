@@ -1,0 +1,23 @@
+{
+"compliant": [
+{
+"section": "本網站會員有效期間或網站停止提供服務之日；若非會員則於該蒐集個人資料之目的消失後。",
+"article numbers": "5(1)(e)",
+"legal provisions": "Data minimization and storage limitation: Personal data shall be kept in a form which permits identification of data subjects for no longer than is necessary for the purposes for which the personal data are processed"
+}
+],
+"non_compliant": [
+{
+"section": "辨識個人者(包含但不限於中英文姓名、地址、聯絡電話、電子郵件信箱、通訊軟帳號、社群．媒體帳號、網路平台申請之帳號及其他任何可辨識資料本人者等)。",
+"article numbers": "5(1)(c), 6(1)(f)",
+"legal provisions": "Data minimization and purpose limitation: Personal data shall be adequate, relevant and limited to what is necessary in relation to the purposes for which they are processed. Processing should be lawful, fair and transparent.",
+"amend": "Specify the exact purposes for processing each category of personal data (e.g., name for account creation, email for communication, social media account for marketing with explicit consent). Avoid broad or ambiguous terms like \"any other identifiable information\"."
+},
+{
+"section": "其他(包含但不限於往來電子郵件、網站留言、網站瀏覽紀錄、系統自動紀錄之軌跡資訊等)。",
+"article numbers": "5(1)(c), 6(1)(f), 4(1)",
+"legal provisions": "Data minimization, purpose limitation, and explicit consent: Processing of sensitive data like browsing history requires a lawful basis such as explicit consent and must be limited to specified, explicit and legitimate purposes.",
+"amend": "Provide specific purposes for processing sensitive data like browsing history and ensure explicit consent is obtained. Consider data minimization techniques like anonymization or pseudonymization for website analytics."
+}
+]
+}

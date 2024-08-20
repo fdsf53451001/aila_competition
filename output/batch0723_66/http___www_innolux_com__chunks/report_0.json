@@ -1,0 +1,38 @@
+{
+"compliant": [
+{
+"section": "群創光電股份有限公司（以下簡稱群創光電）尊重您的隱私權。",
+"article numbers": "Article 5",
+"legal provisions": "Principles relating to processing of personal data (specifically, data minimization)"
+},
+{
+"section": "群創光電謹藉由此隱私權保護聲明，讓您清楚了解群創光電如何蒐集、應用、處理及保護您在本網站上所提供的個人基本資料。",
+"article numbers": "Articles 12, 13 & 14",
+"legal provisions": "Transparent information, communication and modalities for the exercise of the data subject's rights"
+},
+{
+"section": "除非您自願提供，否則本公司不會藉由此網站來蒐集您的個人基本資料。",
+"article numbers": "Article 6",
+"legal provisions": "Lawfulness of processing (specifically, consent)"
+},
+{
+"section": "當您於網頁中填寫您個人基本資料時，即表示您同意本公司可根據此隱私權保護聲明所載明的方式，來進行您個人基本資料的收集、儲存與運用。",
+"article numbers": "Articles 4(11), 7 & 8",
+"legal provisions": "Definitions (consent), Conditions for consent, Conditions applicable to child's consent"
+}
+],
+"non_compliant": [
+{
+"section": "您瀏覽及使用本網頁行為視為您同意本聲明內容。",
+"article numbers": "Articles 4(11), 7",
+"legal provisions": "Definitions (consent), Conditions for consent",
+"amend": "This statement implies browsing the website equals consent, which doesn't meet GDPR's requirement for freely given, specific, informed and unambiguous indication of the data subject's wishes. It should be changed to require explicit consent for data processing through methods like checkboxes or clicking \"I agree\"."
+},
+{
+"section": "您使用本網站時，我們的伺服器會自動記錄相關記錄，例如您的IP位址、使用的瀏覽器及操作記錄等。",
+"article numbers": "Article 5",
+"legal provisions": "Principles relating to processing of personal data (specifically, purpose limitation)",
+"amend": "The policy doesn't clearly specify the purpose of collecting data like IP addresses, browser information and operational logs. It needs to explicitly state the purpose (e.g., for website security, analytics) and ensure it's legitimate and limited to what's necessary."
+}
+]
+}

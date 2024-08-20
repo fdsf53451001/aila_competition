@@ -1,0 +1,28 @@
+{
+"compliant": [
+{
+"section": "我們使用此資訊來滿足勞工法律及職業安全規範、與身為公司員工的您互動、處理您的薪資及薪資相關稅務、讓您加入公司出資之員工福利計劃",
+"article numbers": "6(1)(b), 6(1)(c)",
+"legal provisions": "Processing is necessary for compliance with a legal obligation to which the controller is subject; processing is necessary for the performance of a contract to which the data subject is party or in order to take steps at the request of the data subject prior to entering into a contract."
+},
+{
+"section": "回應您的貸方之洽詢",
+"article numbers": "6(1)(a)",
+"legal provisions": "Consent of the data subject"
+}
+],
+"non_compliant": [
+{
+"section": "員工 我們主要向您收集或接收，但有時亦於適用時向您的主管及同事收集或接收上述求職資訊之外的護照詳細資訊，或其他移民相關資訊、社會保險號碼、駕照資訊、銀行帳戶資訊、婚姻狀態、照片、緊急聯絡資訊、福利資訊、撫養人資訊、就業稅相關資訊、薪資相關資訊、就業計畫參加資訊、各種請假時間記錄、訓練記錄、績效評鑑、紀律及申訴記錄、我們的電腦網路及電話及計時系統之使用資訊，及關於您的工作表現及身為員工之活動資訊",
+"article numbers": "5(1)(c), 5(1)(e), 6(1), 9",
+"legal provisions": "Data minimisation: The personal data collected must be limited to what is necessary and relevant for the specified, explicit and legitimate purposes. Purpose limitation: Personal data can only be collected for specified, explicit and legitimate purposes and not further processed in a manner that is incompatible with those purposes. Lawfulness of processing: Processing of personal data is only lawful if there is a legal basis for the processing. Special categories of personal data: Processing of special categories of personal data (such as racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, genetic data, biometric data, health data, sex life or sexual orientation) is prohibited unless specific conditions apply.",
+"amend": "The company should specify the legal basis for collecting each category of employee data and ensure that it is only collecting data that is necessary and relevant for the specified purposes. The company should also obtain explicit consent from employees before collecting and processing special categories of personal data, unless an exception applies. For data collected from sources other than the employee, the company should inform employees about this collection, including the source of the data and the purposes of processing."
+},
+{
+"section": "此資料依必要傳送予 (a) 要求此類資訊之相關政府單位；(b) 我們的薪資處理廠商以處理薪資及薪資稅務；(c) 我們的福利廠商來為您處理福利；(d) 我們聯繫來評估候選人資格及背景之招聘及背景篩選機構；(e) 因您申請貸款而要求此類資訊之公司；(f) 為了確認關於您的資訊所必要之前雇主及推薦人，以及 (g) 可能與將代表我們依我們的書面指示於業務過程中執行其服務，而需處理您的個人資訊的其他廠商，例如 IT 服務供應商及某種雲端解決方案 (我們盡力確保當我們聯繫此類廠商時，他們僅依我們的指示處理您的個人資訊，並且透過對此類處理實施適當之技術及組織措施，保護您的個人資訊的安全及機密)。",
+"article numbers": "14, 28",
+"legal provisions": "Information to be provided where personal data are collected from the data subject: The company must provide employees with specific information about the processing of their personal data, including the identity and contact details of the controller, the purposes of the processing, the recipients of the data, and the legal basis for the processing. Processor responsibilities: The company must ensure that any third-party processors it engages have provided sufficient guarantees to implement appropriate technical and organisational measures to ensure the security of the personal data. The company should also have a written contract with the processor that outlines the subject matter and duration of the processing, the nature and purpose of the processing, the type of personal data, and the obligations and rights of the controller.",
+"amend": "The company should provide employees with a complete list of all third parties with whom their data is shared, specifying the purpose of each transfer. The company should also ensure that appropriate safeguards are in place for all data transfers, such as standard contractual clauses or binding corporate rules. While the company mentions efforts to ensure processors only process data as instructed, it should be explicitly stated that this is a contractual obligation, not just an effort."
+}
+]
+}

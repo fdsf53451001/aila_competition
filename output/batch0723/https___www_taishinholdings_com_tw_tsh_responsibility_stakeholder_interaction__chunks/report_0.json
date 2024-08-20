@@ -1,0 +1,43 @@
+{
+"compliant": [
+{
+"section": "客戶資料保密與隱私權政策",
+"article numbers": "13, 14",
+"legal provisions": "Information to be provided where personal data are collected from the data subject"
+},
+{
+"section": "客戶資料保密措施",
+"article numbers": "32",
+"legal provisions": "Security of processing"
+},
+{
+"section": "台新金融控股公司及各子公司客戶資料保密措施",
+"article numbers": "32",
+"legal provisions": "Security of processing"
+},
+{
+"section": "客戶資料共享隱私權政策",
+"article numbers": "13, 14",
+"legal provisions": "Information to be provided where personal data are collected from the data subject"
+},
+{
+"section": "台新金融控股公司及各所屬金融機構子公司客戶資料共享之隱私權政策",
+"article numbers": "13, 14",
+"legal provisions": "Information to be provided where personal data are collected from the data subject"
+}
+],
+"non_compliant": [
+{
+"section": "與我們聯繫\n我們樂意幫助您。或者您也可以告訴我們如何做得更好！\n立即前往",
+"article numbers": "12, 15, 16, 17, 18, 19, 20",
+"legal provisions": "Transparent information, communication and modalities for the exercise of the rights of the data subject; Right of access by the data subject; Right to rectification; Right to erasure (‘right to be forgotten’); Right to restriction of processing; Right to data portability; Right to object",
+"amend": "Provide specific contact information for data subjects to exercise their rights, including access, rectification, erasure, restriction, portability, and objection.  Clarify the procedures for exercising these rights."
+},
+{
+"section": "© 台新金融控股股份有限公司版權所有 建議瀏覽器：IE10+, Chrome, Safari, Firefox",
+"article numbers": "12",
+"legal provisions": "Transparent information, communication and modalities for the exercise of the rights of the data subject",
+"amend": "This section should include clear and concise information about the data controller's identity and contact details, as required by GDPR Article 12."
+}
+]
+}

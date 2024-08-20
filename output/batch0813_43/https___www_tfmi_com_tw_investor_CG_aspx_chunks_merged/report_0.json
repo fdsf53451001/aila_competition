@@ -1,0 +1,22 @@
+{
+"compliant": [
+{
+"section": "二、蒐集個人資料目的範圍\n1.本網站所蒐集個人資料目的、利用對象、時間等資訊請參考各網路服務之個資蒐集、處理或利用告知事項內容，且不會超出蒐集目的外之用途；目的範圍羅列如下：\n客戶服務表單：依據您所選擇諮詢主題，用以後續聯繫溝通與問題回覆與處理。\n續保服務：用以保單到期日前一個月通知投保。\n網路會員：用以後續線上要保/投保服務及本公司商品或服務行銷。\n線上要保/投保服務，以用作後續核保與出單作業。\n線上服務：用以理賠、繳費或其查詢、汽機車強制證補發、保單變更申請。\n理賠事故通知服務。\n電子式保單下載。\n網路調查、行銷或抽獎活動。\n提升網站服務功能與品質。",
+"article numbers": "5, 13",
+"legal provisions": "Principles relating to processing of personal data, specifically purpose limitation (data must be collected for specified, explicit and legitimate purposes and not further processed in a manner that is incompatible with those purposes)."
+},
+{
+"section": "二、蒐集個人資料目的範圍\n2.本公司會在您同意之情形下，始得利用個人資料於行銷商品或服務訊息；並於首次行銷時，將提供您表示拒絕行銷之方式，並支付所需費用，當您拒絕接受某項商品或服務行銷時，本公司將會停止利用您之個人資料用於行銷。",
+"article numbers": "6, 7",
+"legal provisions": "Lawfulness of processing, specifically consent of the data subject (consent must be freely given, specific, informed and unambiguous indication of the data subject's wishes)."
+}
+],
+"non_compliant": [
+{
+"section": "一、個人資料之蒐集政策\n當您參與線上活動、網路調查、行銷活動、加入會員或申請相關服務時，本公司可能會請您提供姓名、身分證字號、地址、電話、電子郵件信箱、資通訊設備軌跡紀錄（包括但不限於您使用資通訊設備 IP 位址、瀏覽器、使用時間、瀏覽及點選資料紀錄等）或其他服務所必須之個人資料。",
+"article numbers": "5, 13",
+"legal provisions": "Principles relating to processing of personal data, specifically data minimisation (data must be adequate, relevant and limited to what is necessary in relation to the purposes for which they are processed). The policy does not specify which data is necessary for each specific purpose.",
+"amend": "Clearly specify which data categories are collected for each purpose listed in section \"二、蒐集個人資料目的範圍\". For example, for \"客戶服務表單\", specify if name, email, and phone number are all necessary or if only email is sufficient.  Avoid collecting unnecessary data like \"資通訊設備軌跡紀錄\" unless strictly necessary and proportionate for a specific and legitimate purpose, and clearly justify its collection."
+}
+]
+}

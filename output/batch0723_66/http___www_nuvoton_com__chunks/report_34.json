@@ -1,0 +1,23 @@
+{
+"compliant": [
+{
+"section": "Third party links and products on our Websites, NUVOTON’s App, and SERVICE may contain links to other third party websites that are not operated by NUVOTON, and our Websites, NUVOTON’s App and SERVICE may contain applications that you can download from third parties.",
+"article numbers": "13, 14",
+"legal provisions": "Information to be provided where personal data have not been obtained from the data subject- (a) the source of the personal data, and, where appropriate; (b) the categories of personal data concerned"
+}
+],
+"non_compliant": [
+{
+"section": "There is no activity in your account for a period of two years or more. (Including downloading files and updating account information.)",
+"article numbers": "5, 17",
+"legal provisions": "Principles relating to processing of personal data- storage limitation, Right to erasure (‘right to be forgotten’)",
+"amend": "Data should only be stored as long as necessary for the specified purpose. Implement a data retention policy that includes criteria for erasure based on inactivity and provides individuals with the ability to manage their data or request erasure."
+},
+{
+"section": "Your account information is not correct. (In case the information such as name, place of work and telephone number does not exist.)",
+"article numbers": "5, 16",
+"legal provisions": "Principles relating to processing of personal data- accuracy, Right to rectification",
+"amend": "Data controllers have an obligation to keep personal data accurate. Implement procedures for data subjects to update their information and rectify inaccuracies. Regularly review data for accuracy and implement mechanisms to address outdated information."
+}
+]
+}

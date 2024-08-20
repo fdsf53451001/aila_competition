@@ -1,0 +1,40 @@
+{
+"compliant": [
+{
+"section": "Cookies並不含任何資料足使他人透過電話、電子郵件或傳統人工郵件(snail mail)與您聯絡，而且您可以經由瀏覽器的設定，自行取消、或限制此項功能。",
+"article numbers": "5.1.a",
+"legal provisions": "Data Minimisation"
+},
+{
+"section": "已取得您事前同意或授權允許使用之相關約定或其他本網站/本應用程式與您所簽訂之契約規定。",
+"article numbers": "6.1.a",
+"legal provisions": "Consent"
+}
+],
+"non_compliant": [
+{
+"section": "Cookies作為與客戶溝通與辨識的工具，其目的在於提供更好之個人化服務或傳送符合您屬性的資訊與活動，如果您不希望接受Cookies，可自行關閉瀏覽器上的Cookies功能，但您就可能無法使用部分個人化服務，或是參與部分的活動。大部分Cookies的有效性只持續一定期間或只限單次造訪。",
+"article numbers": "4.1, 7.3",
+"legal provisions": "Clear and unambiguous consent for cookies,  Conditions for consent",
+"amend": "The user should be able to refuse cookies without being disadvantaged. The language regarding cookie consent should be clear and unambiguous, requiring a clear affirmative action from the user to consent. Additionally, the specific purpose of each cookie should be clearly stated."
+},
+{
+"section": "本網站絕不會任意出售、交換或出租任何您的個人資料給其他團體或個人。但在下列三種情形，本行會在符合法令規範及依循下列原則之前提下，將透過本網站/本應用程式所蒐集您個人資料提供予第三者。",
+"article numbers": "12-14",
+"legal provisions": "Transparent information, communication and modalities for the exercise of the rights of the data subject",
+"amend": "The policy should clearly state the specific third parties with whom data is shared, the purpose of sharing, and the legal basis for doing so. It should also inform users about their rights regarding data access, rectification, erasure, and objection."
+},
+{
+"section": "除法律或中央機關另有規定外，司法、金融監督、稅務及其他依法具調查權之公務機關依法令規定，要求本行提供特定個人資料時，本行將視公務機關合法正式的程序，並兼顧本網站/本應用程式所有使用者安全考量下，於特定目的必要範圍內配合。",
+"article numbers": "6.1.c",
+"legal provisions": "Legal Obligation",
+"amend": "While complying with legal obligations is permissible, the policy should specify the types of legal obligations and the categories of data shared with public authorities."
+},
+{
+"section": "為了提供您其他服務或優惠權益，需要與提供該服務或優惠之第三者共用您的資料時，本行會在本網站網頁/本應用系統訊息視窗中刊載或揭露相關完整說明，並在向您為資料蒐集前進行告知，您可以自由選擇是否為享有前述合作提供之服務或優惠權益而提供您的個人資料。",
+"article numbers": "6.1.b",
+"legal provisions": "Legitimate Interests",
+"amend": "Sharing data for additional services or benefits requires a clear legal basis, such as legitimate interest. The policy should explicitly state the legitimate interest pursued and ensure that it does not override the fundamental rights and freedoms of the user. Additionally, users should have the right to object to such data processing."
+}
+]
+}

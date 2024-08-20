@@ -1,0 +1,11 @@
+{
+"compliant": [],
+"non_compliant": [
+{
+"section": "以下舉出幾個目前市面上常見的瀏覽器類型，您可參考以下連結，來了解如何透過這些瀏覽器管理Cookies設定(以下網站連結的內容為中文，請點選這些網頁中的語言選項，以選擇您方便閱讀的語言)。若您非使用以下瀏覽器，或以下的網址內容被移除，請造訪您的產品所安裝瀏覽器的支援頁面或瀏覽器廠商的隱私權說明頁面以取得更多的資訊。您亦可參考https://www.aboutcookies.org/ 網站(內容為英文)，裡面介紹了如何從許多不同的瀏覽器中管理Cookies設定。\n\n在Google Chrome瀏覽器中清除、啟用與管理 Cookie：\nhttps://support.google.com/chrome/answer/95647?hl=en\n在Microsoft Internet Explorer瀏覽器中清除、啟用與管理 Cookie：\nhttps://support.microsoft.com/en-us/help/278835/how-to-delete-cookie-files-in-internet-explorer\n在Mozilla Firefox瀏覽器中清除、啟用與管理 Cookie：\nhttps://support.    ",
+"article numbers": "12, 13",
+"legal provisions": "Transparency, Information to be provided",
+"amend": "This section, while providing helpful information, doesn't directly explain how the user's data is collected, used, or processed through cookies. It should be amended to include: \n\n* **What are cookies?** A clear and concise explanation of what cookies are and their purpose.\n* **How we use cookies:** Specify the types of cookies used (e.g., essential, performance, functionality, advertising) and their specific purposes. \n* **Third-party cookies:** Disclose if third-party cookies are used and their purpose. Provide information about these third parties, if applicable.\n* **Cookie control:** Explain how users can manage or disable cookies through browser settings or other mechanisms. Reference the provided links as examples."
+}
+]
+}

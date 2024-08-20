@@ -1,0 +1,87 @@
+{
+"compliant": [
+{
+"section": "Information we process with your consent Through certain actions when otherwise there is no contractual relationship between us, such as when you browse our website or ask us to provide you more information about our business, including our products and services, you provide your consent to us to process information that may be personal information .",
+"article numbers": "6(1)(a), 7",
+"legal provisions": "Lawfulness of processing: Consent of the data subject"
+},
+{
+"section": "Wherever possible, we aim to obtain your explicit consent to process this information, for example, by asking you to agree to our use of cookies .",
+"article numbers": "4(11), 7(4)",
+"legal provisions": "Definitions: Explicit Consent; Conditions for consent"
+},
+{
+"section": "Sometimes you might give your consent implicitly, such as when you send us a message by e-mail to which you would reasonably expect us to reply .",
+"article numbers": "6(1)(a), 7",
+"legal provisions": "Lawfulness of processing: Consent of the data subject"
+},
+{
+"section": "Except where you have consented to our use of your information for a specific purpose, we do not use your information in any way that would identify you personally .",
+"article numbers": "5(1)(b)",
+"legal provisions": "Principles relating to processing of personal data: Purpose limitation"
+},
+{
+"section": "We may aggregate it in a general way and use it to provide class information, for example to monitor the performance of a particular page on our website .",
+"article numbers": "5(1)(b), 25",
+"legal provisions": "Principles relating to processing of personal data: Purpose limitation, Data protection by design and by default"
+},
+{
+"section": "If you have given us explicit permission to do so, we may from time to time pass your name and contact information to selected associates whom we consider may provide services or products you would find useful .",
+"article numbers": "6(1)(a), 7",
+"legal provisions": "Lawfulness of processing: Consent of the data subject"
+},
+{
+"section": "We continue to process your information on this basis until you withdraw your consent or it can be reasonably assumed that your consent no longer exists .",
+"article numbers": "7(3)",
+"legal provisions": "Conditions for consent: Right to withdraw consent"
+},
+{
+"section": "You may withdraw your consent at any time by instructing us at support@viatech . com .",
+"article numbers": "7(3), 12(1)",
+"legal provisions": "Conditions for consent: Right to withdraw consent; Transparent information, communication and modalities for the exercise of the rights of the data subject"
+},
+{
+"section": "Information we process for the purposes of legitimate interests We may process information on the basis there is a legitimate interest, either to you or to us, of doing so .",
+"article numbers": "6(1)(f)",
+"legal provisions": "Lawfulness of processing: Legitimate interests"
+},
+{
+"section": "Where we process your information on this basis, we do after having given careful consideration to: Whether the same objective could be achieved through other means Whether processing (or not processing) might cause you harm Whether you would expect us to process your data, and whether you would, in the round, consider it reasonable to do so",
+"article numbers": "6(1)(f), 22",
+"legal provisions": "Lawfulness of processing: Legitimate interests; Automated individual decision-making, including profiling"
+},
+{
+"section": "For example, we may process your data on this basis for the purposes of: Record-keeping for the proper and necessary administration of our online store https://viatech . com/en/store/ Responding to unsolicited communication from you to which we believe you would expect a response Protecting your interests where we believe we have a duty to do so",
+"article numbers": "6(1)(f)",
+"legal provisions": "Lawfulness of processing: Legitimate interests"
+},
+{
+"section": "Information we process because we have a legal obligation We are subject to the law like everyone else . Sometimes, we must process your information in order to comply with a statutory obligation .",
+"article numbers": "6(1)(c)",
+"legal provisions": "Lawfulness of processing: Legal obligation"
+},
+{
+"section": "For example, we may be required to give information to legal authorities if they so request or if they have the proper authorisation such as a search warrant or court order . This may include your personal information .",
+"article numbers": "6(1)(c)",
+"legal provisions": "Lawfulness of processing: Legal obligation"
+},
+{
+"section": "Sending a message to our support team When you contact us, whether by telephone, through our website or by e-mail, we collect the data you have given to us in order to reply with the information you need .",
+"article numbers": "5(1)(c)",
+"legal provisions": "Principles relating to processing of personal data: Data minimisation"
+},
+{
+"section": "We keep personally identifiable information associated with your message, such as your name and email address so as to be able to track our communications with you to provide a high quality service .",
+"article numbers": "5(1)(e)",
+"legal provisions": "Principles relating to processing of personal data: Storage limitation"
+}
+],
+"non_compliant": [
+{
+"section": "Information relating to your method of payment Payment information is never taken by us or transferred to us either through our website or otherwise . Our employees and contractors never have access to it . At the point of payment, you are transferred to a secure page on the website of PayPal . That page may be branded to look like a page on our website, but it is not controlled by us .",
+"article numbers": "26, 28",
+"legal provisions": "Joint controllers; Processor",
+"amend": "While the payment information is processed by a third party, it is crucial to clearly define the roles and responsibilities regarding data protection in a data processing agreement with PayPal.  This agreement should specify that PayPal acts as a data processor, and Viatech as the data controller, outlining instructions for processing payment data, ensuring appropriate security measures are in place, and addressing data subject rights."
+}
+]
+}

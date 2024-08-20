@@ -1,0 +1,28 @@
+{
+"compliant": [
+{
+"section": "Airoha does not want to receive confidential or proprietary information from you through this Website . Do not send any confidential or proprietary information to Airoha through this Website . Any information you do send to Airoha through this Website will be deemed NOT to be confidential (\"Non-Confidential Information\") . Airoha shall have no obligation of any kind with respect to any information in such submission .",
+"article numbers": "5, 25",
+"legal provisions": "Principles of data minimization and purpose limitation"
+},
+{
+"section": "Airoha is cautious in maintaining the security of this Website, but it may not warrant materials transmitted from this Website to be absolutely free from computer viruses .",
+"article numbers": "32",
+"legal provisions": "Security of processing"
+}
+],
+"non_compliant": [
+{
+"section": "AIROHA DOES NOT WARRANT OR MAKE ANY REPRESENTATIONS OR CONDITIONS REGARDING THE USE, VALIDITY, COMPLETENESS, ACCURACY, OR RELIABILITY OF, OR THE RESULTS OF THE USE OF, OR OTHERWISE RESPECTING, THE INFORMATION ON THIS WEBSITE . IN NO EVENT SHALL AIROHA BE LIABLE FOR ANY DIRECT, INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, INCLUDING BUT NOT LIMITED TO LOSS OF DATA OR PROFIT, ARISING OUT OF OR IN CONNECTION WITH THE USE OF THE INFORMATION ON THIS WEBSITE, EVEN IF AN AIROHA AUTHORIZED REPRESENTATIVE HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, AND WHETHER BASED IN AN ACTION IN CONTRACT, TORT, OR ANY OTHER THEORY OF LIABILITY .",
+"article numbers": "8, 13",
+"legal provisions": "Rights of the data subject,  Conditions for consent",
+"amend": "This section broadly waives Airoha's liability in a manner that may infringe on the rights of data subjects under the GDPR.  For example, individuals have a right to seek compensation for damages related to data breaches.  Airoha should specify lawful bases for processing data and acknowledge data subjects' rights."
+},
+{
+"section": "For any Non-Confidential Information you do send, you hereby grant Airoha an unrestricted, royalty-free, irrevocable license to use, reproduce, display, perform, modify, transmit and distribute the Non-Confidential Information, and agree that Airoha is free to use any ideas, concepts, know-how or techniques that you send Airoha for any purpose whatsoever without compensation to you or any other person sending the Non-Confidential Information .",
+"article numbers": "6, 7",
+"legal provisions": "Lawfulness of processing, Conditions for consent",
+"amend": "The user's consent to Airoha's use of their information must be freely given, specific, informed, and unambiguous. This section's broad language may not meet these requirements, especially regarding the vague description of using the information \"for any purpose whatsoever.\" Airoha should specify the purposes of data processing and obtain explicit consent for each purpose."
+}
+]
+}

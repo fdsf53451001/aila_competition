@@ -1,0 +1,39 @@
+{
+"compliant": [
+{
+"section": "隱私權保護政策的適用範圍\n隱私權保護政策內容，包括本網站如何處理在您使用網站服務時收集到的個人識別資料。隱私權保護政策不適用於本網站以外的相關連結網站，也不適用於非本網站所委託或參與管理的人員。",
+"article numbers": "13, 14",
+"legal provisions": "Information to be provided where personal data are collected from the data subject"
+},
+{
+"section": "資料使用之目的及類別",
+"article numbers": "5",
+"legal provisions": "Principles relating to processing of personal data- lawfulness of processing"
+},
+{
+"section": "資料使用之期間、地區、對象及方式",
+"article numbers": "5",
+"legal provisions": "Principles relating to processing of personal data- storage limitation"
+}
+],
+"non_compliant": [
+{
+"section": "資料使用之目的\n（依據法務部公告之「個人資料保護法之特定目的及個人資料之類別」填載如下）:\n040 行銷、063 非公務機關依法定義務所進行個人資料之蒐集處理及利用、075 科技行政、090 消費者、客戶管理與服務、099 國內外交流業務、107 採購與供應管理、135 資（通）訊服務",
+"article numbers": "5, 6",
+"legal provisions": "Principles relating to processing of personal data- lawfulness of processing\nLawfulness of processing",
+"amend": "The purposes are not specific enough and do not meet the criteria for lawful processing under GDPR. For example, \"marketing\" is too broad and requires consent under GDPR. The specific purpose of processing for marketing should be clearly stated, and a legal basis for processing should be identified (e.g., consent, legitimate interests)."
+},
+{
+"section": "資料使用之類別\n（依據法務部公告之「個人資料保護法之特定目的及個人資料之類別」填載如下）:\nC001辨識個人者:包括但不限於姓名、住家電話、行動電話、電子郵件地址、提供網路身分認證或申辦查詢服務之紀錄、網際網路協定位址、Cookie及其他任何可辨識資料本人者\nC038職業",
+"article numbers": "5, 13, 14",
+"legal provisions": "Principles relating to processing of personal data- data minimisation\nInformation to be provided where personal data are collected from the data subject",
+"amend": "Collecting \"any other identifiable information\" is too broad and violates the data minimisation principle. The company should specify the exact types of data collected and the legal basis for processing each type. Additionally, the policy should clearly inform users about the use of cookies and obtain consent where required."
+},
+{
+"section": "資料使用之期間\n上述個人資料之利用期間係指依照蒐集之特定目的、相關法令所定、因執行業務所須之必要保存期間（較法規規定期間長者）或依個別契約所定之保存年限為利用存續期間。",
+"article numbers": "5",
+"legal provisions": "Principles relating to processing of personal data- storage limitation",
+"amend": "While the policy mentions storage limitations, it's not specific enough. It should clearly state the criteria for determining the storage period for each data category and ensure it's not excessive."
+}
+]
+}

@@ -1,0 +1,39 @@
+{
+"compliant": [
+{
+"section": "台灣農林會盡力保護您所提供給我們的資訊，但請您了解，我們並不保證未經授權的存取不會發生。",
+"article numbers": "Article 24, 32",
+"legal provisions": "Data protection by design and by default, Security of processing"
+},
+{
+"section": "我們已採取符合法規要求的實體、電子和程序防護措施，以保護您個人資料的安全。",
+"article numbers": "Article 24, 32",
+"legal provisions": "Data protection by design and by default, Security of processing"
+},
+{
+"section": "我們對傳票、法院命令或法律程序作出回應、取得或行使法律權利，或對訴訟上之請求提出防禦。",
+"article numbers": "Article 6(1)(f)",
+"legal provisions": "Legitimate interests"
+}
+],
+"non_compliant": [
+{
+"section": "這些公司可能會將您的個人資料用於協助 台灣農林就我們和行銷夥伴所提供產品及服務的事宜，與您進行溝通。但這些公司無獨立權利分享這些資料。",
+"article numbers": "Article 6, 28",
+"legal provisions": "Lawfulness of processing, Processor requirements",
+"amend": "Specify the legal basis for processing data for marketing purposes, such as consent or legitimate interests. Ensure that marketing partners are engaged as data processors with a written contract outlining their responsibilities."
+},
+{
+"section": "我們認為為了調查和防止非法活動、涉嫌詐欺、對人身安全有潛在威脅的狀況、對台灣農林服務條款的違反，或為了對上述情形採取應對措施，或法律另有規定，而有必要分享您的個人資料時。",
+"article numbers": "Article 6(1)",
+"legal provisions": "Lawfulness of processing",
+"amend": "Clearly define the specific legal basis for processing data for each purpose mentioned (e.g., compliance with legal obligations, legitimate interests). Ensure that data processing is limited to what is necessary and proportionate for each purpose."
+},
+{
+"section": "於法令允許範圍內，為保護處於或正在使用台灣農林財產之台灣農林員工、第三人權利或人身安全。",
+"article numbers": "Article 6(1)",
+"legal provisions": "Lawfulness of processing",
+"amend": "Specify the specific legal basis for processing data for the protection of vital interests. Ensure that data processing is limited to what is necessary and proportionate for this purpose."
+}
+]
+}

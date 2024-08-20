@@ -1,0 +1,38 @@
+{
+"compliant": [
+{
+"section": "法律明文規定。",
+"article numbers": "6(1)(c)",
+"legal provisions": "Processing is lawful if there is a legal obligation."
+},
+{
+"section": "您自行公開或其他已合法公開之個人資料。",
+"article numbers": "6(1)(a), 7(4)",
+"legal provisions": "Data subject has given consent to the processing of his or her personal data for one or more specific purposes; The processing of personal data relating to the data subject, by the data subject, or by a third party where the data subject has made the personal data public."
+},
+{
+"section": "本公司為協助公務機關執行法定職務或非公務機關履行法定義務必要範圍內(包括但不限於法定申報義務)。",
+"article numbers": "6(1)(c)",
+"legal provisions": "Processing is necessary for compliance with a legal obligation to which the controller is subject."
+},
+{
+"section": "經您書面同意。",
+"article numbers": "6(1)(a), 7",
+"legal provisions": "Data subject has given consent to the processing of his or her personal data for one or more specific purposes."
+}
+],
+"non_compliant": [
+{
+"section": "蒐集個人資料的方式：\n依您使用本網站的服務不同，您可能需透過以下方式提供您的的個人資料予本公司或由本公司取得您的個人資料：\n方式 說明\n主動提供 由您或他人主動提供的資訊獲得。\n直接取得 透過與您直接接觸後獲得。\n合作取得 由與您的商務合作而獲得。\n法律關係取得 由與您的法律關係而獲得。\n公開取得 由您自行公開之資訊中而獲得。\n網站取得 由您造訪本公司網站、註冊會員或其他您使用本公司網站功能或資源而獲得(包括但不限於cookies)。\n主動建立 本公司依您使用的產品或服務自行建立的您的個人資料(包括但不限於與您的互動紀錄)。",
+"article numbers": "5, 12, 13",
+"legal provisions": "Data minimization, transparency, and purpose limitation principles require specific, explicit, and legitimate purposes for data collection and processing. The policy should clearly specify the legal basis for each processing activity and provide transparent information about data collection methods.",
+"amend": "Clearly specify the legal basis (e.g., consent, contract, legal obligation, legitimate interest) for each data collection method and purpose. Provide specific examples of data collected under each category and ensure transparency by clearly explaining how cookies and other tracking technologies are used."
+},
+{
+"section": "資料傳輸對象\n本公司為本政策前述所列目的，可能分享您提供的個人資料予下列人員或機關單位，於本政策前述目的範圍內使用：\n您指定之代理人；\n依法律規定或服從公權力提供予政府機關；\n已和本公司簽署保密合約或承擔不低於與本政策程度個人資料保護規定之客戶、供應商、會計師、稽核人員、顧問、律師及其他與本公司提供產品或服務相關之人員或機關單位；\n為了維護本公司或相關當事人權益、預防重大不法侵害提供予相關當事人、政府機關、司法機關；\n於本公司出售或移轉全部或部分之事業或資產時(包括但不限於重整、解散或清算)，提供予買受人或受讓人。",
+"article numbers": "13, 14",
+"legal provisions": "Transparency requires clear and concise information about recipients of personal data. The policy should specify the categories of recipients and the purpose of data sharing.",
+"amend": "Provide more specific information about the categories of recipients, such as the types of companies or organizations within each category. For international data transfers, specify the countries involved and the safeguards implemented to ensure adequate data protection."
+}
+]
+}

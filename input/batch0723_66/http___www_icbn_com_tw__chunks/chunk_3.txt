@@ -1,0 +1,5 @@
+Application means the software program provided by the Company downloaded by You on any electronic device, named CBN Connect
+Company (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Compal Broadband Networks (CBN), 13F No.1 Taiyuan 1st ST. Zhubei City, Hsinchu County 30288, Taiwan.
+Country refers to: Taiwan
+Device means any device that can access the Service such as a computer, a cellphone or a digital tablet.
+Personal Data is any information that relates to an identified or identifiable individual.

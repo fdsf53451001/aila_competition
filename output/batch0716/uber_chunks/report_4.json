@@ -1,0 +1,51 @@
+{
+"compliant": [
+{
+"section": "III. 資料收集與使用\nA. 我們收集的資料",
+"article numbers": "13, 14",
+"legal provisions": "The policy provides information about the data collected, which aligns with the transparency and information requirements of Articles 13 and 14 of the GDPR."
+},
+{
+"section": "請參閱此處，瞭解我們收集的資料及其使用方式的摘要。",
+"article numbers": "12, 13, 14",
+"legal provisions": "Providing a clear and concise summary of data processing activities is in line with the principles of fair and transparent processing (Article 5) and the requirements of Articles 12, 13, and 14."
+},
+{
+"section": "Uber 會從以下來源收集以下資料：\n1. 使用者提供的資料。這包括：",
+"article numbers": "6(1)(a)",
+"legal provisions": "Collecting data directly from users with their consent aligns with the lawful basis of consent under Article 6(1)(a)."
+}
+],
+"non_compliant": [
+{
+"section": "位在美國的使用者：請參閱此處，瞭解 Uber 根據美國州政府隱私權法規 (包括《加州消費者隱私法》) 所採取的隱私權處理方式。\n華盛頓州和內華達州的使用者：請參閱此處，瞭解 Uber 根據這些州的隱私法收集和使用消費者健康資料的相關做法。",
+"article numbers": "3, 4",
+"legal provisions": "While mentioning state laws is not inherently non-compliant, the GDPR has territorial scope (Article 3) and applies to data processing of individuals in the EU/EEA. The policy should clearly state how GDPR rights apply to users in those regions, regardless of US state laws.",
+"amend": "Add a section specifically addressing the application of GDPR to users in the EU/EEA, regardless of their location at the time of use."
+},
+{
+"section": "若對我們在特定國家或地區的做法有任何疑問，請在此處聯絡我們。",
+"article numbers": "13, 14",
+"legal provisions": "The policy should provide specific contact details for data protection inquiries, ideally including a Data Protection Officer (DPO) if required under Article 37.",
+"amend": "Provide clear and specific contact information for data protection inquiries, including a DPO if applicable."
+},
+{
+"section": "帳戶資訊： 我們會在使用者建立或更新 Uber 帳戶，或是透過賓客身分結帳功能下訂單時收集資料。這包括姓名、電子郵件地址、電話號碼、登入名稱與密碼、地址、基本資料相片、付款或銀行資訊 (包括相關付款驗證資訊)、使用者設定 (包括無障礙設定)，以及 Uber 合作夥伴常客獎勵方案資訊。",
+"article numbers": "5, 6",
+"legal provisions": "The policy needs to specify the legal basis for processing each data category (e.g., consent, contract performance, legitimate interests). It should also clarify data retention periods and the purposes of processing.",
+"amend": "For each data category listed, specify: \n- The legal basis for processing (Article 6)\n- The purpose of processing\n- The retention period for the data"
+},
+{
+"section": "對於駕駛與合作外送夥伴而言，這也包含其車輛或保險資訊、緊急聯絡人資訊，以及使用 Uber App 提供服務所需之健康或資格證明。",
+"article numbers": "9",
+"legal provisions": "Collecting health data and other special categories of data (Article 9) requires a specific legal basis and safeguards. The policy should explicitly address this.",
+"amend": "Provide a separate section detailing the processing of special categories of data, including the legal basis (e.g., explicit consent, legal obligation) and safeguards implemented."
+},
+{
+"section": "背景調查資訊 (職業駕駛與合作外送夥伴)： 這包括在職業駕駛/合作外送夥伴線上開通流程期間送出的資訊，例如駕駛記錄或犯罪記錄 (在法律允許範圍內)、駕照狀態、已知別名、先前的地址，以及工作權等資訊。",
+"article numbers": "5, 10",
+"legal provisions": "Processing criminal history data and other sensitive information requires a specific legal basis and adherence to the principles of data minimization and purpose limitation (Article 5). The policy should justify the necessity and proportionality of collecting such data.",
+"amend": "Provide a detailed explanation for collecting and processing criminal history data, including:\n- The specific legal basis (e.g., legal obligation, substantial public interest)\n- The necessity and proportionality of the processing\n- Safeguards implemented to protect the data"
+}
+]
+}

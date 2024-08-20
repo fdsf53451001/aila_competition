@@ -1,0 +1,27 @@
+{
+"compliant": [
+{
+"section": "We at OpenAI OpCo, LLC (together with our affiliates, “OpenAI”, “we”, “our” or “us”) respect your privacy and are strongly committed to keeping secure any information we obtain from you or about you.",
+"article numbers": "5",
+"legal provisions": "Principles relating to processing of personal data - Data Minimisation"
+},
+{
+"section": "This Privacy Policy describes our practices with respect to Personal Information we collect from or about you when you use our website, applications, and services (collectively, “Services”).",
+"article numbers": "13, 14",
+"legal provisions": "Information to be provided where personal data are collected from the data subject"
+},
+{
+"section": "Account Information: When you create an account with us, we will collect information associated with your account, including your name, contact information, account credentials, payment card information, and transaction history, (collectively, “Account Information”).",
+"article numbers": "6",
+"legal provisions": "Lawfulness of processing"
+}
+],
+"non_compliant": [
+{
+"section": "These updates do not apply to individuals located in the European Economic Area, UK, and Switzerland.",
+"article numbers": "3",
+"legal provisions": "Territorial Scope",
+"amend": "The policy should apply to individuals in the EEA, UK and Switzerland as GDPR applies to organisations that process personal data of individuals in the EU/EEA, regardless of whether the organisation is based in the EU/EEA or not."
+}
+]
+}

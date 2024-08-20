@@ -1,0 +1,35 @@
+{
+"compliant": [
+{
+"section": "Upon any termination, Company may, but is not obligated to, delete archived data.",
+"article numbers": "17",
+"legal provisions": "Right to erasure ('right to be forgotten')"
+}
+],
+"non_compliant": [
+{
+"section": "Customer will pay in full for the Platform up to and including the last day on which the Platform is provided.",
+"article numbers": "13.1 (b), 29(1)",
+"legal provisions": "General obligation of transparency, Fairness and transparency",
+"amend": "Clarify whether this applies to all terminations, including those initiated by the customer, and if so, under what circumstances the customer might be entitled to a partial refund. This is important for ensuring fairness and transparency in contractual terms."
+},
+{
+"section": "COMPANY DOES NOT WARRANT THAT THE PLATFORM OR ANY OTHER SERVICES PROVIDED HEREUNDER WILL BE UNINTERRUPTED OR ERROR FREE; NOR DOES IT MAKE ANY WARRANTY AS TO THE RESULTS THAT MAY BE OBTAINED FROM USE OF THE PLATFORM OR ANY OTHER SERVICES PROVIDED HEREUNDER.",
+"article numbers": "8(3), 13.1 (b), 29(1)",
+"legal provisions": "Conditions for consent, General obligation of transparency, Fairness and transparency",
+"amend": "While disclaimers of warranty are common, it's important to ensure they don't conflict with essential consumer rights. The language should be reviewed to ensure it doesn't absolve the company of responsibility for fundamental issues like data security or compliance with applicable laws."
+},
+{
+"section": "THE PLATFORM AND ALL OTHER SERVICES PROVIDED HEREUNDER ARE PROVIDED “AS IS” AND COMPANY DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.",
+"article numbers": "8(3), 13.1 (b), 29(1)",
+"legal provisions": "Conditions for consent, General obligation of transparency, Fairness and transparency",
+"amend": "Similar to the previous point, this disclaimer needs to be reviewed and potentially revised to ensure it doesn't contradict GDPR requirements, particularly regarding data protection and security, which are fundamental rights under the regulation."
+},
+{
+"section": "IN NO EVENT WILL COMPANY BE LIABLE FOR ANY INDIRECT, PUNITIVE, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES ARISING OUT OF OR IN ANY WAY CONNECTED WITH THE USE OF THE PLATFORM OR ANYTHING PROVIDED IN CONNECTION WITH THIS AGREEMENT, THE DELAY OR INABILITY TO USE THE PLATFORM OR ANYTHING PROVIDED IN CONNECTION WITH THIS AGREEMENT OR OTHERWISE ARISING FROM THIS AGREEMENT, INCLUDING WITHOUT LIMITATION, LOSS OF REVENUE OR ANTICIPATED PROFITS OR LOST BUSINESS OR LOST SALES, WHETHER BASED IN CONTRACT, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY, OR OTHERWISE, EVEN IF COMPANY HAS BEEN ADVISED OF THE POSSIBILITY OF DAMAGES.",
+"article numbers": "82",
+"legal provisions": "Right to compensation and liability",
+"amend": "While limitations of liability are permissible, they cannot exclude or limit liability for damages caused by intentional or grossly negligent breaches of the agreement. The language should be reviewed and potentially revised to ensure it complies with this principle."
+}
+]
+}

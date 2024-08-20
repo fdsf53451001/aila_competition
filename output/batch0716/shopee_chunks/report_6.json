@@ -1,0 +1,46 @@
+{
+"compliant": [
+{
+"section": "The policy mentions the use of cookies and obtaining consent for them, which aligns with GDPR requirements.",
+"article_numbers": "Article 7, Recital 32",
+"legal_provisions": "Conditions for consent, Information to be provided where personal data are collected from the data subject"
+},
+{
+"section": "The policy states that location data is collected for specific purposes, and users can withdraw consent, which is in line with GDPR.",
+"article_numbers": "Article 6(1)(a), Article 7",
+"legal_provisions": "Lawfulness of processing (consent), Conditions for consent"
+}
+],
+"non_compliant": [
+{
+"section": "The policy provides a broad list of data collected (\"including but not limited to\") without specifying the legal basis for each type of data.",
+"article_numbers": "Article 6(1), Article 5(1)(b)",
+"legal_provisions": "Lawfulness of processing, Principles relating to processing of personal data (purpose limitation)",
+"amend": "Clearly state the legal basis for processing each category of personal data (e.g., consent, contract performance, legitimate interests). Limit data collection to what is necessary for the specified purposes."
+},
+{
+"section": "While the policy mentions anonymized statistics, it doesn't clarify how anonymization is achieved and if it aligns with GDPR's definition.",
+"article_numbers": "Recital 26",
+"legal_provisions": "Information to be provided where personal data are collected from the data subject (anonymization)",
+"amend": "Explain the anonymization techniques used and ensure they meet GDPR standards, making the data truly non-identifiable."
+},
+{
+"section": "The policy lacks information about data retention periods, which is a GDPR requirement.",
+"article_numbers": "Article 5(1)(e)",
+"legal_provisions": "Principles relating to processing of personal data (storage limitation)",
+"amend": "Specify how long each type of personal data is stored and the criteria for determining the retention period."
+},
+{
+"section": "The policy doesn't explicitly mention data subject rights (access, rectification, erasure, etc.) as required by GDPR.",
+"article_numbers": "Articles 12-23",
+"legal_provisions": "Chapter III (Rights of the data subject)",
+"amend": "Clearly list and explain all data subject rights, including access, rectification, erasure, restriction of processing, data portability, and objection."
+},
+{
+"section": "The policy doesn't provide contact information for the data controller or data protection officer (DPO), if applicable.",
+"article_numbers": "Article 37(7), Article 30(5)",
+"legal_provisions": "Designation of the data protection officer, Records of processing activities",
+"amend": "Include clear contact details for the data controller and, if designated, the DPO."
+}
+]
+}

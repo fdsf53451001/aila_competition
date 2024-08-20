@@ -1,0 +1,17 @@
+{
+"compliant": [],
+"non_compliant": [
+{
+"section": "All Rights Reserved.",
+"article numbers": "Articles 12-14",
+"legal provisions": "Transparency and Information Requirements",
+"amend": "This statement is too vague and does not meet the GDPR's transparency requirements.  It should be replaced with a detailed explanation of what data is collected, how it is used, and the legal basis for processing.  Users must be clearly informed about their rights."
+},
+{
+"section": "隱私權政策與聲明",
+"article numbers": "Article 12",
+"legal provisions": "Language Accessibility",
+"amend": "GDPR mandates that privacy policies be provided in a concise, transparent, intelligible, and easily accessible form, using clear and plain language. Providing the policy only in Chinese may not be sufficient for all users. It should also be translated into the languages of the intended audience."
+}
+]
+}

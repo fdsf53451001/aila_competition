@@ -1,0 +1,69 @@
+{
+"compliant": [
+{
+"section": "只要您提供上述個人資訊，即可使用我方網站所提供之服務。我方將只會蒐集我方於提供服務、線上功能或活動時所合理必要或直接相關之個人資訊。",
+"article numbers": "5, 6(1)(b)",
+"legal provisions": "Principles relating to processing of personal data, particularly lawfulness of processing"
+},
+{
+"section": "敏感性資訊係指與個人原屬種族或種族文化、政治看法、政黨成員、宗教信仰或關聯、哲學信念、專業或同業公會成員、工會成員、性喜好或習慣、犯罪紀錄或健康資訊有關之任何資訊。\n我方將不會要求您揭露敏感性資訊，且茲此要求您不要將此等敏感性資訊提供給我方。儘管如此，若您自願提供敏感性資訊，我方仍將依據本隱私權政策擷取、儲存與運用該等資訊。",
+"article numbers": "9",
+"legal provisions": "Processing of special categories of personal data"
+},
+{
+"section": "我方會使用「cookie」為您提供更好且更加客製化的服務，以及更有效的網站。「cookie」是我方網頁伺服器在您的電腦上放置的一個小型文字檔案，可於放置後擷取相關資料。網站通常都會使用cookie，且您可透過設定網際網路瀏覽器偏好與選項的方式，選擇是否接受以及如何接受 cookie。",
+"article numbers": "4(11), 5(1)(a)",
+"legal provisions": "Conditions for consent"
+},
+{
+"section": "您的資訊安全對我們來說非常重要。\n僅我方部分員工及我方授權第三方，方能於為完成工作有必要知悉之前提下存取您的資訊。我方政策為保護您所提供並由我方持有之所有資訊的完整性。為避免發生違反安全規定的情況，我方會採用多種安全技術並定期掌握安全與加密技術的發展，惟截至目前為止，沒有任何一種網際網路資料傳輸技術可以保證資料百分之百安全。 \n我方會採取所有合理步驟，保護我方系統儲存資訊免於遭受濫用、干擾、遺失以及任何未經授權存取、修改或揭露。\n若我方不再需要您的資訊，我方將於法律允許之範圍內採取所有合理步驟，銷毀相關資訊或消除資訊中能夠識別身份的所有部分。\n我方會依據本政策規定，採取合理步驟保護 cookie 與個人資訊的安全。若您的網際網路瀏覽器設置適當，將可在您發送資訊給我方時，通知您該等資訊是否安全（加密或未加密）。",
+"article numbers": "5(1)(f), 32",
+"legal provisions": "Security of processing"
+},
+{
+"section": "我方將不會為了直接行銷目的而使用或揭露與您有關的敏感性資訊，除非您對該等使用或揭露表示同意。\n我方得為直接行銷目的使用您的資訊（非敏感性資訊）。若您不希望收取我方或其他組織寄發的直接行銷資料，或希望瞭解所使用資訊的來源，請寄發郵件至下列信箱：leaglau@aopen.com。我方將於實務可行範圍內儘快回應您的要求。",
+"article numbers": "21",
+"legal provisions": "Right to object"
+},
+{
+"section": "兒童指南\n我方將不會向兒童或青少年（依據當地法律定義）蒐集線上聯絡資訊，且若我方知悉持有與兒童或青少年有關的個人資訊，我方將會自我方系統刪除。我們鼓勵父母或監護人（包括其他法律代表人）與子女共同上網及參與其線上活動。兒童或青少年僅於取得父母或監護人同意並為交易付款之前提下、或於適用法律允許之範圍內，方得使用我方線上銷售交易服務。若您是兒童或青少年，您在完成本網站部分交易前，將須取得您的父母或監護人同意。",
+"article numbers": "8",
+"legal provisions": "Conditions applicable to child's consent in relation to information society services"
+},
+{
+"section": "依據「個人資料保護法（Personal Data Protection Law）」規定，您可行使與您個人資訊有關的下列權利：\n•  檢視個人資訊之所有查詢與要求（依據個別狀況之不同，可能須收取服務費）；\n•  複製個人資訊之所有要求（依據個別狀況之不同，可能須收取服務費）；\n•  增補或改正個人資訊之所有要求；\n•  停止蒐集、處理或使用個人資訊之所有要求；及\n•  刪除個人資訊之所有要求。",
+"article numbers": "12-22",
+"legal provisions": "Transparent information, communication and modalities for the exercise of the rights of the data subject"
+},
+{
+"section": "歐盟使用者：\n若您所提供之資訊，係由我方位於歐洲經濟區（「EEA」）或瑞士之聯屬公司移轉予我方位於歐洲經濟區或瑞士以外子公司或代理人，我方將採行適當步驟為資料提供足夠保護。請注意，若您儲存至雲端儲存服務之資料與資訊係儲存於歐洲以外地區之伺服器，則不適用本隱私權政策。於此情況下，您須完全就於歐洲以外地區儲存您的資料負責及承擔所有相關風險。",
+"article numbers": "44-50",
+"legal provisions": "Transfers of personal data to third countries or international organisations"
+},
+{
+"section": "您得於任何時點與我方聯繫，選擇不允許我方使用您的個人資訊。我方將於合理可行之範圍內，儘快自我方資料庫移除您的個人資訊。",
+"article numbers": "17",
+"legal provisions": "Right to erasure ('right to be forgotten')"
+}
+],
+"non_compliant": [
+{
+"section": "第三方資訊 \n我方網站亦包括第三方商品與服務提供方（第三方）網站（第三方網站）之連結。若您係透過我方網站存取第三方網站，且若第三方蒐集與您有關之資訊，我方亦可能因與第三方間安排而蒐集或存取該等資訊，包括但不限於，cookie、與您的喜好有關之資訊或您所提供的任何資訊。\n請注意，我方網站所列所有政策、免責聲明、條款與條件及／或通知，皆僅適用我方服務及／或我方網站。除非我方取得您的同意，否則我方不會將您所提供的任何資訊直接分享給第三方網站。我方不就與我方網站連結之第三方網站的任何資訊、內容或政策負擔責任。我們建議您參閱第三方網站所公布隱私權政策，以了解詳細規定。\n我方不就任何網站所提供、且非我方控制之任何資訊、內容或政策負擔保證責任或提供支援。",
+"article numbers": "24, 28",
+"legal provisions": "Responsibility of the controller, Joint controllers",
+"amend": "This section needs to clearly identify the data controllers and their respective responsibilities. It should also specify the legal basis for data sharing with third parties and provide clear information about data subject rights in relation to such sharing."
+},
+{
+"section": "C.  我方提供線上服務之伺服器，每天處理與儲存極大數量的資訊，並保留所執行處理作業之紀錄。此等電腦紀錄稱為「紀錄檔案（log files）」。我方系統於處理紀錄檔案所含資訊後，將會予以儲存並凍結以避免遭進一步存取。於資訊儲存之前，您的帳戶資訊可能保留在我方使用中的伺服器紀錄檔案。",
+"article numbers": "5(1)(e)",
+"legal provisions": "Storage limitation",
+"amend": "The policy should specify the exact duration for which log files are stored and the criteria used to determine this period. It should also clarify the purpose of storing this data and ensure that storage is limited to what is necessary and proportionate."
+},
+{
+"section": "若您所提供的資料包括任何第三方個人資訊，您茲此確認該等第三方知悉其依據本隱私權政策擁有之權利，並保證您已取得該等第三方之同意及授權，使我方能夠依據本隱私權政策使用其個人資訊。",
+"article numbers": "4(11), 5(1)(a)",
+"legal provisions": "Conditions for consent",
+"amend": "The policy should clarify that obtaining consent from third parties is the responsibility of the user, not the website operator. It should also provide guidance on how users can ensure they have obtained valid consent from third parties before sharing their data."
+}
+]
+}

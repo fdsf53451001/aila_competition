@@ -1,0 +1,33 @@
+{
+"compliant": [
+{
+"section": "當您提供資訊給本公司時〈例如：當您主動聯繫我們〉；基於我們與您雙方間的法律關係而取得之資訊〈例如：當您向我們採購產品〉",
+"article numbers": "6(1)(b)",
+"legal provisions": "Processing is necessary for the performance of a contract to which the data subject is party or in order to take steps at the request of the data subject prior to entering into a contract."
+},
+{
+"section": "您自行公開之個人資料〈例如：您在社群媒體上公開之資訊〉",
+"article numbers": "Article 6(1)(a), considering Recital 43",
+"legal provisions": "Consent of the data subject, however, the public availability of personal data does not necessarily mean it can be processed freely. The specific circumstances, such as the data subject's reasonable expectations, need careful consideration."
+},
+{
+"section": "當您造訪本公司的網站；當您向本公司任何一個網站註冊以使用我們的網站、產品或服務",
+"article numbers": "6(1)(f), considering Recital 47",
+"legal provisions": "Legitimate interests for website operation and service provision, but requires a legitimate interest assessment (LIA) and appropriate safeguards, especially for cookies and similar technologies (see ePrivacy Directive)."
+}
+],
+"non_compliant": [
+{
+"section": "或是當您和本公司網站上的第三方內容或廣告進行互動",
+"article numbers": "N/A",
+"legal provisions": "GDPR requires specific, informed, and unambiguous consent for processing personal data. Interacting with third-party content or ads doesn't automatically imply valid consent for data processing by the website operator.",
+"amend": "The policy should clarify the types of data processed, the purpose, the legal basis, and whether data is shared with third parties. It should also explain users' rights regarding such processing and how to exercise them."
+},
+{
+"section": "另外，我們也可能由第三方獲得您的個人資料〈例如：執法機關〉",
+"article numbers": "N/A",
+"legal provisions": "While obtaining data from third parties like law enforcement is permissible under certain circumstances, the policy lacks transparency and specificity. ",
+"amend": "It should specify the types of data received, the legal basis for processing (e.g., legal obligation, public interest), and any safeguards implemented to protect individuals' rights. It should also mention data subjects' rights regarding such processing."
+}
+]
+}

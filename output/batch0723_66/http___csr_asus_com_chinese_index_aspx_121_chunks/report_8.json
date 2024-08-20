@@ -1,0 +1,22 @@
+{
+"compliant": [
+{
+"section": "3.3 服務提供商\n我們也會在本政策所提及之目的範圍內，將您的個人資料的必要項目揭露、分享給我們的服務提供商，以利其提供服務給您，例如協助我們發送行銷資料及舉辦行銷活動的行銷活動公司、運送您所購買或維修的產品的貨運公司、處理付款事宜的金流處理商，以及提供您客服支援服務(像是華碩電話客服、華碩線上真人客服、華碩產品的維修服務等) 的客務服務提供商。該等服務提供商皆將依循我們的指示於本政策所提及之目的範圍內使用自您的個人資料，我們亦會確保其等確實遵守本政策。",
+"article numbers": "27, 28",
+"legal provisions": "Data Processing Agreement with processor, instructions to processor"
+},
+{
+"section": "3.4 基於法律或保護之目的\n如有以下任何一種為遵循法律要求或為保全目的的情形時，我們將揭露、分享您的個人資料的必要項目予第三方:\n於有遵守法令、主管機關或司法單位之要求、或為保全法律上的請求、抗辯或為防止詐騙或調查其他不法行為所必要時。",
+"article numbers": "6(1)(c), 6(1)(f)",
+"legal provisions": "Legal obligation, legitimate interests (compliance, fraud prevention)"
+}
+],
+"non_compliant": [
+{
+"section": "4.跨境傳輸\n此段介紹華碩在符合各國個人資料相關法規的情形下，將可能會把您的個人資料傳輸至您所在國家以外的地區。\n您了解並同意當您使用華碩產品或服務或將您的個人資料提供予我們時，您的個人資料皆將可能在我們位處各國的關係企業、服務供應商間進行跨境傳輸、儲存及處理利用。",
+"article numbers": "44, 45, 46, 49",
+"legal provisions": "Transfer Impact Assessment, appropriate safeguards for international transfers (e.g., adequacy decision, SCCs, BCRs)",
+"amend": "This section needs to specify the legal basis for transferring data outside of the EEA.  It should mention the use of appropriate safeguards such as adequacy decisions, Standard Contractual Clauses (SCCs), Binding Corporate Rules (BCRs), or other legal mechanisms to ensure GDPR-compliant data transfers."
+}
+]
+}

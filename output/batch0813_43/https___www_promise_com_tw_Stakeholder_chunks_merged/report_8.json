@@ -1,0 +1,34 @@
+{
+"compliant": [
+{
+"section": "「Cookies」是網路伺服器發送以儲存在網路瀏覽器上的一小段資料。自Cookie蒐集的資料用於區分個別使用者的偏好。",
+"article numbers": "5(1)(c)",
+"legal provisions": "Data minimisation - collecting only data necessary for the specified purpose."
+},
+{
+"section": "大多數網站可能使用Cookie提供服務給其客戶。然而，Cookies 僅會識別除使用者以外的電腦使用。",
+"article numbers": "26",
+"legal provisions": "Joint Controllership - informing users about data sharing with other websites."
+}
+],
+"non_compliant": [
+{
+"section": "因此，您可選擇將瀏覽器設定為不接受 Cookie，然而，如果您禁用 Cookie，您將無法使用特定個性化功能或參與網站上的所有活動。",
+"article numbers": "7(4), 25(2)",
+"legal provisions": "Freely given consent - making services conditional on consent to cookies that are not strictly necessary is not compliant.",
+"amend": "修改為： \"您可選擇將瀏覽器設定為不接受 Cookie。請注意，如果您禁用 Cookie，您將無法使用網站上的特定功能。我們提供必要的Cookie以確保網站正常運作，以及用於改善我們服務的非必要的Cookie。\""
+},
+{
+"section": "Promise 不會揭露自您的 Cookies 所取得之資料，以保護您的隱私權。",
+"article numbers": "13(1)(e), 14(2)(f)",
+"legal provisions": "Information to be provided - missing information about recipients or categories of recipients of the data.",
+"amend": "加入： \"我們可能會與服務供應商共享您的Cookie數據，這些供應商協助我們提供和改進我們的服務。我們會確保所有服務供應商都符合GDPR的要求，並採取適當的技術和組織措施來保護您的數據。\""
+},
+{
+"section": "Promise可能會使用 Cookie 透過您的網路瀏覽器蒐集資訊，為您提供各種服務，並邀請您參與網站上的所有活動。使我們確定您的網路偏好，以協助提供更好的服務給您。",
+"article numbers": "13(1)(a, c), 14(2)(a, c)",
+"legal provisions": "Transparency and purpose limitation - the purposes are too broad and not clearly defined.",
+"amend": "修改為：\"我們使用Cookie來：\n\n* 確保網站正常運作。\n* 分析網站流量和使用情況，以改進我們的服務。\n* 提供個性化內容和廣告。\n\n我們會根據您提供的同意使用Cookie，您可以在任何時候透過我們的Cookie設定管理您的偏好。\""
+}
+]
+}

@@ -1,0 +1,27 @@
+{"compliant": [
+    {
+        "section": "一、政策適用範圍\n隱私權保護政策內容，包括鳳凰旅行社股份有限公司如何處理在用戶使用網站服務時收集到的身份識別資料，也包括鳳凰旅行社股份有限公司如何處理在合作伙伴與鳳凰旅行社股份有限公司合作時分享的任何身份識別資料。",
+        "article numbers": "13, 14",
+        "legal provisions": "Information to be provided where personal data are collected from the data subject; Information to be provided where personal data have not been obtained from the data subject"
+    },
+    {
+        "section": "二、個資蒐集處理利用\n蒐集機關名稱：鳳凰旅行社股份有限公司\n蒐集目的：提供本公司相關服務、行銷、客戶管理、會員管理及其他與第三人合作之行銷推廣活動。",
+        "article numbers": "5",
+        "legal provisions": "Principles relating to processing of personal data: (a) lawfulness, fairness and transparency, (b) purpose limitation, (c) data minimisation, (d) accuracy, (e) storage limitation, (f) integrity and confidentiality"
+    }
+],
+"non_compliant": [
+    {
+        "section": "隱私權保護政策不適用於鳳凰旅行社股份有限公司以外的公司或網站群，與非鳳凰旅行社股份有限公司所僱用或管理人員。例如您透過鳳凰旅行社股份有限公司旗下網站上的廣告廠商連結，這些置放連結的廠商也可能蒐集您個人的資料。對於您主動提供的個人資訊，這些廣告廠商或連結網站有其個別的隱私權保護政策，其資料處理措施不適用於鳳凰旅行社股份有限公司隱私權保護政策。",
+        "article numbers": "44, 45, 46",
+        "legal provisions": "General obligation for controllers and processors; Joint controllers; Processors",
+        "amend": "鳳凰旅行社股份有限公司 should ensure that any third-party data processors they work with also comply with GDPR. They should have a written contract with these processors that outlines their responsibilities and obligations. The policy should clearly state that 鳳凰旅行社股份有限公司 is responsible for ensuring the protection of personal data, even when processed by a third party."
+    },
+    {
+        "section": "個人資料類別：\n辨識個人者(包含但不限於中英文姓名、地址、聯絡電話、電子郵件信箱、通訊軟帳號、社群．媒體帳號、網路平台申請之帳號及其他任何可辨識資料本人者等)。\n辨識財務者(包含但不限於金融機構帳戶之號碼與姓名、信用卡號碼、持卡人姓名、信用卡有效期限、個人之其他號碼或帳戶等)。",
+        "article numbers": "9, 10",
+        "legal provisions": "Processing of special categories of personal data; Processing of personal data relating to criminal convictions and offences",
+        "amend": "While the policy lists categories of personal data collected, it's unclear if explicit consent is obtained for processing sensitive data like financial information. GDPR requires explicit consent for processing such data. The policy should clearly state what sensitive data is collected and how consent is obtained."
+    }
+]
+}

@@ -1,0 +1,34 @@
+{
+"compliant": [
+{
+"section": "We ask you whether you wish us to use cookies. If you choose not to accept them, we shall not use them for your visit except to record that you have not consented to their use for any other purpose.",
+"article numbers": "7(4), 4(11)",
+"legal provisions": "Consent must be freely given, specific, informed and unambiguous indication of the data subject's wishes by which he or she, by a statement or by a clear affirmative action, signifies agreement to the processing of personal data relating to him or her."
+},
+{
+"section": "Users can unsubscribe at any time by clicking the link in the footer of our emails.",
+"article numbers": "21(2), 17(3)(b)",
+"legal provisions": "The data subject shall have the right to object, on grounds relating to his or her particular situation, at any time to processing of personal data concerning him or her which is based on point (e) or (f) of Article 6(1), including profiling based on those provisions. The controller shall no longer process the personal data unless the controller demonstrates compelling legitimate grounds for the processing which override the interests, rights and freedoms of the data subject or for the establishment, exercise or defence of legal claims."
+}
+],
+"non_compliant": [
+{
+"section": "Third-party disclosure We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information.",
+"article numbers": "44-50",
+"legal provisions": "The GDPR restricts transfers of personal data to countries outside the EU/EEA to ensure that the data protection offered by the GDPR is not undermined. Such transfers are allowed only if the receiving country ensures an adequate level of data protection or if appropriate safeguards are in place.",
+"amend": "Specify the circumstances under which data transfers to third countries will occur, the safeguards implemented (e.g., standard contractual clauses, binding corporate rules), and the means for users to obtain a copy of these safeguards or information about where they are available."
+},
+{
+"section": "We use Google AdSense Advertising on our website. Google, as a third-party vendor, uses cookies to serve ads on our site.",
+"article numbers": "4(11), 7",
+"legal provisions": "Consent is required for the use of cookies and similar technologies for online behavioral advertising. The user must be informed about the use of cookies and their right to refuse them.",
+"amend": "Provide users with a clear and concise explanation of how Google AdSense uses cookies for personalized advertising. Offer users the option to opt out of personalized advertising through Google AdSense and provide a link to Google's Ads Settings page (https://adssettings.google.com)."
+},
+{
+"section": "Learn more about Mailchimp’s privacy practices here.",
+"article numbers": "12, 13, 14",
+"legal provisions": "Information provided to data subjects must be concise, transparent, intelligible and easily accessible, free of charge, using clear and plain language, in particular for any information addressed specifically to a child. It must include details about the controller, the purpose of processing, the legal basis, recipients, transfers to third countries, retention periods, and the rights of data subjects.",
+"amend": "Instead of simply linking to Mailchimp's privacy policy, provide a summary of the key points relevant to data processing, including the purposes, legal basis, data retention periods, and data subject rights. Ensure this information is presented clearly and concisely within your own privacy policy."
+}
+]
+}

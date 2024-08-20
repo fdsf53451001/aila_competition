@@ -1,0 +1,29 @@
+{
+"compliant": [
+{
+"section": "You may terminate your account with Faraday and any access to the Website by submitting such termination request to Faraday.",
+"article numbers": "17, 20",
+"legal provisions": "Right to erasure ('right to be forgotten') and Right to data portability"
+}
+],
+"non_compliant": [
+{
+"section": "You agree that Faraday shall not be liable to you or to any third party for any modification, suspension or discontinuance of the Website (or any part thereof).",
+"article numbers": "N/A",
+"legal provisions": "N/A",
+"amend": "While this statement is not non-compliant, it's important to ensure that any modifications, suspensions, or discontinuations respect user rights under GDPR, such as data access and portability."
+},
+{
+"section": "You agree that Faraday may, without prior notice, immediately terminate, limit your access to or suspend your Faraday account, any associated email address, and access to the Website.",
+"article numbers": "12, 13, 14",
+"legal provisions": "Right to be informed, Right of access, and Right to rectification",
+"amend": "GDPR requires that users are informed about the processing of their data (Article 12), have access to their data (Article 13), and can request rectification of inaccurate data (Article 14).  Therefore, Faraday should inform users about the reasons for termination, limitation of access, or suspension and provide them with an opportunity to rectify any issues or access their data."
+},
+{
+"section": "Cause for such termination, limitation of access or suspension shall include, but not be limited to, (a) breaches or violations of the T&Cs or other incorporated agreements or guidelines, (b)requests by law enforcement or other government agencies, (c) discontinuance or material modification to the Website (or any part thereof), (d) unexpected technical or security issues or problems, (e) extended periods of inactivity, (f) engagement by you in fraudulent or illegal activities, and/or (g) nonpayment of any fees owed by you in connection with the Website.",
+"article numbers": "6, 17",
+"legal provisions": "Lawfulness of processing and Right to erasure ('right to be forgotten')",
+"amend": "While some of these reasons for termination are acceptable under GDPR (e.g., breaches of T&Cs, requests by law enforcement), others require careful consideration. For instance, terminating an account solely due to 'extended periods of inactivity' might not be justifiable unless Faraday can demonstrate a legitimate interest (Article 6) and has informed users about this possibility. Additionally, Faraday should clearly define what constitutes 'fraudulent or illegal activities' and ensure that any actions taken are proportionate and respect the user's rights."
+}
+]
+}

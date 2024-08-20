@@ -1,0 +1,40 @@
+{
+"compliant": [
+{
+"section": "聯絡方式\n如對本政策有任何疑問，或有其他與本政策有關之問題，歡迎聯絡我們與本公司人員取得連繫。",
+"article numbers": "12, 13",
+"legal provisions": "Right to information (Articles 12, 13 GDPR) - The policy provides contact information for users to ask questions about the policy, which aligns with the GDPR's requirement for transparency and providing a point of contact."
+},
+{
+"section": "✓ 允許\n✗ 拒絕\n通過允許這些第三方服務，您將接受他們的cookies以及使用正確運行所需的追踪技術.",
+"article numbers": "4(11), 7",
+"legal provisions": "Consent (Article 4(11) and 7 GDPR) - The policy mentions that by allowing third-party services, users consent to their cookies and tracking technologies. This aligns with the GDPR's requirement for freely given, specific, informed, and unambiguous consent."
+}
+],
+"non_compliant": [
+{
+"section": "✛ 所有服務\n✓ 允許\n✗ 拒絕",
+"article numbers": "6(1)(a)",
+"legal provisions": "Lawfulness of processing (Article 6(1)(a) GDPR) - While the policy mentions consent for cookies, it doesn't explicitly state the legal basis for processing personal data in general. It should clearly state the legal basis for each processing activity (e.g., consent, contract, legitimate interest).",
+"amend": "Clearly state the legal basis for processing personal data for each purpose (e.g., providing the website, analytics, advertising). For example, \"We process your data based on your consent (when you accept cookies) for the purpose of website analytics.\""
+},
+{
+"section": "✛ APIs\nAPIs用於加載功能：地理位置，搜索引擎，翻譯, ...",
+"article numbers": "13, 14",
+"legal provisions": "Information to be provided (Articles 13, 14 GDPR) - The policy mentions using APIs for geolocation, search engines, and translations. It should specify the third-party providers involved and provide links to their respective privacy policies.",
+"amend": "Identify the specific third-party API providers used (e.g., Google Maps for geolocation) and provide links to their privacy policies."
+},
+{
+"section": "✛ Google Adwords\nGoogle Adwords 可以通過在該網站上銷售廣告來產生收入。\n✛ Google Analytics\nGoogle Analytics 服務用於生成有用的統計數據以改善網站。\nGoogle Analytics (gtag.js)\n此服務可以安裝 8 cookies.\n看更多 - 查看官方網站\n✓ 允許\n✗ 拒絕",
+"article numbers": "13, 14",
+"legal provisions": "Transparency and information (Articles 13, 14 GDPR) - While the policy mentions Google AdWords and Analytics, it should provide more specific information about the data collected, the purpose of processing, and data retention periods.",
+"amend": "Provide more detailed information about the data collected by Google AdWords and Analytics, the purpose of processing that data, and the data retention periods."
+},
+{
+"section": "✛ 影片\n視頻共享服務有助於在網站上添加媒體並提高其可見度。\n✛ 支持\n通過支持服務，您可以與網站團隊取得聯繫並幫助改善網站。\n✛ 社交網絡\n社交網絡可以提高網站的可用性。\n✛ 註釋\n評論管理人員便於提交意見和打擊垃圾郵件。",
+"article numbers": "13, 14",
+"legal provisions": "Transparency and information (Articles 13, 14 GDPR) - Similar to the APIs section, the policy should identify the specific third-party providers for video sharing, support, social networks, and comment management. It should also provide links to their respective privacy policies.",
+"amend": "Identify the specific third-party providers for each category (e.g., YouTube for video sharing) and provide links to their privacy policies."
+}
+]
+}

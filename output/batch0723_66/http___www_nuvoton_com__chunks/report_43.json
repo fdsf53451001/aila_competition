@@ -1,0 +1,28 @@
+{
+"compliant": [
+{
+"section": "Nuvoton supplemental Privacy Statement for California consumers under CCPA",
+"article numbers": "13, 14",
+"legal provisions": "Information to be provided where personal data are collected from the data subject"
+},
+{
+"section": "This website uses cookies to ensure you get the best experience on our website.",
+"article numbers": "7",
+"legal provisions": "Conditions for consent"
+}
+],
+"non_compliant": [
+{
+"section": "Copyright ©2008-2024 Nuvoton Technology Corporation",
+"article numbers": "13, 14",
+"legal provisions": "Information to be provided where personal data are collected from the data subject",
+"amend": "Should include the company's full legal name and contact information."
+},
+{
+"section": "Terms of Use Privacy Policy Contact us Site Map",
+"article numbers": "12",
+"legal provisions": "Transparent information, communication and modalities for the exercise of the data subject's rights",
+"amend": "The language used should be clear and plain.  It lacks details about data subject rights like access, rectification, erasure."
+}
+]
+}

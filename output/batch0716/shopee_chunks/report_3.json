@@ -1,0 +1,34 @@
+{
+"compliant": [
+{
+"section": "本政策旨在協助您瞭解我們蒐集哪些資料、我們如何使用及分享這些資料，以及您可以如何管理您的個人資料。",
+"article numbers": "13, 14",
+"legal provisions": "Information provided to data subject"
+},
+{
+"section": "在某些情況下，您可能會向我們提供其他個人的個人資料（如您的家庭成員、朋友或您的連絡人名單中的人）。如果您向我們提供他們的個人資料，您應聲明並保證您已經獲得他們的同意，可以按照本政策處理他們的個人資料。",
+"article numbers": "6",
+"legal provisions": "Lawfulness of processing"
+}
+],
+"non_compliant": [
+{
+"section": "上述情形並非包含全部情形，僅列出可能會蒐集您個人資料的一些常見實例。",
+"article numbers": "13, 14",
+"legal provisions": "Transparency and modalities",
+"amend": "The policy should provide a complete and exhaustive list of data collection instances, not just common examples."
+},
+{
+"section": "2.2  我們可能會從您、我們的關係企業、第三方以及其他來源蒐集您的個人資料，包括但不限於商業夥伴（如物流或金流服務提供商）、徵信單位或信用評分機構、行銷服務提供方或合作夥伴、推薦行銷或酬賓計畫、有關我們服務的其他使用者、公開可得或來自政府資料來源的資料。",
+"article numbers": "14",
+"legal provisions": "Information to be provided where personal data are collected from the data subject",
+"amend": "The policy should specify the categories of third parties and the specific purposes for collecting data from each source."
+},
+{
+"section": "3.Shopee會蒐集哪些個人資料？\n3.1  Shopee會在使用本服務的必要範圍內蒐集使用者的個人資料，包括但不限於：\n姓名；\n電子郵件地址；\n出生日期；\n帳單及/或寄送地址；\n銀行帳戶和付款資訊；\n電話號碼；\n性別；\n與您用來存取本服務或本平台的裝置相關資訊或該裝置所傳送出的資訊；\n與您的人際網路（包括您在設備上分享許可權限時的連絡人名單）及與您互動的人及其帳號有關的資訊；\n您的照片、錄音或影片；\n基於我們的盡職調查（due diligence）、認識客戶(know your customer)、身分確認及/或預防詐欺等目的所要求的政府機關核發之證明或其他資訊；\n行銷及通訊資訊，例如您接收來自我們或第三方行銷資訊的偏好，您的通訊偏好及與我們、我們的服務提供商或其他第三方通訊的紀錄；\n使用及交易紀錄，包括您的搜尋、訂單內容，您在本平台上互動的廣告內容，及其他與您有關的產品或服務；\n位置資訊；\n當使用者註冊使用本服務或本平台及使用者使用本服務或本平台時所提供有關使用者的其他任何資訊，以及使用者如何使用本服務或本平台的相關資訊；以及\n彙總使用者互動內容的相關資訊。",
+"article numbers": "5",
+"legal provisions": "Principles of data processing",
+"amend": "The policy should specify the legal basis for processing each category of personal data and ensure that the data collection is limited to what is necessary and proportionate for the specified purposes."
+}
+]
+}

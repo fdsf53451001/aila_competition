@@ -1,0 +1,41 @@
+{
+"compliant": [
+{
+"section": "台灣大車隊股份有限公司為提供會員服務並保護消費者權益，乃建立會員機制，以提供完整之會員服務，謹依個人資料保護法第8條規定向當事人蒐集個人資料時，應明確告知當事人下列事項：\n一、蒐集之目的。",
+"article numbers": "13, 14",
+"legal provisions": "Information to be provided where personal data are collected from the data subject - Right to be informed"
+}
+],
+"non_compliant": [
+{
+"section": "如兌換贈品依法應繳納稅捐時，會員應自行負擔該筆稅款；如依相關稅法規定應預先代扣稅款或所兌贈品應併入個人所得時，其相關作業均由各合作特約商處理。台灣大車隊網站提供之贈品兌換及活動內容，得依網站活動專區所述或以等值商品來兌換為主。",
+"article numbers": "13, 14",
+"legal provisions": "Information to be provided where personal data are collected from the data subject - Right to be informed",
+"amend": "This section should clearly state what data is collected, how it is used, and for what purpose in relation to the reward redemption and tax implications. It should also specify the legal basis for processing this data."
+},
+{
+"section": "為維護會員權益，如系統產生異常情況時，台灣大車隊將暫停會員操作之登錄及相關功能；異常狀況解除時，台灣大車隊將隨即恢復會員點數登錄及兌換功能。",
+"article numbers": "13, 14",
+"legal provisions": "Information to be provided where personal data are collected from the data subject - Right to be informed",
+"amend": "While this section mentions protecting member rights, it does not specify what data processing occurs during system anomalies. It should clarify the specific data processed and the legal basis for doing so."
+},
+{
+"section": "台灣大車隊保有會員申請、停用、修改或終止各項優惠服務之權利。有關會員之告知事項、服務辦法、相關權益及使用說明、標識符號、合作特約商、活動內容詳見本公司網站。",
+"article numbers": "13, 14",
+"legal provisions": "Information to be provided where personal data are collected from the data subject - Right to be informed",
+"amend": "This section should be more specific about the data processing involved in membership applications, suspensions, modifications, and terminations. It should also provide clear links to the relevant information on the company website."
+},
+{
+"section": "台灣大車隊將不定期更新或變更相關資料，相關資訊以更新後者為準，如您繼續使用本會員之服務，將視為您同意更新之服務條款。如有任何問題，請致電台灣大車隊客服中心，手機直撥55688或市話撥405-88888洽詢。",
+"article numbers": "13, 14",
+"legal provisions": "Information to be provided where personal data are collected from the data subject - Right to be informed",
+"amend": "This section should specify how users will be informed about updates to data processing practices and terms of service. It should also clarify what constitutes valid consent for these updates."
+},
+{
+"section": "  上述內容有全部或一部份無效時，不影響其他約定之效力。服務辦法以中華民國法令為準據法並以台北地方法院為管轄法院。",
+"article numbers": "N/A",
+"legal provisions": "N/A",
+"amend": "While this section addresses legal validity and jurisdiction, it does not directly relate to GDPR compliance. However, it's important to ensure that the chosen jurisdiction and governing law do not contradict GDPR principles, especially regarding data transfers outside the EEA."
+}
+]
+}

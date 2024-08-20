@@ -1,0 +1,39 @@
+{
+"compliant": [
+{
+"section": "本網站群絕對不會任意出售、交換、出租或以其他變相之方式，將使用者的個人資料揭露與其他團體或個人。",
+"article numbers": "Article 6(1)(a), Article 9(2)(a)",
+"legal provisions": "Lawfulness of processing: Data processing is lawful only if and to the extent that at least one of six conditions is met, including consent of the data subject. Processing of special categories of personal data: Processing of special categories of personal data is prohibited, except when explicit consent has been obtained."
+},
+{
+"section": "經過使用者的事前同意或授權允許時。",
+"article numbers": "Article 6(1)(a), Article 7",
+"legal provisions": "Lawfulness of processing: Data processing is lawful only if and to the extent that at least one of six conditions is met, including consent of the data subject. Conditions for consent: Consent must be freely given, specific, informed and unambiguous indication of the data subject's wishes."
+},
+{
+"section": "司法單位或其他主管機關經合法正式的程序要求時。",
+"article numbers": "Article 6(1)(c)",
+"legal provisions": "Lawfulness of processing: Data processing is lawful only if and to the extent that at least one of six conditions is met, including compliance with a legal obligation to which the controller is subject."
+}
+],
+"non_compliant": [
+{
+"section": "線上行為資料包括訪問本網站、其他網站及社群媒體平台(不論是否與本網站相連結者)所為網路行為而產生之資訊(包括但不限於IP位址、Cookie ID與其內容、唯一識別碼、網域名稱、裝置資訊、使用時間、瀏覽器類型、語言設定、地理位置、作業系統、伺服器紀錄、網頁搜尋/瀏覽/點選紀錄及使用模式與資訊或經合作廠商以其名義取得前開資料分析歸納而成標籤等類似資料)。",
+"article numbers": "Article 4(1), Recital 30",
+"legal provisions": "Definition of personal data: 'personal data' means any information relating to an identified or identifiable natural person ('data subject'). Online identifiers: Recital 30 clarifies that online identifiers such as IP addresses and cookies can constitute personal data.",
+"amend": "Clarify that online identifiers collected are considered personal data under GDPR and specify the legal basis for processing such data (e.g., consent, legitimate interest)."
+},
+{
+"section": "前述線上行為資料，將於前開目的存續期間內供富邦金控及其子公司、及因前開目的作業需要所委託處理之第三方或合作廠商，採自動化或非自動化之方式於國內外進行蒐集、處理、國際傳輸及利用，但未經客戶同意前，僅得於其國內外所在地進行不具可識別個人資料之蒐集、處理、國際傳輸及利用。",
+"article numbers": "Article 4(14), Article 24, Article 28, Chapter V",
+"legal provisions": "Definition of 'profiling': 'profiling' means any form of automated processing of personal data consisting of using personal data to evaluate certain personal aspects relating to a natural person. Responsibility of the controller: The controller shall implement appropriate technical and organisational measures to ensure and to be able to demonstrate that processing is performed in accordance with this Regulation. Processor: When processing is to be carried out on behalf of a controller, the controller shall use only processors providing sufficient guarantees to implement appropriate technical and organisational measures. Transfers of personal data to third countries or international organisations: Specific rules and safeguards apply to the transfer of personal data outside the EEA.",
+"amend": "Clearly define the scope of data sharing with third parties, including specific purposes and legal basis. Ensure appropriate safeguards are in place for international data transfers, such as Standard Contractual Clauses or Binding Corporate Rules."
+},
+{
+"section": "為了提供使用者其他服務或優惠權益，需要與提供該服務或優惠之第三人共用使用者的資料時，本網站會在活動時提供充分說明並告知，使用者可以自由選擇是否接受這項服務或優惠。",
+"article numbers": "Article 6(1)(a), Article 7",
+"legal provisions": "Lawfulness of processing: Data processing is lawful only if and to the extent that at least one of six conditions is met, including consent of the data subject. Conditions for consent: Consent must be freely given, specific, informed and unambiguous indication of the data subject's wishes.",
+"amend": "Ensure that consent for sharing data with third parties for marketing purposes is freely given, specific, informed and unambiguous. Provide users with a clear and separate choice to accept or decline such sharing."
+}
+]
+}

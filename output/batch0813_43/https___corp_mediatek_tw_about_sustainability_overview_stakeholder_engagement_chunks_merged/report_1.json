@@ -1,0 +1,61 @@
+{
+"compliant": [
+{
+"section": "聯發科技尊重個人隱私，並重視客戶、員工、消費者、商業夥伴及其他人士對我們隱私權聲明的信任。",
+"article numbers": "Article 5(2), Article 24(1)",
+"legal provisions": "Accountability, Responsibility for data processing"
+},
+{
+"section": "我們使用追蹤技術，例如 cookies（存放於您硬碟中之小型檔案）、網路信標、網站分析工具以及您提供給我們的個人資料，以向您提供個人化的線上體驗及改善我們的服務。",
+"article numbers": "Article 6(1)(a), Article 7",
+"legal provisions": "Lawfulness of processing - Consent, Conditions for consent"
+},
+{
+"section": "有關您使用聯發科技服務的一些資訊，可能會使用整合時間和服務的追蹤技術進行收集，並提供給我們和第三人用於特定目的，例如用於關聯您在使用聯發科技服務中所使用的不同設備資訊，通過聯發科技服務向您發送相關廣告和/或其他內容。",
+"article numbers": "Article 13(1)(c), Article 14(2)(f)",
+"legal provisions": "Information to be provided where personal data are collected from the data subject, Information to be provided where personal data have not been obtained from the data subject"
+},
+{
+"section": "請參閱我們的 cookie 聲明以獲取更多資訊，包括您對其中部分活動的部分選擇。",
+"article numbers": "Article 12(1), Article 13(2)",
+"legal provisions": "Transparent information, communication and modalities for the exercise of the rights of the data subject, Information to be provided where personal data are collected from the data subject"
+},
+{
+"section": "當您造訪聯發科技服務，即表示您同意我們設置 cookies，且同意我們和第三人在遵循 cookie 政策 的情況下，使用前述追蹤技術。",
+"article numbers": "Article 4(11), Article 7(4)",
+"legal provisions": "Consent, Conditions for consent"
+}
+],
+"non_compliant": [
+{
+"section": "我們可能保留這些資訊，以便在您登錄時記住您。我們可能會將這些資訊與我們在您使用聯發科技服務時收集的其他資訊相關聯。",
+"article numbers": "Article 5(1)(b), Article 5(1)(c)",
+"legal provisions": "Principles relating to processing of personal data - Purpose limitation, Data minimisation",
+"amend": "明確說明資料保留的具體目的和保留期限，並說明資料關聯的具體目的和法律依據。"
+},
+{
+"section": "潛在員工可能會通過我們的授權供應商營運的服務向我們提交求職資訊。通過此類線上服務收集的資訊可能包括姓名、地址、電話和傳真號碼、電子郵寄地址、教育程度、兵役情況、移民狀況和就業經歷或其他資訊。通過此途徑提供的資訊，將適用於該授權服務供應商所制定的隱私權政策。在提供前述資訊前，您應該仔細閱讀該隱私政策。",
+"article numbers": "Article 14, Article 26",
+"legal provisions": "Information to be provided where personal data have not been obtained from the data subject, Joint controllers",
+"amend": "聯發科技需要明確說明其與授權供應商之間的資料控制者關係，並提供有關授權供應商的資訊，以及如何聯繫他們。同時，聯發科技需要確保其與授權供應商之間有合法的資料傳輸依據。"
+},
+{
+"section": "為了給您提供產品或服務、與您溝通或維持我們與您的關係，我們可能需要收集和使用您的個人資訊。 請注意，如果您選擇不向我們提供個人資訊，我們可能無法向您提供前述全部或者部分的產品或服務。",
+"article numbers": "Article 6(1), Article 13(1)(e)",
+"legal provisions": "Lawfulness of processing, Information to be provided where personal data are collected from the data subject",
+"amend": "需要明確說明收集和使用個人資訊的具體法律依據，例如履行合約、遵守法律義務或基於合法的利益。同時，需要更具體地說明哪些產品或服務可能因為未提供個人資訊而無法提供。"
+},
+{
+"section": "我們也會收集其他不屬於個人資訊的資料，包括您的設備資訊，如您使用的瀏覽器或作業系統的類型以及軟體使用統計資料。我們使用這些資料，且可能對這些資料進行編譯和分析，以改進產品和服務，及為您提供個人化的體驗。不屬於個人資訊的資料類型如包括硬體設定、電腦或設備特徵，及連接資訊，例如瀏覽器類型、版本和時區設置、作業系統和平台等，以及使用我們網站完整網域名稱的點擊資料（URL），包括日期和時間、cookie 數量。",
+"article numbers": "Article 4(1), Recital 30",
+"legal provisions": "Definitions - Personal data, Recitals",
+"amend": "GDPR 對於個人資料的定義非常廣泛，即使是看似不屬於個人資訊的資料，如果可以被用於直接或間接識別個人身份，也可能被視為個人資料。聯發科技需要評估其收集的設備資訊和使用資料是否可能被用於識別個人身份，並根據評估結果採取適當的資料保護措施。"
+},
+{
+"section": "某些網頁瀏覽器可能具有“請勿追蹤”信號的設置。瀏覽器可能會預設打開或關閉此信號設置，目前並無該信號初始設定的標準化設計。我們目前也不會監控或對這些信號採取任何措施。我們鼓勵您查看我們的  cookie 政策 或其他適用的第三人政策以瞭解停用或退出 cookies 設定之方法。",
+"article numbers": "Recital 173",
+"legal provisions": "Recitals",
+"amend": "雖然 GDPR 並未強制要求網站必須回應“請勿追蹤”信號，但聯發科技應該考慮用戶對隱私的期望，並提供更明確的說明，例如說明其是否會收集用戶在啟用“請勿追蹤”信號時的瀏覽資料，以及如何停用 cookies 和其他追蹤技術。"
+}
+]
+}

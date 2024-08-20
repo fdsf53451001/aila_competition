@@ -1,0 +1,39 @@
+{
+"compliant": [
+{
+"section": "本公司會絕對尊重並嚴格保護",
+"article numbers": "5",
+"legal provisions": "Principles relating to processing of personal data. (a) Lawfulness, fairness and transparency."
+},
+{
+"section": "本公司網站的隱私權保護政策",
+"article numbers": "12, 13",
+"legal provisions": "Transparent information, communication and modalities for the exercise of the rights of the data subject"
+},
+{
+"section": "向您說明...我們對您所提供任何資料的絕對保護與尊重",
+"article numbers": "13, 14",
+"legal provisions": "Information to be provided where personal data are collected from the data subject"
+}
+],
+"non_compliant": [
+{
+"section": "本公司可能會請您提供姓名、身分證字號、住址、電話、電子信箱或其他相關必要資料",
+"article numbers": "5, 6",
+"legal provisions": "(a) Lawfulness, fairness and transparency. (f) Integrity and confidentiality.  Processing should be lawful, fair and transparent. More specifically, personal data shall be: (f) processed in a manner that ensures appropriate security of the personal data, including protection against unauthorised or unlawful processing and against accidental loss, destruction or damage, using appropriate technical or organisational measures ('integrity and confidentiality').",
+"amend": "The company should specify the legal basis for processing this data (e.g., consent, contract performance) and ensure that the data collected is limited to what is necessary and proportionate for the specified purpose. They should also implement appropriate technical and organizational measures to ensure data security."
+},
+{
+"section": "本公司也可能會保留您在上網瀏覽或查詢時，伺服器自行產生的相關記錄，包括但不限於您使用連線設備的IP位址、使用的瀏覽器、使用時間、瀏覽及點選資料紀錄等",
+"article numbers": "5",
+"legal provisions": "Principles relating to processing of personal data. (a) Lawfulness, fairness and transparency.",
+"amend": "Collecting and processing IP addresses and other online identifiers as personal data requires a valid legal basis under GDPR. The company should establish a legal basis for this processing, such as consent or legitimate interest, and provide clear information about it to users."
+},
+{
+"section": "請您注意，與本網站連結的其他網站，也可能蒐集您個人的資料，對於您主動提供其他網站的個人資料，將依相關法令及各該連結網站所揭露之隱私權保護政策蒐集、處理與利用，不適用本聲明，本公司亦不負擔任何連帶責任。",
+"article numbers": "N/A",
+"legal provisions": "N/A",
+"amend": "While this statement highlights the company's lack of control over third-party websites, it does not absolve them of their responsibility regarding data transfers. Under GDPR, companies have a responsibility to ensure that any third parties they share data with also comply with GDPR regulations. The company should consider adding clauses that address data transfer mechanisms, such as Standard Contractual Clauses (SCCs) or Binding Corporate Rules (BCRs), to ensure GDPR compliance when transferring data to third parties."
+}
+]
+}

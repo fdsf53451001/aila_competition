@@ -1,0 +1,33 @@
+{
+"compliant": [
+{
+"section": "Customer grants Company a world-wide, non-exclusive, royalty-free license during the Term to use and distribute Customer Data solely for the purpose of fulfilling Company’s obligations hereunder this Agreement .",
+"article numbers": "6(1)(b)",
+"legal provisions": "Lawfulness of processing"
+},
+{
+"section": "Company may use aggregated and de-identified Customer Data solely for the purpose of improving the Platform .",
+"article numbers": "5(1)(b), 25",
+"legal provisions": "Principles relating to processing of personal data, Data protection by design and by default"
+},
+{
+"section": "Customer represents and warrants that it owns all right, title and interest in and to the Customer Data and Customer Services",
+"article numbers": "5(1)(a)",
+"legal provisions": "Principles relating to processing of personal data"
+}
+],
+"non_compliant": [
+{
+"section": "Third Party Products are not under Company’s control . This Agreement is not binding upon such third parties, and Company does not endorse such third parties . COMPANY IS NOT RESPONSIBLE, AND HEREBY DISCLAIMS ALL IMPLIED AND EXPRESS WARRANTIES, FOR THE ACTIONS OR INACTIONS OF SUCH THIRD PARTIES OR THE CONTENTS OR PERFORMANCE OF ANY THIRD PARTY .",
+"article numbers": "4(4), 24, 28",
+"legal provisions": "Responsibility of the controller, Responsibility & liability of the processor, GDPR applies to processors (even those outside the EU)",
+"amend": "The Company must take responsibility for the actions of third parties that process personal data on its behalf. This includes ensuring that these third parties are GDPR compliant and offer sufficient guarantees to implement appropriate technical and organisational security measures. The company should also sign a data processing agreement with these third parties."
+},
+{
+"section": "Customer acknowledges and agrees that the foregoing Section 1 . 5 license permits Company to allow third-party developers to use Customer’s branding assets and trademarks solely to promote the interoperability of such third-party’s products and services with the Customer Services by way of the Platform .",
+"article numbers": "44, 45, 46",
+"legal provisions": "Transfer of personal data to third countries or international organisations",
+"amend": "The Company needs to specify if the third-party developers are located outside the EU and if so, what safeguards are in place to ensure the transfer of personal data is lawful. This may include using standard contractual clauses approved by the European Commission or relying on an adequacy decision."
+}
+]
+}

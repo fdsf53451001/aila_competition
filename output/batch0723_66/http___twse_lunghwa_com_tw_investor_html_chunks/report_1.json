@@ -1,0 +1,22 @@
+{
+"compliant": [
+{
+"section": "大 部份的瀏覽器都預設接受Cookie；如您覺得不妥，您也可以選擇拒絕接受Cookie。可以經由瀏覽器設定，接受所有Cookies、拒絕所有 Cookies或設定Cookies時得到通知。",
+"article numbers": "7(4), 12(2)",
+"legal provisions": "Conditions for consent, Transparency and modalities"
+},
+{
+"section": "為了便利使用者，本網站可能使用Cookies，以供我們辨識您之用。",
+"article numbers": "6(1)(f)",
+"legal provisions": "Lawfulness of processing (legitimate interests)"
+}
+],
+"non_compliant": [
+{
+"section": "不適用之範圍\n  本公司隱私權聲明不適用於與本網站連結之廣告廠商、策略聯盟所有之網站，本網站對於連結網站之資料處理措施，不負任何責任。",
+"article numbers": "26, 8(2)",
+"legal provisions": "Joint Controllership,  Conditions applicable to child's consent",
+"amend": "This section is problematic as it absolves the website of responsibility for data processing by linked websites. Under GDPR, joint controllers have shared responsibility.  It should clearly state the joint controllership with linked websites and outline the respective responsibilities for data processing. Additionally, if the website is likely to be accessed by children, it needs to comply with Article 8 regarding obtaining parental consent for data processing."
+}
+]
+}

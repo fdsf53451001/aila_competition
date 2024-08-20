@@ -1,0 +1,32 @@
+{
+"compliant": [
+{
+"section": "本隱私權保護政策(以下簡稱「本政策」)由揚明光學股份有限公司及其關係企業(以下簡稱「本公司」)為本公司客戶、產品服務之使用者、企業客戶及承包商之員工、職缺應徵者、網站之註冊會員、到訪本公司廠區的訪客或其他瀏覽本公司網站之瀏覽者(以下簡稱「您」)之隱私權制訂，幫助您瞭解本公司如何蒐集、使用及保護本公司所取得之您的個人資料，亦將說明本公司如何揭露、傳輸您的個人資料及收受對象。",
+"article numbers": "13, 14",
+"legal provisions": "Information to be provided where personal data are collected from the data subject"
+},
+{
+"section": "若您為未成年人，您應於您的父母親(或監護人)閱讀並瞭解本政策後方繼續瀏覽本公司網站。",
+"article numbers": "8",
+"legal provisions": "Conditions applicable to child's consent in relation to information society services"
+},
+{
+"section": "蒐集個人資料的目的及依據：",
+"article numbers": "5",
+"legal provisions": "Principles relating to processing of personal data"
+},
+{
+"section": "本公司為維護現有產品或服務品質、未來提供更好的產品或服務，或履行本公司的法定義務，本公司可能需要蒐集您提供的個人資料。",
+"article numbers": "6",
+"legal provisions": "Lawfulness of processing"
+}
+],
+"non_compliant": [
+{
+"section": "若您使用本網站的服務(包括但不限於註冊會員、填寫聯繫表單)，或以其他任何方式將您的個人資料提供予我們，皆將被視為您或您的父母親(或監護人)同意本政策。",
+"article numbers": "4, 7",
+"legal provisions": "Definitions; Conditions for consent",
+"amend": "It is unclear whether the user has been given a genuine choice or has a free will to refuse or withdraw consent.  It is also unclear what happens if consent is not given."
+}
+]
+}

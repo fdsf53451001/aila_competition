@@ -1,0 +1,34 @@
+{
+"compliant": [
+{
+"section": "Application means the software program provided by the Company downloaded by You on any electronic device, named CBN Connect",
+"article numbers": "Article 4(1)",
+"legal provisions": "Definition of \"data subject\" - relates to an identified or identifiable natural person"
+},
+{
+"section": "Personal Data is any information that relates to an identified or identifiable individual.",
+"article numbers": "Article 4(1)",
+"legal provisions": "Definition of \"personal data\" - any information relating to an identified or identifiable natural person"
+}
+],
+"non_compliant": [
+{
+"section": "Company (referred to as either \"the Company\", \"We\", \"Us\" or \"Our\" in this Agreement) refers to Compal Broadband Networks (CBN), 13F No.1 Taiyuan 1st ST. Zhubei City, Hsinchu County 30288, Taiwan.",
+"article numbers": "Article 13, 14",
+"legal provisions": "Transparency and information to be provided -  identity and contact details of the controller and DPO (if any) must be provided",
+"amend": "Include contact details for the data controller, such as email address and phone number. If a Data Protection Officer (DPO) is designated, their contact details should also be provided."
+},
+{
+"section": "Country refers to: Taiwan",
+"article numbers": "Article 3(1)",
+"legal provisions": "Territorial scope - GDPR applies to processing of personal data in the context of activities of a controller or processor in the EU, regardless of whether the processing takes place in the EU or not.",
+"amend": "Clarify whether this definition of \"Country\" limits the scope of the privacy policy to only Taiwan, or if it applies to data subjects in the European Union as well. GDPR applies if processing data of EU residents."
+},
+{
+"section": "Device means any device that can access the Service such as a computer, a cellphone or a digital tablet.",
+"article numbers": "Not applicable",
+"legal provisions": "While not non-compliant, this definition might be too broad for GDPR purposes. Consider specifying types of data collected from devices.",
+"amend": "Consider adding a section about the specific types of data collected from devices, and the purpose of collecting this data."
+}
+]
+}

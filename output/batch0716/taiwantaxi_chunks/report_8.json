@@ -1,0 +1,39 @@
+{
+"compliant": [
+{
+"section": "如果會員不想參與資料搜集工作，可隨時通知台灣大車隊。",
+"article numbers": "17",
+"legal provisions": "Right to erasure ('right to be forgotten')"
+},
+{
+"section": "隨著市場環境的改變台灣大車隊將會不時修訂網站政策，在使用個人資料的規定上作出大修改時，會在網頁上張貼告示，通知相關事項。",
+"article numbers": "13.1, 13.2",
+"legal provisions": "Information to be provided where personal data are collected from the data subject"
+},
+{
+"section": "如果您有任何問題或建議，請透過客服信箱與我們聯繫。",
+"article numbers": "12.1",
+"legal provisions": "Transparent information, communication and modalities for the exercise of the rights of the data subject"
+}
+],
+"non_compliant": [
+{
+"section": "生效日期：2012年2月",
+"article numbers": "13.2.a",
+"legal provisions": "the period for which the personal data will be stored, or if that is not possible, the criteria used to determine that period",
+"amend": "建議加入資料保存期限的說明，例如：「我們會在您最後一次使用服務後的 [期限] 年內保存您的個人資料。」"
+},
+{
+"section": "© 2024 台灣大車隊股份有限公司",
+"article numbers": "13.1.a, 13.1.b",
+"legal provisions": "the identity and the contact details of the controller and, where applicable, of the controller's representative; the contact details of the data protection officer, where applicable",
+"amend": "建議加入公司地址、聯絡電話、電子郵件地址等詳細聯絡資訊，以及資料保護負責人的聯絡方式（如有）。"
+},
+{
+"section": "整個隱私政策",
+"article numbers": "12.1, 13, 14",
+"legal provisions": "Transparent information, communication and modalities for the exercise of the rights of the data subject; Information to be provided where personal data are collected from the data subject; Information to be provided where personal data have not been obtained from the data subject",
+"amend": "建議提供更詳細的資訊，說明收集哪些個人資料、收集目的、資料處理的方式、資料儲存的地點、是否會將資料轉移到其他國家或地區、資料的保存期限、使用者的權利（例如：查詢、更正、刪除資料的權利）等。"
+}
+]
+}
