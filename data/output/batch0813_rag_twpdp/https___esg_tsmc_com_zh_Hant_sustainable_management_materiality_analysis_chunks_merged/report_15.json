@@ -1,0 +1,23 @@
+{
+    "compliant": [
+        {
+            "section": "簡介",
+            "article numbers": "Article 1",
+            "legal provisions": "The introduction clearly states the purpose of the legal notice and its relevance to the website's terms of use."
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "使用條款",
+            "article numbers": "Article 2, Article 3",
+            "legal provisions": "The terms of use do not specify user rights regarding data protection and privacy.",
+            "amend": "Include explicit user rights and obligations regarding personal data processing and privacy."
+        },
+        {
+            "section": "網站服務",
+            "article numbers": "Article 4",
+            "legal provisions": "The description of website services lacks clarity on data collection and usage practices.",
+            "amend": "Provide detailed information on what data is collected, how it is used, and the legal basis for processing."
+        }
+    ]
+}

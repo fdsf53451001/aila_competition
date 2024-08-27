@@ -1,0 +1,33 @@
+{
+    "compliant": [
+        {
+            "section": "個人資料之蒐集政策",
+            "article numbers": "Article 4, Article 5",
+            "legal provisions": "The collection of personal data is clearly stated, including the purpose and scope of data collection."
+        },
+        {
+            "section": "網站活動或網路調查",
+            "article numbers": "Article 6",
+            "legal provisions": "Informed consent is implied as users are asked to provide personal information for participation."
+        },
+        {
+            "section": "網路銀行申請",
+            "article numbers": "Article 6",
+            "legal provisions": "The necessity of providing personal information for service application is clearly stated."
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "Web Call me、電子郵件或其他方式",
+            "article numbers": "Article 8",
+            "legal provisions": "The policy does not specify how long the personal data will be retained or the criteria for retention.",
+            "amend": "Add a section detailing the data retention period and criteria for deletion."
+        },
+        {
+            "section": "伺服器自行產生的相關記錄",
+            "article numbers": "Article 7",
+            "legal provisions": "The policy does not mention how the server logs will be used or if they are anonymized.",
+            "amend": "Include information on the use of server logs and whether they are anonymized or retained."
+        }
+    ]
+}

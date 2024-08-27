@@ -1,0 +1,67 @@
+{
+    "compliant": [
+        {
+            "section": "Cookies",
+            "article numbers": "Article 4",
+            "legal provisions": "The policy explains the use of cookies and provides information on how users can manage their cookie preferences, which aligns with the requirement for transparency."
+        },
+        {
+            "section": "本網站群自動收集之資訊",
+            "article numbers": "Article 8",
+            "legal provisions": "The automatic collection of information is disclosed, including the types of data collected, which aligns with the transparency requirements."
+        },
+        {
+            "section": "個人資料之蒐集",
+            "article numbers": "Article 6",
+            "legal provisions": "The policy specifies the purposes for which personal data is collected and used, which is in compliance with the requirement for purpose limitation."
+        },
+        {
+            "section": "Cookies 或其他類似技術的運用與政策",
+            "article numbers": "Article 9",
+            "legal provisions": "The policy provides information on the use of cookies and similar technologies, including the purpose of data collection and the ability for users to manage their cookie preferences."
+        },
+        {
+            "section": "本網站群與第三者共用個人資料之政策",
+            "article numbers": "Article 8",
+            "legal provisions": "The policy outlines the types of personal data collected and the methods of collection, which is in line with the requirement for transparency."
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "網路信標",
+            "article numbers": "Article 5",
+            "legal provisions": "The policy does not provide sufficient information on how users can opt-out of web beacons, which is required for compliance.",
+            "amend": "Include a clear opt-out mechanism for web beacons and explain how users can disable them."
+        },
+        {
+            "section": "本機共用物件(Flash Cookies)",
+            "article numbers": "Article 4",
+            "legal provisions": "The policy does not adequately inform users about the implications of Flash Cookies and how to manage them, which is necessary for compliance.",
+            "amend": "Provide detailed instructions on how users can manage or disable Flash Cookies."
+        },
+        {
+            "section": "Cookies 或其他類似技術的運用與政策",
+            "article numbers": "Article 10",
+            "legal provisions": "The policy does not explicitly mention the user's right to withdraw consent for the use of cookies or similar technologies.",
+            "amend": "Add a clear statement regarding the user's right to withdraw consent for the use of cookies and how to do so."
+        },
+        {
+            "section": "個人資料之蒐集",
+            "article numbers": "Article 6",
+            "legal provisions": "The policy does not specify the legal basis for processing personal data, such as consent or legitimate interest.",
+            "amend": "Include a section that clarifies the legal basis for collecting and processing personal data."
+        },
+        {
+            "section": "前述線上行為資料",
+            "article numbers": "Article 5",
+            "legal provisions": "The policy does not clearly explain how user consent is obtained for the collection of personal data.",
+            "amend": "Clearly outline the methods and processes for obtaining user consent."
+        },
+        {
+            "section": "網站隱私權政策的修改",
+            "article numbers": "Article 9",
+            "legal provisions": "The policy does not adequately inform users about how they will be notified of changes to the privacy policy.",
+            "amend": "Specify how users will be informed of changes to the privacy policy, including the content and effective date."
+        }
+    ]
+}

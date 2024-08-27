@@ -1,0 +1,35 @@
+
+{
+    "compliant": [
+        {
+            "section": "個人資料之蒐集政策",
+            "article numbers": "Article 8, Article 9",
+            "legal provisions": "The collection of personal data must be for specific, legitimate purposes and must be relevant to the purposes for which they are collected."
+        },
+        {
+            "section": "個人資料之儲存及保護",
+            "article numbers": "Article 6, Article 7",
+            "legal provisions": "Data subjects must be informed about the purpose of data collection and the types of data being collected."
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "個人資料之蒐集政策",
+            "article numbers": "Article 12",
+            "legal provisions": "Data retention policies must be clearly stated, including how long data will be retained and the criteria for determining retention periods.",
+            "amend": "Include a clear statement on data retention duration and criteria."
+        },
+        {
+            "section": "個人資料之蒐集政策",
+            "article numbers": "Article 14",
+            "legal provisions": "Data controllers must ensure that third parties comply with data protection standards when processing personal data.",
+            "amend": "Clarify the responsibility of the company regarding third-party data processing."
+        },
+        {
+            "section": "個人資料之儲存及保護",
+            "article numbers": "Article 8",
+            "legal provisions": "未明確說明個人資料的收集、使用及保留期限。",
+            "amend": "應增加具體的資料收集、使用及保留期限的說明。"
+        }
+    ]
+}

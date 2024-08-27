@@ -1,0 +1,39 @@
+{
+    "compliant": [
+        {
+            "section": "使用者可以經由瀏覽器的設定，取消或限制此項功能",
+            "article_numbers": "Article 5",
+            "legal_provision": "The data subject shall have control over personal data collection."
+        },
+        {
+            "section": "您可自行在任何時候修改您個人在元氣卡網站註冊之帳號資料及偏好設定",
+            "article_numbers": "Article 15",
+            "legal_provision": "The data subject shall have the right to obtain from the controller confirmation as to whether or not personal data concerning him or her are being processed, and, where that is the case, access to the personal data and a right to rectification."
+        },
+        {
+            "section": "為保障您的隱私及安全，您的元氣會員帳號資料會用密碼保護",
+            "article_numbers": "Article 5",
+            "legal_provision": "Personal data shall be processed in a manner that ensures appropriate security of the personal data, including protection against unauthorised or unlawful processing and against accidental loss, destruction or damage, using appropriate technical or organisational measures ('integrity and confidentiality')."
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "cookie是網站伺服器用來和會員瀏覽器進行溝通的一種技術，它可能在會員的電腦中隨機儲存字串，用以辨識區別使用者",
+            "article_numbers": "Article 5",
+            "legal_provision": "Data Minimisation",
+            "amend": "The policy should specify the types of cookies used, the purposes for which they are used, and the duration for which they are stored. It should also be clarified whether these cookies are strictly necessary for the functioning of the website or if they are used for other purposes, such as tracking user behavior."
+        },
+        {
+            "section": "請妥善保管您的密碼及任何個人資料，切勿將密碼提供給任何人。傳奇網路絕不會在未經同意的電話或電子郵件中詢問您的密碼。",
+            "article_numbers": "N/A",
+            "legal_provision": "N/A",
+            "amend": "While this is good practice, it does not directly relate to GDPR compliance. GDPR focuses on how the company processes data, not on the user's own security practices."
+        },
+        {
+            "section": "傳奇網路得隨時修訂本政策。當我們修改本政策時，我們會在網頁上張貼告示，請您務必點閱閱讀",
+            "article_numbers": "Article 13, 14",
+            "legal_provision": "Transparency and Modalities",
+            "amend": "The policy should specify how users will be informed of changes to the privacy policy, particularly if the changes are significant. It is not sufficient to simply state that a notice will be posted on the website. The method of notification should be effective in ensuring that users are aware of the changes."
+        }
+    ]
+}

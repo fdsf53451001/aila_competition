@@ -1,0 +1,17 @@
+{
+    "compliant": [
+        {
+            "section": "適用範圍",
+            "article numbers": "Article 1, Article 2",
+            "legal provisions": "The policy clearly states the scope of application, indicating that it pertains to the website's handling of personal data."
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "隱私權保護政策不適用於本網站以外的相關連結網站，也不適用於非本網站所委託或參與管理的人員。",
+            "article numbers": "Article 3, Article 4",
+            "legal provisions": "The policy does not clarify how personal data is handled when users interact with third-party websites or personnel not managed by the site.",
+            "amend": "Include provisions on how personal data is handled in relation to third-party websites and clarify the responsibilities of third parties."
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "compliant": [
+        {
+            "section": "Changes to this Privacy Policy",
+            "article numbers": "Article 9",
+            "legal provisions": "The requirement to inform users about changes to the privacy policy and how their personal information is processed."
+        },
+        {
+            "section": "Leofoo Tourism Group Intellectual Property Declaration (Copyright)",
+            "article numbers": "Article 8",
+            "legal provisions": "Protection of intellectual property rights and the requirement for consent before using copyrighted materials."
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "Changes to this Privacy Policy",
+            "article numbers": "Article 9",
+            "legal provisions": "The policy does not specify a clear method for users to provide consent or opt-out after changes are made.",
+            "amend": "Include a clear opt-in or opt-out mechanism for users to consent to changes in the privacy policy."
+        },
+        {
+            "section": "Leofoo Tourism Group Intellectual Property Declaration (Copyright)",
+            "article numbers": "Article 7",
+            "legal provisions": "The policy does not provide clear information on how users can access or request their personal information related to intellectual property.",
+            "amend": "Add a section detailing how users can request access to their personal information and the process for doing so."
+        }
+    ]
+}

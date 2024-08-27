@@ -1,0 +1,32 @@
+{
+    "compliant": [
+        {
+            "section": "傳奇網路絕不會任意出售、交換、或出租任何您的個人資料 (如姓名、身分證字號) 給其他團體或個人。",
+            "article numbers": "Article 6",
+            "legal provisions": "Personal Data Protection Act (PDPA) - Prohibition of selling or renting personal data without consent."
+        },
+        {
+            "section": "在以下的情況下，傳奇網路會向政府機關、其他人士或公司提供您的個人識別資料：經由合法的途徑。",
+            "article numbers": "Article 14",
+            "legal provisions": "PDPA - Disclosure of personal data under legal obligations."
+        },
+        {
+            "section": "配合司法單位合法的調查。",
+            "article numbers": "Article 14",
+            "legal provisions": "PDPA - Disclosure of personal data for judicial investigations."
+        },
+        {
+            "section": "根據契約與傳奇網路合作商業營運之服務供應商，例如為了防止詐欺行為，為了行銷目的所為之收集資料，或提供技術服務。",
+            "article numbers": "Article 15",
+            "legal provisions": "PDPA - Sharing personal data with service providers for specific purposes."
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "傳奇網路未經您的同意，不會非法透露您的信用卡資料予任何不相關之第三人，但若法律另有規定，不在此限。",
+            "article numbers": "Article 8",
+            "legal provisions": "PDPA - Requirement for explicit consent for sensitive personal data, including financial information.",
+            "amend": "Clarify that explicit consent is required for sharing credit card information, even if it is for legal compliance."
+        }
+    ]
+}

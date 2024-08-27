@@ -1,0 +1,22 @@
+{
+    "compliant": [
+        {
+            "section": "簡介 – 本公司不會主動蒐集或處理特種個人資料。",
+            "article numbers": "Article 6",
+            "legal provisions": "The principle of data minimization and purpose limitation."
+        },
+        {
+            "section": "如果基於合法的理由而需處理特種個人資料，我們將遵循相關法律規定。",
+            "article numbers": "Article 9",
+            "legal provisions": "Processing of special categories of personal data is permitted under specific conditions."
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "本公司不會主動蒐集或處理特種個人資料。",
+            "article numbers": "Article 5",
+            "legal provisions": "Transparency and information requirements.",
+            "amend": "Include a statement on how individuals can access their rights regarding special categories of personal data."
+        }
+    ]
+}

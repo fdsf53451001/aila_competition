@@ -1,0 +1,64 @@
+{
+    "compliant": [
+        {
+            "section": "什麼是您的個人資料?",
+            "legal article numbers": "Article 4",
+            "legal provisions": "Definition of personal data"
+        },
+        {
+            "section": "我們處理您的資料時所扮演的角色為何?",
+            "legal article numbers": "Article 24",
+            "legal provisions": "Data controller responsibilities"
+        },
+        {
+            "section": "您對於您的資料所擁有的權利",
+            "legal article numbers": "Article 15-22",
+            "legal provisions": "Rights of data subjects"
+        },
+        {
+            "section": "我們如何使用和處理您的資料",
+            "legal article numbers": "Article 5",
+            "legal provisions": "Principles relating to processing of personal data"
+        },
+        {
+            "section": "我們何時蒐集您的資料",
+            "legal article numbers": "Article 13",
+            "legal provisions": "Information to be provided where personal data are collected from the data subject"
+        },
+        {
+            "section": "我們會保留您的資料多久",
+            "legal article numbers": "Article 5(1)(e)",
+            "legal provisions": "Storage limitation"
+        },
+        {
+            "section": "跨境傳輸",
+            "legal article numbers": "Article 44-50",
+            "legal provisions": "Transfers of personal data to third countries or international organizations"
+        },
+        {
+            "section": "保全",
+            "legal article numbers": "Article 32",
+            "legal provisions": "Security of processing"
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "我們處理您的資料的合法基礎為何?",
+            "legal article numbers": "Article 6",
+            "legal provisions": "Lawfulness of processing",
+            "amend": "Clarify the specific legal basis for each type of processing activity."
+        },
+        {
+            "section": "您所擁有的選擇，關於您的資料如何被我們蒐集和使用",
+            "legal article numbers": "Article 7",
+            "legal provisions": "Conditions for consent",
+            "amend": "Ensure that consent is freely given, specific, informed, and unambiguous."
+        },
+        {
+            "section": "剖析",
+            "legal article numbers": "Article 22",
+            "legal provisions": "Automated individual decision-making, including profiling",
+            "amend": "Include provisions regarding the right not to be subject to a decision based solely on automated processing."
+        }
+    ]
+}

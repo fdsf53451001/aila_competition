@@ -1,0 +1,33 @@
+{
+    "compliant": [
+        {
+            "section": "線上行為資料包括訪問本網站、其他網站及社群媒體平台所為網路行為而產生之資訊...",
+            "article numbers": "Article 3, Article 4",
+            "legal provisions": "明確告知使用者所蒐集的資料類型及用途"
+        },
+        {
+            "section": "前述線上行為資料，將於前開目的存續期間內供富邦金控及其子公司...",
+            "article numbers": "Article 6",
+            "legal provisions": "資料使用的目的及期間的說明"
+        },
+        {
+            "section": "本網站群與第三者共用個人資料之政策...",
+            "article numbers": "Article 8",
+            "legal provisions": "明確規範與第三方共用個人資料的情形"
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "未經客戶同意前，僅得於其國內外所在地進行不具可識別個人資料之蒐集...",
+            "article numbers": "Article 5",
+            "legal provisions": "未明確說明如何獲得使用者同意",
+            "amend": "應明確列出獲得同意的方式及程序"
+        },
+        {
+            "section": "謹提醒：當訪問或瀏覽使用其他網站與社群平台時...",
+            "article numbers": "Article 9",
+            "legal provisions": "未對使用者提供足夠的資訊以了解其他網站的隱私政策",
+            "amend": "應提供連結或具體說明如何查詢其他網站的隱私政策"
+        }
+    ]
+}

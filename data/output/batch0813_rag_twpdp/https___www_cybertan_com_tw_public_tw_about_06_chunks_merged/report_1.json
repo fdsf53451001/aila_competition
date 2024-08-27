@@ -1,0 +1,38 @@
+{
+    "compliant": [
+        {
+            "section": "We also collect other non-personal types of data, including device information such as the type of browser or operating system used and software usage statistics.",
+            "article numbers": "Article 5 (1)(b)",
+            "legal provisions": "Data minimization principle - only collect data necessary for the purposes stated."
+        },
+        {
+            "section": "We use tracking technologies such as cookies (small files placed on your hard drive), web beacons, website analytics tools, and the personal information you provide us to personalize your online experience and improve our services.",
+            "article numbers": "Article 6 (1)(a)",
+            "legal provisions": "Consent for processing personal data."
+        },
+        {
+            "section": "Please see our Cookie Policy for additional information, including certain choices you may have regarding some of these activities.",
+            "article numbers": "Article 13 (2)(b)",
+            "legal provisions": "Transparency and information provision to data subjects."
+        },
+        {
+            "section": "You agree that we may use your Personal Information for our commercial purposes including for instance: To deliver a product or provide a service you have requested...",
+            "article numbers": "Article 6 (1)(b)",
+            "legal provisions": "Processing necessary for the performance of a contract."
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "Some web browsers may have settings for 'Do Not Track' signals. Browsers may have this signal on or off by default, and there is no standard as to how websites should respond. We do not currently monitor or take action regarding these signals.",
+            "article numbers": "Article 21",
+            "legal provisions": "Right to object to processing - users should have the ability to opt-out of tracking.",
+            "amend": "Implement a mechanism to respect 'Do Not Track' signals or provide clear opt-out options."
+        },
+        {
+            "section": "To communicate with you through emails, text messages or phone calls about our products and services, targeted marketing materials, service updates, and promotional offers;",
+            "article numbers": "Article 6 (1)(a)",
+            "legal provisions": "Consent must be obtained for direct marketing communications.",
+            "amend": "Ensure explicit consent is obtained for marketing communications."
+        }
+    ]
+}

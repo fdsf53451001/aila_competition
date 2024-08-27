@@ -1,0 +1,38 @@
+{
+    "compliant": [
+        {
+            "section": "本公司將對您所提供的資料保密，並將其用於維持您與邁達特數位的客戶關係。",
+            "article numbers": "Article 6",
+            "legal provisions": "Data Protection Principles - Personal data must be processed lawfully, fairly, and transparently."
+        },
+        {
+            "section": "除非您另行告知，邁達特數位我們會把您可能感興趣的邁達特數位各式產品升級訊息、特別優惠及其他新產品及服務等資料寄給您。",
+            "article numbers": "Article 7",
+            "legal provisions": "Consent - Personal data must be collected and processed based on the individual's consent."
+        },
+        {
+            "section": "您隨時都可選擇取消訂閱郵件（請參閱下列取消部分）。",
+            "article numbers": "Article 11",
+            "legal provisions": "Right to Withdraw Consent - Individuals have the right to withdraw their consent at any time."
+        },
+        {
+            "section": "未取得您的同意之前，邁達特數位不會將您的個人資料洩漏給任何邁達特數位以外的公司從事促銷與推銷之用。",
+            "article numbers": "Article 8",
+            "legal provisions": "Data Sharing - Personal data should not be shared with third parties without consent."
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "邁達特數位之代理商或合約商得共享您的資料，以便代表邁達特數位為您提供服務。",
+            "article numbers": "Article 8",
+            "legal provisions": "Data Sharing - While sharing data with agents is permissible, it must be clearly stated how data will be used and ensure that third parties comply with data protection standards.",
+            "amend": "Clarify the data protection measures in place for third-party agents and ensure that individuals are informed about the specific purposes of data sharing."
+        },
+        {
+            "section": "邁達特數位只會提供完成客戶要求之服務或交易所需之最少資料給第三方代理商。",
+            "article numbers": "Article 9",
+            "legal provisions": "Data Minimization - Personal data collected should be limited to what is necessary for the intended purpose.",
+            "amend": "Specify the criteria for determining what constitutes 'minimum data' and ensure that it aligns with the principle of data minimization."
+        }
+    ]
+}

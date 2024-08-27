@@ -1,0 +1,17 @@
+{
+    "compliant": [
+        {
+            "section": "本隱私權政策之規定乃規範本服務及本網站之使用，以及自您所取得之任何資料。",
+            "article numbers": "Article 1",
+            "legal provisions": "This section outlines the scope of the privacy policy, which is a requirement under TWPDP to inform users about the data being collected and the services being provided."
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "我們保留隨時變更本隱私權政策之權利。關於本隱私權政策之變更將自該變更公布於本網站時生效。",
+            "article numbers": "Article 5",
+            "legal provisions": "This section lacks a clear mechanism for notifying users of changes to the privacy policy, which is required under TWPDP.",
+            "amend": "Include a requirement to notify users directly (e.g., via email or a prominent notice on the website) about significant changes to the privacy policy."
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "compliant": [
+        {
+            "section": "客戶資料保護措施",
+            "article numbers": "Article 6, Article 7",
+            "legal provisions": "TWPDP Article 6: Data Protection Measures; Article 7: Data Security"
+        },
+        {
+            "section": "客戶自我保護措施",
+            "article numbers": "Article 8",
+            "legal provisions": "TWPDP Article 8: Customer Self-Protection Measures"
+        },
+        {
+            "section": "Cookies使用須知",
+            "article numbers": "Article 9",
+            "legal provisions": "TWPDP Article 9: Use of Cookies"
+        },
+        {
+            "section": "客戶權益維護之救濟方式",
+            "article numbers": "Article 10",
+            "legal provisions": "TWPDP Article 10: Customer Rights and Remedies"
+        },
+        {
+            "section": "兒童隱私權保護須知",
+            "article numbers": "Article 11",
+            "legal provisions": "TWPDP Article 11: Protection of Children's Privacy"
+        },
+        {
+            "section": "隱私權保護須知之修改",
+            "article numbers": "Article 12",
+            "legal provisions": "TWPDP Article 12: Modifications to Privacy Policy"
+        },
+        {
+            "section": "客戶資料共享揭露",
+            "article numbers": "Article 13",
+            "legal provisions": "TWPDP Article 13: Disclosure of Shared Customer Data"
+        },
+        {
+            "section": "網站資料蒐集、處理、利用目的",
+            "article numbers": "Article 14",
+            "legal provisions": "TWPDP Article 14: Purpose of Data Collection and Processing"
+        },
+        {
+            "section": "本須知適用之範圍",
+            "article numbers": "Article 15",
+            "legal provisions": "TWPDP Article 15: Scope of Privacy Policy"
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "客戶資料保護措施",
+            "article numbers": "Article 6",
+            "legal provisions": "TWPDP Article 6: Data Protection Measures",
+            "amend": "Clarify the specific measures taken to ensure data protection and compliance with TWPDP standards."
+        },
+        {
+            "section": "客戶資料共享揭露",
+            "article numbers": "Article 13",
+            "legal provisions": "TWPDP Article 13: Disclosure of Shared Customer Data",
+            "amend": "Ensure that the sharing of customer data complies with explicit consent requirements and provide clearer information on the purpose and scope of data sharing."
+        },
+        {
+            "section": "客戶權益維護之救濟方式",
+            "article numbers": "Article 10",
+            "legal provisions": "TWPDP Article 10: Customer Rights and Remedies",
+            "amend": "Include more detailed procedures for customers to exercise their rights, including timelines and contact points."
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "compliant": [
+        {
+            "section": "我們致力於保護及尊重您的隱私。",
+            "legal article numbers": "Article 1, Article 2",
+            "legal provisions": "遵循個人資料保護法的基本原則。"
+        },
+        {
+            "section": "本隱私權政策旨在說明我們如何收集、使用及分享我們自您作為我們的網站或服務之使用者所取得的所有資料。",
+            "legal article numbers": "Article 8",
+            "legal provisions": "明確告知資料收集、使用及分享的目的。"
+        },
+        {
+            "section": "我們可能會蒐集您的資料並使用於以下用途：管理我們與您的關係；預防及偵測安全性威脅、詐欺及其他惡意之活動；回應您的意見及問題，並提供或改善我們的服務及支援；向您更新我們最新的服務；透過我們的服務向您提供個人化及客製化之經驗、內容及建議。",
+            "legal article numbers": "Article 5",
+            "legal provisions": "資料使用的合法性及目的限制。"
+        },
+        {
+            "section": "我們會採用適當之安全措施，防止您的個人資料被竊取、竄改、洩露或毀損。",
+            "legal article numbers": "Article 6",
+            "legal provisions": "資料安全措施的要求。"
+        },
+        {
+            "section": "除非法律有明文規定或允許較長之期間外，我們將於為實現本隱私權政策所揭示之目的所必要之期間內保留您的資料。",
+            "legal article numbers": "Article 5",
+            "legal provisions": "資料保留政策的明確性。"
+        },
+        {
+            "section": "我們的網站或是服務可能會提供第三人之應用程式、產品、服務或是網站的連結。",
+            "legal article numbers": "Article 6",
+            "legal provisions": "透明度及用戶對第三方連結的認知。"
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "我們非非常重視您的隱私。請您詳細閱讀以下之規定以更進一步了解我們的隱私權政策。",
+            "legal article numbers": "Article 4",
+            "legal provisions": "未提供足夠的透明度和易於理解的資料。",
+            "amend": "應提供更具體的隱私政策內容，並以易於理解的語言表達。"
+        },
+        {
+            "section": "我們的網站或是服務之使用者所取得的所有資料。",
+            "legal article numbers": "Article 5",
+            "legal provisions": "未明確界定所收集資料的類型及範圍。",
+            "amend": "應詳細列出所收集的資料類型及範圍。"
+        },
+        {
+            "section": "我們可能需要自您取得之個人資料是指任何可以用來識別您的身分或是聯絡您的資料。",
+            "legal article numbers": "Article 7",
+            "legal provisions": "未提供足夠的細節關於如何與第三方分享個人資料。",
+            "amend": "應包括有關第三方分享的具體信息，包括第三方類型、分享目的及保護措施。"
+        },
+        {
+            "section": "如果您選擇移除或是拒絕cookies時，則可能會影響您使用本網站之功能及無法體驗完整之服務。",
+            "legal article numbers": "Article 4",
+            "legal provisions": "未清楚說明用戶如何選擇及管理cookies的權利。",
+            "amend": "應提供更清楚的選擇權說明，並告知用戶如何管理cookies的選項。"
+        },
+        {
+            "section": "我們保留隨時變更本隱私權政策之權利。",
+            "legal article numbers": "Article 5",
+            "legal provisions": "未提供清晰的機制以通知用戶隱私政策的變更。",
+            "amend": "應包括要求直接通知用戶（例如通過電子郵件或網站上的顯著通知）有關隱私政策重大變更的要求。"
+        }
+    ]
+}

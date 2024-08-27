@@ -1,0 +1,31 @@
+{
+    "compliant": [
+        {
+            "section": "一、隱私權保護政策的適用範圍",
+            "article numbers": "Article 3",
+            "legal provisions": "The policy clearly states the scope of application, indicating that it applies only to the website and not to external links or third-party management."
+        },
+        {
+            "section": "二、個人資料的蒐集、處理及利用方式",
+            "article numbers": "Article 4, Article 5",
+            "legal provisions": "The policy outlines the collection, processing, and use of personal data, ensuring that personal data will not be used for purposes other than those specified without consent."
+        },
+        {
+            "section": "當您造訪本網站或使用本網站所提供之功能服務時，我們將視該服務功能性質，請您提供必要的個人資料，並在該特定目的範圍內處理及利用您的個人資料；非經您書面同意，本網站不會將個人資料用於其他用途。",
+            "article numbers": "Article 6",
+            "legal provisions": "The policy emphasizes the necessity of obtaining consent before using personal data for purposes other than those specified."
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "於一般瀏覽時，伺服器會自行記錄相關行徑，包括您使用連線設備的IP位址、使用時間、使用的瀏覽器、瀏覽及點選資料記錄等，做為我們增進網站服務的參考依據，此記錄為內部應用，決不對外公佈。",
+            "article numbers": "Article 7",
+            "legal provisions": "The policy does not specify how long the data will be retained or the rights of users regarding their data, which is required under TWPDP."
+        },
+        {
+            "section": "為提供精確的服務，我們會將收集的問卷調查內容進行統計與分析，分析結果之統計數據或說明文字呈現，除供內部研究外，我們會視需要公佈統計數據及說明文字，但不涉及特定個人之資料。",
+            "article numbers": "Article 8",
+            "legal provisions": "The policy lacks clarity on how aggregated data will be handled and whether individuals can opt-out of their data being used in this manner."
+        }
+    ]
+}

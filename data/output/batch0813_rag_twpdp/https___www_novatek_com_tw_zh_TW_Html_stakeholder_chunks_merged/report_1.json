@@ -1,0 +1,33 @@
+{
+    "compliant": [
+        {
+            "section": "非個人資料之蒐集及使用",
+            "article numbers": "Article 6",
+            "legal provisions": "The collection and use of non-personal data for statistical purposes is compliant as it does not involve personal identification."
+        },
+        {
+            "section": "個人資料之保護、分享及公開",
+            "article numbers": "Article 8",
+            "legal provisions": "The statement regarding the risk of sharing personal data and the commitment to take reasonable measures to protect personal data aligns with the principles of data protection."
+        },
+        {
+            "section": "除本隱私權政策約定或經您同意外，我們不會揭露、販賣或提供您個人資料予不相關之第三人。",
+            "article numbers": "Article 7",
+            "legal provisions": "This provision complies with the requirement to not disclose personal data to unrelated third parties without consent."
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "請您注意，在任何情況下提供個人資料予他人均有風險，且無任何系統或技術可以保證百分之百安全或可防止駭客入侵。",
+            "article numbers": "Article 9",
+            "legal provisions": "While acknowledging risks is important, the policy should provide more specific measures or protocols in place to mitigate these risks.",
+            "amend": "Include detailed security measures and protocols to enhance transparency and compliance."
+        },
+        {
+            "section": "當您提供資料給聯詠時，代表您已同意：聯詠、其子公司及關聯企業得使用該資料。",
+            "article numbers": "Article 5",
+            "legal provisions": "The consent mechanism should be clearer, ensuring that users are fully informed about how their data will be used and that consent is explicit.",
+            "amend": "Clarify the consent process and ensure it is explicit and informed."
+        }
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "compliant": [
+        {
+            "section": "個人資料蒐集",
+            "article numbers": "Article 6, Article 7",
+            "legal provisions": "The collection of personal data is necessary for the purposes of processing requests and transactions, and the policy specifies the types of data collected."
+        },
+        {
+            "section": "使用Cookies",
+            "article numbers": "Article 8",
+            "legal provisions": "The policy mentions the use of cookies to collect usage information, which is in line with transparency requirements."
+        },
+        {
+            "section": "個人資料使用",
+            "article numbers": "Article 6",
+            "legal provisions": "The purpose of data collection must be specified and legitimate."
+        },
+        {
+            "section": "個人資料揭露",
+            "article numbers": "Article 8",
+            "legal provisions": "Data may only be disclosed to authorized personnel and third parties for legitimate purposes."
+        },
+        {
+            "section": "於法令要求或符合法令規定之情形下",
+            "article numbers": "Article 9",
+            "legal provisions": "Disclosure of personal data is permitted under legal obligations or for the protection of rights."
+        },
+        {
+            "section": "基於個人資料使用之目的，個人資料可能透過國際傳輸運送至本公司位於國際間其他辦公處所或供應商地點",
+            "article numbers": "Article 8, Article 9",
+            "legal provisions": "TWPDP Article 8 (International Data Transfers) and Article 9 (Data Protection Measures)"
+        },
+        {
+            "section": "Cookies的使用",
+            "article numbers": "Article 12",
+            "legal provisions": "TWPDP Article 12 (Cookies and Tracking Technologies)"
+        },
+        {
+            "section": "強制性cookies (mandatory cookies)",
+            "article numbers": "Article 12",
+            "legal provisions": "TWPDP Article 12 (Cookies and Tracking Technologies)"
+        },
+        {
+            "section": "功能性cookies (functional cookies)",
+            "article numbers": "Article 12",
+            "legal provisions": "TWPDP Article 12 (Cookies and Tracking Technologies)"
+        },
+        {
+            "section": "性能cookies (performance cookies)",
+            "article numbers": "Article 12",
+            "legal provisions": "TWPDP Article 12 (Cookies and Tracking Technologies)"
+        },
+        {
+            "section": "Cookies會在不同時間到期",
+            "article numbers": "Article 4, Article 6",
+            "legal provisions": "Transparency and user control over cookies and tracking technologies."
+        },
+        {
+            "section": "個人資料保存",
+            "article numbers": "Article 5",
+            "legal provisions": "Data retention principles."
+        },
+        {
+            "section": "更正或撤回個人資料",
+            "article numbers": "Article 11, Article 12",
+            "legal provisions": "You have the right to request access, rectify, delete, and withdraw consent regarding your personal data."
+        },
+        {
+            "section": "本政策之變更",
+            "article numbers": "Article 15",
+            "legal provisions": "The company reserves the right to modify the policy at any time."
+        },
+        {
+            "section": "歐盟地區附錄",
+            "article numbers": "Article 13, Article 14",
+            "legal provisions": "The appendix provides additional information regarding the processing of personal data under EU regulations."
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "個人資料蒐集",
+            "article numbers": "Article 5",
+            "legal provisions": "The policy does not explicitly state the legal basis for processing personal data, such as consent or legitimate interest.",
+            "amend": "Include a clear statement regarding the legal basis for processing personal data."
+        },
+        {
+            "section": "個人資料使用",
+            "article numbers": "Article 5",
+            "legal provisions": "Data subjects must be informed about the specific purposes of data collection.",
+            "amend": "Clarify the specific purposes of data collection in more detail to ensure transparency."
+        },
+        {
+            "section": "個人資料揭露",
+            "article numbers": "Article 7",
+            "legal provisions": "Data subjects must be informed about the potential third parties to whom their data may be disclosed.",
+            "amend": "Provide a more detailed list of third parties and the specific purposes for which data may be shared."
+        },
+        {
+            "section": "個人資料使用之目的",
+            "article numbers": "Article 8",
+            "legal provisions": "The policy does not provide sufficient information on the rights of individuals regarding their personal data, such as the right to access, rectify, or delete their data.",
+            "amend": "Add a section detailing the rights of individuals under TWPDP."
+        },
+        {
+            "section": "本公司將在法律許可期間內",
+            "article numbers": "Article 8",
+            "legal provisions": "TWPDP Article 8 (International Data Transfers)",
+            "amend": "Need to clarify the content of the protective measures and provide users with more choices and transparency."
+        },
+        {
+            "section": "Cookies的使用",
+            "article numbers": "Article 12",
+            "legal provisions": "TWPDP Article 12 (Cookies and Tracking Technologies)",
+            "amend": "Need to provide users with options to accept or reject cookies, and clearly explain the function and impact of each type of cookie."
+        },
+        {
+            "section": "若您欲行使上述權利",
+            "article numbers": "Article 13",
+            "legal provisions": "Provide a contact method for exercising rights, in accordance with TWPDP Article 13 requirements.",
+            "amend": "Ensure that the consent is specific, informed, and unambiguous, and that the individual is aware of the risks involved in the transfer."
+        }
+    ]
+}

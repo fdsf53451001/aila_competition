@@ -1,0 +1,17 @@
+{
+    "compliant": [
+        {
+            "section": "個人資料之保留期間",
+            "article numbers": "Article 5",
+            "legal provisions": "The data retention period should be limited to what is necessary for the purposes for which the personal data are processed."
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "簡介 – 本公司盡力採取合理措施，以確保您的個人資料只在為了達到合法目的必要的期間內加以保留。",
+            "article numbers": "Article 6",
+            "legal provisions": "The policy should specify the criteria used to determine the retention period.",
+            "amend": "Include specific criteria or examples of how the retention period is determined."
+        }
+    ]
+}

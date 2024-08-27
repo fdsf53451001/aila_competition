@@ -1,0 +1,33 @@
+{
+    "compliant": [
+        {
+            "section": "我們於下列情形蒐集或取得您的個人資料：當您提供資訊給本公司時〈例如：當您主動聯繫我們〉；基於我們與您雙方間的法律關係而取得之資訊〈例如：當您向我們採購產品〉;",
+            "article numbers": "Article 6",
+            "legal provisions": "The collection of personal data must be based on the necessity and legality of the purpose."
+        },
+        {
+            "section": "您自行公開之個人資料〈例如：您在社群媒體上公開之資訊〉;",
+            "article numbers": "Article 7",
+            "legal provisions": "Personal data that is publicly available can be collected under certain conditions."
+        },
+        {
+            "section": "當您造訪本公司的網站；當您向本公司任何一個網站註冊以使用我們的網站、產品或服務;",
+            "article numbers": "Article 6",
+            "legal provisions": "The collection of personal data must be based on the necessity and legality of the purpose."
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "當您和本公司網站上的第三方內容或廣告進行互動。",
+            "article numbers": "Article 8",
+            "legal provisions": "The policy should specify how third-party interactions are handled and whether consent is required.",
+            "amend": "Clarify the process of obtaining consent for data collection from third-party interactions."
+        },
+        {
+            "section": "另外，我們也可能由第三方獲得您的個人資料〈例如：執法機關〉。",
+            "article numbers": "Article 9",
+            "legal provisions": "The policy should specify the conditions under which personal data can be obtained from third parties and ensure transparency.",
+            "amend": "Provide details on the circumstances and legal basis for obtaining personal data from third parties."
+        }
+    ]
+}

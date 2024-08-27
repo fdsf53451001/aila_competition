@@ -1,0 +1,38 @@
+{
+    "compliant": [
+        {
+            "section": "This Privacy Statement explains how your personal information will be collected, processed and used, as well as how such information will be protected by Apacer Technology Inc. and its affiliates.",
+            "article numbers": "Article 5 (1)(a), Article 6",
+            "legal provisions": "Principles relating to processing of personal data; Lawfulness of processing"
+        },
+        {
+            "section": "By starting to use Apacer websites or services, or providing your personal information in any way, Apacer will regard it as you understand and agree to this Statement.",
+            "article numbers": "Article 7",
+            "legal provisions": "Conditions for consent"
+        },
+        {
+            "section": "Apacer will not process or use your personal information outside the scope of this Statement, unless it is required by law, the competent authority or judicial department.",
+            "article numbers": "Article 6 (1)(c)",
+            "legal provisions": "Lawfulness of processing"
+        },
+        {
+            "section": "We will also not sell, exchange or lease out your personal information.",
+            "article numbers": "Article 5 (1)(b)",
+            "legal provisions": "Principles relating to processing of personal data"
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "Apacer will regard it as you understand and agree to this Statement.",
+            "article numbers": "Article 7",
+            "legal provisions": "Conditions for consent",
+            "amend": "Explicit consent should be obtained rather than implied consent through usage."
+        },
+        {
+            "section": "Apacer will not process or use your personal information outside the scope of this Statement, unless it is required by law, the competent authority or judicial department.",
+            "article numbers": "Article 6 (1)(c)",
+            "legal provisions": "Lawfulness of processing",
+            "amend": "Clarify the specific circumstances under which personal data may be processed outside the scope of the Statement."
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "compliant": [
+        {
+            "section": "Information we process with your consent",
+            "article numbers": "Article 6(1)(a)",
+            "legal provisions": "Processing based on consent is compliant with the TWPDP as it outlines the need for explicit consent for processing personal data."
+        },
+        {
+            "section": "Information we process for the purposes of legitimate interests",
+            "article numbers": "Article 6(1)(f)",
+            "legal provisions": "Processing based on legitimate interests is compliant as it considers the necessity and reasonableness of processing."
+        },
+        {
+            "section": "Information we process because we have a legal obligation",
+            "article numbers": "Article 6(1)(c)",
+            "legal provisions": "Processing for compliance with legal obligations is compliant with TWPDP."
+        },
+        {
+            "section": "Specific uses of information you provide to us",
+            "article numbers": "Article 5(1)(c)",
+            "legal provisions": "The policy states that payment information is not collected, which aligns with the principle of data minimization."
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "Information we process with your consent",
+            "article numbers": "Article 7",
+            "legal provisions": "The policy does not clearly state how users can withdraw consent in a straightforward manner.",
+            "amend": "Include a clear and accessible method for users to withdraw consent at any time, not just through email."
+        },
+        {
+            "section": "Sending a message to our support team",
+            "article numbers": "Article 5(1)(b)",
+            "legal provisions": "The policy does not specify the retention period for personal data collected through support communications.",
+            "amend": "Add a section detailing how long personal data will be retained and the criteria used to determine that period."
+        }
+    ]
+}

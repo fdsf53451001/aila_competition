@@ -1,0 +1,73 @@
+{
+    "compliant": [
+        {
+            "section": "our contact details;",
+            "article numbers": "Article 13(1)(a)",
+            "legal provisions": "Information to be provided where personal data are collected from the data subject."
+        },
+        {
+            "section": "the purpose for the collection and the legal basis for doing so;",
+            "article numbers": "Article 13(1)(c)",
+            "legal provisions": "Information to be provided where personal data are collected from the data subject."
+        },
+        {
+            "section": "if applicable, our legitimate interests for collecting your Personal Information;",
+            "article numbers": "Article 13(1)(d)",
+            "legal provisions": "Information to be provided where personal data are collected from the data subject."
+        },
+        {
+            "section": "any third parties or the categories of the third parties who will receive your Personal Information;",
+            "article numbers": "Article 13(1)(e)",
+            "legal provisions": "Information to be provided where personal data are collected from the data subject."
+        },
+        {
+            "section": "transfer of Personal Information to any country or organization outside EU, and the appropriate safeguards we apply when doing so, and where you can have access to such safeguards;",
+            "article numbers": "Article 13(1)(f)",
+            "legal provisions": "Information to be provided where personal data are collected from the data subject."
+        },
+        {
+            "section": "the criteria we use to determine the period for which your Personal Information will be stored;",
+            "article numbers": "Article 13(2)(a)",
+            "legal provisions": "Additional information to be provided where personal data are collected from the data subject."
+        },
+        {
+            "section": "your right to request access to, rectification, erasure of Personal Information or restrictions or objections to processing;",
+            "article numbers": "Article 13(2)(b)",
+            "legal provisions": "Additional information to be provided where personal data are collected from the data subject."
+        },
+        {
+            "section": "your right to withdraw your consent any time if you provide Personal Information based on your consent;",
+            "article numbers": "Article 13(2)(c)",
+            "legal provisions": "Additional information to be provided where personal data are collected from the data subject."
+        },
+        {
+            "section": "your right to lodge a complaint with a supervisory authority in EU member state;",
+            "article numbers": "Article 13(2)(d)",
+            "legal provisions": "Additional information to be provided where personal data are collected from the data subject."
+        },
+        {
+            "section": "whether you are obliged to provide the Personal Information, and the possible consequences of failure to provide such information;",
+            "article numbers": "Article 13(2)(e)",
+            "legal provisions": "Additional information to be provided where personal data are collected from the data subject."
+        },
+        {
+            "section": "whether we process any automated decision-making, including profiling based on the Personal Information you provide;",
+            "article numbers": "Article 13(2)(f)",
+            "legal provisions": "Additional information to be provided where personal data are collected from the data subject."
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "However, if you have already previously been informed of the above information, we may not provide further notification of the same.",
+            "article numbers": "Article 13(2)",
+            "legal provisions": "Additional information to be provided where personal data are collected from the data subject.",
+            "amend": "This section should clarify that the data subject's rights to be informed are ongoing and should be provided whenever there are changes to the processing of their data."
+        },
+        {
+            "section": "However, if you are already aware of the same, or we are required by law to obtain the information, or the provision of such information to you will involve disproportionate efforts to achieve, we will not provide you with the above details.",
+            "article numbers": "Article 14(5)",
+            "legal provisions": "Information to be provided where personal data have not been obtained from the data subject.",
+            "amend": "This section should ensure that it does not undermine the data subject's right to be informed, regardless of their prior knowledge or the effort involved."
+        }
+    ]
+}

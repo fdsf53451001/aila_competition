@@ -1,0 +1,27 @@
+{
+    "compliant": [
+        {
+            "section": "簡介 – 本隱私權政策說明我們如何處理您的個人資料。",
+            "article numbers": "Article 1",
+            "legal provisions": "Transparency in data processing"
+        },
+        {
+            "section": "本政策的適用範圍不僅及於客戶的個人資料，也包括供應商或本公司事業夥伴的資料。",
+            "article numbers": "Article 2",
+            "legal provisions": "Scope of data protection"
+        },
+        {
+            "section": "若有員工違反本政策，本公司將依內部規範進行懲戒。",
+            "article numbers": "Article 3",
+            "legal provisions": "Accountability and enforcement"
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "本公司得隨時修訂本隱私權政策，請定期查閱是否有內容更新。",
+            "article numbers": "Article 4",
+            "legal provisions": "User notification of changes",
+            "amend": "The policy should specify how users will be notified of changes, such as through email or a notification on the website."
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "compliant": [
+        {
+            "section": "Promise 將盡其所能確保其員工、子公司奉行並遵守本隱私權政策條款之規定。",
+            "article numbers": "Article 5",
+            "legal provisions": "Data Protection Accountability"
+        },
+        {
+            "section": "Promise 並承諾，未經您的同意，不會將您的個人資料揭露給與指定服務無關的第三人。",
+            "article numbers": "Article 6",
+            "legal provisions": "Consent and Purpose Limitation"
+        },
+        {
+            "section": "上述個人資料的使用期間，是以特定目的之蒐集期間為基礎，或是以為了執行目的所需的保留期間為基礎。",
+            "article numbers": "Article 7",
+            "legal provisions": "Data Retention"
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "您的個人資料可能因配合司法機關或相關機關，根據職責與責任所發起的法律調查而揭露或使用。",
+            "article numbers": "Article 8",
+            "legal provisions": "Legal Compliance",
+            "amend": "Clarify the conditions under which personal data may be disclosed for legal investigations, ensuring it aligns with the principle of necessity and proportionality."
+        }
+    ]
+}

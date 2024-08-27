@@ -1,0 +1,33 @@
+{
+    "compliant": [
+        {
+            "section": "Promise致力於保護您的隱私權。",
+            "article numbers": "Article 1",
+            "legal provisions": "The principle of protecting personal data."
+        },
+        {
+            "section": "本公司鼓勵您瞭解有關使用 Promise 在本網站所提供之服務可享有的全部權利。",
+            "article numbers": "Article 2",
+            "legal provisions": "Transparency and user rights regarding personal data."
+        },
+        {
+            "section": "Promise 依據個人資料保護規則做出下列聲明，包括保護您造訪本公司網站期間提供給本公司之資訊所使用的準則。",
+            "article numbers": "Article 3",
+            "legal provisions": "Compliance with data protection regulations."
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "本公司未明確列出用戶的具體權利和如何行使這些權利。",
+            "article numbers": "Article 4",
+            "legal provisions": "Users must be informed of their specific rights and how to exercise them.",
+            "amend": "Include a detailed section outlining user rights and procedures for exercising them."
+        },
+        {
+            "section": "未提及數據保留期限及數據刪除政策。",
+            "article numbers": "Article 5",
+            "legal provisions": "Data retention and deletion policies must be clearly stated.",
+            "amend": "Add a section specifying how long personal data will be retained and the process for deletion."
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "compliant": [
+        {
+            "section": "我們蒐集的資料",
+            "article numbers": "Article 4",
+            "legal provisions": "The collection of personal data must be for specific, legitimate purposes and must be relevant to those purposes."
+        },
+        {
+            "section": "個人資料是能夠識別您作為個人的任何資料",
+            "article numbers": "Article 2",
+            "legal provisions": "Definition of personal data."
+        },
+        {
+            "section": "如果您向我們提供其他人(如配偶或同事)的個人資料，您必須獲得該人士的許可。",
+            "article numbers": "Article 5",
+            "legal provisions": "Consent must be obtained from individuals before collecting their personal data."
+        },
+        {
+            "section": "多數情況下，您可以匿名瀏覽友訊網站。",
+            "article numbers": "Article 6",
+            "legal provisions": "Individuals have the right to access their personal data and to be informed about the processing of their data."
+        },
+        {
+            "section": "每一份電子郵件通訊均包含一個退訂鏈接",
+            "article numbers": "Article 11",
+            "legal provisions": "Individuals have the right to withdraw consent at any time."
+        },
+        {
+            "section": "友訊將在您加入會員、參加活動、訂閱電子報時，取得您的同意後，傳送相關電子郵件或商業性資料給您。",
+            "article numbers": "Article 6",
+            "legal provisions": "The collection of personal data should be based on the individual's consent."
+        },
+        {
+            "section": "我們將使用您的個人資料提供您所要求的產品和服務",
+            "article numbers": "Article 7",
+            "legal provisions": "The use of personal data should be limited to the purposes for which it was collected."
+        },
+        {
+            "section": "您進入、更新或停用您個人資料的能力",
+            "article numbers": "Article 3",
+            "legal provisions": "The right to access and rectify personal data."
+        },
+        {
+            "section": "我們如何保護您的個人資料",
+            "article numbers": "Article 6",
+            "legal provisions": "Security measures for protecting personal data."
+        },
+        {
+            "section": "本隱私權聲明的變化",
+            "article numbers": "Article 9",
+            "legal provisions": "Notification of changes to the privacy policy."
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "我們記錄您的 IP 位置",
+            "article numbers": "Article 8",
+            "legal provisions": "Data minimization principle; only necessary data should be collected.",
+            "amend": "Clarify the purpose of collecting IP addresses and ensure it aligns with the data minimization principle."
+        },
+        {
+            "section": "網站信標是電子圖像",
+            "article numbers": "Article 9",
+            "legal provisions": "Transparency requirements; individuals should be informed about tracking technologies.",
+            "amend": "Provide clearer information about the use of web beacons and obtain consent for tracking."
+        },
+        {
+            "section": "如果您不希望在瀏覽我們網站時或通過 HTML 格式的電子郵件收到 cookies",
+            "article numbers": "Article 10",
+            "legal provisions": "Individuals should have the right to refuse cookies and tracking technologies.",
+            "amend": "Ensure that users are provided with clear options to refuse cookies and tracking technologies."
+        },
+        {
+            "section": "我們可能需要與之分享您的資料的第三方包括我們的業務合作夥伴",
+            "article numbers": "Article 10",
+            "legal provisions": "Individuals should be informed about the sharing of their data with third parties.",
+            "amend": "Clarify the extent of liability for third-party websites and ensure that users are informed about the risks associated with third-party links."
+        },
+        {
+            "section": "您提供的任何敏感個人資料，僅用於開展提交資料所為之具體活動或項目",
+            "article numbers": "Article 4",
+            "legal provisions": "Special provisions for sensitive personal data.",
+            "amend": "Specify the conditions under which sensitive personal data is collected and processed, and ensure explicit consent is obtained."
+        },
+        {
+            "section": "您在任何變更後繼續使用我們的網站將意味著並確認您對那些變更的同意。",
+            "article numbers": "Article 8",
+            "legal provisions": "User consent for changes to the privacy policy.",
+            "amend": "Require explicit consent from users for any changes to the privacy policy rather than implying consent through continued use."
+        }
+    ]
+}

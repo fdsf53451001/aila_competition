@@ -1,0 +1,28 @@
+{
+    "compliant": [
+        {
+            "section": "Cookies或其他類似技術運用",
+            "article numbers": "Article 6, Article 7",
+            "legal provisions": "The provisions regarding the use of cookies and tracking technologies comply with the requirement to inform users about data collection and processing."
+        },
+        {
+            "section": "傳送商業資訊或電子郵件之政策",
+            "article numbers": "Article 8, Article 9",
+            "legal provisions": "The security measures and protocols for data transmission and storage align with the requirements for data protection and security."
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "Cookies或其他類似技術運用",
+            "article numbers": "Article 5",
+            "legal provisions": "The policy does not explicitly mention obtaining user consent for the use of cookies, which is a requirement under TWPDP.",
+            "amend": "Include a clear statement about obtaining user consent for cookies and provide options for users to manage their cookie preferences."
+        },
+        {
+            "section": "傳送商業資訊或電子郵件之政策",
+            "article numbers": "Article 10",
+            "legal provisions": "The policy lacks specific details on how users can opt-out of receiving commercial communications.",
+            "amend": "Add a section detailing the process for users to opt-out of commercial communications and how their preferences will be respected."
+        }
+    ]
+}

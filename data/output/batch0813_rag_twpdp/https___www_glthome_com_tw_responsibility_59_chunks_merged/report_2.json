@@ -1,0 +1,27 @@
+{
+    "compliant": [
+        {
+            "section": "我們如何使用您的資訊",
+            "article numbers": "Article 6",
+            "legal provisions": "The purpose limitation principle, which states that personal data should be collected for specified, legitimate purposes and not further processed in a manner incompatible with those purposes."
+        },
+        {
+            "section": "我們也可能使用蒐集到的部分資訊，以協助改善本公司網站的內容及服務品質。",
+            "article numbers": "Article 6",
+            "legal provisions": "The principle of data minimization, which allows for the use of personal data to improve services as long as it is relevant and necessary."
+        },
+        {
+            "section": "本公司對於招募及面試相關之需求，具有合法利益，因此處理您的個人資料。",
+            "article numbers": "Article 6",
+            "legal provisions": "Processing of personal data based on legitimate interests, provided that such interests are not overridden by the interests or fundamental rights and freedoms of the data subject."
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "除下列情況外，我們不會揭露、銷售或提供給任何其他人士或非關係企業您的個人資料，或與之分享 : 因法令要求、法院或相關執行機關的命令、或本公司為確保遵守法定義務及保護茂林光電財產及權利的範圍內，我們也可能會揭露我們所收集到的個人資訊。",
+            "article numbers": "Article 7",
+            "legal provisions": "The transparency principle, which requires that data subjects be informed about the processing of their personal data, including any potential disclosures to third parties.",
+            "amend": "Clarify the circumstances under which personal data may be disclosed and ensure that data subjects are informed about their rights regarding such disclosures."
+        }
+    ]
+}

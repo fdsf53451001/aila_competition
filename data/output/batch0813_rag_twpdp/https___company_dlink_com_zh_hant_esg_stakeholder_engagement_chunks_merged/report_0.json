@@ -1,0 +1,49 @@
+{
+    "compliant": [
+        {
+            "section": "我們蒐集的資料",
+            "article numbers": "Article 4",
+            "legal provisions": "The collection of personal data must be for specific, legitimate purposes and must be relevant to those purposes."
+        },
+        {
+            "section": "個人資料是能夠識別您作為個人的任何資料",
+            "article numbers": "Article 2",
+            "legal provisions": "Definition of personal data."
+        },
+        {
+            "section": "如果您向我們提供其他人(如配偶或同事)的個人資料，您必須獲得該人士的許可。",
+            "article numbers": "Article 5",
+            "legal provisions": "Consent must be obtained from individuals before collecting their personal data."
+        },
+        {
+            "section": "多數情況下，您可以匿名瀏覽友訊網站。",
+            "article numbers": "Article 6",
+            "legal provisions": "Individuals have the right to access their personal data and to be informed about the processing of their data."
+        },
+        {
+            "section": "每一份電子郵件通訊均包含一個退訂鏈接",
+            "article numbers": "Article 11",
+            "legal provisions": "Individuals have the right to withdraw consent at any time."
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "我們記錄您的 IP 位置(即您電腦的網際網路位置)",
+            "article numbers": "Article 8",
+            "legal provisions": "Data minimization principle; only necessary data should be collected.",
+            "amend": "Clarify the purpose of collecting IP addresses and ensure it aligns with the data minimization principle."
+        },
+        {
+            "section": "網站信標是電子圖像，可在網站或 HTML 格式的電子郵件上找到",
+            "article numbers": "Article 9",
+            "legal provisions": "Transparency requirements; individuals should be informed about tracking technologies.",
+            "amend": "Provide clearer information about the use of web beacons and obtain consent for tracking."
+        },
+        {
+            "section": "如果您不希望在瀏覽我們網站時或通過 HTML 格式的電子郵件收到 cookies",
+            "article numbers": "Article 10",
+            "legal provisions": "Individuals should have the right to refuse cookies and tracking technologies.",
+            "amend": "Ensure that users are provided with clear options to refuse cookies and tracking technologies."
+        }
+    ]
+}

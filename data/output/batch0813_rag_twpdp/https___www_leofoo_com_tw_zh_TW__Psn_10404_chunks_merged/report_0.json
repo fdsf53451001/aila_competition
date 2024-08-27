@@ -1,0 +1,33 @@
+{
+    "compliant": [
+        {
+            "section": "I. Personal Information Collection",
+            "article numbers": "Article 4, Article 5",
+            "legal provisions": "The collection of personal information is necessary for the provision of services, and the policy outlines the types of information collected, which aligns with the principles of transparency and purpose limitation."
+        },
+        {
+            "section": "1. Leofoo Tourism Group collects your Personal Information on the site in order to enhance the services provided",
+            "article numbers": "Article 6",
+            "legal provisions": "The policy states the purpose of data collection, which is to enhance services, complying with the requirement to inform individuals about the purpose of data processing."
+        },
+        {
+            "section": "2. We collect your information from the following ways",
+            "article numbers": "Article 8",
+            "legal provisions": "The policy describes the methods of data collection, ensuring that individuals are aware of how their data is being collected."
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "3. You may decide how much information you’d like to reveal; however, some specific services request your Personal Information, or Leofoo Tourism Group may not complete transactions or services for you.",
+            "article numbers": "Article 3, Article 7",
+            "legal provisions": "The policy implies that failure to provide personal information may result in the inability to access certain services, which could be seen as coercive and not fully compliant with the principle of voluntary consent.",
+            "amend": "Clarify that providing personal information is voluntary and outline the specific consequences of not providing information without implying coercion."
+        },
+        {
+            "section": "Once the information is disclosed or reported false, Leofoo Tourism Group may enforce the right to suspend services.",
+            "article numbers": "Article 9",
+            "legal provisions": "This statement may not comply with the requirement for fair processing and could be seen as punitive without clear justification.",
+            "amend": "Provide a clearer explanation of the circumstances under which services may be suspended and ensure that it aligns with the principles of fairness and transparency."
+        }
+    ]
+}

@@ -3,7 +3,7 @@ from google.api_core.exceptions import InternalServerError, ResourceExhausted
 from vertexai.preview import tokenization
 import time
 
-from key import api_keys
+from key import gemini_api_keys
 
 class GeminiAPIFreeTier():
     def __init__(self, api_key) -> None:
@@ -108,7 +108,7 @@ class GeminiAPIFreeTier():
 
 class GeminiAPIRotate():
     def __init__(self) -> None:
-        self.gemini_objects = [GeminiAPIFreeTier(api_key) for api_key in api_keys]
+        self.gemini_objects = [GeminiAPIFreeTier(api_key) for api_key in gemini_api_keys]
         self.model_amount = len(self.gemini_objects)
         self.model_number = 0
         self.RESOURCE_EXHAUSTED_THRESHOLD = 3

@@ -1,0 +1,66 @@
+
+{
+    "compliant": [
+        {
+            "section": "敏感性資訊",
+            "article numbers": "Article 6",
+            "legal provisions": "不要求提供敏感性資訊，並告知用戶不要提供此類資訊。"
+        },
+        {
+            "section": "第三方資訊",
+            "article numbers": "Article 8",
+            "legal provisions": "明確告知用戶第三方網站的隱私政策不適用於本網站，並建議用戶查閱第三方的隱私政策。"
+        },
+        {
+            "section": "資訊安全",
+            "article numbers": "Article 9",
+            "legal provisions": "描述了保護用戶資訊的措施，並承諾不再需要的資訊將被銷毀。"
+        },
+        {
+            "section": "直接行銷",
+            "article numbers": "Article 11",
+            "legal provisions": "不會使用敏感性資訊進行直接行銷，並要求用戶同意使用非敏感性資訊。"
+        },
+        {
+            "section": "兒童指南",
+            "article numbers": "Article 12",
+            "legal provisions": "不會收集兒童的個人資訊，並要求父母同意。"
+        },
+        {
+            "section": "蒐集與使用個人資訊",
+            "article numbers": "Article 5",
+            "legal provisions": "不會在未經同意的情況下收集個人可識別資訊。"
+        },
+        {
+            "section": "您的權利與疑問",
+            "article numbers": "Article 14",
+            "legal provisions": "列出用戶的權利，包括查詢、修改和刪除個人資料的權利。"
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "線上申請",
+            "article numbers": "Article 5",
+            "legal provisions": "未明確告知用戶在填寫線上申請時的權利及其資料的使用目的。",
+            "amend": "應增加用戶在填寫線上申請時的權利說明，包括如何查詢、修改或刪除其資料的權利。"
+        },
+        {
+            "section": "IP 位址",
+            "article numbers": "Article 5",
+            "legal provisions": "未明確告知用戶收集其IP地址的目的及使用方式。",
+            "amend": "應明確說明收集IP地址的目的，例如用於安全性或服務改善。"
+        },
+        {
+            "section": "Cookie",
+            "article numbers": "Article 10",
+            "legal provisions": "未提供用戶拒絕使用cookie的具體方法。",
+            "amend": "應提供用戶如何拒絕或管理cookie的具體指導。"
+        },
+        {
+            "section": "美國以外地區使用者",
+            "article numbers": "Article 13",
+            "legal provisions": "未明確告知用戶其資料在美國的法律保護程度可能低於其所在國的法律。",
+            "amend": "應增加關於資料轉移至美國的風險及用戶選擇權的說明。"
+        }
+    ]
+}

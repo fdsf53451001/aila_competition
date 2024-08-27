@@ -1,0 +1,36 @@
+{
+    "compliant": [
+        {
+            "section": "在以下的情況下，傳奇網路會向政府機關、其他人士或公司提供您的個人識別資料：\n經由合法的途徑。",
+            "article numbers": "Article 49: the transfer is necessary for the performance of a contract between the data subject and the controller or the implementation of pre-contractual measures taken at the data subject’s request; the transfer is necessary for important reasons of public interest; the transfer is necessary for the establishment, exercise or defence of legal claims; the transfer is necessary in order to protect the vital interests of the data subject or of other persons, where the data subject is physically or legally incapable of giving consent; the transfer is made from a register which according to Union or Member State law is intended to provide information to the public and which is open to consultation either by the public in general or by any person who can demonstrate a legitimate interest, but only to the extent that the conditions laid down by Union or Member State law for consultation are fulfilled in the particular case.",
+            "amend": null
+        },
+        {
+            "section": "配合司法單位合法的調查。",
+            "article numbers": "Article 49: the transfer is necessary for the establishment, exercise or defence of legal claims",
+            "amend": null
+        },
+        {
+            "section": "配合相關職權機關依職務需要之調查或使用。",
+            "article numbers": "Article 49: the transfer is necessary for important reasons of public interest",
+            "amend": null
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "保護或防衛相關網路民眾的權利或所有權。",
+            "article numbers": null,
+            "amend": "This section needs to be more specific and should align with the grounds for processing under GDPR Article 6 and the conditions for transferring data outside the EEA under Article 49. For example, specify the types of rights and whose rights are being protected, and how data sharing achieves that protection."
+        },
+        {
+            "section": "根據契約與傳奇網路合作商業營運之服務供應商，例如為了防止詐欺行為，為了行銷目的所為之收集資料，或提供技術服務。而這些服務供應商僅能於其服務範圍內使用您的個人資料，將不會用於其他任何商業用途。",
+            "article numbers": null,
+            "amend": "While this section mentions contracts with service providers, it lacks specifics regarding GDPR compliance. It should explicitly state: \n\n* **Data Processing Agreement:**  The existence of a legally binding agreement with service providers that complies with Article 28 of the GDPR, outlining data processing purposes, responsibilities, and data protection measures.\n* **Purpose Limitation:**  Clearly define the specific purposes for which data is shared with each service provider and ensure it aligns with the original purpose of collection and the user's consent.\n* **Data Minimization:** Only the minimum necessary data should be shared with service providers, and the policy should reflect this. \n* **International Transfers:** If data is transferred outside the EEA, appropriate safeguards like those listed in Article 49 must be in place (e.g., adequacy decisions, Standard Contractual Clauses)."
+        },
+        {
+            "section": "若您透過本網站有購物、兌換贈品，因而產生的金流、物流必要，本網站有可能會提供您前述範圍內，必要的個人資料給相關機關或公司作以交易驗證或商品送達之用。傳奇網路未經您的同意，不會非法透露您的信用卡資料予任何不相關之第三人，但若法律另有規定，不在此限。",
+            "article numbers": null,
+            "amend": "This section needs clarification on:\n\n* **Legal Basis:** Specify the legal basis for processing this data (e.g., contract performance, legitimate interest). If relying on legitimate interest, a  Legitimate Interests Assessment (LIA) should be conducted and documented.\n* **Data Minimization:**  Emphasize that only the minimum data necessary for transaction verification and delivery will be shared.\n* **Transparency:** Users should be clearly informed about the specific data shared, the recipients (including third-party companies), and the purpose of sharing. \n* **Consent:**  While mentioning consent for credit card data, the policy should clarify if consent is obtained for other data sharing related to purchases and deliveries. If relying on consent, it must be freely given, specific, informed, and unambiguous, as per GDPR standards."
+        }
+    ]
+}

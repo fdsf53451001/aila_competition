@@ -1,0 +1,32 @@
+{
+    "compliant": [
+        {
+            "section": "Cookie",
+            "article numbers": "Article 9",
+            "legal provisions": "The use of cookies is disclosed, and users are informed about their ability to manage cookie settings."
+        },
+        {
+            "section": "修改個人帳號資料",
+            "article numbers": "Article 8",
+            "legal provisions": "Users have the right to access and modify their personal data."
+        },
+        {
+            "section": "安全性",
+            "article numbers": "Article 6",
+            "legal provisions": "Measures are in place to protect user data, including password protection and advice on safeguarding personal information."
+        },
+        {
+            "section": "隱私保護政策修訂",
+            "article numbers": "Article 12",
+            "legal provisions": "Users are informed about the possibility of policy changes and are encouraged to review updates."
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "安全性",
+            "article numbers": "Article 5",
+            "legal provisions": "While there are security measures mentioned, there is no explicit mention of data breach notification procedures.",
+            "amend": "Include a clear statement regarding the procedures for notifying users in the event of a data breach."
+        }
+    ]
+}

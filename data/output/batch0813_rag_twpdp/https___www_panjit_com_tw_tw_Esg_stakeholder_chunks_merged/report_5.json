@@ -1,0 +1,17 @@
+{
+    "compliant": [
+        {
+            "section": "處理個人資料的目的及法律依據",
+            "article numbers": "Article 6",
+            "legal provisions": "合法性處理的條件，包括同意、合同履行、法律義務、保護重要利益、公共任務及正當利益等"
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "本附錄在補充說明若本公司網站所蒐集個人資料的處理適用歐盟個人資料保護規則 (EU General Data Protection Regulation, GDPR)時，規則所要求補充的特別規定。",
+            "article numbers": "Article 13, Article 14",
+            "legal provisions": "提供透明度和信息的義務，包括告知個人資料的來源、用途及保留期限等",
+            "amend": "應明確列出個人資料的來源、用途及保留期限等信息，以符合透明度要求"
+        }
+    ]
+}

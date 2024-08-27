@@ -1,0 +1,38 @@
+{
+    "compliant": [
+        {
+            "section": "個人資料的蒐集、處理及利用方式",
+            "legal article numbers": "Article 8, Article 9",
+            "legal provisions": "The collection, processing, and use of personal data must be for specific, legitimate purposes and must be limited to what is necessary."
+        },
+        {
+            "section": "資料的保護",
+            "legal article numbers": "Article 16",
+            "legal provisions": "Data controllers must implement appropriate security measures to protect personal data."
+        },
+        {
+            "section": "您對個人資料的權利",
+            "legal article numbers": "Article 11",
+            "legal provisions": "Individuals have the right to access, correct, delete, and restrict the processing of their personal data."
+        },
+        {
+            "section": "Cookie 之使用",
+            "legal article numbers": "Article 14",
+            "legal provisions": "Users must be informed about the use of cookies and have the option to refuse them."
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "與第三人共用個人資料之政策",
+            "legal article numbers": "Article 12",
+            "legal provisions": "Personal data should not be shared with third parties without explicit consent, except in specific legal circumstances.",
+            "amend": "Clarify the conditions under which personal data may be shared with third parties, ensuring explicit consent is obtained in all cases unless legally mandated."
+        },
+        {
+            "section": "網站對外的相關連結",
+            "legal article numbers": "Article 13",
+            "legal provisions": "Data controllers must ensure that third-party links comply with data protection standards.",
+            "amend": "Include a statement that the company is not responsible for the data protection practices of third-party sites and encourage users to review their privacy policies."
+        }
+    ]
+}

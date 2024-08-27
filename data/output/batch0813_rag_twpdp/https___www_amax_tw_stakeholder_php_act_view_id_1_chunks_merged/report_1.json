@@ -1,0 +1,22 @@
+{
+    "compliant": [
+        {
+            "section": "如果您瀏覽或使用本網站，即表示您同意下列○○網站隱私權保護政策。",
+            "article numbers": "Article 6",
+            "legal provisions": "Informed consent for data processing."
+        },
+        {
+            "section": "本網站保留隨時更改○○網站隱私權保護政策之權利。",
+            "article numbers": "Article 9",
+            "legal provisions": "Right to amend privacy policy."
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "您對本網站的使用，適用使用當時最新的○○網站隱私權保護政策的規範。",
+            "article numbers": "Article 5",
+            "legal provisions": "User notification of changes.",
+            "amend": "Ensure that users are notified of changes to the privacy policy in a clear and accessible manner before they take effect."
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "compliant": [
+        {
+            "section": "個人資訊之維護及刪除",
+            "article numbers": "Article 3, Article 11",
+            "legal provisions": "The right to access and rectify personal data, and the right to request deletion of personal data."
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "本公司得隨時修訂本隱私權政策，請定期查閱是否有內容更新。",
+            "article numbers": "Article 14",
+            "legal provisions": "The requirement to notify users of changes to the privacy policy in a timely manner.",
+            "amend": "Include a clear notification mechanism for users regarding changes to the privacy policy."
+        }
+    ]
+}

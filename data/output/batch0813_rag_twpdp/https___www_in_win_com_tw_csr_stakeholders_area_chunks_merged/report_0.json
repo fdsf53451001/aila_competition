@@ -1,0 +1,38 @@
+{
+    "compliant": [
+        {
+            "section": "我們尊重且承諾保障您的個人隱私。",
+            "article numbers": "Article 6",
+            "legal provisions": "The principle of respecting personal privacy."
+        },
+        {
+            "section": "我們遵守所有台灣有關隱私資料保護及個人資料安全的相關法令。",
+            "article numbers": "Article 5",
+            "legal provisions": "Compliance with applicable laws and regulations."
+        },
+        {
+            "section": "透過下列的說明回答您對個人隱私權或是個人資料的相關疑慮。",
+            "article numbers": "Article 8",
+            "legal provisions": "Providing information to data subjects regarding their rights."
+        },
+        {
+            "section": "瀏覽或是使用本網站所提供的相關服務時，即代表您同意本隱私權規範中對個人資料的收集、處理、儲存、或是其他使用等。",
+            "article numbers": "Article 9",
+            "legal provisions": "Consent for the collection and processing of personal data."
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "未明確說明個人資料的具體收集目的及範圍。",
+            "article numbers": "Article 14",
+            "legal provisions": "Data controllers must specify the purpose and scope of data collection.",
+            "amend": "Add a clear statement detailing the specific purposes for which personal data is collected and the scope of such data."
+        },
+        {
+            "section": "未提供用戶對其個人資料的查詢、修改及刪除的具體流程。",
+            "article numbers": "Article 11",
+            "legal provisions": "Data subjects have the right to access, correct, and delete their personal data.",
+            "amend": "Include a detailed process for users to access, modify, and delete their personal data."
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "compliant": [
+        {
+            "section": "簡介 – 本公司會將蒐集到的個人資料傳送給其他國家之接收人。",
+            "article numbers": "Article 44",
+            "legal provisions": "The transfer of personal data to third countries or international organizations shall be subject to appropriate safeguards."
+        },
+        {
+            "section": "如果我們將您的個人資料從歐盟境內傳送到歐洲經濟區境外，而且接收人所在的國家未獲得歐盟認定該國的個資保護水準已達到歐盟一般資料保護規則之標準，即「適足性認定」，我們會與接收方簽署歐盟標準條款以保障您的權利。",
+            "article numbers": "Article 46",
+            "legal provisions": "In the absence of a decision pursuant to Article 45(3), a controller or processor may transfer personal data to a third country or an international organization only if appropriate safeguards are provided."
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "本公司會將蒐集到的個人資料傳送給其他國家之接收人。",
+            "article numbers": "Article 49",
+            "legal provisions": "Transfers based on consent or other specific situations must be clearly defined.",
+            "amend": "Include information on the legal basis for the transfer, such as consent or necessity for the performance of a contract."
+        }
+    ]
+}

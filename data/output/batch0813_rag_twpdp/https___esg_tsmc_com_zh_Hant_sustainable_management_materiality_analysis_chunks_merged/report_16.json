@@ -1,0 +1,22 @@
+{
+    "compliant": [
+        {
+            "section": "本公司運用您的個人資料與您聯絡，以提供您可能感興趣的網站、產品或服務之相關資訊。",
+            "article numbers": "Article 6",
+            "legal provisions": "The processing of personal data must be lawful, fair, and transparent."
+        },
+        {
+            "section": "您得隨時取消訂閱，並且不須負擔任何成本。",
+            "article numbers": "Article 7",
+            "legal provisions": "The right to withdraw consent at any time."
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "本公司運用您的個人資料與您聯絡，以提供您可能感興趣的網站、產品或服務之相關資訊。",
+            "article numbers": "Article 5",
+            "legal provisions": "Data minimization principle.",
+            "amend": "Specify the purpose of data collection more clearly and ensure that only necessary data is collected."
+        }
+    ]
+}

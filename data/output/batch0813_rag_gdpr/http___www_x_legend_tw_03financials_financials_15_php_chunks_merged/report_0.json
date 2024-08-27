@@ -1,0 +1,24 @@
+{
+    "compliant": [
+        {
+            "section": "於本網站上的單純瀏覽及檔案下載行為，本網站並不會蒐集任何有關個人的身份資料。",
+            "article numbers": "Article 89"
+        },
+        {
+            "section": "網站會自動接收並記錄您電腦和瀏覽器上的資料，包括連線設備IP位址、使用時間以及在網站內所瀏覽的網頁紀錄等。這些資料僅供本網站內部作網站流量及網路行為調查總量分析，以利提昇網站服務品質，且僅對使用者行為總和進行分析，並不會針對個別使用者。",
+            "article numbers": "Article 89"
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "申請加入元氣卡網站會員時，需請您提供會員帳號、會員密碼、姓名、性別、出生日期、聯絡電話或手機、E-mail、通訊住址等個人最新、最真實之資料。您所提供之資料，將作為傳奇網路驗證、統計、兌獎、行銷等用途。",
+            "article numbers": "Article 15",
+            "amend": "This section does not specify the legal basis for processing user data for marketing purposes, which requires explicit consent under GDPR. It should clearly state the legal basis for data processing (e.g., consent, legitimate interest) and provide users with the option to opt-out of marketing communications."
+        },
+        {
+            "section": "本網站在蒐集會員的個人資料後，非經您本人同意、授權或因其他法律上的規定，不會將非公開資料透露給第三人、或移作其他目的使用。",
+            "article numbers": "Article 15",
+            "amend": "While this section mentions consent, it lacks details about data retention periods, the right to access, rectification, erasure, and objection to processing. It should explicitly mention these rights and provide clear instructions on how users can exercise them."
+        }
+    ]
+}

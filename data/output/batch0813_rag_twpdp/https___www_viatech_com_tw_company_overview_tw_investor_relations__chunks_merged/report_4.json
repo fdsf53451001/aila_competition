@@ -1,0 +1,48 @@
+{
+    "compliant": [
+        {
+            "section": "Access to your personal information",
+            "article numbers": "Article 15",
+            "legal provisions": "Right of access to personal data"
+        },
+        {
+            "section": "Removal of your information",
+            "article numbers": "Article 17",
+            "legal provisions": "Right to erasure (right to be forgotten)"
+        },
+        {
+            "section": "Verification of your information",
+            "article numbers": "Article 12(6)",
+            "legal provisions": "Right to request access, rectification, or erasure of personal data"
+        },
+        {
+            "section": "Encryption of data sent between us",
+            "article numbers": "Article 32",
+            "legal provisions": "Security of processing"
+        },
+        {
+            "section": "Retention period for personal data",
+            "article numbers": "Article 5(1)(e)",
+            "legal provisions": "Storage limitation"
+        },
+        {
+            "section": "Compliance with the law",
+            "article numbers": "Article 1",
+            "legal provisions": "General provisions"
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "Use of site by children",
+            "article numbers": "Article 8",
+            "legal provisions": "Conditions applicable to child's consent in relation to information society services",
+            "amend": "Clarify the age of consent and ensure compliance with parental consent requirements."
+        },
+        {
+            "section": "How you can complain",
+            "article numbers": "Article 77",
+            "legal provisions": "Right to lodge a complaint with a supervisory authority",
+            "amend": "Provide clear information on the process for lodging a complaint with a supervisory authority."
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "compliant": [
+        {
+            "section": "Promise 不會揭露自您的 Cookies 所取得之資料，以保護您的隱私權。",
+            "article numbers": "Article 6",
+            "legal provisions": "Data Protection Principles - Personal data must be processed lawfully, fairly, and transparently."
+        },
+        {
+            "section": "Promise可能會使用 Cookie 透過您的網路瀏覽器蒐集資訊，為您提供各種服務，並邀請您參與網站上的所有活動。",
+            "article numbers": "Article 7",
+            "legal provisions": "Conditions for consent - The user is informed about the use of cookies and can provide consent."
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "您可選擇將瀏覽器設定為不接受 Cookie，然而，如果您禁用 Cookie，您將無法使用特定個性化功能或參與網站上的所有活動。",
+            "article numbers": "Article 7",
+            "legal provisions": "Conditions for consent - Users should not be penalized for refusing consent.",
+            "amend": "Clarify that users can still access basic functionalities of the website without accepting cookies."
+        },
+        {
+            "section": "使我們確定您的網路偏好，以協助提供更好的服務給您。",
+            "article numbers": "Article 5",
+            "legal provisions": "Data minimization - Personal data collected should be adequate, relevant, and limited to what is necessary.",
+            "amend": "Specify what data is collected and ensure it is limited to what is necessary for the stated purpose."
+        }
+    ]
+}

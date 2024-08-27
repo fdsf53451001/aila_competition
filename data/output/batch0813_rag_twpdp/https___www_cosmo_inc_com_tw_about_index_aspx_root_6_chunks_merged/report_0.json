@@ -1,0 +1,33 @@
+{
+    "compliant": [
+        {
+            "section": "我們謹遵所有關於隱私保護及個人資料保護之相關法律規定。",
+            "article numbers": "Article 1, Article 2",
+            "legal provisions": "遵循個人資料保護法的基本原則"
+        },
+        {
+            "section": "本隱私權政策旨在說明我們如何收集、使用及分享我們自您作為我們的網站或服務之使用者所取得的所有資料。",
+            "article numbers": "Article 8",
+            "legal provisions": "明確告知資料收集、使用及分享的目的"
+        },
+        {
+            "section": "當您提交您的資料給我們時，即視為您已同意本隱私權政策之規定。",
+            "article numbers": "Article 3",
+            "legal provisions": "取得使用者同意"
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "我們非常重視您的隱私。請您詳細閱讀以下之規定以更進一步了解我們的隱私權政策。",
+            "article numbers": "Article 4",
+            "legal provisions": "未提供足夠的透明度和易於理解的資訊",
+            "amend": "應提供更具體的隱私權政策內容，並以易於理解的語言表達"
+        },
+        {
+            "section": "我們的網站或服務(以下稱「服務」)之使用者所取得的所有資料。",
+            "article numbers": "Article 5",
+            "legal provisions": "未明確界定所收集資料的類型及範圍",
+            "amend": "應詳細列出所收集的資料類型及範圍"
+        }
+    ]
+}

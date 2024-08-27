@@ -1,0 +1,33 @@
+{
+    "compliant": [
+        {
+            "section": "Cookies",
+            "article numbers": "Article 6, Article 7",
+            "legal provisions": "Consent for the use of cookies is obtained from users, and users are informed about the purpose of cookies."
+        },
+        {
+            "section": "Opting out",
+            "article numbers": "Article 21",
+            "legal provisions": "Users are provided with the option to unsubscribe from marketing communications at any time."
+        },
+        {
+            "section": "Third-party disclosure",
+            "article numbers": "Article 5",
+            "legal provisions": "The policy states that Personally Identifiable Information is not sold or transferred to outside parties."
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "Mailchimp",
+            "article numbers": "Article 13",
+            "legal provisions": "Users are not adequately informed about the transfer of their data to Mailchimp and the specific processing activities that will occur.",
+            "amend": "Include detailed information about Mailchimp's data processing activities and how users can manage their data."
+        },
+        {
+            "section": "Google",
+            "article numbers": "Article 12",
+            "legal provisions": "The policy does not provide sufficient information about how Google uses cookies and the implications for user privacy.",
+            "amend": "Add a clear explanation of how Google uses cookies, what data is collected, and how users can manage their cookie preferences."
+        }
+    ]
+}

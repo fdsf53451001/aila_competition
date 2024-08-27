@@ -1,0 +1,17 @@
+{
+    "compliant": [
+        {
+            "section": "我們可能會不定期修改隱私權的相關政策。",
+            "article numbers": "Article 9",
+            "legal provisions": "The right to be informed about changes to privacy policies."
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "如有任何變更，我們將不會另行通知個別使用者，因此我們鼓勵您定期查看我們的隱私權規範。",
+            "article numbers": "Article 10",
+            "legal provisions": "The requirement to notify users of changes to privacy policies.",
+            "amend": "Ensure that users are notified of changes to the privacy policy, either directly or through a prominent notice."
+        }
+    ]
+}

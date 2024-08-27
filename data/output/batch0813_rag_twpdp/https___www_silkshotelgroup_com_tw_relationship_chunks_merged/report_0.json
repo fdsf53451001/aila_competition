@@ -1,0 +1,39 @@
+{
+    "compliant": [
+        {
+            "section": "Consent",
+            "article numbers": "Article 6",
+            "legal provisions": "The requirement for consent before collecting personal information is addressed."
+        },
+        {
+            "section": "When is your Personal Information Collected?",
+            "article numbers": "Article 8",
+            "legal provisions": "The policy outlines the circumstances under which personal information is collected, which aligns with transparency requirements."
+        },
+        {
+            "section": "Rights with regard to cookies and other tracers",
+            "article numbers": "Article 9",
+            "legal provisions": "The policy informs users of their rights regarding cookies, which is in line with user rights provisions."
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "Information from Third Parties",
+            "article numbers": "Article 7",
+            "legal provisions": "The policy does not clearly state the legal basis for processing personal information obtained from third parties.",
+            "amend": "Include a clear statement on the legal basis for processing personal information obtained from third parties, as required by TWPDP."
+        },
+        {
+            "section": "Data Retention",
+            "article numbers": "Article 10",
+            "legal provisions": "The policy does not specify the retention period for personal information.",
+            "amend": "Add a section detailing the retention period for personal information and the criteria used to determine that period."
+        },
+        {
+            "section": "User Rights",
+            "article numbers": "Article 12",
+            "legal provisions": "The policy does not adequately inform users of their rights to access, rectify, or delete their personal information.",
+            "amend": "Include a detailed explanation of user rights regarding access, rectification, and deletion of personal information."
+        }
+    ]
+}

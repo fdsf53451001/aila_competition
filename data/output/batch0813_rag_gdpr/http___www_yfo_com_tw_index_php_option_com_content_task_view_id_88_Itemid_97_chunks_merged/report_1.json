@@ -1,0 +1,28 @@
+{
+    "compliant": [
+        {
+            "section": "The controller shall take appropriate measures to provide any information referred to in Articles 13 and 14 and any communication under Articles 15 to 22 and 34 relating to processing to the data subject in a concise, transparent, intelligible and easily accessible form, using clear and plain language.",
+            "article numbers": "Article 12"
+        },
+        {
+            "section": "The controller shall facilitate the exercise of data subject rights under Articles 15 to 22.",
+            "article numbers": "Article 12"
+        },
+        {
+            "section": "Information provided under Articles 13 and 14 and any communication and any actions taken under Articles 15 to 22 and 34 shall be provided free of charge.",
+            "article numbers": "Article 12"
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "If you disagree with any statement contained here, and do not wish to accept these conditions, please do not visit the Young Fast site.",
+            "article numbers": "Article 8",
+            "amend": "The policy should explicitly state the age of consent for children and ensure that parental consent is obtained for users under the age of 16."
+        },
+        {
+            "section": "The controller shall make reasonable efforts to verify in such cases that consent is given or authorised by the holder of parental responsibility over the child.",
+            "article numbers": "Article 8",
+            "amend": "The policy should outline the methods used to verify parental consent for users under the age of 16."
+        }
+    ]
+}

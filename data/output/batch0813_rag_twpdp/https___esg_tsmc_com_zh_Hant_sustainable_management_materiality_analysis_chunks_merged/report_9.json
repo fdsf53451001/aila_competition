@@ -1,0 +1,17 @@
+{
+    "compliant": [
+        {
+            "section": "本公司已採取適當的技術上及組織上的安全措施以保護您的個人資料的安全",
+            "article numbers": "Article 22",
+            "legal provisions": "The data controller must implement appropriate technical and organizational measures to ensure a level of security appropriate to the risk."
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "請您務必確認傳送個人資料給本公司的過程之安全性",
+            "article numbers": "Article 6",
+            "legal provisions": "Personal data must be processed lawfully, fairly, and in a transparent manner in relation to the data subject.",
+            "amend": "Clarify the company's responsibility in ensuring the security of data transmission, rather than placing the onus solely on the data subject."
+        }
+    ]
+}

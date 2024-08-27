@@ -1,0 +1,25 @@
+{
+    "compliant": [
+        {
+            "section": "我們不會在知情的情況且未知會監護人或是法定代理人的情況之下，收集或是使用兒童的個人資料。",
+            "article numbers": "Article 4, Article 5",
+            "legal provisions": "這符合兒童資料保護的基本原則，要求在收集個人資料時需獲得監護人或法定代理人的同意。"
+        },
+        {
+            "section": "如果我們發現我們的資料庫中有兒童的個資，我們也會將其刪除，以保障兒童的相關權益。",
+            "article numbers": "Article 6",
+            "legal provisions": "這符合資料刪除的要求，確保不再需要的兒童個人資料被及時刪除。"
+        },
+        {
+            "section": "我們也鼓勵兒童在父母或是監護人的陪伴下，使用網路服務。",
+            "article numbers": "Article 3",
+            "legal provisions": "這符合促進兒童在安全環境中使用網路服務的原則。"
+        },
+        {
+            "section": "並只有在法定代理人知情且同意的情況下，將個人資料提交給我們。",
+            "article numbers": "Article 4",
+            "legal provisions": "這符合要求在收集兒童個人資料時必須獲得法定代理人同意的規定。"
+        }
+    ],
+    "non_compliant": []
+}

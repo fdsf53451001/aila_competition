@@ -1,0 +1,34 @@
+
+{
+    "compliant": [
+        {
+            "section": "個人資料之查詢、閱覽及刪除",
+            "article numbers": "Article 3, Article 11",
+            "legal provisions": "根據個人資料保護法，使用者有權查詢、閱覽、複製、補充、更正、停止蒐集及刪除其個人資料。"
+        },
+        {
+            "section": "本網站上述蒐集資料之運用政策",
+            "article numbers": "Article 8",
+            "legal provisions": "個人資料的蒐集及利用必須有明確的目的，並不得超出該目的範圍。"
+        },
+        {
+            "section": "Cookies的運用與政策",
+            "article numbers": "Article 9",
+            "legal provisions": "使用Cookies必須告知使用者其用途，並提供選擇權。"
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "本公司不會將前述個人資料用做其他用途。",
+            "article numbers": "Article 8",
+            "legal provisions": "雖然該部分提到不會用於其他用途，但未明確說明如何確保不會發生其他用途的情況，應加強透明度。",
+            "amend": "應明確說明如何確保個人資料不會被用於其他用途的具體措施。"
+        },
+        {
+            "section": "對於您於前述連結網站主動提供的個人資料，將依相關法令及各該連結網站所揭露之隱私權保護政策蒐集、利用與處理。",
+            "article numbers": "Article 6",
+            "legal provisions": "應明確告知使用者在連結網站提供個人資料的風險及相關的隱私權保護措施。",
+            "amend": "應增加對於連結網站的個人資料保護政策的說明，並提醒使用者注意風險。"
+        }
+    ]
+}

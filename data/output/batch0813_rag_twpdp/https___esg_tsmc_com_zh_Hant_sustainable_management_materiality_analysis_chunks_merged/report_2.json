@@ -1,0 +1,22 @@
+{
+    "compliant": [
+        {
+            "section": "本公司建立的個人資料簡介",
+            "article numbers": "Article 6",
+            "legal provisions": "The data subject has the right to be informed about the collection and use of their personal data."
+        },
+        {
+            "section": "本公司可能主動建立關於您的個人資料檔案",
+            "article numbers": "Article 5",
+            "legal provisions": "Personal data must be collected for specified, legitimate purposes and not further processed in a manner that is incompatible with those purposes."
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "您與我們之間的互動記錄",
+            "article numbers": "Article 9",
+            "legal provisions": "Processing of personal data must be lawful and fair; it should not be excessive or irrelevant.",
+            "amend": "Clarify the legal basis for processing interaction records and ensure that data collection is limited to what is necessary."
+        }
+    ]
+}

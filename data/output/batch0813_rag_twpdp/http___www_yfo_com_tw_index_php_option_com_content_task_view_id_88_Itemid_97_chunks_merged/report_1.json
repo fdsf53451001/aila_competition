@@ -1,0 +1,22 @@
+{
+    "compliant": [
+        {
+            "section": "These statements are important information for you as a user of the Young Fast Web Site.",
+            "article numbers": "Article 1",
+            "legal provisions": "User consent and awareness of terms."
+        },
+        {
+            "section": "Please read them carefully before entering the site.",
+            "article numbers": "Article 2",
+            "legal provisions": "Informed consent."
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "If you disagree with any statement contained here, and do not wish to accept these conditions, please do not visit the Young Fast site.",
+            "article numbers": "Article 3",
+            "legal provisions": "Lack of explicit opt-out options.",
+            "amend": "Provide a clear opt-out mechanism or alternative options for users who do not agree with the terms."
+        }
+    ]
+}

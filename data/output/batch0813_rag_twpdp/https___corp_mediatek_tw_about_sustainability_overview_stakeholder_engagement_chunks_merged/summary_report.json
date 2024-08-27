@@ -1,0 +1,81 @@
+{
+    "compliant": [
+        {
+            "section": "聯發科技收集的資訊",
+            "article numbers": "Article 4, Article 5",
+            "legal provisions": "明確告知用戶所收集的個人資訊類型及其用途"
+        },
+        {
+            "section": "個人資訊的使用",
+            "article numbers": "Article 6",
+            "legal provisions": "明確告知用戶個人資訊的使用目的"
+        },
+        {
+            "section": "個人資訊的分享",
+            "article numbers": "Article 7",
+            "legal provisions": "明確告知用戶個人資訊的分享情況及對象"
+        },
+        {
+            "section": "未成年人",
+            "article numbers": "Article 8",
+            "legal provisions": "針對未成年人使用個人資訊的特別規定"
+        },
+        {
+            "section": "資訊的儲存和傳輸",
+            "article numbers": "Article 9",
+            "legal provisions": "告知用戶個人資訊的儲存及傳輸情況"
+        },
+        {
+            "section": "安全",
+            "article numbers": "Article 10",
+            "legal provisions": "採取合理措施保護個人資訊的安全"
+        },
+        {
+            "section": "關於您的個人資訊權利",
+            "article numbers": "Article 11",
+            "legal provisions": "告知用戶其對個人資訊的權利"
+        },
+        {
+            "section": "隱私政策的修改",
+            "article numbers": "Article 12",
+            "legal provisions": "告知用戶隱私政策的修改情況"
+        },
+        {
+            "section": "聯繫我們",
+            "article numbers": "Article 13",
+            "legal provisions": "提供用戶聯繫方式以解決隱私問題"
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "個人資訊的分享",
+            "article numbers": "Article 7",
+            "legal provisions": "未明確告知用戶的同意機制及分享的具體情況",
+            "amend": "需要增加用戶同意的具體條件及分享的具體情況"
+        },
+        {
+            "section": "隱私政策的修改",
+            "article numbers": "Article 13",
+            "legal provisions": "未明確告知用戶隱私政策修改的通知方式及時間",
+            "amend": "需要明確隱私政策修改的通知方式及時間"
+        },
+        {
+            "section": "個人資訊的使用",
+            "article numbers": "Article 6",
+            "legal provisions": "未明確告知用戶個人資訊的使用目的及範圍",
+            "amend": "需要詳細說明個人資訊的使用目的及範圍"
+        },
+        {
+            "section": "Cookies 和我們使用的其他技術",
+            "article numbers": "Article 7",
+            "legal provisions": "未獲得明確同意使用 cookies 和追蹤技術",
+            "amend": "確保獲得明確同意使用 cookies 和追蹤技術，而非默認同意"
+        },
+        {
+            "section": "用戶權利和偏好",
+            "article numbers": "Article 8",
+            "legal provisions": "未尊重 '請勿追蹤' 信號的設置",
+            "amend": "實施措施以尊重 '請勿追蹤' 信號，並提供用戶管理其偏好的明確選項"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+
+{
+    "compliant": [
+        {
+            "section": "個人資料蒐集種類",
+            "article numbers": "Article 6, Article 8",
+            "legal provisions": "The collection of personal data is based on the necessity for the services provided, and the types of data collected are specified."
+        },
+        {
+            "section": "客戶資料蒐集目的",
+            "article numbers": "Article 14",
+            "legal provisions": "The purposes for which personal data is collected are clearly stated and are related to the services provided."
+        },
+        {
+            "section": "客戶資料利用期間、地區",
+            "article numbers": "Article 15",
+            "legal provisions": "The duration and area of personal data usage are specified, ensuring that data is only used within the authorized scope."
+        },
+        {
+            "section": "客戶資料權利行使",
+            "article numbers": "Article 3, Article 11",
+            "legal provisions": "The rights of individuals regarding their personal data are clearly outlined, including the right to access, correct, and delete their data."
+        },
+        {
+            "section": "資料正確性之權益影響",
+            "article numbers": "Article 4",
+            "legal provisions": "The implications of providing incomplete or incorrect data are explained, ensuring transparency."
+        },
+        {
+            "section": "電子發票作業個資保護告知條款",
+            "article numbers": "Article 6, Article 14",
+            "legal provisions": "The collection and use of personal data for electronic invoicing are specified, complying with the legal requirements."
+        },
+        {
+            "section": "本公司擁有您之個人資料均依照個人資料保護法之規定進行蒐集、處理及利用",
+            "article numbers": "第六條",
+            "legal provisions": "The collection, processing, and utilization of personal data are conducted in accordance with the Personal Data Protection Act."
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "客戶資料蒐集種類",
+            "article numbers": "Article 6",
+            "legal provisions": "The policy states that the company does not process certain types of data as specified in Article 6, but it does not clarify which specific types are excluded.",
+            "amend": "Clarify which specific types of data are not processed under Article 6."
+        },
+        {
+            "section": "客戶資料移轉、揭露對象及方式",
+            "article numbers": "Article 20",
+            "legal provisions": "The policy mentions sharing data with third parties but does not provide sufficient detail on the safeguards in place to protect the data during transfer.",
+            "amend": "Include specific safeguards and conditions under which data may be shared with third parties."
+        },
+        {
+            "section": "客戶資料保存期間及儲存保管安全",
+            "article numbers": "Article 15",
+            "legal provisions": "While the policy states that data will be retained until account deletion, it lacks details on the specific security measures in place to protect the data.",
+            "amend": "Provide more detailed information on the security measures implemented to protect personal data."
+        },
+        {
+            "section": "本公司不處理個人資料保護法第6條所指之各項資料",
+            "article numbers": "第六條",
+            "legal provisions": "The policy states that certain types of personal data are not processed, but it does not specify which types are excluded.",
+            "amend": "Clearly specify which types of data are not processed under Article 6."
+        },
+        {
+            "section": "客戶資料權利行使",
+            "article numbers": "Article 12",
+            "legal provisions": "The policy does not provide clear instructions on how individuals can exercise their rights regarding their personal data.",
+            "amend": "Provide detailed instructions on how individuals can exercise their rights regarding their personal data."
+        }
+    ]
+}

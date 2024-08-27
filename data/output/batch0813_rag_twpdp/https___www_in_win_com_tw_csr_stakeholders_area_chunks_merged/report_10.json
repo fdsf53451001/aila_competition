@@ -1,0 +1,17 @@
+{
+    "compliant": [
+        {
+            "section": "查閱、更改個人資料",
+            "article numbers": "Article 14",
+            "legal provisions": "Individuals have the right to access and rectify their personal data."
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "查閱、更改個人資料",
+            "article numbers": "Article 13",
+            "legal provisions": "Data subjects should be informed about the purpose of data collection and processing.",
+            "amend": "Include a clear statement regarding the purpose of collecting personal data and how it will be used."
+        }
+    ]
+}

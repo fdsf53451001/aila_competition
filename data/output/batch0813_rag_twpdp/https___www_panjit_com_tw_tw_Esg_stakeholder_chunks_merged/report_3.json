@@ -1,0 +1,27 @@
+{
+    "compliant": [
+        {
+            "section": "Cookies會在不同時間到期，大多數cookies在瀏覽器關閉時到期，第三方cookies則由第三方網站控制。您可以透過調整瀏覽器的設定（例如Microsoft Internet Explorer、Firefox、Chrome）隨時停用這些cookies。",
+            "article numbers": "Article 4, Article 6",
+            "legal provisions": "Transparency and user control over cookies and tracking technologies."
+        },
+        {
+            "section": "本公司將在法律許可期間內，及為達成個人資料之蒐集或處理目的所需之期間內，保存您的個人資料。",
+            "article numbers": "Article 5",
+            "legal provisions": "Data retention principles."
+        },
+        {
+            "section": "依據適當法律規定，本公司可能在下列情形時刪除個人資料：該個人資料已非原蒐集或處理目的所必需；當您撤回同意或要求刪除個人資料時，並且沒有其他法律依據以供繼續處理時；當您反對資料的處理，且本公司並沒有其他正當理由可繼續處理時；當您的個人資料被非法利用時；為遵守法律上要求的義務時。",
+            "article numbers": "Article 17, Article 18",
+            "legal provisions": "Right to erasure and conditions for data deletion."
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "若您停用了強制性cookies，您可能無法使用登入功能。",
+            "article numbers": "Article 7",
+            "legal provisions": "User's right to refuse cookies without losing access to services.",
+            "amend": "Clarify that users should not lose access to essential services when opting out of non-essential cookies."
+        }
+    ]
+}

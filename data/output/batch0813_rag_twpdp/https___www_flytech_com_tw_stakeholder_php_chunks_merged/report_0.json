@@ -1,0 +1,32 @@
+{
+    "compliant": [
+        {
+            "section": "我們承諾保護您的隱私。",
+            "article numbers": "Article 1",
+            "legal provisions": "TWPDP Article 1: General Principles of Data Protection"
+        },
+        {
+            "section": "我們遵循隱私權保護及個人資料保護的相關法令訂立了本隱私權政策聲明。",
+            "article numbers": "Article 2",
+            "legal provisions": "TWPDP Article 2: Compliance with Laws"
+        },
+        {
+            "section": "「個人資料」是指可以直接或間接地識別您個人身分的資料。",
+            "article numbers": "Article 3",
+            "legal provisions": "TWPDP Article 3: Definition of Personal Data"
+        },
+        {
+            "section": "請您詳讀本政策。在您同意本政策前提下，您才可訪問我們的網站或使用網站的服務。",
+            "article numbers": "Article 4",
+            "legal provisions": "TWPDP Article 4: Consent Requirement"
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "我們保留隨時修改本政策的權利。",
+            "article numbers": "Article 5",
+            "legal provisions": "TWPDP Article 5: Notification of Changes",
+            "amend": "The policy should specify how users will be notified of changes and how they can provide consent to the revised policy."
+        }
+    ]
+}

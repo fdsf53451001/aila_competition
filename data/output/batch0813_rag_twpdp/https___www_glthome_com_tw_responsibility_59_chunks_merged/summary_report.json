@@ -1,0 +1,62 @@
+{
+    "compliant": [
+        {
+            "section": "我們蒐集了那些您的個人資料",
+            "article numbers": "Article 1, Article 2",
+            "legal provisions": "明確告知用戶其個人資料的蒐集、處理及揭露方式"
+        },
+        {
+            "section": "我們如何使用您的資訊",
+            "article numbers": "Article 2",
+            "legal provisions": "明確告知用戶其個人資料的使用目的"
+        },
+        {
+            "section": "我們處理個人資料之目的及合法基礎",
+            "article numbers": "Article 6",
+            "legal provisions": "基於合法利益、合約履行及法律義務等合法基礎處理個人資料"
+        },
+        {
+            "section": "個人資訊之維護及刪除",
+            "article numbers": "Article 3",
+            "legal provisions": "用戶有權要求更改或刪除其個人資料"
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "本隱私權政策未明確列出用戶的權利及如何行使這些權利",
+            "article numbers": "Article 4, Article 5",
+            "legal provisions": "未提供用戶對其個人資料的存取、修改及刪除權利的詳細說明",
+            "amend": "應增加用戶權利的詳細說明，包括如何行使這些權利的具體步驟"
+        },
+        {
+            "section": "未提供資料保留期限及安全措施的詳細說明",
+            "article numbers": "Article 7, Article 8",
+            "legal provisions": "未提供資料保留期限及安全措施的具體說明",
+            "amend": "應增加資料保留期限及所採取的安全措施的詳細說明"
+        },
+        {
+            "section": "如果用戶不提供某些資料，可能無法提供足夠的產品及服務的說明不夠清晰",
+            "article numbers": "Article 3",
+            "legal provisions": "未明確告知用戶拒絕提供資料的後果",
+            "amend": "應明確告知用戶拒絕提供資料可能導致的後果"
+        },
+        {
+            "section": "未明確說明第三方資料收集的具體情況",
+            "article numbers": "Article 6",
+            "legal provisions": "未提供用戶關於第三方資料收集的詳細說明",
+            "amend": "應提供用戶關於第三方資料收集的具體情況及選擇權"
+        },
+        {
+            "section": "未明確說明用戶的資料可能被披露的情況",
+            "article numbers": "Article 7",
+            "legal provisions": "未提供用戶關於資料披露的透明度",
+            "amend": "應明確說明個人資料可能被披露的具體情況及用戶的權利"
+        },
+        {
+            "section": "未提供用戶對隱私政策變更的通知機制",
+            "article numbers": "Article 14",
+            "legal provisions": "未提供用戶及時通知隱私政策變更的要求",
+            "amend": "應包括清晰的通知機制，告知用戶隱私政策的變更"
+        }
+    ]
+}

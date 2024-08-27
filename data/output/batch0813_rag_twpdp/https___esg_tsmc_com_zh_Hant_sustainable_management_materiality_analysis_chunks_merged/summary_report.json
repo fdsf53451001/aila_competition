@@ -1,0 +1,68 @@
+
+{
+    "compliant": [
+        {
+            "section": "簡介 – 本隱私權政策說明我們如何處理您的個人資料。",
+            "article numbers": "Article 1",
+            "legal provisions": "Transparency in data processing"
+        },
+        {
+            "section": "本公司不會主動蒐集或處理特種個人資料。如果基於合法的理由而需處理特種個人資料，我們將遵循相關法律規定。",
+            "article numbers": "Article 9",
+            "legal provisions": "Processing of special categories of personal data is permitted under specific conditions."
+        },
+        {
+            "section": "我們基於以下目的而處理您的個人資料：向您提供網站、產品與服務；合規檢查；企業營運；與您進行溝通；管理本公司資訊系統；供應商管理；健康及安全；財務管理；意見調查；確保我們廠區與系統之安全；司法調查；相關法律之遵循；改善我們的網站、產品與服務；詐欺之預防；主張、行使或保護法律上權利之必要；以及人力招募及面試。",
+            "article numbers": "Article 6",
+            "legal provisions": "The processing of personal data must be lawful, fair, and transparent."
+        },
+        {
+            "section": "依據相關法規，您對於您的個人資料可主張以下權利：拒絕提供個人資料之權利；查閱您個人資料之權利；更正不正確個人資料之權利；要求刪除之權利；限制處理您個人資料之權利；反對處理您個人資料之權利；要求移轉您個人資料至其他控管人之權利；撤回同意之權利；以及向資訊保護主管機關申訴之權利。",
+            "article numbers": "Article 3",
+            "legal provisions": "Rights of Data Subjects"
+        },
+        {
+            "section": "本公司已採取適當的技術上及組織上的安全措施以保護您的個人資料的安全。",
+            "article numbers": "Article 22",
+            "legal provisions": "The data controller must implement appropriate technical and organizational measures to ensure a level of security appropriate to the risk."
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "本公司得隨時修訂本隱私權政策，請定期查閱是否有內容更新。",
+            "article numbers": "Article 4",
+            "legal provisions": "User notification of changes",
+            "amend": "The policy should specify how users will be notified of changes, such as through email or a notification on the website."
+        },
+        {
+            "section": "當您和本公司網站上的第三方內容或廣告進行互動。",
+            "article numbers": "Article 8",
+            "legal provisions": "The policy should specify how third-party interactions are handled and whether consent is required.",
+            "amend": "Clarify the process of obtaining consent for data collection from third-party interactions."
+        },
+        {
+            "section": "我們也可能由第三方獲得您的個人資料。",
+            "article numbers": "Article 9",
+            "legal provisions": "The policy should specify the conditions under which personal data can be obtained from third parties and ensure transparency.",
+            "amend": "Provide details on the circumstances and legal basis for obtaining personal data from third parties."
+        },
+        {
+            "section": "我們可能對您的個人資料作剖析與自動化決策。",
+            "article numbers": "Article 13",
+            "legal provisions": "The obligation to provide information to data subjects at the time of data collection, including the purposes of processing and the legal basis for processing.",
+            "amend": "Include specific information about the purposes of the data analysis and automated decision-making, as well as the legal basis for such processing."
+        },
+        {
+            "section": "本公司會將蒐集到的個人資料傳送給其他國家之接收人。",
+            "article numbers": "Article 49",
+            "legal provisions": "Transfers based on consent or other specific situations must be clearly defined.",
+            "amend": "Include information on the legal basis for the transfer, such as consent or necessity for the performance of a contract."
+        },
+        {
+            "section": "本公司不會將客戶資料作目的外之利用。",
+            "article numbers": "Article 5",
+            "legal provisions": "Transparency and information requirements.",
+            "amend": "Include a statement on how individuals can access their rights regarding special categories of personal data."
+        }
+    ]
+}

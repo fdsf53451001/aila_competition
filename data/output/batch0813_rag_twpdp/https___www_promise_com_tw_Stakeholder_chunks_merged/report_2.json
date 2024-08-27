@@ -1,0 +1,17 @@
+{
+    "compliant": [
+        {
+            "section": "Promise 將依個人資訊蒐集之規定，使用所取得之電子郵件信箱，以提供本公司客戶的相關資訊。",
+            "article numbers": "Article 8",
+            "legal provisions": "The collection and use of personal information must be for specific, legitimate purposes."
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "Promise 將依個人資訊蒐集之規定，使用所取得之電子郵件信箱，以提供本公司客戶的相關資訊。",
+            "article numbers": "Article 9",
+            "legal provisions": "Individuals must be informed about the purpose of data collection and their rights regarding their personal information.",
+            "amend": "Include a clear statement about the purpose of data collection and the rights of individuals regarding their personal information."
+        }
+    ]
+}

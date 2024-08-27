@@ -1,0 +1,28 @@
+{
+    "compliant": [
+        {
+            "section": "邁達特數位尊重線上訪客之隱私權，並說明我們對線上資料的運用方式。",
+            "article numbers": "Article 1, Article 2",
+            "legal provisions": "個人資料保護法第1條、第2條"
+        },
+        {
+            "section": "邁達特數位於蒐集、處理或利用個人資料時，將根據個人資料保護法、個人資料保護施行細則及主管機關所制定個人資料保護應遵循之法規命令等相關規定。",
+            "article numbers": "Article 6, Article 7",
+            "legal provisions": "個人資料保護法第6條、第7條"
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "邁達特數位可能會要求您提供個人資料，如電子郵件、姓名、郵寄住址、電話號碼、信用卡號碼等。",
+            "article numbers": "Article 8",
+            "legal provisions": "個人資料保護法第8條",
+            "amend": "應明確告知資料收集目的及使用範圍，並取得使用者同意。"
+        },
+        {
+            "section": "如果您決定不提供上述資料，則可能無法參加以上活動。",
+            "article numbers": "Article 9",
+            "legal provisions": "個人資料保護法第9條",
+            "amend": "應提供不提供資料的替代方案或選擇權。"
+        }
+    ]
+}

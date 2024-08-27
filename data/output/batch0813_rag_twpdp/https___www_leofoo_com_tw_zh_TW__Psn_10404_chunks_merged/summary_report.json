@@ -1,0 +1,104 @@
+{
+    "compliant": [
+        {
+            "section": "I. Personal Information Collection",
+            "legal article numbers": "Article 4, Article 5",
+            "legal provisions": "The collection of personal information is necessary for the provision of services, and the policy outlines the types of information collected, which aligns with the principles of transparency and purpose limitation."
+        },
+        {
+            "section": "1. Leofoo Tourism Group collects your Personal Information on the site in order to enhance the services provided",
+            "legal article numbers": "Article 6",
+            "legal provisions": "The policy states the purpose of data collection, which is to enhance services, complying with the requirement to inform individuals about the purpose of data processing."
+        },
+        {
+            "section": "2. We collect your information from the following ways",
+            "legal article numbers": "Article 8",
+            "legal provisions": "The policy describes the methods of data collection, ensuring that individuals are aware of how their data is being collected."
+        },
+        {
+            "section": "II. Use of Personal Information",
+            "legal article numbers": "Article 6, Article 7",
+            "legal provisions": "The collection and use of personal information for providing services, notifications, and compliance with legal obligations aligns with the principles of purpose limitation and legal basis for processing."
+        },
+        {
+            "section": "III. Use Scope (Validity Period, Region, and Users)",
+            "legal article numbers": "Article 11, Article 12",
+            "legal provisions": "The validity period and regional scope of data usage are consistent with the requirements for transparency and limitation of data processing."
+        },
+        {
+            "section": "IV. Use of Cookies",
+            "legal article numbers": "Article 9",
+            "legal provisions": "The use of cookies is disclosed, and users are informed about the collection of data through cookies, which aligns with the requirement for transparency."
+        },
+        {
+            "section": "V. Security of Personal Information",
+            "legal article numbers": "Article 8",
+            "legal provisions": "The policy states that appropriate security measures are applied to protect personal information, which complies with the requirement for data security."
+        },
+        {
+            "section": "VI. Inquire, Alter, Update or Delete Personal Information",
+            "legal article numbers": "Article 11",
+            "legal provisions": "The policy provides a mechanism for users to inquire, alter, update, or delete their personal information, which aligns with the rights of data subjects."
+        },
+        {
+            "section": "Changes to this Privacy Policy",
+            "legal article numbers": "Article 9",
+            "legal provisions": "The requirement to inform users about changes to the privacy policy and how their personal information is processed."
+        },
+        {
+            "section": "Leofoo Tourism Group Intellectual Property Declaration (Copyright)",
+            "legal article numbers": "Article 8",
+            "legal provisions": "Protection of intellectual property rights and the requirement for consent before using copyrighted materials."
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "3. You may decide how much information you’d like to reveal; however, some specific services request your Personal Information, or Leofoo Tourism Group may not complete transactions or services for you.",
+            "legal article numbers": "Article 3, Article 7",
+            "legal provisions": "The policy implies that failure to provide personal information may result in the inability to access certain services, which could be seen as coercive and not fully compliant with the principle of voluntary consent.",
+            "amend": "Clarify that providing personal information is voluntary and outline the specific consequences of not providing information without implying coercion."
+        },
+        {
+            "section": "Once the information is disclosed or reported false, Leofoo Tourism Group may enforce the right to suspend services.",
+            "legal article numbers": "Article 9",
+            "legal provisions": "This statement may not comply with the requirement for fair processing and could be seen as punitive without clear justification.",
+            "amend": "Provide a clearer explanation of the circumstances under which services may be suspended and ensure that it aligns with the principles of fairness and transparency."
+        },
+        {
+            "section": "II. Use of Personal Information, point 3",
+            "legal article numbers": "Article 8",
+            "legal provisions": "The use of personal information for marketing, advertisements, and promotions may not comply with the requirement for explicit consent from individuals for such purposes.",
+            "amend": "Include a clear statement on obtaining explicit consent from users for marketing purposes, along with an option to opt-out."
+        },
+        {
+            "section": "III. Use Scope (Validity Period, Region, and Users), point 1",
+            "legal article numbers": "Article 13",
+            "legal provisions": "The policy does not specify how users can request the cessation of data collection or processing, which is required for user rights.",
+            "amend": "Provide a clear procedure for users to request the cessation of data collection, processing, or deletion of their personal information."
+        },
+        {
+            "section": "IV. Use of Cookies",
+            "legal article numbers": "Article 9",
+            "legal provisions": "The policy mentions that third parties can use cookies but does not specify how users can manage their cookie preferences or opt-out options.",
+            "amend": "Include a clear explanation of how users can manage their cookie preferences and provide opt-out options for non-essential cookies."
+        },
+        {
+            "section": "VI. Inquire, Alter, Update or Delete Personal Information",
+            "legal article numbers": "Article 11",
+            "legal provisions": "The policy states that certain information necessary for retention cannot be deleted upon request, which may conflict with the right to erasure.",
+            "amend": "Clarify the circumstances under which personal information can be retained and ensure compliance with the right to erasure as per applicable laws."
+        },
+        {
+            "section": "Changes to this Privacy Policy",
+            "legal article numbers": "Article 9",
+            "legal provisions": "The policy does not specify a clear method for users to provide consent or opt-out after changes are made.",
+            "amend": "Include a clear opt-in or opt-out mechanism for users to consent to changes in the privacy policy."
+        },
+        {
+            "section": "Leofoo Tourism Group Intellectual Property Declaration (Copyright)",
+            "legal article numbers": "Article 7",
+            "legal provisions": "The policy does not provide clear information on how users can access or request their personal information related to intellectual property.",
+            "amend": "Add a section detailing how users can request access to their personal information and the process for doing so."
+        }
+    ]
+}

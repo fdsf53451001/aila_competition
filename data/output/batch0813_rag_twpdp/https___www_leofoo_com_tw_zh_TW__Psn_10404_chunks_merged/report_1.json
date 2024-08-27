@@ -1,0 +1,28 @@
+{
+    "compliant": [
+        {
+            "section": "II. Use of Personal Information",
+            "article numbers": "Article 6, Article 7",
+            "legal provisions": "The collection and use of personal information for providing services, notifications, and compliance with legal obligations aligns with the principles of purpose limitation and legal basis for processing."
+        },
+        {
+            "section": "III. Use Scope (Validity Period, Region, and Users)",
+            "article numbers": "Article 11, Article 12",
+            "legal provisions": "The validity period and regional scope of data usage are consistent with the requirements for transparency and limitation of data processing."
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "II. Use of Personal Information, point 3",
+            "article numbers": "Article 8",
+            "legal provisions": "The use of personal information for marketing, advertisements, and promotions may not comply with the requirement for explicit consent from individuals for such purposes.",
+            "amend": "Include a clear statement on obtaining explicit consent from users for marketing purposes, along with an option to opt-out."
+        },
+        {
+            "section": "III. Use Scope (Validity Period, Region, and Users), point 1",
+            "article numbers": "Article 13",
+            "legal provisions": "The policy does not specify how users can request the cessation of data collection or processing, which is required for user rights.",
+            "amend": "Provide a clear procedure for users to request the cessation of data collection, processing, or deletion of their personal information."
+        }
+    ]
+}

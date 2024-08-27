@@ -1,0 +1,38 @@
+{
+    "compliant": [
+        {
+            "section": "Introduction",
+            "article numbers": "Article 1, Article 2",
+            "legal provisions": "The policy clearly states the purpose of data collection and the rights of individuals regarding their personal data."
+        },
+        {
+            "section": "Our policy complies with EU General Data Protection Regulation (GDPR)",
+            "article numbers": "Article 5, Article 6",
+            "legal provisions": "The policy outlines the lawful bases for processing personal data, which aligns with GDPR requirements."
+        },
+        {
+            "section": "The bases on which we process information about you",
+            "article numbers": "Article 6",
+            "legal provisions": "The policy specifies the legal bases for processing personal data, which is a requirement under TWPDP."
+        },
+        {
+            "section": "Information we process because we have a contractual obligation with you",
+            "article numbers": "Article 6, Article 7",
+            "legal provisions": "The policy describes processing based on contractual obligations, which is compliant with TWPDP."
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "We regret that if there are one or more points below with which you are not happy, your only recourse is to leave our website immediately.",
+            "article numbers": "Article 8",
+            "legal provisions": "This statement may not comply with TWPDP as it does not provide a clear mechanism for individuals to exercise their rights regarding their personal data.",
+            "amend": "Include a clear process for individuals to raise concerns or complaints regarding their personal data."
+        },
+        {
+            "section": "We undertake to preserve the confidentiality of all information you provide to us, and hope that you reciprocate.",
+            "article numbers": "Article 9",
+            "legal provisions": "This statement lacks clarity on the specific measures taken to ensure data security and confidentiality.",
+            "amend": "Specify the security measures in place to protect personal data."
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "compliant": [
+        {
+            "section": "向您提供網站、產品與服務",
+            "article numbers": "Article 6(1)(b)",
+            "legal provisions": "Processing necessary for the performance of a contract"
+        },
+        {
+            "section": "合規檢查",
+            "article numbers": "Article 6(1)(c)",
+            "legal provisions": "Processing necessary for compliance with a legal obligation"
+        },
+        {
+            "section": "企業營運",
+            "article numbers": "Article 6(1)(f)",
+            "legal provisions": "Processing necessary for the purposes of legitimate interests pursued by the controller"
+        },
+        {
+            "section": "與您進行溝通",
+            "article numbers": "Article 6(1)(b)",
+            "legal provisions": "Processing necessary for the performance of a contract"
+        },
+        {
+            "section": "管理本公司資訊系統",
+            "article numbers": "Article 6(1)(f)",
+            "legal provisions": "Processing necessary for the purposes of legitimate interests pursued by the controller"
+        },
+        {
+            "section": "供應商管理",
+            "article numbers": "Article 6(1)(b)",
+            "legal provisions": "Processing necessary for the performance of a contract"
+        },
+        {
+            "section": "健康及安全",
+            "article numbers": "Article 6(1)(c)",
+            "legal provisions": "Processing necessary for compliance with a legal obligation"
+        },
+        {
+            "section": "財務管理",
+            "article numbers": "Article 6(1)(c)",
+            "legal provisions": "Processing necessary for compliance with a legal obligation"
+        },
+        {
+            "section": "意見調查",
+            "article numbers": "Article 6(1)(f)",
+            "legal provisions": "Processing necessary for the purposes of legitimate interests pursued by the controller"
+        },
+        {
+            "section": "確保我們廠區與系統之安全",
+            "article numbers": "Article 6(1)(f)",
+            "legal provisions": "Processing necessary for the purposes of legitimate interests pursued by the controller"
+        },
+        {
+            "section": "司法調查",
+            "article numbers": "Article 6(1)(c)",
+            "legal provisions": "Processing necessary for compliance with a legal obligation"
+        },
+        {
+            "section": "相關法律之遵循",
+            "article numbers": "Article 6(1)(c)",
+            "legal provisions": "Processing necessary for compliance with a legal obligation"
+        },
+        {
+            "section": "改善我們的網站、產品與服務",
+            "article numbers": "Article 6(1)(f)",
+            "legal provisions": "Processing necessary for the purposes of legitimate interests pursued by the controller"
+        },
+        {
+            "section": "詐欺之預防",
+            "article numbers": "Article 6(1)(f)",
+            "legal provisions": "Processing necessary for the purposes of legitimate interests pursued by the controller"
+        },
+        {
+            "section": "主張、行使或保護法律上權利之必要",
+            "article numbers": "Article 6(1)(f)",
+            "legal provisions": "Processing necessary for the purposes of legitimate interests pursued by the controller"
+        },
+        {
+            "section": "人力招募及面試",
+            "article numbers": "Article 6(1)(b)",
+            "legal provisions": "Processing necessary for the performance of a contract"
+        }
+    ],
+    "non_compliant": []
+}

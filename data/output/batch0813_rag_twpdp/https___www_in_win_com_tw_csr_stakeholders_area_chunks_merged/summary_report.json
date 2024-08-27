@@ -1,0 +1,72 @@
+{
+    "compliant": [
+        {
+            "section": "我們尊重且承諾保障您的個人隱私。",
+            "legal article numbers": "Article 6",
+            "legal provisions": "The principle of respecting personal privacy."
+        },
+        {
+            "section": "我們遵守所有台灣有關隱私資料保護及個人資料安全的相關法令。",
+            "legal article numbers": "Article 5",
+            "legal provisions": "Compliance with applicable laws and regulations."
+        },
+        {
+            "section": "我們不會向您所取任何敏感的個人資料。",
+            "legal article numbers": "Article 9",
+            "legal provisions": "Processing of special categories of personal data."
+        },
+        {
+            "section": "我們不會將您的個人資料販售給第三方。",
+            "legal article numbers": "Article 6",
+            "legal provisions": "The commitment not to sell personal data to third parties aligns with the principles of data protection and privacy."
+        },
+        {
+            "section": "我們採用嚴格的隱私安全措施，以避免您的個人資料遭到有心人士的偷取、洩漏、毀損或是竄改。",
+            "legal article numbers": "Article 6",
+            "legal provisions": "Data Security Measures."
+        },
+        {
+            "section": "如果您想要查閱或是更改您的個人資料，您可以在登入您的帳號之後，對您先前所登錄的個人資料行修改或是查詢。",
+            "legal article numbers": "Article 14",
+            "legal provisions": "Individuals have the right to access and rectify their personal data."
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "未明確說明個人資料的具體收集目的及範圍。",
+            "legal article numbers": "Article 14",
+            "legal provisions": "Data controllers must specify the purpose and scope of data collection.",
+            "amend": "Add a clear statement detailing the specific purposes for which personal data is collected and the scope of such data."
+        },
+        {
+            "section": "未提供用戶對其個人資料的查詢、修改及刪除的具體流程。",
+            "legal article numbers": "Article 11",
+            "legal provisions": "Data subjects have the right to access, correct, and delete their personal data.",
+            "amend": "Include a detailed process for users to access, modify, and delete their personal data."
+        },
+        {
+            "section": "未明確說明用戶在使用個人資料時的選擇退出機制。",
+            "legal article numbers": "Article 9",
+            "legal provisions": "The policy does not adequately inform users about the potential consequences of rejecting cookies.",
+            "amend": "Provide a more detailed explanation of the specific functionalities that may be affected by rejecting cookies."
+        },
+        {
+            "section": "未提供用戶撤回同意的權利及具體指導。",
+            "legal article numbers": "Article 5",
+            "legal provisions": "The policy does not explicitly mention the user's right to withdraw consent for cookie usage.",
+            "amend": "Include a clear statement about the user's right to withdraw consent and detailed instructions on how to do so."
+        },
+        {
+            "section": "未明確說明用戶要求停止資料收集的流程及時間框架。",
+            "legal article numbers": "Article 12",
+            "legal provisions": "While the right to request cessation of data collection is mentioned, it lacks clarity on the process and timeframe for compliance.",
+            "amend": "Specify the process and timeframe for responding to such requests to ensure compliance with TWPDP."
+        },
+        {
+            "section": "未提供清晰可及的聯絡資訊以便用戶查詢隱私問題。",
+            "legal article numbers": "Article 7",
+            "legal provisions": "The requirement to provide clear and accessible contact information for privacy inquiries.",
+            "amend": "Include specific contact details such as an email address or phone number for users to reach out regarding privacy issues."
+        }
+    ]
+}

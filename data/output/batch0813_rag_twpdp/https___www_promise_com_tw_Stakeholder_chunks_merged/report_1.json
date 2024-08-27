@@ -1,0 +1,27 @@
+{
+    "compliant": [
+        {
+            "section": "Promise 基於下列目的蒐集個人資訊：行銷活動或您造訪或註冊本公司網站以取得產品或服務時，提供更好的服務。",
+            "article numbers": "Article 6",
+            "legal provisions": "個人資料的收集應有明確的目的，並且應告知資料主體該目的。"
+        },
+        {
+            "section": "當您造訪本公司網站及行動服務時，本公司會蒐集您的 IP 位址。",
+            "article numbers": "Article 7",
+            "legal provisions": "資料主體應被告知所收集的資料類型及其用途。"
+        },
+        {
+            "section": "本公司儲存此資訊以協助管理安全、分析本公司網站及移動服務如何與您互動並進行產品行銷與廣告。",
+            "article numbers": "Article 8",
+            "legal provisions": "資料的使用應符合收集時所聲明的目的。"
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "本公司亦使用 IP 位址以封鎖無法遵守服務條款的造訪者進入本公司網站及行動服務。",
+            "article numbers": "Article 9",
+            "legal provisions": "資料主體應被告知其資料可能被用於限制或封鎖其訪問的情況，並應提供適當的申訴機制。",
+            "amend": "應明確告知資料主體其資料使用的具體情況及提供申訴的途徑。"
+        }
+    ]
+}

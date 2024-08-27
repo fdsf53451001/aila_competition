@@ -1,0 +1,46 @@
+{
+    "compliant": [
+        {
+            "section": "本網站群所蒐集的個人資料，將依其蒐集時所闡述之特定目的使用。",
+            "legal article numbers": "第 17 條",
+            "legal provisions": "個人資料之使用目的、利用對象、時間等資訊請參考活動網頁之內容。"
+        },
+        {
+            "section": "本網站群絕對不會任意出售、交換、出租或以其他變相之方式，將使用者的個人資料揭露與其他團體或個人。",
+            "legal article numbers": "第 20 條",
+            "legal provisions": "惟有下列三種情形，本網站群會與第三人共用使用者的個人資料。"
+        },
+        {
+            "section": "本網站群將會視需要隨時修改本網站群所提供的隱私權保護聲明，以落實保障使用者的隱私權。",
+            "legal article numbers": "第 11 條",
+            "legal provisions": "當本隱私權保護政策修改時，將以醒目標示提醒使用者。"
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "本網站群得自動將所收集到的任何資訊連結至個人資訊。",
+            "legal article numbers": "第 2 條",
+            "amend": "需明確說明如何連結及使用個人資訊，並提供使用者選擇權。"
+        },
+        {
+            "section": "若使用者不希望本網站群使用Cookies，則除非使用者先依照下面說明的方式停用Cookies，否則請不要使用本網站群服務。",
+            "legal article numbers": "第 17 條",
+            "amend": "應提供更明確的選擇權及停用方式，並不應以不使用服務作為威脅。"
+        },
+        {
+            "section": "本網站群會使用本機共用物件(亦稱為「Flash Cookies」)來儲存使用者偏好設定。",
+            "legal article numbers": "第 3 條",
+            "amend": "應提供使用者選擇是否接受Flash Cookies的權利，並清楚說明其用途。"
+        },
+        {
+            "section": "本網站群所蒐集的個人資料，將依其蒐集時所闡述之特定目的使用。",
+            "legal article numbers": "第 20 條",
+            "amend": "需明確列出所有可能的資料使用情境，並提供使用者同意的機會。"
+        },
+        {
+            "section": "本網站群會在活動時提供充分說明並告知，使用者可以自由選擇是否接受這項服務或優惠。",
+            "legal article numbers": "第 20 條 第六項",
+            "amend": "應提供更詳細的說明，讓使用者能夠清楚了解其資料將如何被使用。"
+        }
+    ]
+}

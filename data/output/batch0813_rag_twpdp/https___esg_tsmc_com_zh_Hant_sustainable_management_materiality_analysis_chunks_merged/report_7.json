@@ -1,0 +1,17 @@
+{
+    "compliant": [
+        {
+            "section": "簡介 – 我們可能對您的個人資料作剖析與自動化決策。",
+            "article numbers": "Article 22",
+            "legal provisions": "The right to not be subject to a decision based solely on automated processing, including profiling, which produces legal effects concerning the data subject or similarly significantly affects the data subject."
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "簡介 – 我們可能對您的個人資料作剖析與自動化決策。",
+            "article numbers": "Article 13",
+            "legal provisions": "The obligation to provide information to data subjects at the time of data collection, including the purposes of processing and the legal basis for processing.",
+            "amend": "Include specific information about the purposes of the data analysis and automated decision-making, as well as the legal basis for such processing."
+        }
+    ]
+}

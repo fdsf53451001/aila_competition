@@ -1,0 +1,78 @@
+{
+    "compliant": [
+        {
+            "section": "什麼是您的個人資料?",
+            "article numbers": "Article 4",
+            "legal provisions": "Definition of personal data"
+        },
+        {
+            "section": "我們處理您的資料時所扮演的角色為何?",
+            "article numbers": "Article 5",
+            "legal provisions": "Role of data controller"
+        },
+        {
+            "section": "您的個人資料何時被蒐集?",
+            "article numbers": "Article 6",
+            "legal provisions": "Conditions for data collection"
+        },
+        {
+            "section": "我們所蒐集的個人資料",
+            "article numbers": "Article 7",
+            "legal provisions": "Types of personal data collected"
+        },
+        {
+            "section": "使用 Cookies",
+            "article numbers": "Article 8",
+            "legal provisions": "Use of cookies and tracking technologies"
+        },
+        {
+            "section": "我們將您的個人資料用於以下目的：",
+            "article numbers": "Article 9",
+            "legal provisions": "Purposes of data processing"
+        },
+        {
+            "section": "我們處理您的個人資料的合法基礎為何?",
+            "article numbers": "Article 10",
+            "legal provisions": "Legal basis for processing personal data"
+        },
+        {
+            "section": "共享您的個人資料",
+            "article numbers": "Article 11",
+            "legal provisions": "Conditions for sharing personal data"
+        },
+        {
+            "section": "您的權利和您的個人資料",
+            "article numbers": "Article 12",
+            "legal provisions": "Rights of data subjects"
+        },
+        {
+            "section": "跨境傳輸",
+            "article numbers": "Article 13",
+            "legal provisions": "Cross-border data transfer"
+        },
+        {
+            "section": "保全",
+            "article numbers": "Article 14",
+            "legal provisions": "Data security measures"
+        },
+        {
+            "section": "我應該聯絡誰?",
+            "article numbers": "Article 15",
+            "legal provisions": "Contact information for data protection inquiries"
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "16 歲以下的個資當事人的隱私權",
+            "article numbers": "Article 16",
+            "legal provisions": "Protection of minors' personal data",
+            "amend": "Include specific measures for obtaining parental consent for data collection from minors."
+        },
+        {
+            "section": "進階處理",
+            "article numbers": "Article 17",
+            "legal provisions": "Automated decision-making and profiling",
+            "amend": "Clarify the conditions under which automated decision-making may occur and ensure explicit consent is obtained."
+        }
+    ]
+}

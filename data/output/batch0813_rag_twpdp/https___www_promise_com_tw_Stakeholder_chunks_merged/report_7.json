@@ -1,0 +1,27 @@
+{
+    "compliant": [
+        {
+            "section": "如果您認為本公司所保存的個人資料實際上不正確、不完整或與處理目的無關，或以任何其他方式違反法律規定之方式。",
+            "article numbers": "Article 16",
+            "legal provisions": "Individuals have the right to request correction of their personal data."
+        },
+        {
+            "section": "此類請求須包括所請求的更改，並應使用以下聯絡方式交給Promise。",
+            "article numbers": "Article 15",
+            "legal provisions": "Individuals should be informed about the process to request changes to their personal data."
+        },
+        {
+            "section": "Promise將在收到請求後七十二(72)小時內通知您是否會配合您的請求及其範圍。",
+            "article numbers": "Article 17",
+            "legal provisions": "Data controllers must respond to requests in a timely manner."
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "拒絕配合請求將會檢附理由。",
+            "article numbers": "Article 18",
+            "legal provisions": "If a request is denied, the individual must be provided with a clear explanation and information on how to appeal the decision.",
+            "amend": "Include a clear process for individuals to appeal the decision if their request is denied."
+        }
+    ]
+}

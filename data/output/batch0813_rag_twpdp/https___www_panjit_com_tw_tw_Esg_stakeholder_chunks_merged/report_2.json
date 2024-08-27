@@ -1,0 +1,43 @@
+{
+    "compliant": [
+        {
+            "section": "基於個人資料使用之目的，個人資料可能透過國際傳輸運送至本公司位於國際間其他辦公處所或供應商地點，本公司將透過保密合約、公司規章或其他保護機制來確保對您的個人資料提供足夠之保護。",
+            "article numbers": "Article 8, Article 9",
+            "legal provisions": "TWPDP Article 8 (International Data Transfers) and Article 9 (Data Protection Measures)"
+        },
+        {
+            "section": "本公司網站使用cookies蒐集您對本公司網站的使用資訊，用以改善您的使用體驗，以及分析和蒐集本公司網路流量的統計數據。",
+            "article numbers": "Article 12",
+            "legal provisions": "TWPDP Article 12 (Cookies and Tracking Technologies)"
+        },
+        {
+            "section": "強制性cookies (mandatory cookies)提供更佳的用戶安全性，或提昇本公司網站使用體驗。",
+            "article numbers": "Article 12",
+            "legal provisions": "TWPDP Article 12 (Cookies and Tracking Technologies)"
+        },
+        {
+            "section": "功能性cookies (functional cookies)提供各功能來提昇用戶使用性，例如Google搜索引擎。",
+            "article numbers": "Article 12",
+            "legal provisions": "TWPDP Article 12 (Cookies and Tracking Technologies)"
+        },
+        {
+            "section": "性能cookies (performance cookies)蒐集用戶如何使用本公司網站，例如用戶所瀏覽之頁面。",
+            "article numbers": "Article 12",
+            "legal provisions": "TWPDP Article 12 (Cookies and Tracking Technologies)"
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "本公司將透過保密合約、公司規章或其他保護機制來確保對您的個人資料提供足夠之保護。",
+            "article numbers": "Article 8",
+            "legal provisions": "TWPDP Article 8 (International Data Transfers)",
+            "amend": "需要更明確說明保護機制的具體內容及其有效性，並提供用戶更多的選擇權和透明度。"
+        },
+        {
+            "section": "本公司網站使用cookies蒐集您對本公司網站的使用資訊，用以改善您的使用體驗，以及分析和蒐集本公司網路流量的統計數據。",
+            "article numbers": "Article 12",
+            "legal provisions": "TWPDP Article 12 (Cookies and Tracking Technologies)",
+            "amend": "需要提供用戶選擇接受或拒絕cookies的選項，並清楚說明每種cookies的具體用途及其對用戶的影響。"
+        }
+    ]
+}

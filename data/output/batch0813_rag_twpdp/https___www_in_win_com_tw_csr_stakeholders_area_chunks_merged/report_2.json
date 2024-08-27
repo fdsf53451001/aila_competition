@@ -1,0 +1,15 @@
+{
+    "compliant": [
+        {
+            "section": "我們不會向您所取任何敏感的個人資料(像是您的政治傾向、宗教信仰、家族病史、犯罪紀錄等 )",
+            "article numbers": "Article 9",
+            "legal provisions": "Processing of special categories of personal data"
+        },
+        {
+            "section": "我們也不鼓勵您將這些敏感的私人資料提供給我們。",
+            "article numbers": "Article 5",
+            "legal provisions": "Principles relating to processing of personal data"
+        }
+    ],
+    "non_compliant": []
+}

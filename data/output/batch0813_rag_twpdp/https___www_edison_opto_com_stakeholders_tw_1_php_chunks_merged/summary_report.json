@@ -1,0 +1,44 @@
+{
+    "compliant": [
+        {
+            "section": "個人資訊之蒐集",
+            "legal article numbers": "Article 4, Article 5",
+            "legal provisions": "The collection of personal information is clearly stated, including the types of information collected and the purpose of collection."
+        },
+        {
+            "section": "我們如何使用您的資訊",
+            "legal article numbers": "Article 6",
+            "legal provisions": "The policy specifies the purposes for which personal information will be used, ensuring transparency."
+        },
+        {
+            "section": "更改或刪除個人資訊",
+            "legal article numbers": "Article 11",
+            "legal provisions": "The policy provides a mechanism for individuals to request changes or deletion of their personal information."
+        },
+        {
+            "section": "隱私權政策更新",
+            "legal article numbers": "Article 12",
+            "legal provisions": "The policy mentions that it will be updated periodically, which aligns with the requirement for transparency."
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "Cookie之蒐集",
+            "legal article numbers": "Article 9",
+            "legal provisions": "The policy does not provide sufficient information on how users can manage their cookie preferences or opt-out options.",
+            "amend": "Include a clear explanation of how users can manage cookie settings and provide an opt-out mechanism."
+        },
+        {
+            "section": "我們如何使用您的資訊",
+            "legal article numbers": "Article 7",
+            "legal provisions": "The policy lacks explicit consent mechanisms for the use of personal information beyond the stated purposes.",
+            "amend": "Add a section detailing how explicit consent will be obtained for any use of personal information beyond the initial collection purpose."
+        },
+        {
+            "section": "隱私權政策更新",
+            "legal article numbers": "Article 12",
+            "legal provisions": "The policy does not specify how users will be notified of changes to the privacy policy.",
+            "amend": "Include a clear notification process for users regarding updates to the privacy policy."
+        }
+    ]
+}

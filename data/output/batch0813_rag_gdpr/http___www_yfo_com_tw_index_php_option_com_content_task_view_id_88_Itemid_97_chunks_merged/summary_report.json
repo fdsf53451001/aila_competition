@@ -1,0 +1,49 @@
+{
+    "compliant": [
+        {
+            "section": "You agree to keep this information confidential and to use the information solely for the purpose of maintaining and supporting your Young Fast network.",
+            "legal article numbers": "Article 76",
+            "legal provisions": "Confidentiality and purpose limitation."
+        },
+        {
+            "section": "You also agree to be careful with this Young Fast information and to only disclose it within your company to employees with a 'need to know' who are instructed and agree not to disclose the information.",
+            "legal article numbers": "Article 76",
+            "legal provisions": "Confidentiality and access control."
+        },
+        {
+            "section": "The controller shall take appropriate measures to provide any information referred to in Articles 13 and 14 and any communication under Articles 15 to 22 and 34 relating to processing to the data subject in a concise, transparent, intelligible and easily accessible form, using clear and plain language.",
+            "legal article numbers": "Article 12",
+            "legal provisions": "Transparency and clarity in communication."
+        },
+        {
+            "section": "The controller shall facilitate the exercise of data subject rights under Articles 15 to 22.",
+            "legal article numbers": "Article 12",
+            "legal provisions": "Facilitation of data subject rights."
+        },
+        {
+            "section": "Information provided under Articles 13 and 14 and any communication and any actions taken under Articles 15 to 22 and 34 shall be provided free of charge.",
+            "legal article numbers": "Article 12",
+            "legal provisions": "No charge for exercising rights."
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "Unless otherwise stated, any information you provide at the Young Fast Web Site shall be deemed to be non-confidential and Young Fast will have no obligation to protect such information from disclosure or use.",
+            "legal article numbers": "Article 8",
+            "legal provisions": "Protection of personal data and consent.",
+            "amend": "This section should clarify how personal data is handled and ensure that it complies with the requirement for consent and protection of personal data, especially for children."
+        },
+        {
+            "section": "If you disagree with any statement contained here, and do not wish to accept these conditions, please do not visit the Young Fast site.",
+            "legal article numbers": "Article 8",
+            "legal provisions": "Age of consent and user rights.",
+            "amend": "The policy should explicitly state the age of consent for children and ensure that parental consent is obtained for users under the age of 16."
+        },
+        {
+            "section": "The controller shall make reasonable efforts to verify in such cases that consent is given or authorised by the holder of parental responsibility over the child.",
+            "legal article numbers": "Article 8",
+            "legal provisions": "Verification of parental consent.",
+            "amend": "The policy should outline the methods used to verify parental consent for users under the age of 16."
+        }
+    ]
+}

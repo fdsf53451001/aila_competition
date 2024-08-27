@@ -1,0 +1,33 @@
+{
+    "compliant": [
+        {
+            "section": "Personal Information We Collect",
+            "article numbers": "Article 5 (1)(a), Article 5 (1)(b)",
+            "legal provisions": "Personal data must be processed lawfully, fairly, and transparently; and collected for specified, legitimate purposes."
+        },
+        {
+            "section": "Sensitive Personal Information",
+            "article numbers": "Article 9 (2)(a), Article 9 (2)(b)",
+            "legal provisions": "Processing of special categories of personal data is allowed with explicit consent or for specific purposes."
+        },
+        {
+            "section": "Children's Personal Information",
+            "article numbers": "Article 8",
+            "legal provisions": "Processing of personal data of children requires parental consent."
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "Use of Personal Information",
+            "article numbers": "Article 5 (1)(b), Article 5 (1)(c)",
+            "legal provisions": "Personal data must be limited to what is necessary for the purposes for which they are processed.",
+            "amend": "Clarify the specific purposes for which personal data will be used and ensure that data collection is limited to what is necessary for those purposes."
+        },
+        {
+            "section": "Strategic Partnerships",
+            "article numbers": "Article 6 (1)(a), Article 6 (1)(f)",
+            "legal provisions": "Processing must be based on consent or legitimate interests, and individuals should be informed about the sharing of their data with third parties.",
+            "amend": "Provide clearer information on how personal data will be shared with Strategic Partners and obtain explicit consent from users."
+        }
+    ]
+}

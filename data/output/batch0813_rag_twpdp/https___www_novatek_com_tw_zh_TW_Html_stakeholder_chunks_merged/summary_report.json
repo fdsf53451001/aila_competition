@@ -1,0 +1,82 @@
+{
+    "compliant": [
+        {
+            "section": "本隱私權政策係本網站就收集及使用資料所為之約定，包括在何種情形下資料將被蒐集、何種資料將被蒐集、該資料如何使用、及資料分享之對象。",
+            "legal article numbers": "Article 8",
+            "legal provisions": "TWPDP Article 8 requires clear information on the collection and use of personal data."
+        },
+        {
+            "section": "當您提供資料給聯詠時，代表您已同意：聯詠、其子公司及關聯企業得使用該資料。",
+            "legal article numbers": "Article 7",
+            "legal provisions": "This provision complies with the requirement to not disclose personal data to unrelated third parties without consent."
+        },
+        {
+            "section": "非個人資料之蒐集及使用",
+            "legal article numbers": "Article 6",
+            "legal provisions": "The collection and use of non-personal data for statistical purposes is compliant as it does not involve personal identification."
+        },
+        {
+            "section": "個人資料之保護、分享及公開",
+            "legal article numbers": "Article 8",
+            "legal provisions": "The statement regarding the risk of sharing personal data and the commitment to take reasonable measures to protect personal data aligns with the principles of data protection."
+        },
+        {
+            "section": "如有下述情形之一時，聯詠得揭露您的個人資料",
+            "legal article numbers": "Article 16",
+            "legal provisions": "The Personal Data Protection Act (PDPA) allows disclosure of personal data under certain circumstances, such as legal requirements or to protect rights."
+        },
+        {
+            "section": "Cookie使用",
+            "legal article numbers": "Article 8",
+            "legal provisions": "The PDPA requires transparency regarding the use of cookies and the collection of personal data."
+        },
+        {
+            "section": "更改",
+            "legal article numbers": "Article 14",
+            "legal provisions": "The PDPA mandates that individuals be informed of changes to privacy policies and have the opportunity to review them."
+        },
+        {
+            "section": "其他資訊",
+            "legal article numbers": "Article 6",
+            "legal provisions": "The PDPA requires organizations to provide contact information for inquiries regarding personal data."
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "如本網站參訪者欲收到聯詠之商務通訊（Newsletters）或其他資料、參與聯詠所舉辦之活動或事件、或向聯詠應徵工作等，參訪者可能需要透過本網站提出要求或其個人履歷，該要求或履歷可能包括參訪者之個人資料，例如姓名、職稱、公司名稱、地址、電子郵件、電話、身分證字號及生日資料。",
+            "legal article numbers": "Article 4",
+            "legal provisions": "TWPDP Article 4 requires that the collection of personal data be limited to what is necessary for the intended purpose.",
+            "amend": "Clarify the necessity of collecting each type of personal data listed."
+        },
+        {
+            "section": "通告您聯繫、其子公司及關聯企業所提供的任何產品、服務或促銷方案訊息。",
+            "legal article numbers": "Article 9",
+            "legal provisions": "TWPDP Article 9 requires that individuals be informed about third-party sharing of their personal data.",
+            "amend": "Specify the third parties involved and the purpose of sharing personal data."
+        },
+        {
+            "section": "請您注意，在任何情況下提供個人資料予他人均有風險，且無任何系統或技術可以保證百分之百安全或可防止駭客入侵。",
+            "legal article numbers": "Article 9",
+            "legal provisions": "While acknowledging risks is important, the policy should provide more specific measures or protocols in place to mitigate these risks.",
+            "amend": "Include detailed security measures and protocols to enhance transparency and compliance."
+        },
+        {
+            "section": "您茲此同意聯詠得利用您提供之任何個人資料，回覆您的要求或工作應徵，並透過您所提供之個人資料提供您聯詠之商務通訊（Newsletters）。",
+            "legal article numbers": "Article 5",
+            "legal provisions": "The consent mechanism should be clearer, ensuring that users are fully informed about how their data will be used and that consent is explicit.",
+            "amend": "Clarify the consent process and ensure it is explicit and informed."
+        },
+        {
+            "section": "Cookie使用",
+            "legal article numbers": "Article 8",
+            "legal provisions": "The PDPA requires explicit consent for the use of cookies that collect personal data.",
+            "amend": "Include a clear consent mechanism for cookie usage, informing users about the types of cookies used and their purposes."
+        },
+        {
+            "section": "更改",
+            "legal article numbers": "Article 14",
+            "legal provisions": "The PDPA requires that users be notified of significant changes to the privacy policy in a timely manner.",
+            "amend": "Implement a notification system to inform users of significant changes to the privacy policy, rather than stating changes can occur without notice."
+        }
+    ]
+}

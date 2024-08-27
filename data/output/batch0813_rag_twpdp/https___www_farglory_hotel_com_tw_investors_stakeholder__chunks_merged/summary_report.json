@@ -1,0 +1,50 @@
+{
+    "compliant": [
+        {
+            "section": "本公司將因您購買本公司相關產品或使用本公司透過電話、網站、人員或其他方式所提供的服務、加入本公司會員等，基於行銷商品、經營業務或提供服務、會員管理之目的，蒐集並取得您的個人資料；基於對當事人權益的尊重，本公司將不會以不合理或不合法的方式蒐集、取得您的個人資料。",
+            "legal article numbers": "Article 8",
+            "legal provisions": "The collection of personal data must be for specific, legitimate purposes."
+        },
+        {
+            "section": "就您個人資料的利用期間，本公司將依照相關法令規定，以及您與本公司往來之契約或書面約定辦理。",
+            "legal article numbers": "Article 5",
+            "legal provisions": "Data retention must comply with legal requirements."
+        },
+        {
+            "section": "本公司以Secure Sockets Layer（SSL）機制進行資料傳輸的加密，並已加裝防火牆防止不法入侵，避免您的個人資料遭到非法及一切未經授權的存取。",
+            "legal article numbers": "Article 6",
+            "legal provisions": "TWPDP Article 6: Security Measures"
+        },
+        {
+            "section": "您的個人資料將使用於中華民國領域，或因業務需要，在符合本公司所定之資訊安全標準的情況下傳輸至其他國家，惟國際傳輸之作業，將會依照我國及接受國之法規規範辦理。",
+            "legal article numbers": "Article 14",
+            "legal provisions": "International data transfer must comply with legal standards."
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "我們將會請您提供您的基本個人資料，包括姓名、性別、出生年月日、身分證字號(非本國籍人士使用中華民國居留證統一證號)、聯絡電話、電子郵件信箱、通訊地址等個人資料。",
+            "legal article numbers": "Article 10",
+            "legal provisions": "Data minimization principle; only necessary data should be collected.",
+            "amend": "Revise the policy to specify the necessity of each data point collected and ensure that only essential data is requested."
+        },
+        {
+            "section": "為提供您更多產品及服務優惠，本公司將會在必要範圍內，將您的姓名、性別、聯絡電話、手機號碼、電子郵件信箱、通訊地址、會員點數、消費金額及發票號碼等基本資料，提供予本公司之關係企業及與本公司有合作關係之指定特約廠商處理及利用。",
+            "legal article numbers": "Article 9",
+            "legal provisions": "Data subjects should be informed about the types of personal data collected.",
+            "amend": "Clarify the purpose and necessity of sharing personal data with third parties and ensure user consent is obtained."
+        },
+        {
+            "section": "本網站使用cookies。使用本網站即表示您同意我們根據隱私權政策內條款使用cookie。",
+            "legal article numbers": "Article 12",
+            "legal provisions": "TWPDP Article 12: Cookies and Tracking Technologies",
+            "amend": "Provide clearer instructions on how users can manage and refuse cookies, and specify the purposes for which cookies are used."
+        },
+        {
+            "section": "如果您不同意，請按照說明停用，本網站cookie即不能放置於您的裝置上。",
+            "legal article numbers": "Article 12",
+            "legal provisions": "TWPDP Article 12: Cookies and Tracking Technologies",
+            "amend": "Ensure that users are provided with easy-to-follow instructions for disabling cookies and that their consent is explicitly obtained."
+        }
+    ]
+}

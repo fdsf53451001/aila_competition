@@ -1,0 +1,69 @@
+{
+    "compliant": [
+        {
+            "section": "什麼是您的個人資料?",
+            "article numbers": "Article 4",
+            "legal provisions": "Definition of personal data"
+        },
+        {
+            "section": "我們如何處理您的個人資料?",
+            "article numbers": "Article 5",
+            "legal provisions": "Principles relating to processing of personal data"
+        },
+        {
+            "section": "您的個人資料何時被蒐集?",
+            "article numbers": "Article 6",
+            "legal provisions": "Lawfulness of processing"
+        },
+        {
+            "section": "共享您的個人資料",
+            "article numbers": "Article 28",
+            "legal provisions": "Processor"
+        },
+        {
+            "section": "您的個人資料被我們保存多久?",
+            "article numbers": "Article 5(1)(e)",
+            "legal provisions": "Storage limitation"
+        },
+        {
+            "section": "保全",
+            "article numbers": "Article 32",
+            "legal provisions": "Security of processing"
+        },
+        {
+            "section": "您有哪些選擇?",
+            "article numbers": "Article 7",
+            "legal provisions": "Conditions for consent"
+        },
+        {
+            "section": "您的權利和您的個人資料",
+            "article numbers": "Articles 15-22",
+            "legal provisions": "Rights of the data subject"
+        },
+        {
+            "section": "我應該聯絡誰?",
+            "article numbers": "Article 27",
+            "legal provisions": "Designation of a representative"
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "使用Cookies",
+            "article numbers": "Article 6(1)(a)",
+            "legal provisions": "Consent for cookies",
+            "amend": "Explicitly state the need for user consent for cookies and provide an option to refuse cookies."
+        },
+        {
+            "section": "跨境傳輸",
+            "article numbers": "Article 44",
+            "legal provisions": "General principle for transfers",
+            "amend": "Include specific safeguards for data transfers to third countries."
+        },
+        {
+            "section": "剖析",
+            "article numbers": "Article 22",
+            "legal provisions": "Automated individual decision-making, including profiling",
+            "amend": "Clarify that no automated decision-making occurs without human intervention and provide a right to contest such decisions."
+        }
+    ]
+}

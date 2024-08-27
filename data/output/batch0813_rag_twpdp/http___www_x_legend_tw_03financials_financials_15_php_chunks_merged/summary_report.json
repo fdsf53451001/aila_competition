@@ -1,0 +1,80 @@
+{
+    "compliant": [
+        {
+            "section": "個人資料收集及使用方式",
+            "legal article numbers": "Article 6, Article 8",
+            "legal provisions": "The collection of personal data must be for specific, legitimate purposes and must be necessary for the intended use."
+        },
+        {
+            "section": "網站上的單純瀏覽及檔案下載行為",
+            "legal article numbers": "Article 3",
+            "legal provisions": "Data minimization principle; only necessary data should be collected."
+        },
+        {
+            "section": "非經您本人同意、授權或因其他法律上的規定，不會將非公開資料透露給第三人",
+            "legal article numbers": "Article 14",
+            "legal provisions": "Personal data should not be disclosed to third parties without consent."
+        },
+        {
+            "section": "傳奇網路絕不會任意出售、交換、或出租任何您的個人資料",
+            "legal article numbers": "Article 6",
+            "legal provisions": "Personal Data Protection Act (PDPA) - Prohibition of selling or renting personal data without consent."
+        },
+        {
+            "section": "在以下的情況下，傳奇網路會向政府機關、其他人士或公司提供您的個人識別資料",
+            "legal article numbers": "Article 14",
+            "legal provisions": "PDPA - Disclosure of personal data under legal obligations."
+        },
+        {
+            "section": "根據契約與傳奇網路合作商業營運之服務供應商",
+            "legal article numbers": "Article 15",
+            "legal provisions": "PDPA - Sharing personal data with service providers for specific purposes."
+        },
+        {
+            "section": "Cookie",
+            "legal article numbers": "Article 9",
+            "legal provisions": "The use of cookies is disclosed, and users are informed about their ability to manage cookie settings."
+        },
+        {
+            "section": "修改個人帳號資料",
+            "legal article numbers": "Article 8",
+            "legal provisions": "Users have the right to access and modify their personal data."
+        },
+        {
+            "section": "安全性",
+            "legal article numbers": "Article 6",
+            "legal provisions": "Measures are in place to protect user data, including password protection and advice on safeguarding personal information."
+        },
+        {
+            "section": "隱私保護政策修訂",
+            "legal article numbers": "Article 12",
+            "legal provisions": "Users are informed about the possibility of policy changes and are encouraged to review updates."
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "申請加入元氣卡網站會員時，需請您提供會員帳號、會員密碼、姓名、性別、出生日期、聯絡電話或手機、E-mail、通訊住址等個人最新、最真實之資料。",
+            "legal article numbers": "Article 4",
+            "legal provisions": "The policy does not specify the legal basis for processing sensitive personal data (e.g., gender, birth date).",
+            "amend": "Clarify the legal basis for collecting sensitive personal data."
+        },
+        {
+            "section": "網站會自動接收並記錄您電腦和瀏覽器上的資料，包括連線設備IP位址、使用時間以及在網站內所瀏覽的網頁紀錄等。",
+            "legal article numbers": "Article 12",
+            "legal provisions": "Users should be informed about the use of cookies and tracking technologies, and consent should be obtained.",
+            "amend": "Include information on cookies and tracking technologies, and obtain user consent."
+        },
+        {
+            "section": "傳奇網路未經您的同意，不會非法透露您的信用卡資料予任何不相關之第三人",
+            "legal article numbers": "Article 8",
+            "legal provisions": "PDPA - Requirement for explicit consent for sensitive personal data, including financial information.",
+            "amend": "Clarify that explicit consent is required for sharing credit card information, even if it is for legal compliance."
+        },
+        {
+            "section": "安全性",
+            "legal article numbers": "Article 5",
+            "legal provisions": "While there are security measures mentioned, there is no explicit mention of data breach notification procedures.",
+            "amend": "Include a clear statement regarding the procedures for notifying users in the event of a data breach."
+        }
+    ]
+}

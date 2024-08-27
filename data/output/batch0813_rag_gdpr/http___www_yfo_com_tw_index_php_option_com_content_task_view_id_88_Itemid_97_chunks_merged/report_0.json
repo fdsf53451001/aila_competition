@@ -1,0 +1,19 @@
+{
+    "compliant": [
+        {
+            "section": "You agree to keep this information confidential and to use the information solely for the purpose of maintaining and supporting your Young Fast network.",
+            "article numbers": "Article 76"
+        },
+        {
+            "section": "You also agree to be careful with this Young Fast information and to only disclose it within your company to employees with a 'need to know' who are instructed and agree not to disclose the information.",
+            "article numbers": "Article 76"
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "Unless otherwise stated, any information you provide at the Young Fast Web Site shall be deemed to be non-confidential and Young Fast will have no obligation to protect such information from disclosure or use.",
+            "article numbers": "Article 8",
+            "amend": "This section should clarify how personal data is handled and ensure that it complies with the requirement for consent and protection of personal data, especially for children."
+        }
+    ]
+}

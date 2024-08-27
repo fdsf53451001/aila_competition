@@ -1,0 +1,33 @@
+{
+    "compliant": [
+        {
+            "section": "IV. Use of Cookies",
+            "article numbers": "Article 9",
+            "legal provisions": "The use of cookies is disclosed, and users are informed about the collection of data through cookies, which aligns with the requirement for transparency."
+        },
+        {
+            "section": "V. Security of Personal Information",
+            "article numbers": "Article 8",
+            "legal provisions": "The policy states that appropriate security measures are applied to protect personal information, which complies with the requirement for data security."
+        },
+        {
+            "section": "VI. Inquire, Alter, Update or Delete Personal Information",
+            "article numbers": "Article 11",
+            "legal provisions": "The policy provides a mechanism for users to inquire, alter, update, or delete their personal information, which aligns with the rights of data subjects."
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "IV. Use of Cookies",
+            "article numbers": "Article 9",
+            "legal provisions": "The policy mentions that third parties can use cookies but does not specify how users can manage their cookie preferences or opt-out options.",
+            "amend": "Include a clear explanation of how users can manage their cookie preferences and provide opt-out options for non-essential cookies."
+        },
+        {
+            "section": "VI. Inquire, Alter, Update or Delete Personal Information",
+            "article numbers": "Article 11",
+            "legal provisions": "The policy states that certain information necessary for retention cannot be deleted upon request, which may conflict with the right to erasure.",
+            "amend": "Clarify the circumstances under which personal information can be retained and ensure compliance with the right to erasure as per applicable laws."
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "compliant": [
+        {
+            "section": "更正或撤回個人資料",
+            "article numbers": "Article 11, Article 12",
+            "legal provisions": "您有權請求了解、取回、更正、刪除及撤回對個人資料處理的同意，符合TWPDP第11條和第12條的要求。"
+        },
+        {
+            "section": "若您欲行使上述權利或了解更多關於您個人資料處理的資訊，請透過 sales@panjit.com.tw與本公司聯繫",
+            "article numbers": "Article 13",
+            "legal provisions": "提供聯絡方式以行使權利，符合TWPDP第13條的要求。"
+        },
+        {
+            "section": "若您認為您的個人資料未按照相關適用法律處理，您亦有權向監管機關提出申訴或根據適用法律尋求其他措施。",
+            "article numbers": "Article 14",
+            "legal provisions": "告知用戶有權向監管機關提出申訴，符合TWPDP第14條的要求。"
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "本政策之變更",
+            "article numbers": "Article 15",
+            "legal provisions": "未明確說明用戶在政策變更後的選擇權及通知方式，建議在政策變更時主動通知用戶並提供選擇權。",
+            "amend": "建議增加條款，說明用戶在政策變更後的選擇權及如何獲得通知。"
+        }
+    ]
+}

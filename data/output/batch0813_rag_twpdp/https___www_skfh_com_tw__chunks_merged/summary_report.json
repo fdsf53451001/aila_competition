@@ -1,0 +1,53 @@
+{
+    "compliant": [
+        {
+            "section": "一.蒐集之目的",
+            "legal article numbers": "Article 6",
+            "legal provisions": "The purpose of data collection must be specified."
+        },
+        {
+            "section": "二.個人資料之類別",
+            "legal article numbers": "Article 6",
+            "legal provisions": "The types of personal data collected must be specified."
+        },
+        {
+            "section": "四.個人資料利用之期間、地區、對象及方式",
+            "legal article numbers": "Article 8",
+            "legal provisions": "The retention period and usage of personal data must be specified."
+        },
+        {
+            "section": "五.保護措施與承諾",
+            "legal article numbers": "Article 9",
+            "legal provisions": "Appropriate security measures must be taken to protect personal data."
+        },
+        {
+            "section": "三.權利行使",
+            "legal article numbers": "Article 3, Article 11",
+            "legal provisions": "Data subjects have the right to access, correct, and delete their personal data."
+        },
+        {
+            "section": "六.隱私權保護聲明的修改",
+            "legal article numbers": "Article 14",
+            "legal provisions": "The privacy policy must be updated in accordance with legal changes."
+        },
+        {
+            "section": "七.聯絡資訊",
+            "legal article numbers": "Article 12",
+            "legal provisions": "Contact information for inquiries must be provided."
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "三.Cookies之運用",
+            "legal article numbers": "Article 6, Article 8",
+            "legal provisions": "The use of cookies must be clearly stated, including obtaining consent for tracking.",
+            "amend": "Clarify the need for explicit consent for the use of cookies and tracking technologies."
+        },
+        {
+            "section": "五.與第三者共用個人資料",
+            "legal article numbers": "Article 16",
+            "legal provisions": "Sharing personal data with third parties must be clearly defined and consent obtained.",
+            "amend": "Specify the conditions under which personal data may be shared with third parties and ensure consent is obtained."
+        }
+    ]
+}

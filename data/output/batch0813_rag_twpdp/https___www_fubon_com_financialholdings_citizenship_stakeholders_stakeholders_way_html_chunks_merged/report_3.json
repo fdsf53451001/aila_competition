@@ -1,0 +1,38 @@
+{
+    "compliant": [
+        {
+            "section": "本網站群所傳送的優惠權益訊息內容，我們會在活動時提供充分的說明，使用者可以自由選擇是否接受這項特定服務或活動。",
+            "article numbers": "Article 6",
+            "legal provisions": "使用者同意原則"
+        },
+        {
+            "section": "若使用者選擇接受本項服務，本網站群保證不會將使用者在本網站所登錄的任何資料轉送給第三人。",
+            "article numbers": "Article 8",
+            "legal provisions": "資料不外洩原則"
+        },
+        {
+            "section": "本網站群將在事前或註冊登錄取得使用者的同意後，傳送商業性資料或電子郵件給使用者。",
+            "article numbers": "Article 6",
+            "legal provisions": "使用者同意原則"
+        },
+        {
+            "section": "也會在該資料或電子郵件上提供使用者能隨時停止接收這些資料或電子郵件的方法、說明或功能連結。",
+            "article numbers": "Article 7",
+            "legal provisions": "撤回同意的權利"
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "本網站群將會視需要隨時修改本網站群所提供的隱私權保護聲明，以落實保障使用者的隱私權。",
+            "article numbers": "Article 9",
+            "legal provisions": "隱私政策變更通知",
+            "amend": "應明確告知使用者變更的具體內容及生效日期"
+        },
+        {
+            "section": "建議使用者於再次來訪時，可重新瞭解我們新的隱私權政策及其改變。",
+            "article numbers": "Article 9",
+            "legal provisions": "隱私政策變更通知",
+            "amend": "應主動通知使用者而非僅建議"
+        }
+    ]
+}

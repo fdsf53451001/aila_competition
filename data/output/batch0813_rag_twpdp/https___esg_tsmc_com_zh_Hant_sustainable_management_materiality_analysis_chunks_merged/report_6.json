@@ -1,0 +1,17 @@
+{
+    "compliant": [
+        {
+            "section": "本公司可能將您的個人資料分享給下列第三方：法律主管機關；我們的外部顧問；我們的服務供應廠商；因訴訟或其他法律程序進行有必要揭露給第三方；為調查、偵查或預防犯罪行為而有必要揭露給第三方；收購我們全部或部分業務或資產之第三方；以及提供廣告、外掛程式、或我們網站內容之第三方。",
+            "article numbers": "Article 14, Article 15",
+            "legal provisions": "The sharing of personal data with legal authorities, external consultants, service providers, and for legal proceedings is compliant with the TWPDP as it aligns with the principles of necessity and legality."
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "本公司可能將您的個人資料分享給下列第三方：法律主管機關；我們的外部顧問；我們的服務供應廠商；因訴訟或其他法律程序進行有必要揭露給第三方；為調查、偵查或預防犯罪行為而有必要揭露給第三方；收購我們全部或部分業務或資產之第三方；以及提供廣告、外掛程式、或我們網站內容之第三方。",
+            "article numbers": "Article 13",
+            "legal provisions": "The policy does not specify the purpose of sharing personal data with third parties such as advertisers or content providers, which is required under Article 13 of the TWPDP.",
+            "amend": "Clarify the specific purposes for sharing personal data with third parties, especially regarding advertising and content provision."
+        }
+    ]
+}

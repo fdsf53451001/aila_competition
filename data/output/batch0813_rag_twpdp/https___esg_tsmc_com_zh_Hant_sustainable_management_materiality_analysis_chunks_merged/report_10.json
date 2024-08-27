@@ -1,0 +1,17 @@
+{
+    "compliant": [
+        {
+            "section": "資訊之正確性",
+            "article numbers": "Article 4",
+            "legal provisions": "The data subject has the right to request the correction of their personal data if it is inaccurate or incomplete."
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "簡介",
+            "article numbers": "Article 5",
+            "legal provisions": "The data controller must ensure that personal data is kept up to date and accurate, and must take reasonable steps to ensure that inaccurate data is rectified or deleted.",
+            "amend": "Include specific procedures for data subjects to request corrections or updates to their personal data."
+        }
+    ]
+}

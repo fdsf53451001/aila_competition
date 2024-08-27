@@ -1,0 +1,22 @@
+{
+    "compliant": [
+        {
+            "section": "簡介 – 本公司使用 Cookies 和其他類似科技以處理您的個人資料。",
+            "article numbers": "Article 6",
+            "legal provisions": "The processing of personal data must be lawful, fair, and transparent."
+        },
+        {
+            "section": "若欲取得更詳細的相關資訊，請參閱我們的 Cookie 政策.",
+            "article numbers": "Article 13",
+            "legal provisions": "The data subject shall be provided with information regarding the processing of their personal data."
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "本公司使用 Cookies 和其他類似科技以處理您的個人資料。",
+            "article numbers": "Article 7",
+            "legal provisions": "Consent must be obtained for the processing of personal data, especially for cookies.",
+            "amend": "Explicitly state how consent is obtained for the use of cookies and provide options for users to manage their preferences."
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "compliant": [
+        {
+            "section": "我們可能保留這些資訊，以便在您登錄時記住您。",
+            "article numbers": "Article 6",
+            "legal provisions": "Data retention and purpose limitation"
+        },
+        {
+            "section": "潛在員工可能會通過我們的授權供應商營運的服務向我們提交求職資訊。",
+            "article numbers": "Article 5",
+            "legal provisions": "Transparency and purpose specification"
+        },
+        {
+            "section": "為了給您提供產品或服務、與您溝通或維持我們與您的關係，我們可能需要收集和使用您的個人資訊。",
+            "article numbers": "Article 6",
+            "legal provisions": "Data minimization and purpose limitation"
+        },
+        {
+            "section": "我們也會收集其他不屬於個人資訊的資料，包括您的設備資訊。",
+            "article numbers": "Article 6",
+            "legal provisions": "Data minimization and purpose limitation"
+        },
+        {
+            "section": "聯發科技尊重個人隱私，並重視客戶、員工、消費者、商業夥伴及其他人士對我們隱私權聲明的信任。",
+            "article numbers": "Article 1",
+            "legal provisions": "Respect for privacy"
+        },
+        {
+            "section": "我們使用追蹤技術，例如 cookies（存放於您硬碟中之小型檔案）",
+            "article numbers": "Article 7",
+            "legal provisions": "Consent for tracking technologies"
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "通過此途徑提供的資訊，將適用於該授權服務供應商所制定的隱私權政策。",
+            "article numbers": "Article 4",
+            "legal provisions": "Accountability and third-party data processing",
+            "amend": "Clarify the accountability for third-party data processing and ensure compliance with TWPDP."
+        },
+        {
+            "section": "當您造訪聯發科技服務，即表示您同意我們設置 cookies，且同意我們和第三人在遵循 cookie 政策 的情況下，使用前述追蹤技術。",
+            "article numbers": "Article 7",
+            "legal provisions": "Consent for tracking technologies",
+            "amend": "Ensure explicit consent is obtained for cookies and tracking technologies, rather than implied consent."
+        },
+        {
+            "section": "某些網頁瀏覽器可能具有“請勿追蹤”信號的設置。",
+            "article numbers": "Article 8",
+            "legal provisions": "User rights and preferences",
+            "amend": "Implement measures to respect 'Do Not Track' signals and provide clear options for users to manage their preferences."
+        }
+    ]
+}

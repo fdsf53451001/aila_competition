@@ -1,0 +1,38 @@
+{
+    "compliant": [
+        {
+            "section": "邁達特數位保護您所分享給我們的個人資料。",
+            "article numbers": "Article 5",
+            "legal provisions": "Data Protection Principles"
+        },
+        {
+            "section": "邁達特數位規定，非工作必要者不得存取您的個人資料。",
+            "article numbers": "Article 6",
+            "legal provisions": "Access Control"
+        },
+        {
+            "section": "邁達特數位亦得蒐集、總計與維持本網站線上訪客之匿名資料。",
+            "article numbers": "Article 7",
+            "legal provisions": "Anonymization of Data"
+        },
+        {
+            "section": "此類資料將用於量身訂做邁達特數位網站之內容與廣告，以提供訪客更佳的瀏覽經驗。",
+            "article numbers": "Article 8",
+            "legal provisions": "Purpose Limitation"
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "邁達特數位得與廣告商、商業夥伴、贊助商及其他第三者共享此訪客總計資料。",
+            "article numbers": "Article 9",
+            "legal provisions": "Data Sharing and Third Parties",
+            "amend": "Ensure explicit consent is obtained from users before sharing their data with third parties."
+        },
+        {
+            "section": "本隱私權政策如有修改，公布在本網站後即刻生效。",
+            "article numbers": "Article 10",
+            "legal provisions": "Policy Changes",
+            "amend": "Notify users in advance of any changes to the privacy policy and provide a grace period for users to review the changes."
+        }
+    ]
+}

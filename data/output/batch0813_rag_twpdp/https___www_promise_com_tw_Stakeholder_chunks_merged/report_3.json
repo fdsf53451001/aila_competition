@@ -1,0 +1,22 @@
+{
+    "compliant": [
+        {
+            "section": "請保護您的個人資訊、附加服務及各種線上服務。請勿將您的個人資訊提供給他人。",
+            "article numbers": "Article 6",
+            "legal provisions": "個人資料的保護及使用原則"
+        },
+        {
+            "section": "為防止他人蒐集及濫用您的個人資訊，如果您與他人共用電腦，請務必在完成交易時登出網站，並在離開現場前關閉視窗。",
+            "article numbers": "Article 7",
+            "legal provisions": "個人資料的安全性"
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "請勿將您的個人資訊提供給他人。",
+            "article numbers": "Article 5",
+            "legal provisions": "個人資料的收集及使用",
+            "amend": "應明確說明在何種情況下可以分享個人資訊，並提供用戶選擇權。"
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "compliant": [
+        {
+            "section": "一、個人資料之蒐集政策",
+            "legal article numbers": "第8條",
+            "legal provisions": "個人資料保護法第8條規定，蒐集個人資料應告知目的及範圍。"
+        },
+        {
+            "section": "二、蒐集個人資料目的範圍",
+            "legal article numbers": "第9條",
+            "legal provisions": "個人資料保護法第9條規定，蒐集個人資料應限於必要範圍，並明確告知使用目的。"
+        },
+        {
+            "section": "三、Cookies或其他類似技術運用",
+            "legal article numbers": "第6條, 第7條",
+            "legal provisions": "關於Cookies及追蹤技術的使用符合告知用戶資料蒐集及處理的要求。"
+        },
+        {
+            "section": "四、傳送商業資訊或電子郵件之政策",
+            "legal article numbers": "第8條, 第9條",
+            "legal provisions": "資料傳輸及儲存的安全措施及協議符合資料保護及安全的要求。"
+        },
+        {
+            "section": "五、提供或揭露予第三方政策",
+            "legal article numbers": "第12條",
+            "legal provisions": "TWPDP第12條（向第三方披露個人資料）"
+        },
+        {
+            "section": "六、消費者聯絡資訊",
+            "legal article numbers": "第15條",
+            "legal provisions": "TWPDP第15條（資料主體的權利）"
+        },
+        {
+            "section": "七、網站隱私權政策的修改",
+            "legal article numbers": "第14條",
+            "legal provisions": "TWPDP第14條（政策更新）"
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "提醒您：如您有透過本網站連結到其他網站者",
+            "legal article numbers": "第6條",
+            "legal provisions": "個人資料保護法第6條規定，應對第三方網站的隱私政策負責。此政策未能明確說明對第三方網站的責任。",
+            "amend": "應明確說明對第三方網站的隱私政策的責任及如何保護用戶的個人資料。"
+        },
+        {
+            "section": "Cookies或其他類似技術運用",
+            "legal article numbers": "第5條",
+            "legal provisions": "政策未明確提及獲得用戶同意使用Cookies，這是TWPDP的要求。",
+            "amend": "加入明確的聲明，說明獲得用戶同意使用Cookies的過程，並提供用戶管理其Cookies偏好的選項。"
+        },
+        {
+            "section": "傳送商業資訊或電子郵件之政策",
+            "legal article numbers": "第10條",
+            "legal provisions": "政策缺乏具體細節，說明用戶如何選擇不接收商業通訊。",
+            "amend": "新增一節，詳細說明用戶如何選擇不接收商業通訊及如何尊重其偏好。"
+        },
+        {
+            "section": "提供或揭露予第三方政策",
+            "legal article numbers": "第12條",
+            "legal provisions": "TWPDP第12條（向第三方披露個人資料）未明確說明個人資料披露的具體條件。",
+            "amend": "澄清在何種情況下可向第三方披露個人資料，確保符合必要性和比例原則。"
+        }
+    ]
+}

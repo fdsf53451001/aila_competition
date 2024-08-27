@@ -1,0 +1,133 @@
+{
+    "compliant": [
+        {
+            "section": "Consent",
+            "legal article numbers": "Article 6",
+            "legal provisions": "The requirement for consent before collecting personal information is addressed."
+        },
+        {
+            "section": "When is your Personal Information Collected?",
+            "legal article numbers": "Article 8",
+            "legal provisions": "The policy outlines the circumstances under which personal information is collected, which aligns with transparency requirements."
+        },
+        {
+            "section": "Rights with regard to cookies and other tracers",
+            "legal article numbers": "Article 9",
+            "legal provisions": "The policy informs users of their rights regarding cookies, which is in line with user rights provisions."
+        },
+        {
+            "section": "Personal Information We Collect",
+            "legal article numbers": "Article 5 (1)(a), Article 5 (1)(b)",
+            "legal provisions": "Personal data must be processed lawfully, fairly, and transparently; and collected for specified, legitimate purposes."
+        },
+        {
+            "section": "Sensitive Personal Information",
+            "legal article numbers": "Article 9 (2)(a), Article 9 (2)(b)",
+            "legal provisions": "Processing of special categories of personal data is allowed with explicit consent or for specific purposes."
+        },
+        {
+            "section": "Children's Personal Information",
+            "legal article numbers": "Article 8",
+            "legal provisions": "Processing of personal data of children requires parental consent."
+        },
+        {
+            "section": "Our contact details",
+            "legal article numbers": "Article 13(1)(a)",
+            "legal provisions": "Information to be provided where personal data are collected from the data subject."
+        },
+        {
+            "section": "The purpose for the collection and the legal basis for doing so",
+            "legal article numbers": "Article 13(1)(c)",
+            "legal provisions": "Information to be provided where personal data are collected from the data subject."
+        },
+        {
+            "section": "If applicable, our legitimate interests for collecting your Personal Information",
+            "legal article numbers": "Article 13(1)(d)",
+            "legal provisions": "Information to be provided where personal data are collected from the data subject."
+        },
+        {
+            "section": "Any third parties or the categories of the third parties who will receive your Personal Information",
+            "legal article numbers": "Article 13(1)(e)",
+            "legal provisions": "Information to be provided where personal data are collected from the data subject."
+        },
+        {
+            "section": "Transfer of Personal Information to any country or organization outside EU, and the appropriate safeguards we apply when doing so",
+            "legal article numbers": "Article 13(1)(f)",
+            "legal provisions": "Information to be provided where personal data are collected from the data subject."
+        },
+        {
+            "section": "The criteria we use to determine the period for which your Personal Information will be stored",
+            "legal article numbers": "Article 13(2)(a)",
+            "legal provisions": "Additional information to be provided where personal data are collected from the data subject."
+        },
+        {
+            "section": "Your right to request access to, rectification, erasure of Personal Information or restrictions or objections to processing",
+            "legal article numbers": "Article 13(2)(b)",
+            "legal provisions": "Additional information to be provided where personal data are collected from the data subject."
+        },
+        {
+            "section": "Your right to withdraw your consent any time if you provide Personal Information based on your consent",
+            "legal article numbers": "Article 13(2)(c)",
+            "legal provisions": "Additional information to be provided where personal data are collected from the data subject."
+        },
+        {
+            "section": "Your right to lodge a complaint with a supervisory authority in EU member state",
+            "legal article numbers": "Article 13(2)(d)",
+            "legal provisions": "Additional information to be provided where personal data are collected from the data subject."
+        },
+        {
+            "section": "Whether you are obliged to provide the Personal Information, and the possible consequences of failure to provide such information",
+            "legal article numbers": "Article 13(2)(e)",
+            "legal provisions": "Additional information to be provided where personal data are collected from the data subject."
+        },
+        {
+            "section": "Whether we process any automated decision-making, including profiling based on the Personal Information you provide",
+            "legal article numbers": "Article 13(2)(f)",
+            "legal provisions": "Additional information to be provided where personal data are collected from the data subject."
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "Information from Third Parties",
+            "legal article numbers": "Article 7",
+            "legal provisions": "The policy does not clearly state the legal basis for processing personal information obtained from third parties.",
+            "amend": "Include a clear statement on the legal basis for processing personal information obtained from third parties, as required by TWPDP."
+        },
+        {
+            "section": "Data Retention",
+            "legal article numbers": "Article 10",
+            "legal provisions": "The policy does not specify the retention period for personal information.",
+            "amend": "Add a section detailing the retention period for personal information and the criteria used to determine that period."
+        },
+        {
+            "section": "User Rights",
+            "legal article numbers": "Article 12",
+            "legal provisions": "The policy does not adequately inform users of their rights to access, rectify, or delete their personal information.",
+            "amend": "Include a detailed explanation of user rights regarding access, rectification, and deletion of personal information."
+        },
+        {
+            "section": "Use of Personal Information",
+            "legal article numbers": "Article 5 (1)(b), Article 5 (1)(c)",
+            "legal provisions": "Personal data must be limited to what is necessary for the purposes for which they are processed.",
+            "amend": "Clarify the specific purposes for which personal data will be used and ensure that data collection is limited to what is necessary for those purposes."
+        },
+        {
+            "section": "Strategic Partnerships",
+            "legal article numbers": "Article 6 (1)(a), Article 6 (1)(f)",
+            "legal provisions": "Processing must be based on consent or legitimate interests, and individuals should be informed about the sharing of their data with third parties.",
+            "amend": "Provide clearer information on how personal data will be shared with Strategic Partners and obtain explicit consent from users."
+        },
+        {
+            "section": "However, if you have already previously been informed of the above information, we may not provide further notification of the same.",
+            "legal article numbers": "Article 13(2)",
+            "legal provisions": "Additional information to be provided where personal data are collected from the data subject.",
+            "amend": "This section should clarify that the data subject's rights to be informed are ongoing and should be provided whenever there are changes to the processing of their data."
+        },
+        {
+            "section": "However, if you are already aware of the same, or we are required by law to obtain the information, or the provision of such information to you will involve disproportionate efforts to achieve, we will not provide you with the above details.",
+            "legal article numbers": "Article 14(5)",
+            "legal provisions": "Information to be provided where personal data have not been obtained from the data subject.",
+            "amend": "This section should ensure that it does not undermine the data subject's right to be informed, regardless of their prior knowledge or the effort involved."
+        }
+    ]
+}

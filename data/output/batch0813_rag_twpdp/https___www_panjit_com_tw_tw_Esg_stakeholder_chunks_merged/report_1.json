@@ -1,0 +1,33 @@
+{
+    "compliant": [
+        {
+            "section": "個人資料使用",
+            "article numbers": "Article 6",
+            "legal provisions": "The purpose of data collection must be specified and legitimate."
+        },
+        {
+            "section": "個人資料揭露",
+            "article numbers": "Article 8",
+            "legal provisions": "Data may only be disclosed to authorized personnel and third parties for legitimate purposes."
+        },
+        {
+            "section": "於法令要求或符合法令規定之情形下",
+            "article numbers": "Article 9",
+            "legal provisions": "Disclosure of personal data is permitted under legal obligations or for the protection of rights."
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "個人資料使用",
+            "article numbers": "Article 5",
+            "legal provisions": "Data subjects must be informed about the specific purposes of data collection.",
+            "amend": "Clarify the specific purposes of data collection in more detail to ensure transparency."
+        },
+        {
+            "section": "個人資料揭露",
+            "article numbers": "Article 7",
+            "legal provisions": "Data subjects must be informed about the potential third parties to whom their data may be disclosed.",
+            "amend": "Provide a more detailed list of third parties and the specific purposes for which data may be shared."
+        }
+    ]
+}

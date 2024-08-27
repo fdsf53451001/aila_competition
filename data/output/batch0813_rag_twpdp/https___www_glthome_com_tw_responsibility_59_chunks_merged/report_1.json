@@ -1,0 +1,48 @@
+{
+    "compliant": [
+        {
+            "section": "我們蒐集了那些您的個人資料",
+            "article numbers": "Article 4, Article 5",
+            "legal provisions": "明確告知用戶所收集的個人資料類型及目的"
+        },
+        {
+            "section": "您可能被要求提供額外(但非強制性)的資訊",
+            "article numbers": "Article 4",
+            "legal provisions": "提供用戶選擇性提供額外資訊的選項"
+        },
+        {
+            "section": "我們也會從您的連線裝置收集您與本網站的互動資訊",
+            "article numbers": "Article 4, Article 5",
+            "legal provisions": "明確告知用戶所收集的個人資料類型及目的"
+        },
+        {
+            "section": "我們也會收集您造訪網站的活動",
+            "article numbers": "Article 4, Article 5",
+            "legal provisions": "明確告知用戶所收集的個人資料類型及目的"
+        },
+        {
+            "section": "您主動提給本公司的任何看法、意見",
+            "article numbers": "Article 4",
+            "legal provisions": "明確告知用戶所收集的個人資料類型及目的"
+        },
+        {
+            "section": "我們也會經由第三方收集您的個人資訊",
+            "article numbers": "Article 4, Article 6",
+            "legal provisions": "告知用戶第三方資料來源及其目的"
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "如果您不提供此類資訊, 我們可能無法提供您足夠的產品及服務。",
+            "article numbers": "Article 3",
+            "legal provisions": "未明確告知用戶拒絕提供資料的權利及後果",
+            "amend": "應明確說明用戶有權拒絕提供資料，並告知其可能的後果"
+        },
+        {
+            "section": "我們也會經由第三方收集您的個人資訊",
+            "article numbers": "Article 6",
+            "legal provisions": "未提供用戶關於第三方資料收集的詳細資訊及選擇權",
+            "amend": "應提供用戶選擇是否同意第三方收集其個人資訊的選項"
+        }
+    ]
+}

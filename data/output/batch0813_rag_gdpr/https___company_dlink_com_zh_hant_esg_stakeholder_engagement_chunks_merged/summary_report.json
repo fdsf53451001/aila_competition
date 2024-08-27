@@ -1,0 +1,66 @@
+{
+    "compliant": [
+        {
+            "section": "友訊尊重您的隱私權並且承諾保護您向我們提供的個人資料，所以我們制定了一項隱私權政策，載明我們如何蒐集、使用、移轉及儲存你的資料。",
+            "legal article numbers": "Article 12",
+            "legal provisions": "Transparency in data collection and processing."
+        },
+        {
+            "section": "如果您向我們提供其他人(如配偶或同事)的個人資料，您必須獲得該人士的許可。",
+            "legal article numbers": "Article 12",
+            "legal provisions": "Requirement for consent when processing third-party personal data."
+        },
+        {
+            "section": "每一份電子郵件通訊均包含一個退訂鏈接，您點擊退訂鏈接即可停止收到該類通訊。",
+            "legal article numbers": "Article 21",
+            "legal provisions": "Right to withdraw consent for marketing communications."
+        },
+        {
+            "section": "友訊將在您加入會員、參加活動、訂閱電子報時，取得您的同意後，傳送相關電子郵件或商業性資料給您。",
+            "legal article numbers": "Article 6(1)(a)",
+            "legal provisions": "Processing based on consent."
+        },
+        {
+            "section": "您可通過發送電子郵件至 didikiki@tw.dlink.com 要求停用您的友訊帳戶或您被我們持有的任何個人資料。",
+            "legal article numbers": "Article 49(1)(a)",
+            "legal provisions": "Right to access and request deletion of personal data."
+        },
+        {
+            "section": "友訊以行業標準物理、電子及管理程序保障您發送給我們的數據的安全性。",
+            "legal article numbers": "Article 50",
+            "legal provisions": "Implementation of security measures to protect personal data."
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "我們記錄您的 IP 位置(即您電腦的網際網路位置)，以使我們了解您訪問了網站的哪些部分以及您花了多少時間。",
+            "legal article numbers": "Article 12",
+            "legal provisions": "Lack of clarity on the purpose and legal basis for IP address tracking.",
+            "amend": "Provide clearer information on the purpose of IP address tracking and the legal basis for its use."
+        },
+        {
+            "section": "友訊可能使用製定的鏈接或其他類似的技術來追蹤您點擊的電子郵件鏈接。",
+            "legal article numbers": "Article 21(1)",
+            "legal provisions": "Insufficient information on user consent for tracking email links.",
+            "amend": "Clearly inform users about the tracking of email links and obtain explicit consent."
+        },
+        {
+            "section": "友訊不會將您的 IP 地址與任何個人資料鏈接。",
+            "legal article numbers": "Article 12",
+            "legal provisions": "Lack of transparency regarding data processing practices.",
+            "amend": "Clarify how IP addresses are handled and ensure transparency in data processing."
+        },
+        {
+            "section": "友訊可能需要與之分享您的資料的第三方包括我們的業務合作夥伴。",
+            "legal article numbers": "Article 49(2)",
+            "legal provisions": "Unclear conditions for data transfer to third parties.",
+            "amend": "Specify the conditions under which personal data may be transferred to third parties, ensuring compliance with GDPR."
+        },
+        {
+            "section": "我們將使用您的個人資料提供您所要求的產品和服務。",
+            "legal article numbers": "Article 21(2)",
+            "legal provisions": "Insufficient information on the legal basis for processing personal data.",
+            "amend": "Clearly state the legal basis for processing personal data for service provision."
+        }
+    ]
+}

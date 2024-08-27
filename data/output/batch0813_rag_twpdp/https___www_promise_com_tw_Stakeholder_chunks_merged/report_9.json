@@ -1,0 +1,17 @@
+{
+    "compliant": [
+        {
+            "section": "IP 位址之蒐集",
+            "article numbers": "Article 6",
+            "legal provisions": "The collection of IP addresses is necessary for the provision of services and is conducted in accordance with the principles of necessity and proportionality."
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "使用網際網路協定以進行通訊",
+            "article numbers": "Article 5",
+            "legal provisions": "The policy does not specify how the collected IP addresses will be used, stored, or shared, which is required under the transparency principle.",
+            "amend": "Include a clear explanation of the purposes for which IP addresses are collected, how they will be used, and any third parties with whom they may be shared."
+        }
+    ]
+}

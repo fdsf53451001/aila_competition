@@ -1,0 +1,71 @@
+{
+    "compliant": [
+        {
+            "section": "Promise致力於保護您的隱私權。",
+            "legal article numbers": "Article 1",
+            "legal provisions": "The principle of protecting personal data."
+        },
+        {
+            "section": "本公司鼓勵您瞭解有關使用 Promise 在本網站所提供之服務可享有的全部權利。",
+            "legal article numbers": "Article 2",
+            "legal provisions": "Transparency and user rights regarding personal data."
+        },
+        {
+            "section": "Promise基於下列目的蒐集個人資訊：行銷活動或您造訪或註冊本公司網站以取得產品或服務時，提供更好的服務。",
+            "legal article numbers": "Article 6",
+            "legal provisions": "Personal data collection must have clear purposes."
+        },
+        {
+            "section": "Promise將盡其所能確保其員工、子公司奉行並遵守本隱私權政策條款之規定。",
+            "legal article numbers": "Article 5",
+            "legal provisions": "Data Protection Accountability."
+        },
+        {
+            "section": "Promise將依個人資訊蒐集之規定，使用所取得之電子郵件信箱，以提供本公司客戶的相關資訊。",
+            "legal article numbers": "Article 8",
+            "legal provisions": "The collection and use of personal information must be for specific, legitimate purposes."
+        },
+        {
+            "section": "Promise不會揭露自您的Cookies所取得之資料，以保護您的隱私權。",
+            "legal article numbers": "Article 6",
+            "legal provisions": "Data Protection Principles - Personal data must be processed lawfully, fairly, and transparently."
+        },
+        {
+            "section": "Promise將在收到請求後七十二(72)小時內通知您是否會配合您的請求及其範圍。",
+            "legal article numbers": "Article 17",
+            "legal provisions": "Data controllers must respond to requests in a timely manner."
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "本公司未明確列出使用者的具體權利及如何行使這些權利。",
+            "legal article numbers": "Article 4",
+            "legal provisions": "Users must be informed of their specific rights and how to exercise them.",
+            "amend": "Include a detailed section outlining user rights and procedures for exercising them."
+        },
+        {
+            "section": "未提供數據保留期限及刪除政策。",
+            "legal article numbers": "Article 5",
+            "legal provisions": "Data retention and deletion policies must be clearly stated.",
+            "amend": "Add a section specifying how long personal data will be retained and the process for deletion."
+        },
+        {
+            "section": "Promise未明確說明IP地址的使用、儲存或分享方式。",
+            "legal article numbers": "Article 5",
+            "legal provisions": "The policy does not specify how the collected IP addresses will be used, stored, or shared.",
+            "amend": "Include a clear explanation of the purposes for which IP addresses are collected, how they will be used, and any third parties with whom they may be shared."
+        },
+        {
+            "section": "Promise未明確說明個人資料的收集及使用原則。",
+            "legal article numbers": "Article 9",
+            "legal provisions": "Individuals must be informed about the purpose of data collection and their rights regarding their personal information.",
+            "amend": "Include a clear statement about the purpose of data collection and the rights of individuals regarding their personal information."
+        },
+        {
+            "section": "Promise未明確說明用戶在拒絕同意時的權利。",
+            "legal article numbers": "Article 7",
+            "legal provisions": "Conditions for consent - Users should not be penalized for refusing consent.",
+            "amend": "Clarify that users can still access basic functionalities of the website without accepting cookies."
+        }
+    ]
+}

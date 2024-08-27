@@ -1,0 +1,17 @@
+{
+    "compliant": [
+        {
+            "section": "為保護您個人資料之隱密及完整性，本公司謹恪遵政府相關法令及資訊管理原則。",
+            "article numbers": "Article 6, Article 7",
+            "legal provisions": "遵循個人資料保護法第6條（資料安全）及第7條（資料保護原則）"
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "為保護您個人資料之隱密及完整性，本公司謹恪遵政府相關法令及資訊管理原則。",
+            "article numbers": "Article 8",
+            "legal provisions": "未明確說明個人資料的收集、使用及保存期限。",
+            "amend": "應增加具體的資料收集、使用及保存期限的說明。"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "compliant": [
+        {
+            "section": "Data that CyberTAN Collects",
+            "article numbers": "Article 5 (1)(a), Article 5 (1)(b)",
+            "legal provisions": "Data collection is limited to what is necessary for the purposes for which it is processed."
+        },
+        {
+            "section": "Personal data may also include information of your real-time location, your device’s Internet Protocol (IP) address or unique device identifier (UDI).",
+            "article numbers": "Article 4 (1)(a)",
+            "legal provisions": "Personal data must be processed lawfully, fairly, and transparently."
+        },
+        {
+            "section": "The collection and use of your Personal data may be necessary for us to provide you with a product or service, communicate with you, or maintain our relationship with you.",
+            "article numbers": "Article 6 (1)(b)",
+            "legal provisions": "Processing is necessary for the performance of a contract to which the data subject is party."
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "We may retain this information to remember you whenever you log in.",
+            "article numbers": "Article 5 (1)(e)",
+            "legal provisions": "Personal data must be kept in a form which permits identification of data subjects for no longer than is necessary for the purposes for which the personal data are processed.",
+            "amend": "Specify retention periods for personal data and the criteria used to determine those periods."
+        },
+        {
+            "section": "If you choose not to provide us with Personal data, we may not be able to provide you with such, in part or at all.",
+            "article numbers": "Article 13 (2)(e)",
+            "legal provisions": "The data subject should be informed of the consequences of failing to provide personal data.",
+            "amend": "Clarify the specific consequences of not providing personal data, including which services may be affected."
+        }
+    ]
+}

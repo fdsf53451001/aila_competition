@@ -1,0 +1,49 @@
+{
+    "compliant": [
+        {
+            "section": "蒐集之資訊內容及蒐集方式",
+            "legal article numbers": "Article 4, Article 5",
+            "legal provisions": "The policy clearly states the types of information collected and the methods of collection, which aligns with the requirements for transparency and purpose limitation."
+        },
+        {
+            "section": "個人資料處理方式",
+            "legal article numbers": "Article 6, Article 7",
+            "legal provisions": "The policy outlines the purposes for which personal data will be used, ensuring that data processing is limited to specified purposes."
+        },
+        {
+            "section": "請求製給複製本、請求補充或更正、請求停止蒐集、處理及利用、請求刪除",
+            "legal article numbers": "Article 8, Article 9",
+            "legal provisions": "The policy provides users with rights to access, correct, and delete their personal data, which is in compliance with user rights provisions."
+        },
+        {
+            "section": "美國加州之使用者",
+            "legal article numbers": "Article 10",
+            "legal provisions": "The policy acknowledges additional rights for California residents, which aligns with specific regional legal requirements."
+        },
+        {
+            "section": "台灣的使用者",
+            "legal article numbers": "Article 11",
+            "legal provisions": "The policy specifies compliance with local laws in Taiwan, ensuring adherence to regional data protection regulations."
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "Cookie",
+            "legal article numbers": "Article 12",
+            "legal provisions": "The policy mentions the use of cookies but does not provide sufficient information on how users can manage their cookie preferences or the implications of consent.",
+            "amend": "Include detailed instructions on how users can manage cookie settings and the consequences of not consenting to cookie usage."
+        },
+        {
+            "section": "裝置資訊",
+            "legal article numbers": "Article 13",
+            "legal provisions": "The policy states that device information may be collected but lacks clarity on the specific purposes for which this information will be used.",
+            "amend": "Clarify the purposes for collecting device information and ensure that users are informed about how this data will be utilized."
+        },
+        {
+            "section": "第三方分享",
+            "legal article numbers": "Article 14",
+            "legal provisions": "The policy mentions sharing personal data with third parties but does not specify the criteria for selecting these third parties or the safeguards in place.",
+            "amend": "Provide more details on the criteria for third-party sharing and the measures taken to protect user data when shared."
+        }
+    ]
+}

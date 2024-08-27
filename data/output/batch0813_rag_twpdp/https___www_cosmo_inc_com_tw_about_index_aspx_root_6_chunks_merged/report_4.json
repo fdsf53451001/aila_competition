@@ -1,0 +1,28 @@
+{
+    "compliant": [
+        {
+            "section": "第三人網站之連結",
+            "article numbers": "Article 6",
+            "legal provisions": "Transparency and user awareness regarding third-party links and data collection practices."
+        },
+        {
+            "section": "資料保留期間",
+            "article numbers": "Article 5",
+            "legal provisions": "Data retention policies must be clearly stated, including the duration for which personal data will be retained."
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "第三人網站之連結",
+            "article numbers": "Article 7",
+            "legal provisions": "User consent and control over personal data shared with third parties.",
+            "amend": "Include explicit information on how user consent is obtained and how users can manage their data shared with third parties."
+        },
+        {
+            "section": "資料保留期間",
+            "article numbers": "Article 5",
+            "legal provisions": "Users should be informed about their rights regarding data deletion and the specific criteria for data retention.",
+            "amend": "Add details on user rights to request deletion of their data and the criteria used to determine retention periods."
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "compliant": [
+        {
+            "section": "您進入、更新或停用您個人資料的能力",
+            "article numbers": "Article 3",
+            "legal provisions": "The right to access and rectify personal data."
+        },
+        {
+            "section": "我們如何保護您的個人資料",
+            "article numbers": "Article 6",
+            "legal provisions": "Security measures for protecting personal data."
+        },
+        {
+            "section": "本隱私權聲明的變化",
+            "article numbers": "Article 9",
+            "legal provisions": "Notification of changes to the privacy policy."
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "第三方網站",
+            "article numbers": "Article 5",
+            "legal provisions": "Responsibility for third-party data processing.",
+            "amend": "Clarify the extent of liability for third-party websites and ensure that users are informed about the risks associated with third-party links."
+        },
+        {
+            "section": "您提供的任何敏感個人資料",
+            "article numbers": "Article 4",
+            "legal provisions": "Special provisions for sensitive personal data.",
+            "amend": "Specify the conditions under which sensitive personal data is collected and processed, and ensure explicit consent is obtained."
+        },
+        {
+            "section": "您在任何變更後繼續使用我們的網站將意味著並確認您對那些變更的同意。",
+            "article numbers": "Article 8",
+            "legal provisions": "User consent for changes to the privacy policy.",
+            "amend": "Require explicit consent from users for any changes to the privacy policy rather than implying consent through continued use."
+        }
+    ]
+}

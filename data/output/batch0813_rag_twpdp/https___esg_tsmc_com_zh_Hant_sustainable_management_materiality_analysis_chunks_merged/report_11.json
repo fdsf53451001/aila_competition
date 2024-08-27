@@ -1,0 +1,10 @@
+{
+    "compliant": [
+        {
+            "section": "資訊最小化原則",
+            "article numbers": "Article 5(1)(c)",
+            "legal provisions": "The principle of data minimization requires that personal data collected should be adequate, relevant, and limited to what is necessary in relation to the purposes for which they are processed."
+        }
+    ],
+    "non_compliant": []
+}

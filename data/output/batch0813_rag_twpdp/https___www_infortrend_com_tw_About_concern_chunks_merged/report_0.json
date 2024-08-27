@@ -1,0 +1,55 @@
+{
+    "compliant": [
+        {
+            "section": "Information Collection",
+            "article numbers": "Article 4",
+            "legal provisions": "The collection of personal information is done with the user's consent and is clearly stated."
+        },
+        {
+            "section": "Your Consent",
+            "article numbers": "Article 5",
+            "legal provisions": "Users are informed that by using the site, they consent to the collection and use of their information."
+        },
+        {
+            "section": "Use of Information",
+            "article numbers": "Article 6",
+            "legal provisions": "The policy outlines the purposes for which personal information is used, which is in line with the requirement for transparency."
+        },
+        {
+            "section": "Cookies",
+            "article numbers": "Article 7",
+            "legal provisions": "The policy explains the use of cookies and provides users with the option to accept or decline them."
+        },
+        {
+            "section": "Security",
+            "article numbers": "Article 8",
+            "legal provisions": "The policy states that reasonable steps are taken to protect personal information, which aligns with security requirements."
+        },
+        {
+            "section": "Contact Us",
+            "article numbers": "Article 9",
+            "legal provisions": "Users are provided with a means to contact the organization regarding their personal information."
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "Scope",
+            "article numbers": "Article 2",
+            "legal provisions": "The policy does not explicitly state the legal basis for processing personal data, which is required under TWPDP."
+        },
+        {
+            "section": "Use of Information",
+            "article numbers": "Article 6",
+            "legal provisions": "The policy mentions sharing personal information with corporate affiliates without specifying the legal basis for such sharing."
+            ,
+            "amend": "Clarify the legal basis for sharing personal information with corporate affiliates and ensure compliance with data protection laws."
+        },
+        {
+            "section": "Changes to This Statement",
+            "article numbers": "Article 10",
+            "legal provisions": "The policy states that changes can be made without notice, which may not comply with the requirement for notifying users of significant changes."
+            ,
+            "amend": "Include a provision to notify users of significant changes to the privacy policy in advance."
+        }
+    ]
+}

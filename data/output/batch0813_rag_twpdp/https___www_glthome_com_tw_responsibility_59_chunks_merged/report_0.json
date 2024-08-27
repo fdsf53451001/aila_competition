@@ -1,0 +1,33 @@
+{
+    "compliant": [
+        {
+            "section": "茂林光電充分體認到您的隱私權至關重要, 因此必須嚴肅予以看待, 本隱私權政策說明我們如何蒐集, 處理, 以及揭露您的個人資料。",
+            "article numbers": "Article 1, Article 2",
+            "legal provisions": "明確告知用戶其個人資料的蒐集、處理及揭露方式"
+        },
+        {
+            "section": "我們以下列的隱私權公告承諾保護您個人資料的安全與隱私。",
+            "article numbers": "Article 6",
+            "legal provisions": "承諾保護個人資料的安全性"
+        },
+        {
+            "section": "請您仔細閱讀以下本公司隱私權政策相關內容，若您繼續瀏覽本公司網站或將個人資料提供與我們，將被視為您接受本隱私權政策。",
+            "article numbers": "Article 3",
+            "legal provisions": "用戶同意條款的明確說明"
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "本隱私權政策未明確列出用戶的權利及如何行使這些權利。",
+            "article numbers": "Article 4, Article 5",
+            "legal provisions": "未提供用戶對其個人資料的存取、修改及刪除權利的詳細說明",
+            "amend": "應增加用戶權利的詳細說明，包括如何行使這些權利的具體步驟"
+        },
+        {
+            "section": "未提及資料保留期限及資料的安全措施。",
+            "article numbers": "Article 7, Article 8",
+            "legal provisions": "未提供資料保留期限及安全措施的具體資訊",
+            "amend": "應增加資料保留期限及所採取的安全措施的詳細說明"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "compliant": [
+        {
+            "section": "邁達特數位不願亦無意在您參觀本網站期間侵犯您的隱私權。",
+            "article numbers": "Article 2, Article 3",
+            "legal provisions": "尊重用戶隱私權，並不侵犯用戶的個人資料。"
+        },
+        {
+            "section": "邁達特數位將對您所提供的資料保密，並將其用於維持您與邁達特數位的客戶關係。",
+            "article numbers": "Article 5",
+            "legal provisions": "資料保密及用於特定目的的原則。"
+        },
+        {
+            "section": "邁達特數位不會將您的個人資料洩漏給任何邁達特數位以外的公司從事促銷與推銷之用。",
+            "article numbers": "Article 6",
+            "legal provisions": "未經同意不得將個人資料提供給第三方。"
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "邁達特數位亦希望運用此資料量身打造您在本網站的經驗。",
+            "article numbers": "Article 4",
+            "legal provisions": "需明確告知用戶資料的使用目的及範圍。",
+            "amend": "應明確說明如何使用資料以提供個性化服務，並獲得用戶同意。"
+        },
+        {
+            "section": "邁達特數位之代理商或合約商得共享您的資料，以便代表邁達特數位為您提供服務。",
+            "article numbers": "Article 7",
+            "legal provisions": "需明確告知用戶資料共享的具體情況及目的。",
+            "amend": "應詳細說明哪些代理商或合約商會接觸到用戶資料，並獲得用戶同意。"
+        }
+    ]
+}

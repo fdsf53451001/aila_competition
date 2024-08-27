@@ -1,0 +1,40 @@
+{"compliant": [
+    {
+        "section": "本公司搜集、處理及利用您的個人資料是依據臺灣的個人資料保護法（簡稱“臺灣的PIPA”）相關規定。",
+        "article numbers": "第6條、第7條",
+        "legal provisions": "個人資料的收集、處理及利用應依法律規定，並應告知當事人相關事項。"
+    },
+    {
+        "section": "保護您的個人資料",
+        "article numbers": "第16條",
+        "legal provisions": "應採取適當的技術及管理措施以保護個人資料。"
+    },
+    {
+        "section": "保存您的個人資料",
+        "article numbers": "第11條",
+        "legal provisions": "個人資料應在達成目的後停止使用或處理，並採取合理措施刪除或銷毀。"
+    },
+    {
+        "section": "有關您的個人資料之權利",
+        "article numbers": "第3條、第11條",
+        "legal provisions": "當事人有權查詢、請求閱覽、補充、更正、刪除其個人資料。"
+    },
+    {
+        "section": "本公司搜集您的個人資料之目的",
+        "article numbers": "第6條",
+        "legal provisions": "應明確告知個人資料的收集目的。"
+    }
+], "non_compliant": [
+    {
+        "section": "隱私政策的變更",
+        "article numbers": "第14條",
+        "legal provisions": "應提前通知當事人隱私政策的變更，並提供合理的選擇權。",
+        "amend": "應在隱私政策變更前，提前通知使用者並提供選擇權。"
+    },
+    {
+        "section": "揭露您的個人資料",
+        "article numbers": "第12條",
+        "legal provisions": "應在揭露個人資料前，告知當事人並取得同意。",
+        "amend": "應明確告知使用者在何種情況下會揭露其個人資料，並取得其同意。"
+    }
+]}

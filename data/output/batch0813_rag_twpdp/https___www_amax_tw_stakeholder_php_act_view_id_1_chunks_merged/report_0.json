@@ -1,0 +1,44 @@
+{
+    "compliant": [
+        {
+            "section": "隱私權政策的目的與範圍",
+            "article numbers": "Article 1",
+            "legal provisions": "明確說明隱私權政策的目的及適用範圍，符合透明度要求。"
+        },
+        {
+            "section": "收集的個人資料類型",
+            "article numbers": "Article 2",
+            "legal provisions": "清楚列出所收集的個人資料類型，符合資料最小化原則。"
+        },
+        {
+            "section": "個人資料的使用目的",
+            "article numbers": "Article 3",
+            "legal provisions": "明確說明個人資料的使用目的，符合合法性原則。"
+        },
+        {
+            "section": "資料保護措施",
+            "article numbers": "Article 4",
+            "legal provisions": "說明資料保護措施，符合安全性要求。"
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "資料保存期限",
+            "article numbers": "Article 5",
+            "legal provisions": "未明確說明資料保存的具體期限，違反資料保存限制原則。",
+            "amend": "應明確列出個人資料的保存期限或保存原則。"
+        },
+        {
+            "section": "第三方分享",
+            "article numbers": "Article 6",
+            "legal provisions": "未詳細說明與第三方分享資料的情況及條件，違反透明度要求。",
+            "amend": "應具體說明哪些情況下會與第三方分享資料，以及分享的目的。"
+        },
+        {
+            "section": "使用者權利",
+            "article numbers": "Article 7",
+            "legal provisions": "未充分說明使用者的權利及行使方式，違反使用者權利保障原則。",
+            "amend": "應詳細列出使用者的權利，包括查詢、更正、刪除等權利及行使方式。"
+        }
+    ]
+}

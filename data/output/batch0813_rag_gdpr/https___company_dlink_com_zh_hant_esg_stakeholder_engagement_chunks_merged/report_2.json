@@ -1,0 +1,28 @@
+{
+    "compliant": [
+        {
+            "section": "友訊不與這些網站分享您的個人資料，也不對他們的隱私權保密政策負責。",
+            "article numbers": "Article 49(1) - The data subject has explicitly consented to the proposed transfer, after having been informed of the possible risks of such transfers for the data subject due to the absence of an adequacy decision and appropriate safeguards."
+        },
+        {
+            "section": "您進入、更新或停用您個人資料的能力",
+            "article numbers": "Article 49(1)(a) - The transfer is necessary for the performance of a contract between the data subject and the controller or the implementation of pre-contractual measures taken at the data subject’s request."
+        },
+        {
+            "section": "我們如何保護您的個人資料",
+            "article numbers": "Article 50 - Develop international cooperation mechanisms to facilitate the effective enforcement of legislation for the protection of personal data."
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "友訊可能不時地及在任何時間修改本隱私權聲明。",
+            "article numbers": "Article 49(2) - Where a transfer could not be based on a provision in Article 45 or 46, including the provisions on binding corporate rules, and none of the derogations for a specific situation referred to in the first subparagraph of this paragraph is applicable.",
+            "amend": "Specify the conditions under which personal data may be transferred to third countries or international organizations, ensuring compliance with GDPR requirements."
+        },
+        {
+            "section": "您提供的任何敏感個人資料，僅用於開展提交資料所為之具體活動或項目，之後予以銷毀。",
+            "article numbers": "Article 49(1)(g) - The transfer is necessary for the establishment, exercise or defence of legal claims.",
+            "amend": "Clarify the legal basis for processing sensitive personal data and ensure explicit consent is obtained."
+        }
+    ]
+}

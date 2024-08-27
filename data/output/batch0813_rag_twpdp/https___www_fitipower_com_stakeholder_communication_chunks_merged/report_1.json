@@ -1,0 +1,33 @@
+{
+    "compliant": [
+        {
+            "section": "個人資料的收集與處理",
+            "article numbers": "Article 3, Article 4",
+            "legal provisions": "The collection and processing of personal data must be based on the individual's consent or other lawful bases."
+        },
+        {
+            "section": "使用目的",
+            "article numbers": "Article 6",
+            "legal provisions": "Personal data must be collected for specified, legitimate purposes and not further processed in a manner incompatible with those purposes."
+        },
+        {
+            "section": "Cookies",
+            "article numbers": "Article 7",
+            "legal provisions": "Users must be informed about the use of cookies and have the option to accept or decline them."
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "個人資料的收集與處理",
+            "article numbers": "Article 5",
+            "legal provisions": "Data controllers must implement appropriate technical and organizational measures to ensure a level of security appropriate to the risk.",
+            "amend": "Include specific measures taken to protect personal data and ensure data security."
+        },
+        {
+            "section": "使用目的",
+            "article numbers": "Article 9",
+            "legal provisions": "Data subjects should be informed about the retention period of their personal data.",
+            "amend": "Add information regarding how long personal data will be retained."
+        }
+    ]
+}

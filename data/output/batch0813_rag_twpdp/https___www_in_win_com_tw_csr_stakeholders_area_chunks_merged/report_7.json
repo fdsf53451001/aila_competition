@@ -1,0 +1,27 @@
+{
+    "compliant": [
+        {
+            "section": "會員就個人資料之權利",
+            "article numbers": "Article 3, Article 11",
+            "legal provisions": "The rights of data subjects to access, correct, and delete their personal data are in line with the provisions of the TWPDP."
+        },
+        {
+            "section": "我們不會將您的個人資料販售給第三方。",
+            "article numbers": "Article 6",
+            "legal provisions": "The commitment not to sell personal data to third parties aligns with the principles of data protection and privacy."
+        },
+        {
+            "section": "如沒有收集個人資料之必要，我們會停止收集或是使用您的個人資料。",
+            "article numbers": "Article 5",
+            "legal provisions": "This provision complies with the principle of data minimization under TWPDP."
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "請求停止蒐集、處理或利用。",
+            "article numbers": "Article 12",
+            "legal provisions": "While the right to request cessation of data collection is mentioned, it lacks clarity on the process and timeframe for compliance.",
+            "amend": "Specify the process and timeframe for responding to such requests to ensure compliance with TWPDP."
+        }
+    ]
+}

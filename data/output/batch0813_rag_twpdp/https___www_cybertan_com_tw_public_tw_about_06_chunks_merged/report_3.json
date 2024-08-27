@@ -1,0 +1,26 @@
+{
+    "compliant": [
+        {
+            "section": "Security",
+            "article numbers": "Article 5, Article 32",
+            "legal provisions": "The organization takes reasonable measures to protect personal data from unauthorized access, use, or disclosure."
+        },
+        {
+            "section": "Links",
+            "article numbers": "Article 13",
+            "legal provisions": "Users are informed about third-party services and the lack of control over their privacy practices."
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "Public Disclosure Warning",
+            "article numbers": "Article 12",
+            "legal provisions": "Users should be explicitly informed about the risks of disclosing personal information in public areas, including the potential for misuse."
+        },
+        {
+            "section": "Amendments",
+            "article numbers": "Article 12",
+            "legal provisions": "Users should be notified of any changes to the privacy policy in a timely manner, including how they will be informed."
+        }
+    ]
+}

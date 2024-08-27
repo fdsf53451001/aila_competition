@@ -1,0 +1,28 @@
+{
+    "compliant": [
+        {
+            "section": "蒐集資料之方式",
+            "article numbers": "Article 4, Article 5",
+            "legal provisions": "The policy outlines the types of personal data collected and the purposes for which it is used, which aligns with the principles of transparency and purpose limitation."
+        },
+        {
+            "section": "我們可能需要自您取得之個人資料",
+            "article numbers": "Article 6",
+            "legal provisions": "The policy specifies the types of personal data that may be collected, which is in compliance with the requirement to inform individuals about the data being collected."
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "我們也可能會在符合本隱私權政策下與其他第三人分享及使用您的個人資料",
+            "article numbers": "Article 7",
+            "legal provisions": "The policy does not provide sufficient detail on how personal data will be shared with third parties, including the purposes and safeguards in place.",
+            "amend": "Include specific information on third-party sharing, including the types of third parties, purposes of sharing, and any safeguards to protect personal data."
+        },
+        {
+            "section": "我們的伺服器將會自動蒐集您關於我們的服務或網站的使用或活動資料",
+            "article numbers": "Article 8",
+            "legal provisions": "The policy lacks clarity on how users can opt-out of automatic data collection and whether consent is obtained for such practices.",
+            "amend": "Add a section detailing user rights regarding automatic data collection, including opt-out options and consent mechanisms."
+        }
+    ]
+}

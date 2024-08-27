@@ -1,0 +1,33 @@
+{
+    "compliant": [
+        {
+            "section": "Cookies 或其他類似技術的運用與政策",
+            "article numbers": "Article 9",
+            "legal provisions": "The policy provides information on the use of cookies and similar technologies, including the purpose of data collection and the ability for users to manage their cookie preferences."
+        },
+        {
+            "section": "個人資料之蒐集",
+            "article numbers": "Article 8",
+            "legal provisions": "The policy outlines the types of personal data collected and the methods of collection, which is in line with the requirement for transparency."
+        },
+        {
+            "section": "本網站群自動收集之資訊",
+            "article numbers": "Article 8",
+            "legal provisions": "The automatic collection of information is disclosed, including the types of data collected, which aligns with the transparency requirements."
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "Cookies 或其他類似技術的運用與政策",
+            "article numbers": "Article 10",
+            "legal provisions": "The policy does not explicitly mention the user's right to withdraw consent for the use of cookies or similar technologies.",
+            "amend": "Add a clear statement regarding the user's right to withdraw consent for the use of cookies and how to do so."
+        },
+        {
+            "section": "個人資料之蒐集",
+            "article numbers": "Article 6",
+            "legal provisions": "The policy does not specify the legal basis for processing personal data, such as consent or legitimate interest.",
+            "amend": "Include a section that clarifies the legal basis for collecting and processing personal data."
+        }
+    ]
+}

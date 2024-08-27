@@ -1,0 +1,44 @@
+{
+    "compliant": [
+        {
+            "section": "一、 個人資料之蒐集目的與類別",
+            "article numbers": "Article 6, Article 8",
+            "legal provisions": "TWPDP Article 6: Purpose Specification; Article 8: Collection Limitation"
+        },
+        {
+            "section": "二、 個人資料利用之期間、地區、對象及方式",
+            "article numbers": "Article 7, Article 9",
+            "legal provisions": "TWPDP Article 7: Use Limitation; Article 9: Disclosure Limitation"
+        },
+        {
+            "section": "三、 個人資料之安全維護",
+            "article numbers": "Article 10",
+            "legal provisions": "TWPDP Article 10: Security Safeguards"
+        },
+        {
+            "section": "四、 當事人權利行使方式與申訴管道",
+            "article numbers": "Article 12, Article 13",
+            "legal provisions": "TWPDP Article 12: Individual Participation; Article 13: Redress"
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "五、 客戶拒絕提供個人資料之權益影響",
+            "article numbers": "Article 6",
+            "legal provisions": "TWPDP Article 6: Purpose Specification",
+            "amend": "Clarify that refusal to provide personal data should not lead to undue disadvantage or discrimination."
+        },
+        {
+            "section": "六、 官方網站之技術細節",
+            "article numbers": "Article 4",
+            "legal provisions": "TWPDP Article 4: Data Quality",
+            "amend": "Ensure that the use of cookies is clearly explained, including how users can manage their cookie preferences."
+        },
+        {
+            "section": "七、 其他網站連結的使用",
+            "article numbers": "Article 11",
+            "legal provisions": "TWPDP Article 11: Accountability",
+            "amend": "Clarify the company's responsibility regarding linked websites and ensure users are informed about the risks."
+        }
+    ]
+}

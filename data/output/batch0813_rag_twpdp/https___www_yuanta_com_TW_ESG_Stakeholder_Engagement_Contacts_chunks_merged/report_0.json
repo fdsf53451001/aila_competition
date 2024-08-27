@@ -1,0 +1,28 @@
+{
+    "compliant": [
+        {
+            "section": "個人資料之蒐集政策",
+            "article numbers": "Article 8, Article 9",
+            "legal provisions": "The collection of personal data must be for specific, legitimate purposes and must be relevant to the purposes for which they are collected."
+        },
+        {
+            "section": "當您參與本公司線上活動、網路調查、加入會員或其他相關服務時，因服務性質的不同，本公司可能會請您提供姓名、身分證字號、住址、電話、電子信箱或其他相關必要資料。",
+            "article numbers": "Article 10",
+            "legal provisions": "Data subjects must be informed about the purpose of data collection and the types of data being collected."
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "本公司也可能會保留您在上網瀏覽或查詢時，伺服器自行產生的相關記錄，包括但不限於您使用連線設備的IP位址、使用的瀏覽器、使用時間、瀏覽及點選資料紀錄等。",
+            "article numbers": "Article 12",
+            "legal provisions": "Data retention policies must be clearly stated, including how long data will be retained and the criteria for determining retention periods.",
+            "amend": "Include a clear statement on data retention duration and criteria."
+        },
+        {
+            "section": "對於您主動提供其他網站的個人資料，將依相關法令及各該連結網站所揭露之隱私權保護政策蒐集、處理與利用，不適用本聲明，本公司亦不負擔任何連帶責任。",
+            "article numbers": "Article 14",
+            "legal provisions": "Data controllers must ensure that third parties comply with data protection standards when processing personal data.",
+            "amend": "Clarify the responsibility of the company regarding third-party data processing."
+        }
+    ]
+}

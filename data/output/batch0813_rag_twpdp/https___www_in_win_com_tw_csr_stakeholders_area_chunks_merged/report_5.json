@@ -1,0 +1,17 @@
+{
+    "compliant": [
+        {
+            "section": "聯絡我們",
+            "article numbers": "Article 8",
+            "legal provisions": "The right to contact the organization regarding privacy concerns."
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "聯絡我們",
+            "article numbers": "Article 7",
+            "legal provisions": "The requirement to provide clear and accessible contact information for privacy inquiries.",
+            "amend": "Include specific contact details such as an email address or phone number for users to reach out regarding privacy issues."
+        }
+    ]
+}

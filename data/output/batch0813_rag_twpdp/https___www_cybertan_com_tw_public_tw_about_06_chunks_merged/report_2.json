@@ -1,0 +1,38 @@
+{
+    "compliant": [
+        {
+            "section": "Sharing Personal Data",
+            "article numbers": "Article 6, Article 7",
+            "legal provisions": "The policy outlines the conditions under which personal data may be shared with authorized third parties and emphasizes that personal data will not be sold or disclosed without permission, aligning with the principles of consent and purpose limitation."
+        },
+        {
+            "section": "Minors",
+            "article numbers": "Article 8",
+            "legal provisions": "The policy states that the services are not directed to minors and that personal data from children under the age of 13 will not be knowingly collected, complying with the requirements for the protection of minors."
+        },
+        {
+            "section": "Storage and Transfer of Data",
+            "article numbers": "Article 9",
+            "legal provisions": "The policy mentions that personal data may be transferred to other countries and outlines compliance with international data protection laws, which aligns with the requirements for cross-border data transfers."
+        },
+        {
+            "section": "Retention of Personal Data",
+            "article numbers": "Article 10",
+            "legal provisions": "The policy states that personal data will not be retained longer than necessary, which complies with the principle of data minimization and retention."
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "Disclosure of Personal Data",
+            "article numbers": "Article 5",
+            "legal provisions": "The policy allows for the disclosure of personal data to comply with legal processes and government requests without explicit consent, which may not fully align with the requirement for explicit consent under TWPDP.",
+            "amend": "Clarify that explicit consent will be sought where possible before disclosing personal data for legal compliance, or provide a more detailed explanation of the circumstances under which personal data may be disclosed."
+        },
+        {
+            "section": "Third Party Sharing",
+            "article numbers": "Article 6",
+            "legal provisions": "While the policy states that personal data will not be shared for promotional purposes without permission, it does not specify the criteria for selecting authorized third parties or the safeguards in place to protect personal data shared with them.",
+            "amend": "Include specific criteria for selecting third parties and detail the safeguards implemented to protect personal data when shared with authorized vendors."
+        }
+    ]
+}

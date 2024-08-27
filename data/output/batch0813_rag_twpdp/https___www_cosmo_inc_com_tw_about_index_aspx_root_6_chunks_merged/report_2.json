@@ -1,0 +1,22 @@
+{
+    "compliant": [
+        {
+            "section": "我們會使用web beacons，cookies及其他相關技術去存取及記錄您的資料。",
+            "article numbers": "Article 6",
+            "legal provisions": "使用者同意及透明度"
+        },
+        {
+            "section": "我們可能會蒐集您的資料並使用於以下用途：管理我們與您的關係；預防及偵測安全性威脅、詐欺及其他惡意之活動；回應您的意見及問題，並提供或改善我們的服務及支援；向您更新我們最新的服務；透過我們的服務向您提供個人化及客製化之經驗、內容及建議。",
+            "article numbers": "Article 5",
+            "legal provisions": "資料使用的合法性及目的"
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "如果您選擇移除或是拒絕cookies時，則可能會影響您使用本網站之功能及無法體驗完整之服務。",
+            "article numbers": "Article 4",
+            "legal provisions": "使用者的選擇權及控制權",
+            "amend": "應提供更清晰的選擇權說明，並告知用戶如何管理cookies的選項。"
+        }
+    ]
+}

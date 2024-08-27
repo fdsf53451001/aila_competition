@@ -1,0 +1,20 @@
+{
+    "compliant": [
+        {
+            "section": "拒絕提供個人資料之權利；查閱您個人資料之權利；更正不正確個人資料之權利；要求刪除之權利；限制處理您個人資料之權利；反對處理您個人資料之權利；要求移轉您個人資料至其他控管人之權利；撤回同意之權利；以及向資訊保護主管機關申訴之權利。",
+            "article numbers": "Article 3, Article 4, Article 5, Article 6, Article 7, Article 8, Article 9, Article 10",
+            "legal provisions": "TWPDP Article 3: Rights of Data Subjects"
+        },
+        {
+            "section": "在某些情形下，您需要提供身分證明文件以行使上述之權利。",
+            "article numbers": "Article 11",
+            "legal provisions": "TWPDP Article 11: Verification of Identity"
+        },
+        {
+            "section": "對於我們或代我們處理您個人資料之第三人，就您的特殊情形提出異議之權利；以及對於我們或代我們以直接行銷為目的而處理您個人資料之第三人，提出異議之權利。",
+            "article numbers": "Article 12, Article 13",
+            "legal provisions": "TWPDP Article 12: Right to Object; TWPDP Article 13: Direct Marketing"
+        }
+    ],
+    "non_compliant": []
+}

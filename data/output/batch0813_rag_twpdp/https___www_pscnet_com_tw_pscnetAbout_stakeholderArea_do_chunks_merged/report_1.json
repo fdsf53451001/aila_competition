@@ -1,0 +1,45 @@
+{
+    "compliant": [
+        {
+            "section": "(一)將秉誠信、合法且適當之方式，蒐集、處理及利用個人資料。",
+            "article numbers": "Article 6, Article 7",
+            "legal provisions": "The principles of legality and appropriateness in the collection and processing of personal data."
+        },
+        {
+            "section": "(二)在合法之特定目的下，僅蒐集、處理及利用必要且最小範圍之個人資料。",
+            "article numbers": "Article 6, Article 7",
+            "legal provisions": "Limitation of purpose and data minimization principles."
+        },
+        {
+            "section": "(三)對於所蒐集、保管之個人資料，應確保其安全。",
+            "article numbers": "Article 8",
+            "legal provisions": "Obligation to ensure the security of personal data."
+        },
+        {
+            "section": "(四)維持個人資料之正確性，並適時更新。",
+            "article numbers": "Article 9",
+            "legal provisions": "Requirement to maintain accuracy and update personal data."
+        },
+        {
+            "section": "(五)尊重當事人對其個人資料所得行使之權利，包含查詢或請求閱覽、製給複製本、請求補充或更正、請求停止蒐集、處理或利用及請求刪除等。",
+            "article numbers": "Article 11, Article 12",
+            "legal provisions": "Rights of data subjects to access, rectify, and delete their personal data."
+        },
+        {
+            "section": "(六)僅在符合法令及有適當充分保護的狀況下，始得就個人資料進行國際傳輸。",
+            "article numbers": "Article 14",
+            "legal provisions": "Regulations on international data transfers."
+        },
+        {
+            "section": "(七)建立「個資侵害事件」之應變措施，並於查明後以適當方式通知當事人。",
+            "article numbers": "Article 15",
+            "legal provisions": "Obligation to notify data subjects in case of data breaches."
+        },
+        {
+            "section": "(八)建立並落實適當之個人資料管理制度，明確界定員工之義務與責任，並隨時檢視其有效性。",
+            "article numbers": "Article 10",
+            "legal provisions": "Requirement for organizations to implement data management systems and define employee responsibilities."
+        }
+    ],
+    "non_compliant": []
+}

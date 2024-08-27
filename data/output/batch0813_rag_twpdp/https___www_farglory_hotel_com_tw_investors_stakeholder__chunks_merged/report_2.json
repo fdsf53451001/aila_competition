@@ -1,0 +1,58 @@
+{
+    "compliant": [
+        {
+            "section": "本公司以Secure Sockets Layer（SSL）機制進行資料傳輸的加密，並已加裝防火牆防止不法入侵，避免您的個人資料遭到非法及一切未經授權的存取。",
+            "article numbers": "Article 6",
+            "legal provisions": "TWPDP Article 6: Security Measures"
+        },
+        {
+            "section": "本公司並應用加密方式儲存密碼，以確保您的密碼不會遭到非法竊取或外洩。",
+            "article numbers": "Article 6",
+            "legal provisions": "TWPDP Article 6: Security Measures"
+        },
+        {
+            "section": "您的個人資料會被安全地保存在本公司的資料庫系統或管制區域中。",
+            "article numbers": "Article 6",
+            "legal provisions": "TWPDP Article 6: Security Measures"
+        },
+        {
+            "section": "任何人均須在本公司訂定之資料授權管理規範下，進行資料之取得與使用。",
+            "article numbers": "Article 8",
+            "legal provisions": "TWPDP Article 8: Access Control"
+        },
+        {
+            "section": "本公司將依法定保存期限為妥當之保護，避免遺失或未經授權之使用、刪除、修改、再處理或公開。",
+            "article numbers": "Article 5",
+            "legal provisions": "TWPDP Article 5: Data Retention"
+        },
+        {
+            "section": "本公司以符合法規規範之實體、電子、流程安全標準來處理您的個人資料。",
+            "article numbers": "Article 6",
+            "legal provisions": "TWPDP Article 6: Security Measures"
+        },
+        {
+            "section": "本公司並訓練員工，以適當的處理方式來處理您的個人資料。",
+            "article numbers": "Article 6",
+            "legal provisions": "TWPDP Article 6: Security Measures"
+        },
+        {
+            "section": "當本公司委由其他公司提供服務時，亦會要求該公司對因此所取得之個人資料予以保密、保護，並符合一切法規規範。",
+            "article numbers": "Article 9",
+            "legal provisions": "TWPDP Article 9: Third-Party Disclosure"
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "本網站使用cookies。使用本網站即表示您同意我們根據隱私權政策內條款使用cookie。",
+            "article numbers": "Article 12",
+            "legal provisions": "TWPDP Article 12: Cookies and Tracking Technologies",
+            "amend": "需要明確告知用戶如何管理和拒絕cookies的選項，並提供詳細的cookie使用目的。"
+        },
+        {
+            "section": "如果您不同意，請按照說明停用，本網站cookie即不能放置於您的裝置上。",
+            "article numbers": "Article 12",
+            "legal provisions": "TWPDP Article 12: Cookies and Tracking Technologies",
+            "amend": "需要提供更清晰的指導，讓用戶能夠輕鬆地拒絕或管理cookies。"
+        }
+    ]
+}

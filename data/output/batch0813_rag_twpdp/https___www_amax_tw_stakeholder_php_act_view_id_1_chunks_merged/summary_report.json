@@ -1,0 +1,98 @@
+{
+    "compliant": [
+        {
+            "section": "隱私權保護政策的目的與範圍",
+            "legal article numbers": "Article 1",
+            "legal provisions": "明確說明隱私權保護政策的目的及適用範圍，符合透明度要求。"
+        },
+        {
+            "section": "收集的個人資料類型",
+            "legal article numbers": "Article 2",
+            "legal provisions": "清楚列出所收集的個人資料類型，符合資料最小化原則。"
+        },
+        {
+            "section": "個人資料的使用目的",
+            "legal article numbers": "Article 3",
+            "legal provisions": "明確說明個人資料的使用目的，符合合法性原則。"
+        },
+        {
+            "section": "資料保護措施",
+            "legal article numbers": "Article 4",
+            "legal provisions": "說明資料保護措施，符合安全性要求。"
+        },
+        {
+            "section": "用戶同意",
+            "legal article numbers": "Article 6",
+            "legal provisions": "獲得用戶同意進行資料處理，符合知情同意要求。"
+        },
+        {
+            "section": "隱私政策的修訂",
+            "legal article numbers": "Article 9",
+            "legal provisions": "用戶有權修訂隱私政策，符合用戶權利要求。"
+        },
+        {
+            "section": "適用範圍",
+            "legal article numbers": "Article 1, Article 2",
+            "legal provisions": "政策清楚說明適用範圍，指明涉及網站對個人資料的處理。"
+        },
+        {
+            "section": "伺服器記錄",
+            "legal article numbers": "Article 8",
+            "legal provisions": "伺服器記錄用戶行為的相關資訊，符合透明度要求。"
+        },
+        {
+            "section": "安全措施",
+            "legal article numbers": "Article 6",
+            "legal provisions": "網站主機設有防火牆、防毒系統等安全措施，符合資料保護法要求。"
+        },
+        {
+            "section": "授權人員接觸資料",
+            "legal article numbers": "Article 8",
+            "legal provisions": "僅授權人員可接觸個人資料，符合保密性要求。"
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "資料保留期限",
+            "legal article numbers": "Article 5",
+            "legal provisions": "未明確說明資料保留的具體期限，違反資料保留原則。",
+            "amend": "應明確列出個人資料的保留期限或保留原則。"
+        },
+        {
+            "section": "第三方分享",
+            "legal article numbers": "Article 6",
+            "legal provisions": "未詳細說明與第三方分享資料的情況及條件，違反透明度要求。",
+            "amend": "應具體說明在何種情況下會與第三方分享資料及其目的。"
+        },
+        {
+            "section": "使用者權利",
+            "legal article numbers": "Article 7",
+            "legal provisions": "未詳細說明使用者的權利及行使方式，違反使用者權利保護原則。",
+            "amend": "應詳細列出使用者的權利，包括查詢、更正、刪除等權利及行使方式。"
+        },
+        {
+            "section": "隱私政策變更通知",
+            "legal article numbers": "Article 5",
+            "legal provisions": "未明確通知使用者隱私政策變更的方式，違反用戶通知要求。",
+            "amend": "確保在隱私政策變更前以清晰可及的方式通知使用者。"
+        },
+        {
+            "section": "第三方網站的資料處理",
+            "legal article numbers": "Article 3, Article 4",
+            "legal provisions": "政策未說明用戶與第三方網站互動時個人資料的處理方式，違反透明度要求。",
+            "amend": "應包括有關第三方網站的資料處理條款，並明確第三方的責任。"
+        },
+        {
+            "section": "未經同意的資料處理",
+            "legal article numbers": "Article 7",
+            "legal provisions": "未明確說明在何種情況下會收集個人資料，且未獲得用戶同意，違反資料保護法。",
+            "amend": "應明確說明在何種情況下會收集個人資料，並獲得用戶的同意。"
+        },
+        {
+            "section": "違反保密義務的後果",
+            "legal article numbers": "Article 14",
+            "legal provisions": "未明確說明資料主體的權利及違規報告程序，違反資料保護法要求。",
+            "amend": "應包括資料主體的權利聲明及違規報告程序。"
+        }
+    ]
+}

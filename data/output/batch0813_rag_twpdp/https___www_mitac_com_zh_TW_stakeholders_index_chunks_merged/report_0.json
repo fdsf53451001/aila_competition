@@ -1,0 +1,43 @@
+{
+    "compliant": [
+        {
+            "section": "我們重視您的隱私",
+            "article numbers": "Article 6, Article 7",
+            "legal provisions": "Transparency and user consent regarding data collection and usage."
+        },
+        {
+            "section": "常見問題 - 為什麼要在網站上使用COOKIES?",
+            "article numbers": "Article 5",
+            "legal provisions": "Purpose limitation and necessity of cookies for providing services."
+        },
+        {
+            "section": "常見問題 - 我必須接受COOKIES嗎?",
+            "article numbers": "Article 4",
+            "legal provisions": "User rights regarding consent and the necessity of cookies for functionality."
+        },
+        {
+            "section": "常見問題 - COOKIES包含我的個人資料嗎?",
+            "article numbers": "Article 8",
+            "legal provisions": "Clarification on the type of data collected and assurance of non-collection of sensitive information."
+        },
+        {
+            "section": "第三方Cookies",
+            "article numbers": "Article 9",
+            "legal provisions": "Disclosure of third-party cookies and their purposes."
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "我們重視您的隱私",
+            "article numbers": "Article 3",
+            "legal provisions": "Lack of explicit information on user rights to access, rectify, or delete their data.",
+            "amend": "Include a section detailing user rights regarding their personal data, including access, rectification, and deletion."
+        },
+        {
+            "section": "神達有權隨時變更或更新本Cookie政策",
+            "article numbers": "Article 10",
+            "legal provisions": "Insufficient notice period for changes to the cookie policy.",
+            "amend": "Specify a notice period for users before changes take effect, ensuring users are adequately informed."
+        }
+    ]
+}

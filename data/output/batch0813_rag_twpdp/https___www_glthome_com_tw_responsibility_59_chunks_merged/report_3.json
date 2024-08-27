@@ -1,0 +1,45 @@
+{
+    "compliant": [
+        {
+            "section": "為了履行合約, 向您提供產品與服務。",
+            "article numbers": "Article 6(1)(b)",
+            "legal provisions": "Processing necessary for the performance of a contract to which the data subject is party."
+        },
+        {
+            "section": "為了本公司合法權益, 提供企業有效的營運。",
+            "article numbers": "Article 6(1)(f)",
+            "legal provisions": "Processing necessary for the purposes of legitimate interests pursued by the controller or by a third party."
+        },
+        {
+            "section": "為了與您進行有效的溝通。",
+            "article numbers": "Article 6(1)(f)",
+            "legal provisions": "Processing necessary for the purposes of legitimate interests pursued by the controller or by a third party."
+        },
+        {
+            "section": "為了改善我們的網站、產品與服務。",
+            "article numbers": "Article 6(1)(f)",
+            "legal provisions": "Processing necessary for the purposes of legitimate interests pursued by the controller or by a third party."
+        },
+        {
+            "section": "意見調查與反饋。",
+            "article numbers": "Article 6(1)(a)",
+            "legal provisions": "Processing based on the data subject's consent."
+        },
+        {
+            "section": "司法調查與相關法律之遵循。",
+            "article numbers": "Article 6(1)(c)",
+            "legal provisions": "Processing necessary for compliance with a legal obligation to which the controller is subject."
+        },
+        {
+            "section": "主張、行使或保護法律上權利之必要。",
+            "article numbers": "Article 6(1)(f)",
+            "legal provisions": "Processing necessary for the purposes of legitimate interests pursued by the controller or by a third party."
+        },
+        {
+            "section": "人力招募及面試。",
+            "article numbers": "Article 6(1)(b)",
+            "legal provisions": "Processing necessary for the performance of a contract to which the data subject is party."
+        }
+    ],
+    "non_compliant": []
+}

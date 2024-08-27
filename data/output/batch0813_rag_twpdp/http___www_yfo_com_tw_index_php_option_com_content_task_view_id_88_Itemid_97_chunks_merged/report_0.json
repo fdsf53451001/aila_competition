@@ -1,0 +1,33 @@
+{
+    "compliant": [
+        {
+            "section": "Confidentiality of proprietary and confidential information",
+            "article numbers": "Article 5, Article 6",
+            "legal provisions": "Protection of confidential information and trade secrets"
+        },
+        {
+            "section": "Limitation on use of information",
+            "article numbers": "Article 7",
+            "legal provisions": "Use of information solely for specified purposes"
+        },
+        {
+            "section": "Disclosure to employees with a need to know",
+            "article numbers": "Article 8",
+            "legal provisions": "Limiting access to confidential information"
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "No obligation to protect non-confidential information",
+            "article numbers": "Article 9",
+            "legal provisions": "Rights of individuals regarding their personal data",
+            "amend": "Clarify the handling of personal data and ensure compliance with data protection regulations."
+        },
+        {
+            "section": "No alteration or reverse engineering of confidential information",
+            "article numbers": "Article 10",
+            "legal provisions": "Rights to access and modify personal data",
+            "amend": "Ensure that users have rights to access and request modifications to their personal data."
+        }
+    ]
+}

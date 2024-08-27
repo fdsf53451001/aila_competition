@@ -1,0 +1,28 @@
+{
+    "compliant": [
+        {
+            "section": "資料收集",
+            "article numbers": "Article 6",
+            "legal provisions": "The collection of personal data must be lawful and fair."
+        },
+        {
+            "section": "資料收集",
+            "article numbers": "Article 7",
+            "legal provisions": "Data subjects should be informed about the collection of their data."
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "資料收集",
+            "article numbers": "Article 8",
+            "legal provisions": "Data subjects have the right to access their personal data.",
+            "amend": "Include a statement on how users can access their personal data."
+        },
+        {
+            "section": "資料收集",
+            "article numbers": "Article 9",
+            "legal provisions": "Data subjects have the right to request deletion of their personal data.",
+            "amend": "Add information on how users can request deletion of their data."
+        }
+    ]
+}

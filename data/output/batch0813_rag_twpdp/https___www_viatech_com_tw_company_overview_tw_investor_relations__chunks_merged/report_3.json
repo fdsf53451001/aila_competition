@@ -1,0 +1,33 @@
+{
+    "compliant": [
+        {
+            "section": "Opting out",
+            "article numbers": "Article 21",
+            "legal provisions": "Users are informed about their right to opt-out of personalized advertising and provided with links to do so."
+        },
+        {
+            "section": "Personal identifiers from your browsing activity",
+            "article numbers": "Article 5",
+            "legal provisions": "The policy mentions the collection of data in aggregate form, which aligns with the principle of data minimization."
+        },
+        {
+            "section": "Disclosure and sharing of your information",
+            "article numbers": "Article 14",
+            "legal provisions": "The policy states that personal information is not disclosed to third parties, which aligns with the requirement for transparency."
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "Our use of re-marketing",
+            "article numbers": "Article 6",
+            "legal provisions": "The policy does not clearly state the legal basis for processing personal data for re-marketing purposes.",
+            "amend": "Include a clear legal basis for processing personal data for re-marketing, such as user consent or legitimate interest."
+        },
+        {
+            "section": "Data may be processed outside the European Union",
+            "article numbers": "Article 44",
+            "legal provisions": "The policy does not provide sufficient information about the safeguards in place for data transferred outside the EU.",
+            "amend": "Specify the safeguards or mechanisms in place for data transfers outside the EU, such as Standard Contractual Clauses."
+        }
+    ]
+}

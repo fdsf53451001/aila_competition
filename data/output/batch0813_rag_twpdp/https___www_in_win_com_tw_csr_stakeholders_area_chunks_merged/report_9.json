@@ -1,0 +1,27 @@
+{
+    "compliant": [
+        {
+            "section": "我們採用嚴格的隱私安全措施，以避免您的個人資料遭到有心人士的偷取、洩漏、毀損或是竄改。",
+            "article numbers": "Article 6",
+            "legal provisions": "Data Security Measures"
+        },
+        {
+            "section": "在收集、儲存、傳遞、使用您的個人資料時，我們都實施嚴格的審查措施，只有相關的工作人員擁有觀看、查詢您個人資料的權限。",
+            "article numbers": "Article 7",
+            "legal provisions": "Access Control"
+        },
+        {
+            "section": "我們也定期維護我們的系統，杜絕外來駭客或是惡意軟體的入侵，讓您的個人資料不論是在網路上或是實體都受到完整的保護。",
+            "article numbers": "Article 6",
+            "legal provisions": "Data Security Measures"
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "然而，我們無法保證所有儲存的網路資料都安全無虞，因此我們也建議您定期更換您的密碼，並避免過於簡單的密碼設定，同時採用英文字母大小寫及數字的混合密碼。",
+            "article numbers": "Article 5",
+            "legal provisions": "User Responsibility",
+            "amend": "應明確告知用戶其責任及建議的安全措施，但不應該暗示無法保證資料安全，應強調持續的安全努力和改進。"
+        }
+    ]
+}

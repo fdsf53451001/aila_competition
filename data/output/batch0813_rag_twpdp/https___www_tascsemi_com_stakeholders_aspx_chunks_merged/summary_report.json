@@ -1,0 +1,60 @@
+{
+    "compliant": [
+        {
+            "section": "一、隱私權保護政策的適用範圍",
+            "legal article numbers": "Article 3",
+            "legal provisions": "The policy clearly states the scope of application, indicating that it applies only to the website and not to external links or third-party management."
+        },
+        {
+            "section": "二、個人資料的蒐集、處理及利用方式",
+            "legal article numbers": "Article 4, Article 5",
+            "legal provisions": "The policy outlines the collection, processing, and use of personal data, ensuring that personal data will not be used for purposes other than those specified without consent."
+        },
+        {
+            "section": "二、個人資料的蒐集、處理及利用方式",
+            "legal article numbers": "Article 6",
+            "legal provisions": "The policy emphasizes the necessity of obtaining consent before using personal data for purposes other than those specified."
+        },
+        {
+            "section": "三、資料之保護",
+            "legal article numbers": "Article 6, Article 7",
+            "legal provisions": "The measures taken to protect personal data and the restriction of access to authorized personnel comply with the requirements for data security and confidentiality."
+        },
+        {
+            "section": "五、與第三人共用個人資料之政策",
+            "legal article numbers": "Article 8, Article 9",
+            "legal provisions": "The policy clearly states that personal data will not be shared without consent, except under specific legal circumstances, which aligns with the principles of data sharing and consent."
+        },
+        {
+            "section": "六、Cookie之使用",
+            "legal article numbers": "Article 12",
+            "legal provisions": "The policy informs users about the use of cookies and provides an option to refuse them, which is in line with the requirements for transparency regarding tracking technologies."
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "二、個人資料的蒐集、處理及利用方式",
+            "legal article numbers": "Article 7",
+            "legal provisions": "The policy does not specify how long the data will be retained or the rights of users regarding their data, which is required under TWPDP.",
+            "amend": "Include a section detailing data retention periods and user rights regarding their personal data."
+        },
+        {
+            "section": "二、個人資料的蒐集、處理及利用方式",
+            "legal article numbers": "Article 8",
+            "legal provisions": "The policy lacks clarity on how aggregated data will be handled and whether individuals can opt-out of their data being used in this manner.",
+            "amend": "Clarify how aggregated data will be used and provide users with an option to opt-out of their data being included in aggregated statistics."
+        },
+        {
+            "section": "四、網站對外的相關連結",
+            "legal article numbers": "Article 11",
+            "legal provisions": "While it mentions that linked sites have their own privacy policies, it does not clarify the responsibility of the main site in ensuring that users are aware of the risks associated with these external links.",
+            "amend": "Add a statement emphasizing the importance of reviewing the privacy policies of linked sites and the site's responsibility to inform users about potential risks."
+        },
+        {
+            "section": "五、與第三人共用個人資料之政策",
+            "legal article numbers": "Article 8",
+            "legal provisions": "The exceptions for sharing personal data could be more clearly defined, particularly regarding what constitutes 'public interest' and the criteria for determining when data can be shared without consent.",
+            "amend": "Provide clearer definitions and examples of what constitutes public interest and the specific conditions under which data may be shared without consent."
+        }
+    ]
+}

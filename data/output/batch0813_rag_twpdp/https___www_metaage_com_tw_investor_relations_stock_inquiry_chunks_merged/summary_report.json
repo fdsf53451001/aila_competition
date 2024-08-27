@@ -1,0 +1,72 @@
+{
+    "compliant": [
+        {
+            "section": "邁達特數位對線上資料的運用方式",
+            "legal article numbers": "Article 1, Article 2",
+            "legal provisions": "個人資料保護法第1條、第2條"
+        },
+        {
+            "section": "邁達特數位在收集、處理或利用個人資料時，遵循相關法規",
+            "legal article numbers": "Article 6, Article 7",
+            "legal provisions": "個人資料保護法第6條、第7條"
+        },
+        {
+            "section": "邁達特數位不會在未經同意的情況下洩漏個人資料",
+            "legal article numbers": "Article 2, Article 3",
+            "legal provisions": "尊重用戶隱私權，並不侵犯用戶的個人資料"
+        },
+        {
+            "section": "邁達特數位對所提供的資料保密",
+            "legal article numbers": "Article 5",
+            "legal provisions": "資料保護原則"
+        },
+        {
+            "section": "用戶可隨時選擇取消訂閱郵件",
+            "legal article numbers": "Article 11",
+            "legal provisions": "撤回同意的權利"
+        },
+        {
+            "section": "邁達特數位將對所收集的匿名資料進行統計",
+            "legal article numbers": "Article 7",
+            "legal provisions": "數據匿名化"
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "邁達特數位可能要求您提供個人資料",
+            "legal article numbers": "Article 8",
+            "legal provisions": "個人資料保護法第8條",
+            "amend": "應明確告知資料收集的目的及使用範圍，並取得使用者同意。"
+        },
+        {
+            "section": "如果您決定不提供上述資料，則可能無法參加活動",
+            "legal article numbers": "Article 9",
+            "legal provisions": "個人資料保護法第9條",
+            "amend": "應提供不提供資料的替代方案或選擇權。"
+        },
+        {
+            "section": "邁達特數位可能會與第三方共享資料",
+            "legal article numbers": "Article 7",
+            "legal provisions": "數據共享",
+            "amend": "應明確說明共享資料的目的及範圍，並確保第三方遵守資料保護標準。"
+        },
+        {
+            "section": "邁達特數位將對您所提供的資料保密",
+            "legal article numbers": "Article 9",
+            "legal provisions": "資料最小化原則",
+            "amend": "應明確定義何為「最少資料」，並確保符合資料最小化原則。"
+        },
+        {
+            "section": "邁達特數位可能會將資料用於廣告及商業目的",
+            "legal article numbers": "Article 9",
+            "legal provisions": "數據共享與第三方",
+            "amend": "在與第三方共享資料前，應獲得用戶的明確同意。"
+        },
+        {
+            "section": "本隱私權政策如有修改，公布在本網站後即刻生效",
+            "legal article numbers": "Article 10",
+            "legal provisions": "政策變更",
+            "amend": "應提前通知用戶任何隱私政策的變更，並提供用戶審查變更的寬限期。"
+        }
+    ]
+}

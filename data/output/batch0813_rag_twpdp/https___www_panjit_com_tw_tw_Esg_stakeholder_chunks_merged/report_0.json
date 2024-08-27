@@ -1,0 +1,28 @@
+{
+    "compliant": [
+        {
+            "section": "個人資料蒐集",
+            "article numbers": "Article 6, Article 7",
+            "legal provisions": "The collection of personal data is necessary for the purposes of processing requests and transactions, and the policy specifies the types of data collected."
+        },
+        {
+            "section": "使用Cookies",
+            "article numbers": "Article 8",
+            "legal provisions": "The policy mentions the use of cookies to collect usage information, which is in line with transparency requirements."
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "個人資料蒐集",
+            "article numbers": "Article 5",
+            "legal provisions": "The policy does not explicitly state the legal basis for processing personal data, such as consent or legitimate interest.",
+            "amend": "Include a clear statement regarding the legal basis for processing personal data."
+        },
+        {
+            "section": "聯絡資訊",
+            "article numbers": "Article 9",
+            "legal provisions": "The policy does not provide sufficient information on the rights of individuals regarding their personal data, such as the right to access, rectify, or delete their data.",
+            "amend": "Add a section detailing the rights of individuals under TWPDP."
+        }
+    ]
+}

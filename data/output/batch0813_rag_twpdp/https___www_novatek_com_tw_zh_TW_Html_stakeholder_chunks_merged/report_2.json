@@ -1,0 +1,38 @@
+{
+    "compliant": [
+        {
+            "section": "如有下述情形之一時，聯詠得揭露您的個人資料",
+            "article numbers": "Article 16",
+            "legal provisions": "The Personal Data Protection Act (PDPA) allows disclosure of personal data under certain circumstances, such as legal requirements or to protect rights."
+        },
+        {
+            "section": "Cookie使用",
+            "article numbers": "Article 8",
+            "legal provisions": "The PDPA requires transparency regarding the use of cookies and the collection of personal data."
+        },
+        {
+            "section": "更改",
+            "article numbers": "Article 14",
+            "legal provisions": "The PDPA mandates that individuals be informed of changes to privacy policies and have the opportunity to review them."
+        },
+        {
+            "section": "其他資訊",
+            "article numbers": "Article 6",
+            "legal provisions": "The PDPA requires organizations to provide contact information for inquiries regarding personal data."
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "Cookie使用",
+            "article numbers": "Article 8",
+            "legal provisions": "The PDPA requires explicit consent for the use of cookies that collect personal data.",
+            "amend": "Include a clear consent mechanism for cookie usage, informing users about the types of cookies used and their purposes."
+        },
+        {
+            "section": "更改",
+            "article numbers": "Article 14",
+            "legal provisions": "The PDPA requires that users be notified of significant changes to the privacy policy in a timely manner.",
+            "amend": "Implement a notification system to inform users of significant changes to the privacy policy, rather than stating changes can occur without notice."
+        }
+    ]
+}
